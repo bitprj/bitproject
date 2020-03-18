@@ -18,7 +18,7 @@ Slack is our main form of communication. Files, code, information, and much more
 
 Before making an account, you must download slack onto both your computer and mobile device. Make a slack account and join our workspace through the link below:
 
-**Link** 👉  ****[**https://app.slack.com/client/TJ2FB5CE9/CJ4BRKELX**](https://app.slack.com/client/TJ2FB5CE9/CJ4BRKELX)
+**Link** 👉 ****[**https://app.slack.com/client/TJ2FB5CE9/CJ4BRKELX**](https://app.slack.com/client/TJ2FB5CE9/CJ4BRKELX)
 
 #### Be respectful of your own time <a id="be-respectful-of-your-own-time"></a>
 
