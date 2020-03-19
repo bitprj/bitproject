@@ -1,4 +1,4 @@
-# Engineering is not complete
+# Engineering
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
@@ -29,7 +29,7 @@ The API will do its best to find a cake matching the provided recipe.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.  
+Whether the cake should be gluten-free or not.
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
@@ -40,7 +40,7 @@ Whether the cake should be gluten-free or not.
 Cake successfully retrieved.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
 ```
 {% endapi-method-response-example %}
@@ -50,13 +50,11 @@ Cake successfully retrieved.
 Could not find a cake matching this query.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {    "message": "Ain't no cake like that."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

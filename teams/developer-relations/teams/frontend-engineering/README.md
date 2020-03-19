@@ -4,18 +4,93 @@ description: A gentle introduction into Frontend Engineering
 
 # Frontend Engineering
 
-#### Introduction **\(Importance of learning frontend \)**
+#### Introduction
 
-Static sites are incredibly prevalent among web development as they are useful in terms of performance. Gatsby is renowned for its intuitive design as a static site generator which is why it is the ideal tool to teach Front End Programming. Gatsby offers great functionality with its many plugins and easy incorporation of Graphql. Here at Bit, we believe that Gatsby will be increasingly prevalent in the Front-End development scene and want to host a Bootcamp to share this knowledge with undergraduate Computer Science communities. 
+#### Mission
 
-#### Mission \(Teach people how to frontend without worrying about backend \) 
+## **Roadmap**
 
-Our Bootcamp will be divided into three segments, each taught over one week. When combined, student’s will have developed an app that is a culmination of a variety of Computer Science skills. Learning to use Gatsby allows for a foothold in app-development, as well as an introduction to a powerful application called the JAM stack. Gatsby is essentially a tool when utilizing the JAM Stack which is why we want to provide the means for students to learn how to use it. As Gatsby becomes increasingly useful in app-development, so does the need to learn its functionality. Here at Bit, that is what we strive to provide.  
-****
+Here is the roadmap for the development of the frontend engineering coursework for Bit Project. 
 
-This topic is designed to give students insight into using Gatsby to develop a static site for real-world sources. 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Topic</b>
+      </th>
+      <th style="text-align:left">Modules</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Basic Web Design</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Intro to HTML</li>
+          <li>Styling with CSS</li>
+          <li>Visual Design Challenge</li>
+          <li>Accessibility with A11y</li>
+          <li>Advanced CSS</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jiving with Javascript</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Basics of Javascript</li>
+          <li>The DOM</li>
+          <li>Asynchronous Javascript</li>
+          <li>Consuming APIs</li>
+          <li>Regular Expressions</li>
+          <li>Closures</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">React.js</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Basics of React</li>
+          <li>JSX</li>
+          <li>Props &amp; States</li>
+          <li>React state patterns</li>
+          <li>React Forms</li>
+          <li>React Router</li>
+          <li>React Hooks</li>
+          <li>Context API</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Progressive Web Apps</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Intro to Gatsbyjs</li>
+          <li><a href="graphql.md">GraphQL</a>
+          </li>
+          <li>Gatsbyjs</li>
+          <li>Improve Site Performance</li>
+          <li>PWA Web APIs</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### What is Front End Programming \(Why, who is working on it , timeline shape of a table\) 
+## **Weekly Updates**
+
+Zoom meeting link -&gt; linkhere
+
+| Meeting NOtes | Milestones AssignedL |
+| :--- | :--- |
+| links to the meeting notes in md ion github | youtube link |
+
+
+
+
+
+### What is Front End Programming
 
 {% page-ref page="nosql-database/" %}
 

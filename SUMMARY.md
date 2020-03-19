@@ -29,7 +29,7 @@
     * [Cracking the Interview](teams/developer-relations/teams/cracking-the-interview.md)
     * [Frontend Engineering](teams/developer-relations/teams/frontend-engineering/README.md)
       * [Topic 3](teams/developer-relations/teams/frontend-engineering/topic-3.md)
-      * [GraphQL](teams/developer-relations/teams/frontend-engineering/graphql.md)
+      * [Clientside GraphQL](teams/developer-relations/teams/frontend-engineering/graphql.md)
       * [NoSQL Database](teams/developer-relations/teams/frontend-engineering/nosql-database/README.md)
         * [MongoDB Stitch](teams/developer-relations/teams/frontend-engineering/nosql-database/mongodb-stitch.md)
         * [MongoDB Compass](teams/developer-relations/teams/frontend-engineering/nosql-database/mongodb-compass.md)
