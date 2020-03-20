@@ -16,9 +16,9 @@ Learning Objectives‌
 
 | Activities | Status |
 | :--- | :--- |
-| Review Tweet Visualization | N/A |
-| Review the concept of bots on Twitter | N/A |
-| Setup Code for and analyze the progression of hash tags over time | N/A |
+| [Review Tweet Visualization](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act9_Hashtags%20Over%20Time) | N/A |
+| [Review the concept of bots on Twitter](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act9_Hashtags%20Over%20Time) | N/A |
+| [Setup Code for and analyze the progression of hash tags over time](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act9_Hashtags%20Over%20Time) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
