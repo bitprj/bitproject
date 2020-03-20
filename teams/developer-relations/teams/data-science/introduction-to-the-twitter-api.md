@@ -14,11 +14,11 @@ Learning Objectives
 
 | Activities | Status |
 | :--- | :--- |
-| Setting up the developer account | N/A |
-| Creating a new App to use the Twitter API | N/A |
-| Creating the Streaming and Processing Class | N/A |
-| Creating a Listener Class | N/A |
-| Connecting All our classes with a main function | N/A |
+| [Setting up the developer account](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act1_Intro%20to%20Twitter%20API) | N/A |
+| [Creating a new App to use the Twitter API](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act1_Intro%20to%20Twitter%20API) | N/A |
+| [Creating the Streaming and Processing Class](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act1_Intro%20to%20Twitter%20API) | N/A |
+| [Creating a Listener Class](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act1_Intro%20to%20Twitter%20API) | N/A |
+| [Connecting All our classes with a main function](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act1_Intro%20to%20Twitter%20API) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
