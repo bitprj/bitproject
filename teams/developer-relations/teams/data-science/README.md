@@ -42,7 +42,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           </li>
           <li><a href="hash-tags-over-time.md">Hashtags over time</a>
           </li>
-          <li>Introduction to Machine Learning with Sci-Kit Learn</li>
+          <li><a href="introduction-to-ml-with-sci-kit-learn.md">Introduction to Machine Learning with Sci-Kit Learn</a>
+          </li>
           <li>Introduction to Natural Language Processing</li>
         </ul>
       </td>
