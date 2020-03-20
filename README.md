@@ -37,7 +37,7 @@ Development Road Map
 **Curriculum Departments**
 
 * \*\*\*\*[Cracking the Interview](teams/developer-relations/teams/cracking-the-interview.md)
-* [Data Science](teams/developer-relations/teams/data-science.md)
+* [Data Science](teams/developer-relations/teams/data-science/)
   * Computational Social Science
   * Machine Learning
 * [Frontend Engineering](teams/developer-relations/teams/frontend-engineering/)

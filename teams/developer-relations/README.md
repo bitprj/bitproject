@@ -14,7 +14,7 @@ description: >-
 
 {% page-ref page="teams/cracking-the-interview.md" %}
 
-{% page-ref page="teams/data-science.md" %}
+{% page-ref page="teams/data-science/" %}
 
 {% page-ref page="teams/frontend-engineering/" %}
 
