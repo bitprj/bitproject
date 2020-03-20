@@ -16,13 +16,13 @@ Learning Objectives
 
 | Activities | Status |
 | :--- | :--- |
-| Introduction to Pandas | N/A |
-| How to use Pandas\(syntax and constructs\)  | N/A |
-| Introduction To TextBlob | N/A |
-| Introduction To Regular Expressions | N/A |
-| Cleaning Tweets | N/A |
-| Setup Sentiment Analysis Code | N/A |
-| Using Pandas to Display Results | N/A |
+| [Introduction to Pandas](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act5_Sentiment%20Analysis%20with%20Twitter%20API) | N/A |
+| [How to use Pandas\(syntax and constructs\) ](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act5_Sentiment%20Analysis%20with%20Twitter%20API) | N/A |
+| [Introduction To TextBlob](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act5_Sentiment%20Analysis%20with%20Twitter%20API) | N/A |
+| [Introduction To Regular Expressions](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act5_Sentiment%20Analysis%20with%20Twitter%20API) | N/A |
+| [Cleaning Tweets](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act5_Sentiment%20Analysis%20with%20Twitter%20API) | N/A |
+| [Setup Sentiment Analysis Code](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act5_Sentiment%20Analysis%20with%20Twitter%20API) | N/A |
+| [Using Pandas to Display Results](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act5_Sentiment%20Analysis%20with%20Twitter%20API) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
