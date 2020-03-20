@@ -40,7 +40,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           </li>
           <li><a href="visualizing-twitter-trends.md">Visualizing Twitter Trends</a>
           </li>
-          <li>Hashtags over time</li>
+          <li><a href="hash-tags-over-time.md">Hashtags over time</a>
+          </li>
           <li>Introduction to Machine Learning with Sci-Kit Learn</li>
           <li>Introduction to Natural Language Processing</li>
         </ul>
