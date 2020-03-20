@@ -43,7 +43,7 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
 
 #### Current Zoom Meeting Link \(as of 3/19/2020\): N/A
 
-| Weekly Meeting Notes | YouTube Link | Weekly Milestone Assignment |
+| Weekly Meeting Notes | YouTube Link | Weekly Milestone Assignments |
 | :--- | :--- | :--- |
 | N/A | N/A | N/A |
 
