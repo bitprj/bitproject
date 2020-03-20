@@ -36,6 +36,7 @@
         * [MongoDB Atlas](teams/developer-relations/teams/frontend-engineering/nosql-database/mongodb-atlas.md)
     * [API Development/Microservices](teams/developer-relations/teams/api-development-microservices.md)
     * [Data Science](teams/developer-relations/teams/data-science/README.md)
+      * [Intro To NLP](teams/developer-relations/teams/data-science/intro-to-nlp.md)
       * [Introduction To ML with Sci-Kit Learn](teams/developer-relations/teams/data-science/introduction-to-ml-with-sci-kit-learn.md)
       * [Hash Tags Over Time](teams/developer-relations/teams/data-science/hash-tags-over-time.md)
       * [Visualizing Twitter Trends](teams/developer-relations/teams/data-science/visualizing-twitter-trends.md)
