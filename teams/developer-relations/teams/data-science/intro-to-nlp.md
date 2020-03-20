@@ -21,20 +21,20 @@ Learning Objectives‌
 
 | Activities | Status |
 | :--- | :--- |
-| Introduction To NLP and its applications \(and conclusion\) | N/A |
-| NLU\(Natural Language Understanding\) vs NLG\(Natural Language Generation\) | N/A |
-| Setting up the NLTK library and its uses | N/A |
-| Tokenization | N/A |
-| Text Manipulation | N/A |
-| Bigrams, Trigrams, Ngrams | N/A |
-| Stemming | N/A |
-| Lancaster Stemmer | N/A |
-| Porter Stemmer | N/A |
-| Lemmitazation | N/A |
-| Stop Words | N/A |
-| POS & Tags and Descriptions | N/A |
-| Named Entity Recognition \(NER\) | N/A |
-| Syntax & Phase Structure Rules | N/A |
+| [Introduction To NLP and its applications \(and conclusion\)](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [NLU\(Natural Language Understanding\) vs NLG\(Natural Language Generation\)](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Setting up the NLTK library and its uses](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Tokenization](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Text Manipulation](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Bigrams, Trigrams, Ngrams](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Stemming](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Lancaster Stemmer](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Porter Stemmer](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Lemmitazation](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Stop Words](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [POS & Tags and Descriptions](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Named Entity Recognition \(NER\)](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
+| [Syntax & Phase Structure Rules](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act12_Intro%20to%20NLP) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
