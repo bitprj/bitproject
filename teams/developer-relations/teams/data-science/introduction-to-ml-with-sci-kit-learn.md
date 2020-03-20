@@ -19,14 +19,14 @@ Learning Objectives‌
 
 | Activities | Status |
 | :--- | :--- |
-| Installing the SKLearn library | N/A |
-| Sentiment Analysis with the SKLearn library | N/A |
-| Converting strings to vectors for ML | N/A |
-| Converting strings to colorized vectors for ML | N/A |
-| Different Types of Classifiers | N/A |
-| Result analysis | N/A |
-| Finding Hyper Parameters | N/A |
-| Saving Our Models | N/A |
+| [Installing the SKLearn library](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
+| [Sentiment Analysis with the SKLearn library](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
+| [Converting strings to vectors for ML](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
+| [Converting strings to colorized vectors for ML](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
+| [Different Types of Classifiers](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
+| [Result analysis](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
+| [Finding Hyper Parameters](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
+| [Saving Our Models](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act11_Intro%20to%20ML%20with%20Sci-kit%20Learn) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
