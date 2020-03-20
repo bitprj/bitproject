@@ -24,7 +24,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
       <td style="text-align:left">Computational Social Science with the Twitter API</td>
       <td style="text-align:left">
         <ul>
-          <li>Introduction to the Twitter API</li>
+          <li><a href="introduction-to-the-twitter-api.md">Introduction to the Twitter API</a>
+          </li>
           <li>Streaming Tweets with the Twitter API</li>
           <li>Cursors and Pagination</li>
           <li>Tweet Analysis</li>
@@ -49,13 +50,9 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
 
 ### What is Data Science:
 
-#### 
-
-
-
-
+_WIP_
 
 ### Topics Covered:
 
-#### 
+_WIP_
 
