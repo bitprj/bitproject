@@ -44,7 +44,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           </li>
           <li><a href="introduction-to-ml-with-sci-kit-learn.md">Introduction to Machine Learning with Sci-Kit Learn</a>
           </li>
-          <li>Introduction to Natural Language Processing</li>
+          <li><a href="intro-to-nlp.md">Introduction to Natural Language Processing</a>
+          </li>
         </ul>
       </td>
     </tr>
