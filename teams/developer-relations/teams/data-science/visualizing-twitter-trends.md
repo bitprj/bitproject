@@ -15,12 +15,12 @@ Learning Objectives
 
 | Activities | Status |
 | :--- | :--- |
-| Gathering Tweets Based On Their Hash Tags | N/A |
-| Reading the Data File | N/A |
-| Creating Functions to Read In Data | N/A |
-| Performing Data Analysis | N/A |
-| Creating a Data Visualization | N/A |
-| Data Visualization of Tweet Hashtag | N/A |
+| [Gathering Tweets Based On Their Hash Tags](https://app.gitbook.com/@bit-project/s/bit-project/teams/developer-relations/teams/data-science/visualizing-twitter-trends) | N/A |
+| [Reading the Data File](https://app.gitbook.com/@bit-project/s/bit-project/teams/developer-relations/teams/data-science/visualizing-twitter-trends) | N/A |
+| [Creating Functions to Read In Data](https://app.gitbook.com/@bit-project/s/bit-project/teams/developer-relations/teams/data-science/visualizing-twitter-trends) | N/A |
+| [Performing Data Analysis](https://app.gitbook.com/@bit-project/s/bit-project/teams/developer-relations/teams/data-science/visualizing-twitter-trends) | N/A |
+| [Creating a Data Visualization](https://app.gitbook.com/@bit-project/s/bit-project/teams/developer-relations/teams/data-science/visualizing-twitter-trends) | N/A |
+| [Data Visualization of Tweet Hashtag](https://app.gitbook.com/@bit-project/s/bit-project/teams/developer-relations/teams/data-science/visualizing-twitter-trends) | N/A |
 
 | Lab | Status |
 | :--- | :--- |
