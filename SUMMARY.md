@@ -36,6 +36,7 @@
         * [MongoDB Atlas](teams/developer-relations/teams/frontend-engineering/nosql-database/mongodb-atlas.md)
     * [API Development/Microservices](teams/developer-relations/teams/api-development-microservices.md)
     * [Data Science](teams/developer-relations/teams/data-science/README.md)
+      * [Streaming with the Twitter API](teams/developer-relations/teams/data-science/streaming-with-the-twitter-api.md)
       * [Introduction To The Twitter API](teams/developer-relations/teams/data-science/introduction-to-the-twitter-api.md)
     * [Blockchain](teams/developer-relations/teams/blockchain.md)
 * [People](teams/people/README.md)
