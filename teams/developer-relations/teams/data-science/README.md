@@ -36,7 +36,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           </li>
           <li><a href="detecting-bots-on-twitter.md">Detecting Bots on Twitter</a>
           </li>
-          <li>Making your own Twitter Bot</li>
+          <li><a href="making-your-own-twitter-bot.md">Making your own Twitter Bot</a>
+          </li>
           <li>Visualizing Twitter Trends</li>
           <li>Hashtags over time</li>
           <li>Introduction to Machine Learning with Sci-Kit Learn</li>
