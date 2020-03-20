@@ -34,7 +34,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           </li>
           <li><a href="sentiment-analysis-with-the-twitter-api.md">Sentiment Analysis with the Twitter API</a>
           </li>
-          <li>Detecting Bots on Twitter</li>
+          <li><a href="detecting-bots-on-twitter.md">Detecting Bots on Twitter</a>
+          </li>
           <li>Making your own Twitter Bot</li>
           <li>Visualizing Twitter Trends</li>
           <li>Hashtags over time</li>
