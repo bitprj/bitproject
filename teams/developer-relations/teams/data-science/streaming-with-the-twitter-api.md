@@ -15,12 +15,12 @@ Learning Objectives
 
 | Activities | Status |
 | :--- | :--- |
-| Introduction To Tweepy | N/A |
-| Setup up everything for Tweepy | N/A |
-| Twitter API credentials | N/A |
-| Streaming and Processing Class | N/A |
-| Listener Class | N/A |
-| Connecting All our classes with a main function | N/A |
+| [Introduction To Tweepy](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act2_Stream%20Twitter%20API) | N/A |
+| [Setup up everything for Tweepy](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act2_Stream%20Twitter%20API) | N/A |
+| [Twitter API credentials](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act2_Stream%20Twitter%20API) | N/A |
+| [Streaming and Processing Class](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act2_Stream%20Twitter%20API) | N/A |
+| [Listener Class](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act2_Stream%20Twitter%20API) | N/A |
+| [Connecting All our classes with a main function](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act2_Stream%20Twitter%20API) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
