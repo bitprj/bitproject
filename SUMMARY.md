@@ -36,6 +36,7 @@
         * [MongoDB Atlas](teams/developer-relations/teams/frontend-engineering/nosql-database/mongodb-atlas.md)
     * [API Development/Microservices](teams/developer-relations/teams/api-development-microservices.md)
     * [Data Science](teams/developer-relations/teams/data-science/README.md)
+      * [Detecting Bots on Twitter](teams/developer-relations/teams/data-science/detecting-bots-on-twitter.md)
       * [Sentiment Analysis with the Twitter API](teams/developer-relations/teams/data-science/sentiment-analysis-with-the-twitter-api.md)
       * [Tweet Analysis](teams/developer-relations/teams/data-science/tweet-analysis.md)
       * [Cursors and Pagination](teams/developer-relations/teams/data-science/cursors-and-pagination.md)
