@@ -15,10 +15,10 @@ Learning Objectives
 
 | Activities | Status |
 | :--- | :--- |
-| Introduction to Bot Detection | N/A |
-| Taking the Top 25 User's Tweets | N/A |
-| Making Graphs to Showcase Our Data | N/A |
-| The Botometer Website | N/A |
+| [Introduction to Bot Detection](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act6_Detecting%20Bots%20on%20Twitter) | N/A |
+| [Taking the Top 25 User's Tweets](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act6_Detecting%20Bots%20on%20Twitter) | N/A |
+| [Making Graphs to Showcase Our Data](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act6_Detecting%20Bots%20on%20Twitter) | N/A |
+| [The Botometer Website](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act6_Detecting%20Bots%20on%20Twitter) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
