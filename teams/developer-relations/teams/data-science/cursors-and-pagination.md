@@ -18,12 +18,12 @@ Learning Objectives
 
 | Activities | Status |
 | :--- | :--- |
-| Introduction to the process of streamlining our app | N/A |
-| Authentication Class | N/A |
-| Rate limiting | N/A |
-| Cursor Class | N/A |
-| Cursor Class\(for specific users\) | N/A |
-| Adding more Cursor Class methods and functionality | N/A |
+| [Introduction to the process of streamlining our app](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act3_Cursor%20and%20Pagination) | N/A |
+| [Authentication Class](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act3_Cursor%20and%20Pagination) | N/A |
+| [Rate limiting](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act3_Cursor%20and%20Pagination) | N/A |
+| [Cursor Class](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act3_Cursor%20and%20Pagination) | N/A |
+| [Cursor Class\(for specific users\)](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act3_Cursor%20and%20Pagination) | N/A |
+| [Adding more Cursor Class methods and functionality](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act3_Cursor%20and%20Pagination) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
