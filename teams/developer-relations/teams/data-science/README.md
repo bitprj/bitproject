@@ -30,7 +30,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           </li>
           <li><a href="cursors-and-pagination.md">Cursors and Pagination</a>
           </li>
-          <li>Tweet Analysis</li>
+          <li><a href="tweet-analysis.md">Tweet Analysis</a>
+          </li>
           <li>Sentiment Analysis with the Twitter API</li>
           <li>Detecting Bots on Twitter</li>
           <li>Making your own Twitter Bot</li>
