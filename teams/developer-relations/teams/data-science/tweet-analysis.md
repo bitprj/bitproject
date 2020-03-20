@@ -17,12 +17,12 @@ Learning Objectives
 
 | Activities | Status |
 | :--- | :--- |
-| Setting up Numpy and Pandas | N/A |
-| Brief Intro to JSON | N/A |
-| Getting the Twitter Client API | N/A |
-| Streaming our first Tweets | N/A |
-| Creating the Dataframe  | N/A |
-| Tweet analysis | N/A |
+| [Setting up Numpy and Pandas](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act4_Analyzing%20tweets) | N/A |
+| [Brief Intro to JSON](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act4_Analyzing%20tweets) | N/A |
+| [Getting the Twitter Client API](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act4_Analyzing%20tweets) | N/A |
+| [Streaming our first Tweets](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act4_Analyzing%20tweets) | N/A |
+| [Creating the Dataframe ](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act4_Analyzing%20tweets) | N/A |
+| [Tweet analysis](https://github.com/bitprj/curriculum/tree/master/Module_Twitter_API/activities/Act4_Analyzing%20tweets) | N/A |
 
 | Labs | Status |
 | :--- | :--- |
