@@ -38,7 +38,8 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           </li>
           <li><a href="making-your-own-twitter-bot.md">Making your own Twitter Bot</a>
           </li>
-          <li>Visualizing Twitter Trends</li>
+          <li><a href="visualizing-twitter-trends.md">Visualizing Twitter Trends</a>
+          </li>
           <li>Hashtags over time</li>
           <li>Introduction to Machine Learning with Sci-Kit Learn</li>
           <li>Introduction to Natural Language Processing</li>
