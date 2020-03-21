@@ -160,17 +160,5 @@ Team/Department Meetings:
   * Invite all members to event
   * Include Zoom meeting link in description
 
-  
-****
-
-
-
-##  
-
-  
-****
-
-
-
 \*\*\*\*
 
