@@ -1,12 +1,8 @@
----
-description: ONboard
----
-
 # Onboarding Guides
 
-{% page-ref page="onboarding-guides.md" %}
 
-{% page-ref page="../../organization/values/code-of-conduct.md" %}
+
+{% page-ref page="../developer-relations/guide-to-being-a-manager.md" %}
 
 
 
