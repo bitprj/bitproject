@@ -51,6 +51,7 @@
       * [Streaming with the Twitter API](teams/developer-relations/teams/data-science/streaming-with-the-twitter-api.md)
       * [Introduction To The Twitter API](teams/developer-relations/teams/data-science/introduction-to-the-twitter-api.md)
     * [Blockchain](teams/developer-relations/teams/blockchain.md)
+* [Marketing](teams/marketing.md)
 * [People](teams/people/README.md)
   * [Onboarding Guides](teams/people/onboarding-guides.md)
   * [Talent Acquisition](teams/people/talent-acquisition.md)
