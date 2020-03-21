@@ -1,12 +1,13 @@
 ---
 name: Roadmap Issue Template
 about: Describe this issue template's purpose here.
-title: "[ROADMAP]"
+title: "[ROADMAP] Modules for "
 labels: roadmap
 assignees: ''
 
 ---
 
+**For each module**:
 ### Pre-Approval
 - [ ] 3-4 relevant learning objectives
 - [ ] 4-5 sample activities with a one-sentence description
