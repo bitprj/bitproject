@@ -31,7 +31,7 @@ This checklist will be posted within the issue and should all be completed withi
 
 ## Weekly Checklist
 
-* [ ] Review developers' work and provide a review according to the Manager Checklist 
+* [ ] Review developers' work and provide a review according to the **Manager Checklist** \(see below\)
 * [ ] Ensure "first draft" pull requests are in **by Friday**
 * [ ] Pull request to `master` should be in by **Sunday**
 * [ ] Generate issues for the project based on feedback received and progress made the week prior
@@ -53,7 +53,7 @@ Every week, there are a couple things that every manager should take care of for
 * [ ] Code style followed
 * [ ] Local images with &lt;img&gt; NOT Markdown 
 * [ ] Splitting Up Cards \(no more than one scroll a card\)
-* [ ] Readability Test: Automated Readability Index result of 9th grade or under \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
+* [ ] Readability Test: Automated Readability Index result of _9th grade or under_ \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
 
@@ -63,43 +63,42 @@ This checklist should be pasted into each review, and checked off completely by 
 
 Stage 1: Content
 
-* High-schooler friendly writing style, easy to understand
-* Every card has code
-* Minimal scrolling \(cards are not too long\)
-  * bite-size
-* Content of cards make sense
-* Micro to Macro
-* Logical card progression 
-* Ample pictures \(copyright-free, Pexels is a great source\) \(no local URLs\)
-* Proper grammar, punctuation, capitalization, etc.
-* Correct numbering
-* Titles in HTML comments
-* \(For activities\) Real-life scenarios
-* Checkpoints
+* [ ] High-schooler friendly writing style, easy to understand
+* [ ] Every card has code
+* [ ] Minimal scrolling \(cards are not too long\)
+  * [ ] bite-size
+* [ ] Content of cards make sense
+* [ ] Micro to Macro
+* [ ] Logical card progression 
+* [ ] Ample pictures \(copyright-free, Pexels is a great source\) \(no local URLs\)
+* [ ] Proper grammar, punctuation, capitalization, etc.
+* [ ] Correct numbering
+* [ ] Titles in HTML comments
+* [ ] \(For activities\) Real-life scenarios
+* [ ] Checkpoints
 
 Stage 1 - Lab Addendum
 
-* Hard cards provide enough guidance for the student to finish task
-* Mediums bridge Hards and Easys
-* Easy cards provide solution, are line-separated
-* Solution and starter code in Airtable and GitHub
-* Medium and easy split into hints
-* Code is testable, not too general
+* [ ] Hard cards provide enough guidance for the student to finish task
+* [ ] Mediums bridge Hards and Easys
+* [ ] Easy cards provide solution, are line-separated
+* [ ] Solution and starter code in Airtable and GitHub
+* [ ] Medium and easy split into hints
+* [ ] Code is testable, not too general
+* [ ] 1-3 code checkpoints, depending on length of lab
 
 Stage 2: Finishing Touches
 
-* Badge Gem Amounts in each card
-* Concepts in each card - Airtable AND in cards as &lt;!--concepts={...}--&gt;
-* Three criteria points
-* Summary & Long Summary
+* [ ] Badge Gem Amounts in each card
+* [ ] READMEs
 
 Stage 2 - Lab Addendum
 
-* 5-10 test cases 
+* 5-10 test cases, correctly formatted 
 * Badge Gem Amounts correctly calculated using John’s code \(no diagram for activities\)
 
-Stage 3 - Uploading
+Stage 3 - For Reviewers Only
 
-* Make sure your work looks good!
-  * I will upload to our website: bit-lab.herokuapp.com
+* Assigned modules' folders properly structured within topics
+* Gem Amounts
 
