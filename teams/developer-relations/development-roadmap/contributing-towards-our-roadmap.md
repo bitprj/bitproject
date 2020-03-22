@@ -49,7 +49,7 @@ When you are done working, head back to [GitHub](https://github.com/bitprj/bitpr
 
 ### Post-approval
 
-Please place your modules into Lucidchart. If you do not have access, contact @Kevin V on Slack. If there is any questions about the exact placement of your modules within the road map, do contact Kevin. 
+Please place your modules into Lucidchart. If you do not have access, contact @Kevin V on Slack. If there is any questions about the exact placement of your modules within the road map, do contact Kevin, another sync may be needed.
 
 ## Example of a Module Breakdown
 
