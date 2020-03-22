@@ -27,7 +27,7 @@ We make software engineering and computer science education accessible to studen
 
 ## Developer Relations
 
-[Development Road Map](teams/developer-relations/development-roadmap.md)
+[Development Road Map](teams/developer-relations/development-roadmap/)
 
 **Programs Offered**
 
