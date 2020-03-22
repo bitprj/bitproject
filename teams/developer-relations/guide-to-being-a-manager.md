@@ -39,16 +39,15 @@ This checklist will be posted within the issue and should all be completed withi
   * [ ] Designate two issues _not being solved_ to be "first timer only" issues
   * [ ] Milestone should be set-up
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
+  * [ ] Ensure General Review Checklist is being updated based on the developers' progress
 * [ ] Adjust timeline in Zenhub Calendar
-
-
 
 ## Manager Checklist
 
 Every week, there are a couple things that every manager should take care of for each dev's pull request: 
 
 * [ ] Spelling and grammar errors fixed
-* [ ] Markdown Formatting
+* [ ] Correct Markdown Formatting
 * [ ] Correctly spaced code snippets
 * [ ] Code style followed
 * [ ] Local images with &lt;img&gt; NOT Markdown 
@@ -57,48 +56,86 @@ Every week, there are a couple things that every manager should take care of for
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
 
-This checklist should be pasted into each review, and checked off completely by Sunday. 
+**This checklist should be pasted into each review, and checked off completely by Sunday.** 
 
-## General Review Checklist \[TO BE DONE SOON\]
+## General Review Checklist 
 
-Stage 1: Content
+The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development. 
+
+#### Checklist for Devs
+
+Developers should be developing curriculum with all of those requirements in mind. Each issue should address items on this checklist directly. 
+
+#### Checklist for Reviewers
+
+With regards to this checklist, reviewers should do the following:
+
+* Paste this checklist into their Epic's description, and continually update it every week
+* Provide _comments_ on developers' pull requests that **directly reference items on the checklist**
+* In pull requests to `master`, reference stages or items that are completed
+
+#### Stage 1 - Starting Content
 
 * [ ] High-schooler friendly writing style, easy to understand
-* [ ] Every card has code
-* [ ] Minimal scrolling \(cards are not too long\)
-  * [ ] bite-size
-* [ ] Content of cards make sense
-* [ ] Micro to Macro
-* [ ] Logical card progression 
-* [ ] Ample pictures \(copyright-free, Pexels is a great source\) \(no local URLs\)
-* [ ] Proper grammar, punctuation, capitalization, etc.
 * [ ] Correct numbering
-* [ ] Titles in HTML comments
-* [ ] \(For activities\) Real-life scenarios
-* [ ] Checkpoints
+* [ ] Every card has code\* 
+* [ ] 1 scroll per card\*\*
+* [ ] Content of cards make sense
+* [ ] Proper grammar, punctuation, capitalization, etc.
+* [ ] Micro to Macro Principle
+* [ ] Titles for Concepts associated with each Card
+* [ ] Acceptable Styling per the Manager Checklist
 
-Stage 1 - Lab Addendum
+#### Stage 1 - Lab Addendum
 
 * [ ] Hard cards provide enough guidance for the student to finish task
 * [ ] Mediums bridge Hards and Easys
 * [ ] Easy cards provide solution, are line-separated
 * [ ] Solution and starter code in Airtable and GitHub
-* [ ] Medium and easy split into hints
-* [ ] Code is testable, not too general
-* [ ] 1-3 code checkpoints, depending on length of lab
+  * [ ] Code is testable, not too general
 
-Stage 2: Finishing Touches
+#### Stage 2 - Finishing Content 
 
-* [ ] Badge Gem Amounts in each card
-* [ ] READMEs
+* [ ] Logical card progression 
+* [ ] Ample pictures/custom visuals \(copyright-free, Pexels is a great source\) 
+  * [ ] Images placed _locally_ with &lt;img&gt; NOT Markdown 
+* [ ] \(For activities\) Fleshed-out, real-life scenarios
+* [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
+* [ ] All concepts fleshed out
+* [ ] Acceptable Styling per the Manager Checklist
 
-Stage 2 - Lab Addendum
+\*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
 
-* 5-10 test cases, correctly formatted 
-* Badge Gem Amounts correctly calculated using John’s code \(no diagram for activities\)
+\*\* If you have to scroll more than once to view the whole card, the card is too long
 
-Stage 3 - For Reviewers Only
+#### Stage 2 - Lab Addendum
 
-* Assigned modules' folders properly structured within topics
-* Gem Amounts
+* [ ] Medium and easy cards split into hints 
+* [ ] 2-3 code checkpoints, depending on length of lab
+  * [ ] Solution Code for checkpoints
+
+#### Stage 3 - Finishing Touches
+
+* [ ] Correct formatting according to READMEs
+  * [ ] Modules
+  * [ ] Activities
+  * [ ] Labs
+  * [ ] Hints \(Medium + Easy Cards\)
+  * [ ] Concepts
+  * [ ] Checkpoints
+    * [ ] With test cases if applicable
+* [ ] Concepts for each card completely finalized, with correct README formatting
+* [ ] Acceptable Styling per the Manager Checklist
+
+#### Stage 3 - Lab Addendum
+
+* [ ] 5-10 test cases, correctly formatted according to READMEs
+* [ ] Badge Gem Amounts correctly calculated using John’s code \(no diagram for activities\)
+
+#### Stage 4 - For Reviewers Only
+
+* [ ] Assigned modules' folders properly structured within topics
+* [ ] Gem Amounts 
+  * Labs: calculated using John's Code 
+  * Activities: Predetermined amounts
 
