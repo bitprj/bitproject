@@ -31,6 +31,8 @@ This checklist will be posted within the issue and should all be completed withi
 
 ## Weekly Checklist
 
+Every week by **Sunday,** reviewers are expected to complete the following:
+
 * [ ] Review developers' work and provide a review according to the **Manager Checklist** \(see below\)
 * [ ] Ensure "first draft" pull requests are in **by Friday**
 * [ ] Pull request to `master` should be in by **Sunday**
@@ -64,7 +66,9 @@ The following checklist must be fully completed before an Epic deadline, and als
 
 #### Checklist for Devs
 
-Developers should be developing curriculum with all of those requirements in mind. Each issue should address items on this checklist directly. 
+Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly. 
+
+Additionally, each pull request should have stage labels corresponding to the four stages. Please apply as many labels as applicable, for every item addressed in a stage, there should be that corresponding stage label applied.
 
 #### Checklist for Reviewers
 
@@ -73,6 +77,8 @@ With regards to this checklist, reviewers should do the following:
 * Paste this checklist into their Epic's description, and continually update it every week
 * Provide _comments_ on developers' pull requests that **directly reference items on the checklist**
 * In pull requests to `master`, reference stages or items that are completed
+* Ensure that stage labels are being properly marked
+* When entire checklist is checked off for an Epic, then that Epic should be completed and linked within a pull request to `master` to indicate completion
 
 #### Stage 1 - Starting Content
 
