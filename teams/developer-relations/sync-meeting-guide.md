@@ -8,6 +8,7 @@
 4. The reviewer reviews last week's progress and provides feedback for developers.
 5. The developers do a "Round-Robin" style review \(for each others work from the previous week\) and come up with issue ideas. These ideas are relayed to the reviewer\(so they can set up said issues\).
    * I.e `Developer 1 reviews Developer 2`, `Developer 2 reviews Developer 3`, and `Developer 3 reviews Developer 1`
+   *  Note down or remember the rotation\(in the meeting agenda\) for the week so the reviewer can try can assign a different order next week\(by looking at the previous week's order\).
 6. The reviewer addresses \(or announces if not setup yet\) the current week's GitHub issues for each developer. Stress should be placed on how these issues help address long-term goals. 
 7. The reviewer makes sure the issues that the developers have created meet the standard or not. The reviewer gives their feedback. Adjustments to issues  are planned accordingly.
 8. Give developers time to review and discuss the issues\(or new ideas or overall feedback\) that have been issued to them. Adjustments to issues\(or goals\)  are planned accordingly.
