@@ -1,4 +1,4 @@
-# Guide to Being a Manager
+# Guide to Being a Reviewer
 
 Reviewers are in charge of **curriculum departments.** Each department is a team of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
@@ -33,7 +33,7 @@ This checklist will be posted within the issue and should all be completed withi
 
 Every week by **Sunday,** reviewers are expected to complete the following:
 
-* [ ] Review developers' work and provide a review according to the **Manager Checklist** \(see below\)
+* [ ] Review developers' work and provide a review according to the **Reviewer Checklist** \(see below\)
 * [ ] Ensure "first draft" pull requests are in **by Friday**
 * [ ] Pull request to `master` should be in by **Sunday**
 * [ ] Generate issues for the project based on feedback received and progress made the week prior
@@ -44,9 +44,9 @@ Every week by **Sunday,** reviewers are expected to complete the following:
   * [ ] Ensure General Review Checklist is being updated based on the developers' progress
 * [ ] Adjust timeline in Zenhub Calendar
 
-## Manager Checklist
+## Reviewer Checklist
 
-Every week, there are a couple things that every manager should take care of for each dev's pull request: 
+Every week, there are a couple things that every reviewer should take care of for each dev's pull request: 
 
 * [ ] Spelling and grammar errors fixed
 * [ ] Correct Markdown Formatting
