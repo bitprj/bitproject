@@ -1,31 +1,31 @@
 # Roadmap Topic Breakdown
 
-## Topic: Python
+## Topic: NoSQL/MongoDB
 
-**Module: Intermediate Python**
+**Module: Intro to NoSQL/MongoDB**
 
 _**Learning Objectives**_
 
-* Students will continue applying their fundamental Python skills learned from the previous module.
-* Students will begin learning about how to integrate basic data structures like lists and dictionaries to add complexity to their Python code.
-* Students will learn how they can use for/while loops and if statements to control the flow of their code.
-* Students will learn how to represent strings in Python using F-strings.
+* Students will learn the main difference between NoSQL and SQL databases.
+* Students will learn how to set up a MongoDB database.
+* Students will learn how to lookup files/data in their databases.
+* Students will learn how to manipulate their data in their databases and create relationships in their databases.
 
 _**Activities**_
 
-* Bookkeeper
-  * You will write a program that reads and parses a list of Dewey decimal numbers and match it to the correct genre based on the number and then find the distribution of each genre.
-* Creating a Menu
-  * You will write a simple menu program which prints a menu and behaves according to user input.
-* Message Cipher
-  * Encode user input with both a Caesar Cipher and a Symmetric Cipher.
+* My Favorite Foods
+  * You will write a Node.js program that creates and populates a MongoDB database with your favorite food’s recipe.
+* I Feel Like Eating This Today
+  * You will write a Node.js program that searches for a specific recipe in your Food database.
+* Changing Taste
+  * You will write a Node.js program that updates your database with new recipes and removes some old ones. You will also put your foods into different categories\(using an ORM\).
+* Too Much Flour
+  * You will write a Node.js program that returns the average amount of flour used in your recipes\(which are in your database\).
 
 _**Labs**_
 
-* Word Translation Calculator
-  * You are going to write a program that calculates how often a word appears in a given string.
-* Basic Calculator
-  * Create a functional calculator in python that can do simple arithmetic operations on two numbers.
-* Tic-Tac-Toe
-  * Write a Tic-Tac-Toe game, and you will play against an AI which chooses random moves.
+* Simple Pokemon Battle
+  * You are going to write a program that sets up a MongoDB database with a couple of Pokemon\(grouping them by type\) and makes two random Pokemon fight!
+* GutenBooks
+  * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
