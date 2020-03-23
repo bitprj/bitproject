@@ -1,7 +1,3 @@
----
-description: How to join Bit Project as an organization
----
-
 # Joining as an Organization
 
 * First task: making a workshop
@@ -108,6 +104,3 @@ During this time, you should already have a general idea of where the presentati
 You are expected to practice this workshop multiple times as with practice comes confidence and consistency. \(...\)
 
 ### Stage 7: Present to Bit & Organization
-
-\(...\)
-
