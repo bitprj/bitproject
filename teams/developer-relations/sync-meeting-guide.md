@@ -9,5 +9,6 @@
 5. The reviewer addresses \(or announces if not setup yet\) the current week's GitHub issues for each developer. Stress should be placed on how these issues help address long-term goals. 
 6. The reviewer makes sure the issues that the developers have created meet the standard or not. The reviewer gives their feedback. Adjustments to issues  are planned accordingly.
 7. Give developers time to review and discuss the issues\(or new ideas or overall feedback\) that have been issued to them. The reviewer leaves meeting and comes back when the developers have come up with feedback. Adjustments to issues\(or goals\)  are planned accordingly.
-8. Any special events/notes/etc. are addressed.
+8. Future long-term plans the reviewer has \(beyond current week\) are addressed.
+9. Any special events/notes/etc. are addressed.
 
