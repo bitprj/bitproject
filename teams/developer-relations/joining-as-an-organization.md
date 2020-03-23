@@ -87,7 +87,9 @@ It is good to work on the outline as a team as you will most likely be presentin
 
 ### Stage 5: Completing Slides and Interactive Component
 
-The skeleton of the whole workshop is set up and it now needs to be filled in. Fulfill your designated responsibilities and complete the whole workshop. Both presentation slides and the interactive component should be completely flushed out and completed. During this team, you should already have a general idea of where the presentation itself will go. Write the presentation script that you will later utilize to practice presenting the workshop. 
+The skeleton of the whole workshop is set up and it now needs to be filled in. Fulfill your designated responsibilities and complete the whole workshop. Both presentation slides and the interactive component should be completely flushed out and completed. Your team members should be reviewing and editing the slides at all times, catching any grammar mistakes, fixing syntax, improving styling, etc. Not only that, go over the interactive component multiple times to ensure that it is working the way your team intended it to. 
+
+During this time, you should already have a general idea of where the presentation itself will go. Write the presentation script that you will later utilize to practice presenting the workshop. 
 
 ### Stage 6: Presentation Practice
 
