@@ -83,6 +83,7 @@ With regards to this checklist, reviewers should do the following:
 #### Stage 1 - Starting Content
 
 * [ ] High-schooler friendly writing style, easy to understand
+  * [ ] Professional writing
 * [ ] Correct numbering
 * [ ] Every card has code\* 
 * [ ] 1 scroll per card\*\*
