@@ -2,7 +2,7 @@
 
 ### For Team Syncs:
 
-1. Address the fact that this meeting will be recorded\(let people who are uncomfortable about this know and let them leave\).
+1. Address the fact that this meeting will be recorded\(let people who are uncomfortable about this, know and let them leave\).
 2. Any pressing announcements or changes are addressed.
 3. The reviewer announces their weekly goals/progress and asks for feedback.
 4. The reviewer reviews last week's progress and provides feedback for developers.
