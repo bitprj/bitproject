@@ -194,7 +194,7 @@ _**Learning Objectives**_
 _**Activities**_
 
 * Hello World Webpage
-  * Create a simple HTML page to display "Hello World"..
+  * Create a simple HTML page to display "Hello World"
 * Google.com Page
   * Replicate Google.com's page with a Google logo, buttons, and links
 * Amazon Search Result Page
@@ -205,9 +205,32 @@ _**Activities**_
 _**Labs**_
 
 * Favorite Internet Icon/Group Collage
-  * Create a webpage about an internet icon/group and include what they're about, fun facts, what hobbies they enjoy, and anything else to add.
+  * Create a webpage about an internet icon/group and include what they're about, fun facts, what hobbies they enjoy, and anything else to add
 * Recipe Page
-  * Create a detailed webpage about your favorite recipe for others to follow.
+  * Create a detailed webpage about your favorite recipe for others to follow
 * Feedback Topic Survey
   * Create a survey for people to give feedback about a specific topic \(e.g. music, food, travel, etc.\)
 
+## Topic: Javascript Basics
+
+**Module: Javascript**
+
+_**Learning Objectives**_
+
+* Students will begin learning the basics of how to utilize Javascript to make an interactive webpage
+* Students will understand what the DOM is and how to manipulate it to change the webpage dynamically
+
+_**Activities**_
+
+* Random Color Website
+  * Create a simple webpage that generates a random color\(s\) depending on the user's choice
+* Simple Guessing Game
+  * A simple game to guess a randomly generated number between a given min and max that will include hints
+
+_**Labs**_
+
+* howmuch\[insert item\].com
+  * Create an interactive webpage for a user to calculate how much they need of \[insert item\] to survive the pandemic
+* Hangman
+  * Create a Hangman game for a player to guess a random word
+* 
