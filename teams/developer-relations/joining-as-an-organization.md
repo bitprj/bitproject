@@ -12,6 +12,7 @@
     * Checklist needs to be separated by stages
 * Going through Postman workshop example and what schools should strive for
 
+
 ## Why Workshops? 
 
 Bit Project has created a number of workshops where students are able to learn about the newest technologies and developer tools on the market. All materials are created by undergraduate students that are passionate about both education and computer science. These workshops are developed with great attention to detail, incorporating interactive components to develop a stronger understanding of the material. 
@@ -104,3 +105,4 @@ During this time, you should already have a general idea of where the presentati
 You are expected to practice this workshop multiple times as with practice comes confidence and consistency. \(...\)
 
 ### Stage 7: Present to Bit & Organization
+
