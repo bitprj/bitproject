@@ -1,33 +1,33 @@
 # Roadmap Topic Breakdown
 
-## Topic: Python
+## Topic: Express.JS
 
-**Module: Intermediate Python**
+**Module: Intro to Express.JS**
 
 _**Learning Objectives**_
 
-* Students will continue applying their fundamental Python skills learned from the previous module.
-* Students will begin learning about how to integrate basic data structures like lists and dictionaries to add complexity to their Python code.
-* Students will learn how they can use for/while loops and if statements to control the flow of their code.
-* Students will learn how to represent strings in Python using F-strings.
+* Students will learn how to use Express.js in order to react to and serve client requests.
+* Students will learn how to supply client requests with HTML web pages.
+* Students will learn how to supply clients with more dynamic web pages\(using PUG, jQuery, CSS, etc.\) 
+* Students will learn how to supply clients with JSON and data from a MongoDB database.
 
 _**Activities**_
 
-* Bookkeeper
-  * You will write a program that reads and parses a list of Dewey decimal numbers and match it to the correct genre based on the number and then find the distribution of each genre.
-* Creating a Menu
-  * You will write a simple menu program which prints a menu and behaves according to user input.
-* Message Cipher
-  * Encode user input with both a Caesar Cipher and a Symmetric Cipher.
+* Hello World Around The World
+  * You will write a Node.js program using the Express.js library to create a static HTML webpage that showcases the phrase “Hello World” in different spoken languages.
+* Clouds in the Cloud
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage (showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
+* California Scrapbook
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage\(with jQuery elements to spice things up\) that showcases the student’s favorite top ten places in California\(they must store \[and query\] this information in a MongoDB database\).
+* Your Local Weather Channel
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage that outputs the local weather\(using their own data\) in JSON.
 
 _**Labs**_
 
-* Word Translation Calculator
-  * You are going to write a program that calculates how often a word appears in a given string.
-* Basic Calculator
-  * Create a functional calculator in python that can do simple arithmetic operations on two numbers.
-* Tic-Tac-Toe
-  * Write a Tic-Tac-Toe game, and you will play against an AI which chooses random moves.
+* Quartz,Parchment,Shears
+  * You are going to write a program that sets up a dynamic website that allows you to play rock,paper,scissors with an AI player!
+* TVs and more!
+  * You are going to write a program that sets up a simple e-commerce store \(with a MongoDB database\) that showcases electronics.
 
 ## Topic: Blockchain
 
