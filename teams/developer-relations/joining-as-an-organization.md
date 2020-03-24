@@ -65,7 +65,7 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Practice with Feedback Given
 * [ ] Stage 7: Present to Bit & Organization
   * [ ] Schedule a date to present your workshop to Bit and your own organization
-  * [ ] Present to Kevin
+  * [ ] Present to Bit & Organization
 
 ## Workshop Checklist Breakdown \(Postman Example\)
 
