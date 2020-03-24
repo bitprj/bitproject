@@ -29,8 +29,6 @@ _**Labs**_
 * Tic-Tac-Toe
   * Write a Tic-Tac-Toe game, and you will play against an AI which chooses random moves.
 
-
-
 ## Topic: APIs
 
 **Module: API Concepts**
@@ -45,7 +43,7 @@ _**Learning Objectives**_
 _**Activities**_
 
 * What is an API?
-  *  Introduce what an api is, possibly ask students to come up with their own possible uses of APIs, introduce vocabulary like client and server, etc. 
+  * Introduce what an API is, possibly ask students to come up with their own possible uses of APIs, introduce vocabulary like client and server, etc. 
 * CRUD Operations
   * Students will learn how to use CRUD operations through a basic concrete example such as a notes app
 * Into to HTTP Requests and Responses - RESTful APIs
@@ -64,7 +62,7 @@ _**Labs**_
 
 _\*\*\*\*_
 
-#### Module: Testing APIs with Postman
+### Module: Testing APIs with Postman
 
 _**Learning Objectives**_
 
@@ -93,10 +91,9 @@ _**Labs**_
 * BitBloxs
   * Use Postman to play the bitbloxs game
 
-
 ## Topic: Blockchain
 
-**Module: Principles of Blockchain** 
+**Module: Principles of Blockchain**
 
 _**Learning Objectives**_
 
@@ -131,7 +128,7 @@ _**Learning Objectives**_
 * Students will learn about the general procedure for developing, deploying, and testing smart contracts
 * Students will learn about fundamental types and their associated operations in Solidity
 
-_**Activities**_ 
+_**Activities**_
 
 * Ethereum Simulation
   * Learn to send, receive, and analyze transactions in a simulated environment

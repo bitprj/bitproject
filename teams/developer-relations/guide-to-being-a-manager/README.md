@@ -1,4 +1,4 @@
-# Guide to Being a Manager
+# Guide to Being a Reviewer
 
 Reviewers are in charge of **curriculum departments.** Each department is a team of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 

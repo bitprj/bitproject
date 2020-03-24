@@ -25,7 +25,7 @@
     * [Collegiate](teams/community-relations/starting-a-branch/collegiate.md)
     * [Hobbyist Meetups](teams/community-relations/starting-a-branch/hobbyist-meetups.md)
 * [Developer Relations](teams/developer-relations/README.md)
-  * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)	
+  * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
   * [Joining as an Organization](teams/developer-relations/joining-as-an-organization.md)
   * [Development Roadmap](teams/developer-relations/development-roadmap/README.md)
     * [Roadmap Topic Breakdown](teams/developer-relations/development-roadmap/roadmap-topic-breakdown.md)
