@@ -132,11 +132,11 @@ You must schedule a date to present your workshop to Bit Project and your organi
 
 Postman Slides: [https://docs.google.com/presentation/d/1TBu85gPBvE8stuoCyGfgVzHIzKV\_Ak5CLEBjF4eN6PU/edit?usp=sharing](https://docs.google.com/presentation/d/1TBu85gPBvE8stuoCyGfgVzHIzKV_Ak5CLEBjF4eN6PU/edit?usp=sharing)
 
-Postman GitHub:
+Postman GitHub: [https://github.com/bitprj/BitBlox](https://github.com/bitprj/BitBlox)
 
 ### Stage 1: Workshop Proposal
 
-
+Our team of devs worked with the company Postman to create a workshop that focuses on the basics of APIs and how the Postman software utilizes APIs. 
 
 ### Stage 2: Interactive Component Idea
 
