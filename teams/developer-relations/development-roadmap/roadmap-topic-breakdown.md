@@ -180,7 +180,3 @@ _**Labs**_
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
-_\*\*\*\*_
-
-\_\_
-
