@@ -27,7 +27,7 @@
 * [Developer Relations](teams/developer-relations/README.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
   * [Joining as an Organization](teams/developer-relations/joining-as-an-organization/README.md)
-    * [CSUF Proposal](teams/developer-relations/joining-as-an-organization/csuf-proposal.md)
+    * [CSUF Workshop](teams/developer-relations/joining-as-an-organization/csuf-proposal.md)
   * [Development Roadmap](teams/developer-relations/development-roadmap/README.md)
     * [Roadmap Topic Breakdown](teams/developer-relations/development-roadmap/roadmap-topic-breakdown.md)
     * [Contributing Towards Our Roadmap](teams/developer-relations/development-roadmap/contributing-towards-our-roadmap.md)

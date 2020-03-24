@@ -4,18 +4,6 @@ description: How to join Bit Project as an organization
 
 # Joining as an Organization
 
-* First task: making a workshop
-  * The workshops we have
-  * Why they are effective
-* Workshop checklist and procedure to complete that checklist
-  * talk about proposal
-    * proposal should contain rough stage dates
-  * [https://github.com/bitprj/workshops](https://github.com/bitprj/workshops)
-  * List of logical stages 
-    * For each stage there should be a GitHub label
-    * Checklist needs to be separated by stages
-* Going through Postman workshop example and what schools should strive for
-
 ## Why Workshops? 
 
 Bit Project has created a number of workshops where students are able to learn about the newest technologies and developer tools on the market. All materials are created by undergraduate students that are passionate about both education and computer science. These workshops are developed with great attention to detail, incorporating interactive components to develop a stronger understanding of the material. 
@@ -32,6 +20,7 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Choose Topic
   * [ ] Key Components Listed
   * [ ] Tentative Dates of Stages with Set Completion Date
+  * [ ] Place into designated page in GitBooks
   * [ ] Review with Dev
 * [ ] Stage 2: Interactive Component Idea
   * [ ] Summary of General Idea
@@ -67,13 +56,33 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Schedule a date to present your workshop to Bit and your own organization
   * [ ] Present to Bit & Organization
 
-## Workshop Checklist Breakdown \(Postman Example\)
+## Workshop Checklist Breakdown 
 
-**\*After every stage, you must checkin with your assigned Dev.** 
+**\*After every stage, you must checkin with your assigned Dev and place your work in your designated GitBook Page.\***
+
+### Placing your work in GitBook. 
+
+During the first meeting of receiving this assignment, you will be invited to the BitProject GitBook. Please sign up for GitBooks at gitbook.com. To find your designated page, go to Developer Relations under Teams. In the drop down, select Joining as an Organization and then your designated page. 
+
+Place your work in its marked locations. After every edit, you are making a new draft. You must click "save" at the bottom left corner. Then click "merge" to have your edits displayed on the official page. 
 
 ### Stage 1: Workshop Proposal
 
-In this proposal, you must select a topic of focus for your workshop. It is best to avoid workshops that have already been created by Bit Project to increase diversity with our content. For example, for our Postman workshop, the topic of focus was APIs with using the Postman software. 
+In this proposal, you must select a topic of focus for your workshop. It is best to avoid workshops that have already been created by Bit Project to increase diversity with our content. 
+
+Here is an updated list of the workshops we currently have: 
+
+* Intro to React
+* Leetcode
+* Twitter APIs
+* Sketch Together
+* Dodge
+* GitHub
+* MongoDB
+* Postman
+* Pusher
+
+You can find all of those workshops here: [https://github.com/bitprj/workshops](https://github.com/bitprj/workshops). 
 
 With the topic comes the key components. These are the main ideas that fall within your topic that you want to present. We highly recommend that you start with the very basics then move onto more in depth concepts to make it straightforward for students of all skill levels. 
 
@@ -83,7 +92,7 @@ Review with assigned Dev.
 
 ### Stage 2: Interactive Component Idea
 
-Each workshop requires an interactive component that tests the student's knowledge and skill on the topic at hand at the end of the presentation. This should NOT be a Kahoot or any sort of simple trivia game. To actually test whether or not they understood the content, have them apply the knowledge they should have gained. With the Postman workshop, our developers \(as mentioned in the introduction\) created a game: BitBloxes. \(...\)
+Each workshop requires an interactive component that tests the student's knowledge and skill on the topic at hand at the end of the presentation. This should NOT be a Kahoot or any sort of simple trivia game. To actually test whether or not they understood the content, have them apply the knowledge they should have gained. 
 
 You would want to generate ideas of what your interactive component will consist of. After deciding what your component would entail, your team would then plan out how you would create and execute the component. 
 
@@ -113,9 +122,43 @@ Review with assigned Dev.
 
 ### Stage 6: Presentation Practice
 
-You are expected to practice this workshop multiple times as with practice comes confidence and consistency. \(...\)
+You are expected to practice this workshop multiple times as with practice comes confidence and consistency. Then schedule a time to practice presenting in front of your assigned Dev. This Dev will give you feedback and advice on how to improve your presentation skills as well as provide any last minute remarks on your presentation slides and interactive component. Once given all the feedback, practice giving the presentation with the changes. 
 
 ### Stage 7: Present to Bit & Organization
 
-\(...\)
+You must schedule a date to present your workshop to Bit Project and your organization through zoom. Once you do that, keep practicing until the time has come. Present your work to your audience, and you have successfully created a workshop! 
+
+## Postman Workshop Example
+
+Postman Slides: [https://docs.google.com/presentation/d/1TBu85gPBvE8stuoCyGfgVzHIzKV\_Ak5CLEBjF4eN6PU/edit?usp=sharing](https://docs.google.com/presentation/d/1TBu85gPBvE8stuoCyGfgVzHIzKV_Ak5CLEBjF4eN6PU/edit?usp=sharing)
+
+Postman GitHub:
+
+### Stage 1: Workshop Proposal
+
+
+
+### Stage 2: Interactive Component Idea
+
+
+
+### Stage 3: Responsibilities Delegated
+
+
+
+### Stage 4: Presentation Slide Outlines
+
+
+
+### Stage 5: Completing Slides and Interactive Component
+
+
+
+### Stage 6: Presentation Practice
+
+
+
+### Stage 7: Present to Bit & Organization
+
+
 
