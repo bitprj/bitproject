@@ -217,20 +217,28 @@ _**Labs**_
 
 _**Learning Objectives**_
 
+* Students will learn the basics of Javascript syntax
 * Students will begin learning the basics of how to utilize Javascript to make an interactive webpage
-* Students will understand what the DOM is and how to manipulate it to change the webpage dynamically
+* Students will understand what the DOM is and learn how to access and manipulate it to change the webpage
+* Students will learn how to program various event handlers for the mouse and HTML buttons
 
 _**Activities**_
 
 * Random Color Website
   * Create a simple webpage that generates a random color\(s\) depending on the user's choice
+* Dot Art Wall
+  * Create a canvas that the user can draw their mouse through to leave a trail of dots
 * Simple Guessing Game
-  * A simple game to guess a randomly generated number between a given min and max that will include hints
+  * Design a simple game to guess a randomly generated number between a given min and max that will include hints
+* Mouse Cursor Game
+  * Create a mouse cursor game where the cursor is dragged through a maze without touching the walls
 
 _**Labs**_
 
+* GPA Calculator
+  * Create a GPA calculator to help calculate the user's GPA
 * howmuch\[insert item\].com
   * Create an interactive webpage for a user to calculate how much they need of \[insert item\] to survive the pandemic
 * Hangman
   * Create a Hangman game for a player to guess a random word
-* 
+
