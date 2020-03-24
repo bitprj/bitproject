@@ -16,7 +16,7 @@ _**Activities**_
 * Hello World Around The World
   * You will write a Node.js program using the Express.js library to create a static HTML webpage that showcases the phrase “Hello World” in different spoken languages.
 * Clouds in the Cloud
-  * You will write a Node.js program using the Express.js library to create a dynamic webpage (showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage \(showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
 * California Scrapbook
   * You will write a Node.js program using the Express.js library to create a dynamic webpage\(with jQuery elements to spice things up\) that showcases the student’s favorite top ten places in California\(they must store \[and query\] this information in a MongoDB database\).
 * Your Local Weather Channel
@@ -31,7 +31,29 @@ _**Labs**_
 
 ## Topic: Blockchain
 
-**Module: Principles of Blockchain** 
+**Overview**
+
+The Blockchain topic is split into five separate modules:
+
+* Principles of Blockchain
+* Fundamental Solidity
+* Intermediate Solidity
+* Advanced Solidity
+* Beyond Blockchain
+
+Each module naturally builds off of the prior one in terms of knowledge and activities/labs
+
+_Principles of Blockchain_ clarifies what a Blockchain is, providing an understanding of what it is and how it works. It takes students through a historical walkthrough of the evolution of Blockchain architecture to what it is today, focusing on smart contracts and the ability to execute code on Blockchains themselves. 
+
+_Fundamental Solidity_ picks up from _Principles of Blockchains_ on the subject of smart contracts, introducing students to the nuances of the Ethereum blockchain and Solidity, the programming language used to create them. A development stack is also introduced and used by all subsequent modules.
+
+_Intermediate Solidity_  takes _Fundamental Solidity_  a step further by combining the introductory knowledge of the Solidity programming language with more advanced data types and program structures. Students are also introduced to the core use cases of smart contracts.
+
+_Advanced Solidity_ is the apex of the _Solidity_ series \(_Fundamental_ and _Intermediate Solidity\),_ integrating both with the tools needed to manage particularly large and complex contracts, as well as introducing students to pre-existing frameworks and practices to expedite development.
+
+_Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental, Intermediate,_ and _Advanced_\) but is focused more towards building off of the _Principles of Blockchain_ module, introducing students to Blockchain-related technologies to create more powerful and capable decentralized applications.
+
+**Module: Principles of Blockchain**
 
 _**Learning Objectives**_
 
@@ -66,7 +88,7 @@ _**Learning Objectives**_
 * Students will learn about the general procedure for developing, deploying, and testing smart contracts
 * Students will learn about fundamental types and their associated operations in Solidity
 
-_**Activities**_ 
+_**Activities**_
 
 * Ethereum Simulation
   * Learn to send, receive, and analyze transactions in a simulated environment
