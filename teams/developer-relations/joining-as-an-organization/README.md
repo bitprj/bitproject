@@ -87,13 +87,19 @@ Each workshop requires an interactive component that tests the student's knowled
 
 You would want to generate ideas of what your interactive component will consist of. After deciding what your component would entail, your team would then plan out how you would create and execute the component. 
 
+Review with assigned Dev.
+
 ### Stage 3: Responsibilities Delegated
 
 By this point, your team should have a solid understanding of what needs to be done. Clearly delegate the responsibilities, establishing who is in charge of what. Play by strengths. If someone is better at explanations, have them work more on the presentation portion of the workshop. If someone is more knowledgable in the topic and knows how to code/create the interactive component, leave them in charge of that. Work together on certain sections to optimize quality and quantity. Plan your time accordingly to finish by each stage due date. Have a drawn out timeline of when parts of the workshop should be completed.  
 
+Review with assigned Dev. 
+
 ### Stage 4: Presentation Slide Outlines
 
 It is good to work on the outline as a team as you will most likely be presenting the workshop as a team. An appropriate outline should consist of all the slides having titles that clearly state what will be discussed. Establish the workflow: the introduction of the topic then move into more in depth topics. Incorporate your interactive component towards the end. 
+
+Review with assigned Dev. 
 
 ### Stage 5: Completing Slides and Interactive Component
 
@@ -101,7 +107,9 @@ The skeleton of the whole workshop is set up and it now needs to be filled in. F
 
 Your interactive component must be inputed into GitHub. There should be a well documented README and instructions for replicating the interactive component into individual systems. Anyone \(including beginners\) should be able to follow the directions to replicate the interactive component. 
 
-During this time, you should already have a general idea of where the presentation itself will go. Write the presentation script that you will later utilize to practice presenting the workshop. 
+During this time, you should already have a general idea of where the presentation itself will go. Write the presentation script that you will later utilize to practice presenting the workshop.
+
+Review with assigned Dev.  
 
 ### Stage 6: Presentation Practice
 
