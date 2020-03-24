@@ -52,6 +52,8 @@ _**Activities**_
   * Students will learn what you need to make a basic request: Url, Method, Headers, and Body as well as a basic response: status code, headers, and body 
 * Data Formatting with JSON
   * Students will learn keys and values through examples such as a pizza order and how to use these formats with HTTP
+* API Authentication
+  * Students will learn how to use authentication for apis such as API keys
 
 _**Labs**_
 
