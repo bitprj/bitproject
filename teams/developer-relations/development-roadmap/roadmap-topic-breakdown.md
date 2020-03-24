@@ -194,18 +194,20 @@ _**Learning Objectives**_
 _**Activities**_
 
 * Hello World Webpage
-  * You will create a simple HTML page to display Hello World along with an image of a globe.
-* Create Google.com page
-  * You will write a simple menu program which prints a menu and behaves according to user input.
-* Message Cipher
-  * Encode user input with both a Caesar Cipher and a Symmetric Cipher.
+  * Create a simple HTML page to display "Hello World"..
+* Google.com Page
+  * Replicate Google.com's page with a Google logo, buttons, and links
+* Amazon Search Result Page
+  * Design an Amazon search result page for a search on a piece of furniture
+* Simple Potluck Form
+  * Design an invitation to a potluck as a form to fill about what they want to bring and any other food preferences
 
 _**Labs**_
 
-* Collage About Me
-  * You are going to create a webpage about yourself, including your hobbies, your pet peeves, and your favorite procrastination activity.
+* Favorite Internet Icon/Group Collage
+  * Create a webpage about an internet icon/group and include what they're about, fun facts, what hobbies they enjoy, and anything else to add.
 * Recipe Page
-  * Create a detailed webpage about your favorite recipe for others to follow
+  * Create a detailed webpage about your favorite recipe for others to follow.
 * Feedback Topic Survey
   * Create a survey for people to give feedback about a specific topic \(e.g. music, food, travel, etc.\)
 
