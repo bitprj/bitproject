@@ -33,7 +33,7 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Key Components Listed
   * [ ] Tentative Dates of Stages with Set Completion Date
   * [ ] Review with Dev
-* [ ] Stage 2: Interactive Component Breakdown
+* [ ] Stage 2: Interactive Component Idea
   * [ ] Summary of General Idea
   * [ ] Step by Step of How
   * [ ] Review with Dev
@@ -46,8 +46,16 @@ Creating these technical workshops provides students with exposure to programs t
 * [ ] Stage 5: Completing Slides and Interactive Component 
   * [ ] Completed Slides with Presentation Notes 
     * [ ] Peer Reviews
+    * [ ] Complete Presentation Check List
+      * [ ] Limited Text on Each Slide
+      * [ ] Attractive Visuals
+      * [ ] Slide Templates Used Appropriately
+      * [ ] Interactive Component Fully Integrated
+      * [ ] Grammar Check 
   * [ ] Completed and Working Interactive Component
-    * [ ] Game on Github Repository
+    * [ ] **Game on Github Repository**
+      * [ ] README
+      * [ ] Replication Instructions
   * [ ] Script of Presentation
   * [ ] Review with Dev
 * [ ] Stage 6: Presentation Practice
@@ -55,13 +63,13 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Schedule Dry Run with Dev
   * [ ] Complete Dry Run with Dev
   * [ ] Practice with Feedback Given
-* [ ] Stage 7: Present to Bit
-  * [ ] Schedule with Dev / Kevin
+* [ ] Stage 7: Present to Bit & Organization
+  * [ ] Schedule a date to present your workshop to Bit and your own organization
   * [ ] Present to Kevin
 
 ## Workshop Checklist Breakdown \(Postman Example\)
 
-\*After every stage, you must checkin with your assigned Dev. 
+**\*After every stage, you must checkin with your assigned Dev.** 
 
 ### Stage 1: Workshop Proposal
 
@@ -71,7 +79,9 @@ With the topic comes the key components. These are the main ideas that fall with
 
 Each stage should have a due date to work towards. The date for each stage is tentative and can be subject to change; however, the completion date should remain consistent. This time pressure is able to guarantee a higher chance of completion. We recommend that this whole process should take no more than three weeks for a team of four. 
 
-### Stage 2: Interactive Component Breakdown
+Review with assigned Dev. 
+
+### Stage 2: Interactive Component Idea
 
 Each workshop requires an interactive component that tests the student's knowledge and skill on the topic at hand at the end of the presentation. This should NOT be a Kahoot or any sort of simple trivia game. To actually test whether or not they understood the content, have them apply the knowledge they should have gained. With the Postman workshop, our developers \(as mentioned in the introduction\) created a game: BitBloxes. \(...\)
 
@@ -89,13 +99,15 @@ It is good to work on the outline as a team as you will most likely be presentin
 
 The skeleton of the whole workshop is set up and it now needs to be filled in. Fulfill your designated responsibilities and complete the whole workshop. Both presentation slides and the interactive component should be completely flushed out and completed. Your team members should be reviewing and editing the slides at all times, catching any grammar mistakes, fixing syntax, improving styling, etc. Not only that, go over the interactive component multiple times to ensure that it is working the way your team intended it to. 
 
+Your interactive component must be inputed into GitHub. There should be a well documented README and instructions for replicating the interactive component into individual systems. Anyone \(including beginners\) should be able to follow the directions to replicate the interactive component. 
+
 During this time, you should already have a general idea of where the presentation itself will go. Write the presentation script that you will later utilize to practice presenting the workshop. 
 
 ### Stage 6: Presentation Practice
 
-You are expected to practice this workshop multiple times as with practice comes confidence and consistency.
+You are expected to practice this workshop multiple times as with practice comes confidence and consistency. \(...\)
 
-### Stage 7: Present to Bit
+### Stage 7: Present to Bit & Organization
 
 \(...\)
 
