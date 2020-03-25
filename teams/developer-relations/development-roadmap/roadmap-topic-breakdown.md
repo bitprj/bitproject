@@ -74,15 +74,15 @@ _**Learning Objectives**_
 _**Activities**_
 
 * Creating and Testing BitBloxs
-  * Simplify/adjust the creating and testing bitbloxs in order to teach students the basics of how to run requests through postman
+  * Use the bitblox API in order to teach students the basics of how to run requests through postman
 * Creating Postman Collections
-  * We can adjust the activity that was already made for postman in order to teach students how to create collections, import collections, and create documentation. 
+  * Teach students how to create collections, import collections, and create documentation. 
 * Collection Runners
   * Students will learn how to use the postman collection runner, either through bitblocks or through a new API
 * Mock Servers
-  * Adjust the current mock servers actvitiy so that student can learn about postman's Mock Servers 
+  * Student can learn about postman's Mock Servers and why they are useful
 * Documentation in Postman
-  * Adjust the already existing activity to teach students how to make documentation in postman
+  * Teach students how to make documentation in postman
 
 _**Labs**_
 
