@@ -42,15 +42,15 @@ _**Learning Objectives**_
 
 _**Activities**_
 
-* What is an API?
+* Introduction to APIs
   * Introduce what an API is, possibly ask students to come up with their own possible uses of APIs, introduce vocabulary like client and server, etc. 
-* CRUD Operations
+* CRUD Notes App
   * Students will learn how to use CRUD operations through a basic concrete example such as a notes app
-* Into to HTTP Requests and Responses - RESTful APIs
-  * Students will learn what you need to make a basic request: Url, Method, Headers, and Body as well as a basic response: status code, headers, and body 
-* Data Formatting with JSON
-  * Students will learn keys and values through examples such as a pizza order and how to use these formats with HTTP
-* API Authentication
+* RESTful APIs
+  * Students will learn what you need to make a basic HTTP request: Url, Method, Headers, and Body as well as a basic HTTP response: status code, headers, and body 
+* Pizzeria
+  * Students will learn data formatting with JSon; keys and values through examples such as a pizza order and how to use these formats with HTTP
+* Security
   * Students will learn how to use authentication for apis such as API keys
 
 _**Labs**_
@@ -73,15 +73,15 @@ _**Learning Objectives**_
 
 _**Activities**_
 
-* Testing APIs
+* Creating and Testing BitBloxs
   * Simplify/adjust the creating and testing bitbloxs in order to teach students the basics of how to run requests through postman
 * Creating Postman Collections
   * We can adjust the activity that was already made for postman in order to teach students how to create collections, import collections, and create documentation. 
-* Postman Collection Runner
+* Collection Runners
   * Students will learn how to use the postman collection runner, either through bitblocks or through a new API
 * Mock Servers
   * Adjust the current mock servers actvitiy so that student can learn about postman's Mock Servers 
-* Postman Documentation
+* Documentation in Postman
   * Adjust the already existing activity to teach students how to make documentation in postman
 
 _**Labs**_
