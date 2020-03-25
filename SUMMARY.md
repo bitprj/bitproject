@@ -57,6 +57,7 @@
       * [Introduction To The Twitter API](teams/developer-relations/teams/data-science/introduction-to-the-twitter-api.md)
     * [Blockchain](teams/developer-relations/teams/blockchain.md)
 * [Marketing](teams/marketing/README.md)
+  * [Airtable & Hubspot](teams/marketing/airtable-and-hubspot.md)
   * [Joining the Team](teams/marketing/joining-the-team.md)
   * [Weekly Duties](teams/marketing/weekly-duties.md)
 * [People](teams/people/README.md)
