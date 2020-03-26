@@ -15,10 +15,15 @@ Each folder in the root of the Github repo is going to be a Topic folder which h
 * module folders - module folders that belong to a Topic
 * concepts - a concepts folder to hold all the concepts used in a topic
 
+**Note: Name the images folder "images" and the concepts folder "concepts"**
+
 #### Example of Topic folder structure
 
 ```
 - Data-Structure-and-Algorithm-Topic
+ - README.md
+ - images
+ - concepts
  - Module1-Intro-to-Data-Structures
  - Module2-Intermediate-Data-Structures
 ```
@@ -38,6 +43,8 @@ Each module folder would be inside of a topic folder. Module folders can be plac
 * [README.md](http://readme.md) - describes the Module
 * images - a folder used to keep track the images used in the module README.md
 * Activities and Labs folders - Activity and lab folders that belong to a module
+
+**Note: Name the images folder "images"**
 
 #### Example of a Module folder structure
 
@@ -69,6 +76,8 @@ Each Activity/Lab would be inside of a module folder and would have the followin
 * checkpoints - folder to keep track of the checkpoints in the Activity/Lab
 * tests - folder to keep track of the test cases used in the checkpoints for the Activity/Lab
 * student-starter - folder to keep track of the student's starter code
+
+**Note: Name the cards folder "cards", images folder "images", checkpoints folder "checkpoints", student-starter folder as "student-starter" and the tests folder "tests"**
 
 #### Example of Activity/Lab folder structure
 
