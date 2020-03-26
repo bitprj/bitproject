@@ -66,5 +66,6 @@
   * [Talent Acquisition](teams/people/talent-acquisition.md)
   * [Recruitment](teams/people/recruitment.md)
 * [Engineering](teams/engineering/README.md)
+  * [README Formats](teams/engineering/readme-formats.md)
   * [Curriculum Folder Structure](teams/engineering/curriculum-folder-structure.md)
 
