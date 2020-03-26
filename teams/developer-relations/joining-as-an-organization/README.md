@@ -10,7 +10,7 @@ Bit Project has created a number of workshops where students are able to learn a
 
 Our current available workshop materials focus on a great range of topics, such as Twitter APIs, Leetcode, React, and more. With our company partnerships, official developers have made remarks and given us feedback on certain workshops. For example, we worked with Twitter and some of their developers to create a clear cut Twitter API workshop, ensuring that even non computer science major students are also able to easily grasp the concept. To access our workshop materials, click on the following link: [https://github.com/bitprj/workshops](https://github.com/bitprj/workshops). 
 
-Here at UC Davis, Bit Project has hosted several workshops with great success. For one of our more successful workshops, we partnered with Postman to host an API workshop in which students were able to learn the basics of APIs and the usage of the Postman software. Our own developers created a game: BitBloxes. This game was used to test the student's knowledge of APIs and Postman by having them use the Postman client to call HTTP requests to change colors of boxes on a board. Each type of HTTP request \(GET, POST, PUT, DELETE\) performed a different function on the board that would help their team claim the most territory and win. Over 85 students attended this event held at UC Davis, with 71% of attendees being Computer Science students.
+Here at UC Davis, Bit Project has hosted several workshops with great success. For one of our more successful workshops, we partnered with Postman to host an API workshop in which students were able to learn the basics of APIs and the usage of the Postman software. Our own developers created a game: BitBloxs. This game was used to test the student's knowledge of APIs and Postman by having them use the Postman client to call HTTP requests to change colors of boxes on a board. Each type of HTTP request \(GET, POST, PUT, DELETE\) performed a different function on the board that would help their team claim the most territory and win. Over 85 students attended this event held at UC Davis, with 71% of attendees being Computer Science students.
 
 Creating these technical workshops provides students with exposure to programs that are frequently used in technical fields of work. As these tools are not taught in schools, it is import to increase the awareness of such developer tools. Therefore, to join Bit Project, we would love it if you and your team would create your own workshop on a topic of your choice! Our team will help you with this development process, providing advice and feedback whenever we could. 
 
@@ -124,6 +124,10 @@ Review with assigned Dev.
 
 You are expected to practice this workshop multiple times as with practice comes confidence and consistency. Then schedule a time to practice presenting in front of your assigned Dev. This Dev will give you feedback and advice on how to improve your presentation skills as well as provide any last minute remarks on your presentation slides and interactive component. Once given all the feedback, practice giving the presentation with the changes. 
 
+We advise you to utilize the speaker note area that comes with slide so that you could refer back to it if needed when presenting. 
+
+Refer to Presentation Tips for some advice: [Workshop: Marketing and Presentation Tips](workshop-marketing-and-presentation-tips.md#presentation-tips)
+
 ### Stage 7: Present to Bit & Organization
 
 You must schedule a date to present your workshop to Bit Project and your organization through zoom. Once you do that, keep practicing until the time has come. Present your work to your audience, and you have successfully created a workshop! 
@@ -138,27 +142,64 @@ Postman GitHub: [https://github.com/bitprj/BitBlox](https://github.com/bitprj/Bi
 
 Our team of devs worked with the company Postman to create a workshop that focuses on the basics of APIs and how the Postman software utilizes APIs. 
 
+Key Concepts
+
+* Intro to APIs
+  * RESTful APIs
+* Who / What is Postman
+* Use of Postman software
+
 ### Stage 2: Interactive Component Idea
 
+Our developers created a game: BitBloxs. The idea behind it is that each of the students would use the Postman program to call certain HTTP requests. These requests will change the colors of the boxes of a board that would be displayed on a screen. Students are split into teams and the goal was to help their team claim the most territory of the board. Each type of HTTP request \(GET, POST, PUT, DELETE\) performed a different function on the board that would help their team. 
 
+GitHub linked here: [https://github.com/bitprj/BitBlox](https://github.com/bitprj/BitBlox)
+
+Note that the developers utilized their programming skills and the topic at hand to create a fun and interactive component for the students. This is not a simple Kahoot or trivia game. You are expected to do the same. 
 
 ### Stage 3: Responsibilities Delegated
 
-
+* D
+  * Idea 
+  * Slide Styling
+  * Communication with Postman
+* K
+  * Slides
+  * Styling 
+  * Pictures
+* B
+  * Code Idea
+  * Slides
 
 ### Stage 4: Presentation Slide Outlines
 
+Began with a simple introduction to APIs and moved into more in depth concepts once it was clearly explained. Integrated the use of the Postman software and how to use it. Then moved on into the interactive component and more.
 
+Postman Presentation Simple Breakdown:
+
+* What are APIs?
+* Using Postman to Test Endpoints
+* Creating Postman Collections
+* BitBloxs
+* Collection Runners
 
 ### Stage 5: Completing Slides and Interactive Component
 
+Syntax, Styling, Little text, Flow, Grammar, etc. must all be accounted for. 
 
+Completed Slides Linked: [https://docs.google.com/presentation/d/1TBu85gPBvE8stuoCyGfgVzHIzKV\_Ak5CLEBjF4eN6PU/edit?usp=sharing](https://docs.google.com/presentation/d/1TBu85gPBvE8stuoCyGfgVzHIzKV_Ak5CLEBjF4eN6PU/edit?usp=sharing)
+
+Completed and Working Interactive Component with multiple test runs
+
+Completed Interactive Component Linked: [https://github.com/bitprj/BitBlox](https://github.com/bitprj/BitBlox)
+
+Script of Presentation is currently unavailable, but your script should follow the created presentation with clear explanations and instructions. 
 
 ### Stage 6: Presentation Practice
 
-
+We had developers that were not working on the workshop to participate in it. They sat through the whole workshop and played our game. At the end, they provided us with plenty of feedback on what could be improved. 
 
 ### Stage 7: Present to Bit & Organization
 
-
+The presentation took place in person at UC Davis, and we had over 85 attendees. Developers from Postman joined us to provide their perspective and insight on the software. It proved to be a huge success as students were able to participate in the game easily and had a blast. 
 

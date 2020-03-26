@@ -50,9 +50,9 @@ There are three webinars that you must watch: Communication, Culture, and GitHub
 
 ## Day 3
 
-### 5. Hubspot Task
+### 5. HubSpot Task
 
-You must create an account and once you do, we will grant you access to the Bit Project Hubspot. Learn how to use this platform through the Hubspot guide which can be found here: [Airtable & Hubspot](airtable-and-hubspot.md). 
+You must create an account and once you do, we will grant you access to the Bit Project HubSpot. Learn how to use this platform through the HubSpot guide which can be found here: [Airtable & HubSpot](weekly-duties/airtable-and-hubspot.md). 
 
 Your task is the following:
 
