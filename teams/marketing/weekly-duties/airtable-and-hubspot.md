@@ -14,6 +14,28 @@ description: Basics of Airtable and Hubspot
 
 ### Assigning Schools to Collaborators
 
+### Adding Emails
+
+#### 1. Find the Marketing University Outreach Airtable. 
+
+![](../../../.gitbook/assets/screen-shot-2020-03-25-at-11.16.57-pm.png)
+
+#### 2. Click the plus sign at the bottom of the spreadsheet. 
+
+![](../../../.gitbook/assets/screen-shot-2020-03-25-at-11.17.13-pm.png)
+
+#### 3. Place the Name of the Organization in the first Column.
+
+![](../../../.gitbook/assets/screen-shot-2020-03-25-at-11.17.40-pm.png)
+
+#### 4. Click on the plus sign in the University Column. Select the respective university as it is currently linked to the University Table.
+
+![](../../../.gitbook/assets/screen-shot-2020-03-25-at-11.17.45-pm.png)
+
+#### 5. Input the Email into the Email column. 
+
+![](../../../.gitbook/assets/screen-shot-2020-03-25-at-11.18.03-pm.png)
+
 ### Linking Tables to One Another
 
 ## HubSpot
