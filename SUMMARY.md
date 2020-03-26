@@ -65,5 +65,6 @@
   * [Onboarding Guides](teams/people/onboarding-guides.md)
   * [Talent Acquisition](teams/people/talent-acquisition.md)
   * [Recruitment](teams/people/recruitment.md)
-* [Engineering](teams/engineering.md)
+* [Engineering](teams/engineering/README.md)
+  * [Curriculum Folder Structure](teams/engineering/curriculum-folder-structure.md)
 
