@@ -16,7 +16,7 @@ _**Activities**_
 * Hello World Around The World
   * You will write a Node.js program using the Express.js library to create a static HTML webpage that showcases the phrase “Hello World” in different spoken languages.
 * Clouds in the Cloud
-  * You will write a Node.js program using the Express.js library to create a dynamic webpage (showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage \(showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
 * California Scrapbook
   * You will write a Node.js program using the Express.js library to create a dynamic webpage\(with jQuery elements to spice things up\) that showcases the student’s favorite top ten places in California\(they must store \[and query\] this information in a MongoDB database\).
 * Your Local Weather Channel
