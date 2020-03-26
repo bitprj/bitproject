@@ -36,7 +36,7 @@ description: Basics of Airtable and Hubspot
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-11.18.03-pm.png)
 
-### Linking Tables to One Another
+### Linking Tables to One Another 
 
 ## HubSpot
 
