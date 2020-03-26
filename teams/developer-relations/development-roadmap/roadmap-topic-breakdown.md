@@ -29,9 +29,7 @@ _**Labs:**_
 * Tic Tac Toe Game:
   * Students will store a tic tac toe game in a 2D array and build out a Flask endpoint that allows the user to specify the shape of their marker and place where to put their marker; the app should display the game board and indicate when a certain user has won.
 
-
 ## Topic: Express.JS
-
 
 **Module: Intro to Express.JS**
 
@@ -47,7 +45,7 @@ _**Activities**_
 * Hello World Around The World
   * You will write a Node.js program using the Express.js library to create a static HTML webpage that showcases the phrase “Hello World” in different spoken languages.
 * Clouds in the Cloud
-  * You will write a Node.js program using the Express.js library to create a dynamic webpage (showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage \(showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
 * California Scrapbook
   * You will write a Node.js program using the Express.js library to create a dynamic webpage\(with jQuery elements to spice things up\) that showcases the student’s favorite top ten places in California\(they must store \[and query\] this information in a MongoDB database\).
 * Your Local Weather Channel
@@ -62,7 +60,7 @@ _**Labs**_
 
 ## Topic: Blockchain
 
-**Module: Principles of Blockchain** 
+**Module: Principles of Blockchain**
 
 _**Learning Objectives**_
 
@@ -97,7 +95,7 @@ _**Learning Objectives**_
 * Students will learn about the general procedure for developing, deploying, and testing smart contracts
 * Students will learn about fundamental types and their associated operations in Solidity
 
-_**Activities**_ 
+_**Activities**_
 
 * Ethereum Simulation
   * Learn to send, receive, and analyze transactions in a simulated environment
