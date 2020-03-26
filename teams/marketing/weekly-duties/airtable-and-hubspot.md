@@ -48,19 +48,19 @@ description: Basics of Airtable and Hubspot
 
 ![We are focused on contact information. ](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.11.49-am.png)
 
-7. Upload your CSV File and click next. 
+#### 7. Upload your CSV File and click next. 
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.24.17-am.png)
 
-8. Scroll to the bottom and click on the drop down box for the row that is unmatched.  Select Don't import column. This is a temporary step and will later be removed, but for now please follow this step. Then click next. 
+#### 8. Scroll to the bottom and click on the drop down box for the row that is unmatched.  Select Don't import column. This is a temporary step and will later be removed, but for now please follow this step. Then click next. 
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.25.06-am.png)
 
-9. Check both boxes and click Finish Import. 
+#### 9. Check both boxes and click Finish Import. 
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.25.33-am.png)
 
-10. File is uploaded. 
+#### 10. File is uploaded. 
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.25.47-am.png)
 
@@ -98,7 +98,7 @@ description: Basics of Airtable and Hubspot
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.38.19-am.png)
 
-7. Review the content and ensure that everything is correct. Then hit Send. 
+#### 7. Review the content and ensure that everything is correct. Then hit Send. 
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.38.25-am.png)
 
