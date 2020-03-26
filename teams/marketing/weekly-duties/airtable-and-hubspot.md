@@ -6,6 +6,8 @@ description: Basics of Airtable and Hubspot
 
 ## Airtable
 
+Airtable Link: [https://airtable.com/tblPo65FZeC3q6V9Y/viw1Vij54J9qNEeq6?blocks=hide](https://airtable.com/tblPo65FZeC3q6V9Y/viw1Vij54J9qNEeq6?blocks=hide)
+
 ### Downloading as a CSV file
 
 #### 1. Click on the three dots and select Download CSV. 
