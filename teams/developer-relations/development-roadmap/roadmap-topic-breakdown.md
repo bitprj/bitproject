@@ -1,5 +1,68 @@
 # Roadmap Topic Breakdown
 
+## Topic: Node.JS
+
+**Module: Intro to Node.JS**
+
+_**Learning Objectives**_
+
+* Students will learn the basics of writing Javascript in the context of a desktop/web app.
+* Students will get exposure to synchronous and asynchronous functions, which are an integral part of Node.js.
+* Students will get exposure to modularity\(i.e making functions that will be used in completely different programs\).
+* Students will learn how to use the Node.js HTTP client and server usage.
+
+_**Activities**_
+
+* Search For A Word
+  * You will write a program that reads and parses a file\(both synchronously and asynchronously\)  and outputs the line number\(by counting the “\n”\) of a word you pass into the function.
+* Give The Robot His Brain Back
+  * You will write two programs \(one acts as a base for the other, in order to teach modularity\), the second program will only run if and only if the first program is written, passed in and exported properly. 
+* Wikipedia Reading
+  * Use HTTP get method in order to read and output the lines of a short Wikipedia or Project GutenBerg book/article. 
+* Glorified\(But Polite\) Clock
+  * Use the HTTP client to make a program that outputs (on the CLI) when it receives a get request.
+
+_**Labs**_
+
+* Random Sentence Generator
+  * You are going to write a program that generates random sentences from the words the user inputs into a file.
+* Pig Latin Converter
+  * Create a series of small programs\(that interlink into a bigger program i.e using modularity\) that “get” words from a small wikipedia/Gutenberg article/book and output a pig latin version of it.
+
+## Topic: NoSQL/MongoDB
+
+**Module: Intro to NoSQL/MongoDB**
+
+_**Learning Objectives**_
+
+* Students will learn the advantages of using a NoSQL database.
+* Students will learn how to utilize MongoDB's Stitch and Atlas platforms to their advantage.
+* Students will learn how to set up a MongoDB database.
+* Students will learn how to lookup files/data in their databases.
+* Students will learn how to manipulate their data in their databases and create relationships in their databases.
+
+_**Activities**_
+
+* My Favorite Foods
+  * You will write a Node.js program that creates and populates a MongoDB database with your favorite food’s recipe. Students will also use Stitch to make a alternative verison of the original(showcasing the time saved if they had used Stitch).
+
+* I Feel Like Eating This Today
+  * You will write a Node.js program that searches for a specific recipe in your Food database.
+* Changing Taste
+  * You will write a Node.js program that updates your database with new recipes and removes some old ones. You will also put your foods into different categories(using an MongoDB's ORM). They will also utilize MongoDB Atlas to move this database to the cloud!
+
+* Too Much Flour
+  * You will write a Node.js program that returns the average amount of flour used in your recipes\(which are in your database\).
+
+_**Labs**_
+
+* Tweet Up
+  * You are going to write a program that populates a MongoDB database with the tweets of your favorite user and organizes them into different groups using statistics like how many people retweeted a specific tweet and etc. You must use MongoDB's Atlas(for cloud support) and Stitch(for ease of use) for this lab.
+* Simple Pokemon Battle
+  * You are going to write a program that sets up a MongoDB database with a couple of Pokemon\(grouping them by type\) and makes two random Pokemon fight!
+* GutenBooks
+  * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
+
 **Topic: Flask**
 
 **Module: Python Flask**
@@ -58,7 +121,91 @@ _**Labs**_
 * TVs and more!
   * You are going to write a program that sets up a simple e-commerce store \(with a MongoDB database\) that showcases electronics.
 
+## Topic: APIs
+
+**Module: API Concepts**
+
+_**Learning Objectives**_
+
+* Students will learn the basic concepts behind APIs, why they are used, the idea behind their functionality, etc
+* Students will understand CRUD operations
+* Students will learn HTTP Methods and Endpoints
+* Students will understand JSON data 
+
+_**Activities**_
+
+* Introduction to APIs
+  * Introduce what an API is, possibly ask students to come up with their own possible uses of APIs, introduce vocabulary like client and server, etc. 
+* CRUD Notes App
+  * Students will learn how to use CRUD operations through a basic concrete example such as a notes app
+* RESTful APIs
+  * Students will learn what you need to make a basic HTTP request: Url, Method, Headers, and Body as well as a basic HTTP response: status code, headers, and body 
+* Pizzeria
+  * Students will learn data formatting with JSon; keys and values through examples such as a pizza order and how to use these formats with HTTP
+* Security
+  * Students will learn how to use authentication for apis such as API keys
+
+_**Labs**_
+
+* Weather Application
+  * students will use a simple weather API to create a weather app. They can use their basic knowledge of HTML/CSS and other backend resources
+* Notes Application
+  * similar to weather application lab, but instead students can create an application to keep notes on
+
+_\*\*\*\*_
+
+### Module: Testing APIs with Postman
+
+_**Learning Objectives**_
+
+* Students will learn how to use Postman in order to test API requests and why this is useful to developers
+* Understand Postman Collections and Collection Runner
+* Understand Postman Mock Servers
+* Learn Postman Documentation
+
+_**Activities**_
+
+* Creating and Testing BitBloxs
+  * Use the bitblox API in order to teach students the basics of how to run requests through postman
+* Creating Postman Collections
+  * Teach students how to create collections, import collections, and create documentation. 
+* Collection Runners
+  * Students will learn how to use the postman collection runner, either through bitblocks or through a new API
+* Mock Servers
+  * Student can learn about postman's Mock Servers and why they are useful
+* Documentation in Postman
+  * Teach students how to make documentation in postman
+
+_**Labs**_
+
+* NASA API
+  * Adjust the activity APIs for front end developers in order to create a lab where students create a more indepth website using NASA's API
+* BitBloxs
+  * Use Postman to play the bitbloxs game
+
 ## Topic: Blockchain
+
+**Overview**
+
+The Blockchain topic is split into five separate modules:
+
+* Principles of Blockchain
+* Fundamental Solidity
+* Intermediate Solidity
+* Advanced Solidity
+* Beyond Blockchain
+
+Each module naturally builds off of the prior one in terms of knowledge and activities/labs
+
+_Principles of Blockchain_ clarifies what a Blockchain is, providing an understanding of what it is and how it works. It takes students through a historical walkthrough of the evolution of Blockchain architecture to what it is today, focusing on smart contracts and the ability to execute code on Blockchains themselves. 
+
+_Fundamental Solidity_ picks up from _Principles of Blockchains_ on the subject of smart contracts, introducing students to the nuances of the Ethereum blockchain and Solidity, the programming language used to create them. A development stack is also introduced and used by all subsequent modules.
+
+_Intermediate Solidity_  takes _Fundamental Solidity_  a step further by combining the introductory knowledge of the Solidity programming language with more advanced data types and program structures. Students are also introduced to the core use cases of smart contracts.
+
+_Advanced Solidity_ is the apex of the _Solidity_ series \(_Fundamental_ and _Intermediate Solidity\),_ integrating both with the tools needed to manage particularly large and complex contracts, as well as introducing students to pre-existing frameworks and practices to expedite development.
+
+_Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental, Intermediate,_ and _Advanced_\) but is focused more towards building off of the _Principles of Blockchain_ module, introducing students to Blockchain-related technologies to create more powerful and capable decentralized applications.
 
 **Module: Principles of Blockchain**
 
