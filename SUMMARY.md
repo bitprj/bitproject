@@ -32,7 +32,7 @@
   * [Development Roadmap](teams/developer-relations/development-roadmap/README.md)
     * [Roadmap Topic Breakdown](teams/developer-relations/development-roadmap/roadmap-topic-breakdown.md)
     * [Contributing Towards Our Roadmap](teams/developer-relations/development-roadmap/contributing-towards-our-roadmap.md)
-  * [Guide to Being a Reviewer](teams/developer-relations/guide-to-being-a-manager/README.md)
+  * [Guide to Being a Manager](teams/developer-relations/guide-to-being-a-manager/README.md)
     * [Raising Issues](teams/developer-relations/guide-to-being-a-manager/raising-issues.md)
   * [Teams](teams/developer-relations/teams/README.md)
     * [Cracking the Interview](teams/developer-relations/teams/cracking-the-interview.md)
