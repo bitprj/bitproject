@@ -59,6 +59,68 @@ _**Labs**_
 * TVs and more!
   * You are going to write a program that sets up a simple e-commerce store \(with a MongoDB database\) that showcases electronics.
 
+## Topic: APIs
+
+**Module: API Concepts**
+
+_**Learning Objectives**_
+
+* Students will learn the basic concepts behind APIs, why they are used, the idea behind their functionality, etc
+* Students will understand CRUD operations
+* Students will learn HTTP Methods and Endpoints
+* Students will understand JSON data 
+
+_**Activities**_
+
+* Introduction to APIs
+  * Introduce what an API is, possibly ask students to come up with their own possible uses of APIs, introduce vocabulary like client and server, etc. 
+* CRUD Notes App
+  * Students will learn how to use CRUD operations through a basic concrete example such as a notes app
+* RESTful APIs
+  * Students will learn what you need to make a basic HTTP request: Url, Method, Headers, and Body as well as a basic HTTP response: status code, headers, and body 
+* Pizzeria
+  * Students will learn data formatting with JSon; keys and values through examples such as a pizza order and how to use these formats with HTTP
+* Security
+  * Students will learn how to use authentication for apis such as API keys
+
+_**Labs**_
+
+* Weather Application
+  * students will use a simple weather API to create a weather app. They can use their basic knowledge of HTML/CSS and other backend resources
+* Notes Application
+  * similar to weather application lab, but instead students can create an application to keep notes on
+
+_\*\*\*\*_
+
+### Module: Testing APIs with Postman
+
+_**Learning Objectives**_
+
+* Students will learn how to use Postman in order to test API requests and why this is useful to developers
+* Understand Postman Collections and Collection Runner
+* Understand Postman Mock Servers
+* Learn Postman Documentation
+
+_**Activities**_
+
+* Creating and Testing BitBloxs
+  * Use the bitblox API in order to teach students the basics of how to run requests through postman
+* Creating Postman Collections
+  * Teach students how to create collections, import collections, and create documentation. 
+* Collection Runners
+  * Students will learn how to use the postman collection runner, either through bitblocks or through a new API
+* Mock Servers
+  * Student can learn about postman's Mock Servers and why they are useful
+* Documentation in Postman
+  * Teach students how to make documentation in postman
+
+_**Labs**_
+
+* NASA API
+  * Adjust the activity APIs for front end developers in order to create a lab where students create a more indepth website using NASA's API
+* BitBloxs
+  * Use Postman to play the bitbloxs game
+
 ## Topic: Blockchain
 
 **Overview**
