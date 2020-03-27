@@ -56,7 +56,7 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
 
 | Weekly Meeting Notes | YouTube Link | Weekly Milestone Assignments |
 | :--- | :--- | :--- |
-| N/A | N/A | N/A |
+| [https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20\_AvocadosTeamSync.md](https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20_AvocadosTeamSync.md) | [https://youtu.be/GpbPcpJdAX0](https://youtu.be/GpbPcpJdAX0) | N/A |
 
 ### What is Data Science:
 
