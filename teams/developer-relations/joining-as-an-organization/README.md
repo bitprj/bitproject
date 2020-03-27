@@ -21,35 +21,41 @@ Creating these technical workshops provides students with exposure to programs t
 * [ ] Stage 2: Interactive Component Idea
   * [ ] Summary of General Idea
   * [ ] Step by Step of How
+  * [ ] Place into designated page in GitBooks
   * [ ] Review with Dev
 * [ ] Stage 3: Responsibilities Delegated
   * [ ] Timeline of Responsibilities with Specified Delegations
+  * [ ] Place into designated page in Gitbooks
   * [ ] Review with Dev
 * [ ] Stage 4: Presentation Slides Outline
   * [ ] Clear Workflow
+  * [ ] Place link into designated page in GitBooks
   * [ ] Review with Dev
 * [ ] Stage 5: Completing Slides and Interactive Component 
   * [ ] Completed Slides with Presentation Notes 
-  * [ ] Peer Reviews
-  * [ ] Complete Presentation Check List
-  * [ ] Limited Text on Each Slide
-  * [ ] Attractive Visuals
-  * [ ] Slide Templates Used Appropriately
-  * [ ] Interactive Component Fully Integrated
-  * [ ] Grammar Check 
+    * [ ] Peer Reviews
+    * [ ] Complete Presentation Check List
+      * [ ] Limited Text on Each Slide
+      * [ ] Attractive Visuals
+      * [ ] Slide Templates Used Appropriately
+      * [ ] Interactive Component Fully Integrated
+      * [ ] Grammar Check 
   * [ ] Completed and Working Interactive Component
-  * [ ] **Game on Github Repository**
-  * [ ] README
-  * [ ] Replication Instructions
+    * [ ] **Game on Github Repository**
+    * [ ] README
+    * [ ] Replication Instructions
   * [ ] Script of Presentation
+  * [ ] Place links \(slides and GitHub\) into designated page in GitBooks
   * [ ] Review with Dev
 * [ ] Stage 6: Presentation Practice
   * [ ] Practice with Team 
   * [ ] Schedule Dry Run with Dev
+  * [ ] Place date in designated page in GitBooks
   * [ ] Complete Dry Run with Dev
   * [ ] Practice with Feedback Given
 * [ ] Stage 7: Present to Bit & Organization
   * [ ] Schedule a date to present your workshop to Bit and your own organization
+  * [ ] Place date in designated page in GitBooks
   * [ ] Present to Bit & Organization
 
 ## Workshop Checklist Breakdown

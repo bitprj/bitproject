@@ -28,6 +28,7 @@
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
   * [Joining as an Organization](teams/developer-relations/joining-as-an-organization/README.md)
     * [Workshop: Marketing and Presentation Tips](teams/developer-relations/joining-as-an-organization/workshop-marketing-and-presentation-tips.md)
+    * [West Valley College Workshop](teams/developer-relations/joining-as-an-organization/west-valley-college-workshop.md)
     * [CSUF Workshop](teams/developer-relations/joining-as-an-organization/csuf-proposal.md)
   * [Development Roadmap](teams/developer-relations/development-roadmap/README.md)
     * [Roadmap Topic Breakdown](teams/developer-relations/development-roadmap/roadmap-topic-breakdown.md)
