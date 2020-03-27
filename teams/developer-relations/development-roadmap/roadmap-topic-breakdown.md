@@ -1,33 +1,63 @@
 # Roadmap Topic Breakdown
 
-## Topic: Python
+**Topic: Flask**
 
-**Module: Intermediate Python**
+**Module: Python Flask**
+
+_**Learning Objectives:**_
+
+* Students will learn the purpose and basics of Python Flask.
+* Students will learn how to route different pages within their applications using Flask.
+* Students will gain experience with structuring different CRUD operations.
+* Students will use Flask-RESTful to structure their routes for RESTful APIs.
+
+_**Activities:**_
+
+* Flask Intro
+  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
+* Portfolio Site
+  * Students will learn how to route pages using Flask by building a simple portfolio site and routing the different pages together \(Home, About Me, Resume, etc.\)
+* Book Tracker
+  * Students will use Postman to test CRUD endpoints that they created using Flask and Flask-RESTFUL using a list of books.
+* Making Users Active
+  * Students will learn the concept of Flask session by creating simple endpoints that makes a user active, returns JSON data of the active user, and deactivates a user.
+
+_**Labs:**_
+
+* Recipe Application
+  * Students will be provided with a native dictionary of recipes in their application, and use Flask and Flask-RESTful to create endpoints to create, remove, and edit the recipes.
+* Tic Tac Toe Game:
+  * Students will store a tic tac toe game in a 2D array and build out a Flask endpoint that allows the user to specify the shape of their marker and place where to put their marker; the app should display the game board and indicate when a certain user has won.
+
+
+## Topic: Express.JS
+
+**Module: Intro to Express.JS**
 
 _**Learning Objectives**_
 
-* Students will continue applying their fundamental Python skills learned from the previous module.
-* Students will begin learning about how to integrate basic data structures like lists and dictionaries to add complexity to their Python code.
-* Students will learn how they can use for/while loops and if statements to control the flow of their code.
-* Students will learn how to represent strings in Python using F-strings.
+* Students will learn how to use Express.js in order to react to and serve client requests.
+* Students will learn how to supply client requests with HTML web pages.
+* Students will learn how to supply clients with more dynamic web pages\(using PUG, jQuery, CSS, etc.\) 
+* Students will learn how to supply clients with JSON and data from a MongoDB database.
 
 _**Activities**_
 
-* Bookkeeper
-  * You will write a program that reads and parses a list of Dewey decimal numbers and match it to the correct genre based on the number and then find the distribution of each genre.
-* Creating a Menu
-  * You will write a simple menu program which prints a menu and behaves according to user input.
-* Message Cipher
-  * Encode user input with both a Caesar Cipher and a Symmetric Cipher.
+* Hello World Around The World
+  * You will write a Node.js program using the Express.js library to create a static HTML webpage that showcases the phrase “Hello World” in different spoken languages.
+* Clouds in the Cloud
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage \(showcasing different types of cloud types and their descriptions\) using the PUG template engine\(and with some CSS magic\) and different sub/child pages.
+* California Scrapbook
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage\(with jQuery elements to spice things up\) that showcases the student’s favorite top ten places in California\(they must store \[and query\] this information in a MongoDB database\).
+* Your Local Weather Channel
+  * You will write a Node.js program using the Express.js library to create a dynamic webpage that outputs the local weather\(using their own data\) in JSON.
 
 _**Labs**_
 
-* Word Translation Calculator
-  * You are going to write a program that calculates how often a word appears in a given string.
-* Basic Calculator
-  * Create a functional calculator in python that can do simple arithmetic operations on two numbers.
-* Tic-Tac-Toe
-  * Write a Tic-Tac-Toe game, and you will play against an AI which chooses random moves.
+* Quartz,Parchment,Shears
+  * You are going to write a program that sets up a dynamic website that allows you to play rock,paper,scissors with an AI player!
+* TVs and more!
+  * You are going to write a program that sets up a simple e-commerce store \(with a MongoDB database\) that showcases electronics.
 
 ## Topic: APIs
 
@@ -92,6 +122,28 @@ _**Labs**_
   * Use Postman to play the bitbloxs game
 
 ## Topic: Blockchain
+
+**Overview**
+
+The Blockchain topic is split into five separate modules:
+
+* Principles of Blockchain
+* Fundamental Solidity
+* Intermediate Solidity
+* Advanced Solidity
+* Beyond Blockchain
+
+Each module naturally builds off of the prior one in terms of knowledge and activities/labs
+
+_Principles of Blockchain_ clarifies what a Blockchain is, providing an understanding of what it is and how it works. It takes students through a historical walkthrough of the evolution of Blockchain architecture to what it is today, focusing on smart contracts and the ability to execute code on Blockchains themselves. 
+
+_Fundamental Solidity_ picks up from _Principles of Blockchains_ on the subject of smart contracts, introducing students to the nuances of the Ethereum blockchain and Solidity, the programming language used to create them. A development stack is also introduced and used by all subsequent modules.
+
+_Intermediate Solidity_  takes _Fundamental Solidity_  a step further by combining the introductory knowledge of the Solidity programming language with more advanced data types and program structures. Students are also introduced to the core use cases of smart contracts.
+
+_Advanced Solidity_ is the apex of the _Solidity_ series \(_Fundamental_ and _Intermediate Solidity\),_ integrating both with the tools needed to manage particularly large and complex contracts, as well as introducing students to pre-existing frameworks and practices to expedite development.
+
+_Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental, Intermediate,_ and _Advanced_\) but is focused more towards building off of the _Principles of Blockchain_ module, introducing students to Blockchain-related technologies to create more powerful and capable decentralized applications.
 
 **Module: Principles of Blockchain**
 
