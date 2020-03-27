@@ -20,12 +20,12 @@ _**Activities**_
 * Wikipedia Reading
   * Use HTTP get method in order to read and output the lines of a short Wikipedia or Project GutenBerg book/article. 
 * Glorified\(But Polite\) Clock
-  * Use the HTTP client to make a server that tells users the time\(and a greeting\) when it receives a get request.
+  * Use the HTTP client to make a program that outputs (on the CLI) when it receives a get request.
 
 _**Labs**_
 
-* Random Sentence Server
-  * You are going to write a program that generates random sentences after getting a post request.
-* Pig Latin Server
+* Random Sentence Generator
+  * You are going to write a program that generates random sentences from the words the user inputs into a file.
+* Pig Latin Converter
   * Create a series of small programs\(that interlink into a bigger program i.e using modularity\) that “get” words from a small wikipedia/Gutenberg article/book and output a pig latin version of it.
 
