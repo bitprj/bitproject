@@ -2,7 +2,7 @@
 
 ## 
 
-**Topic: SQL/SQLAlchemy**
+## **Topic: SQL/SQLAlchemy**
 
 **Module: SQL/SQLAlchemy**
 
@@ -12,12 +12,12 @@ _**Learning Objectives:**_
 * Students will learn how to use SQLAlchemy to easily implement an SQL database into their Flask applications.
 * Students will learn how to interact with their SQL database through querying objects, deleting objects, etc..
 * Students will learn how to make models and use Flask-Marshmallow to specify the required format of each field.
-* Students will learn the concept of ORM with SQL.
+* Students will learn the concept of ORM \(object-relational mapping\) with SQL as a technique of converting data between relational data bases as objects in code.
 
 _**Activities:**_
 
-* Countries Database
-  * Students will create a simple POST endpoint that will add and commit information about a country to a db session and a PUT endpoint that can query and edit the information in the db and commit.
+* SQL/SQLAlchemy Basics
+  * Students will learn the basics of SQL and SQLAlchemy through this activity to apply these concepts to the other labs and activities in this module.
 * Classroom Directory
   * Students will make a simple Flask application and use SQLAlchemy to build a database of students in a particular classroom. There should be POST and DELETE endpoints.
 * Building a School
