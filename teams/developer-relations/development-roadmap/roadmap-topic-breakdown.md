@@ -354,7 +354,7 @@ _**Labs**_
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
-**Module: Beyond Blockchain**
+**Module: GraphQL**
 _**Learning Objectives**_
 
  * Students will have an understanding of GraphQL and how to query/insert/Mutate through data
@@ -398,7 +398,7 @@ _**Labs**_
  * Build a Blog
    * Students will use a GatsbyJS to build a functional blog
  * Build a React App with NextJS
-   * TBD (cause I don't know NextJS)
+   * TBD
    
 _**Modules Required**_
 
