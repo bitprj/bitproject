@@ -1,12 +1,12 @@
 # Guide to Being a Manager
 
-Reviewers are in charge of **curriculum departments.** Each department is a team of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
+Reviewers are in charge of **curriculum teams.** Each team consists of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
 ## Starting Off: Receiving Module Assignments
 
 All reviewers will be assigned an issue in the **bitproject** repository, to be completed within _3 days of assignment._
 
-### Pre-approval Checklist 
+### Pre-approval Checklist
 
 * [ ] Confirm modules to be done
 * [ ] Finalize activities, labs and workshop list
@@ -14,7 +14,7 @@ All reviewers will be assigned an issue in the **bitproject** repository, to be 
 
 ### Post-approval Checklist
 
-* [ ] Making Epics in a Project
+* [ ] Making Epics in a Project \[THIS SHOULD BE DONE ASAP post-approval\]
   * [ ] If applicable, make modules as Epics on Zenhub
   * [ ] Post activities, labs and workshops on Zenhub as Epics under the appropriate module
 * [ ] First week's issues \[THIS SHOULD BE DONE ASAP post-approval\]
@@ -29,13 +29,11 @@ All reviewers will be assigned an issue in the **bitproject** repository, to be 
 
 This checklist will be posted within the issue and should all be completed within 3 days of assignment.
 
-## Weekly Checklist
+## Weekly Manager Checklist
 
-Every week by **Sunday,** reviewers are expected to complete the following:
-
-* [ ] Review developers' work and provide a review according to the Manager Checklist 
+* [ ] Review developers' work and provide a review according to the "First Draft" Pull Request Checklist 
 * [ ] Ensure "first draft" pull requests are in **by Friday**
-* [ ] Pull request to `master` should be in by **Sunday**
+* [ ] "Final draft" pull request to `master` should be in by **Sunday**
 * [ ] Generate issues for the project based on feedback received and progress made the week prior
   * [ ] Ensure issues are made and set-up for next week's tasks 
   * [ ] Designate two issues _not being solved_ to be "first timer only" issues
@@ -44,10 +42,11 @@ Every week by **Sunday,** reviewers are expected to complete the following:
   * [ ] Ensure General Review Checklist is being updated based on the developers' progress
 * [ ] Adjust timeline in Zenhub Calendar
 
-## Manager Checklist
+## Pull Request Checklist
 
-Every week, there are a couple things that every reviewer should take care of for each dev's pull request: 
+Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`. 
 
+* [ ] **Branch updated from `master`**
 * [ ] Spelling and grammar errors fixed
 * [ ] Correct Markdown Formatting
 * [ ] Adjust timeline in Zenhub Calendar
@@ -58,16 +57,24 @@ Every week, there are a couple things that every reviewer should take care of fo
 * [ ] Readability Test: Automated Readability Index result of _9th grade or under_ \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
+* [ ] Specific micro-issues addressed in pull request 
+* [ ] Specific "checkbox" areas addressed in pull request for each activity and lab Epic that was worked on 
+  * from General Development Review Checklist
+* [ ] Pull Request properly named
+  * [ ] If manager: \[Activity/Lab Code\] \[Activity/Lab Name\] Week of \*/\*\*: \*Manager Name\*
+  * [ ] If developer: \[Activity/Lab Code\] \[Activity/Lab Name\] Week of \*/\*\*: \*Manager Name\*
+* [ ] Proper Stage Label per the General Development Review Checklist
+* [ ] Proper Project Label
 
-**This checklist should be pasted into each review, and checked off completely by Sunday.** 
+This checklist should be pasted into each review, and checked off completely by Sunday.
 
-## General Review Checklist 
+## General Development Review Checklist 
 
-The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development. 
+The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
 
 #### Checklist for Devs
 
-Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly. 
+Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly.
 
 Additionally, each pull request should have stage labels corresponding to the four stages. Please apply as many labels as applicable, for every item addressed in a stage, there should be that corresponding stage label applied.
 
@@ -84,7 +91,15 @@ With regards to this checklist, reviewers should do the following:
 #### Stage 1 - Starting Content
 
 * [ ] High-schooler friendly writing style, easy to understand
-  * [ ] Professional writing
+* [ ] Correct numbering
+* [ ] Every card has code\* 
+* [ ] 1 scroll per card\*\*
+* [ ] Content of cards make sense
+* [ ] Proper grammar, punctuation, capitalization, etc.
+* [ ] Micro to Macro Principle
+* [ ] Titles for Concepts associated with each Card
+* [ ] Acceptable Styling per the Manager Checklist
+* [ ] High-schooler friendly writing style, easy to understand
 * [ ] Correct numbering
 * [ ] Every card has code\* 
 * [ ] 1 scroll per card\*\*
@@ -102,7 +117,7 @@ With regards to this checklist, reviewers should do the following:
 * [ ] Solution and starter code in Airtable and GitHub
   * [ ] Code is testable, not too general
 
-#### Stage 2 - Finishing Content 
+#### Stage 2 - Finishing Content
 
 * [ ] Logical card progression 
 * [ ] Ample pictures/custom visuals \(copyright-free, Pexels is a great source\) 
@@ -131,7 +146,7 @@ With regards to this checklist, reviewers should do the following:
   * [ ] Hints \(Medium + Easy Cards\)
   * [ ] Concepts
   * [ ] Checkpoints
-    * [ ] With test cases if applicable
+  * [ ] With test cases if applicable
 * [ ] Concepts for each card completely finalized, with correct README formatting
 * [ ] Acceptable Styling per the Manager Checklist
 
@@ -146,3 +161,4 @@ With regards to this checklist, reviewers should do the following:
 * [ ] Gem Amounts 
   * Labs: calculated using John's Code 
   * Activities: Predetermined amounts
+

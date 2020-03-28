@@ -1,12 +1,104 @@
 # Roadmap Topic Breakdown
 
-**Topic: Flask**
+## **Topic: SQL/SQLAlchemy**
+
+**Module: SQL/SQLAlchemy**
+
+_**Learning Objectives:**_
+
+* Students will learn the basics of SQL, its purpose, and how it is different from NoSQL.
+* Students will learn how to use SQLAlchemy to easily implement an SQL database into their Flask applications.
+* Students will learn how to interact with their SQL database through querying objects, deleting objects, etc..
+* Students will learn how to make models and use Flask-Marshmallow to specify the required format of each field.
+* Students will learn the concept of ORM \(object-relational mapping\) with SQL as a technique of converting data between relational data bases as objects in code.
+
+_**Activities:**_
+
+* SQL/SQLAlchemy Basics
+  * Students will learn the basics of SQL and SQLAlchemy through this activity to apply these concepts to the other labs and activities in this module.
+* Classroom Directory
+  * Students will make a simple Flask application and use SQLAlchemy to build a database of students in a particular classroom. There should be POST and DELETE endpoints.
+* Building a School
+  * As an extension of the previous activity, now students will use Flask and Flask-Marshmallow to build out different models for a Student, Teacher, Principle, Janitor, Administrator, etc.
+* Housing Directory:
+  * Now that the student has a school directory, they should create a directory that contains all the information about each person at the school’s housing information; the databases should then be related.
+
+_**Labs:**_
+
+* Flask Election App:
+  * Students should make a simple Flask App that is capable of storing information about different candidates in an election. This application must support the CRUD operations and students will use models and Flask-Marshmallow to specify the type of data being stored.
+* Recipe Application:
+  * Students will alter the recipe application they built in the Flask module to now  use a SQLAlchemy database rather than a native dictionary. This application will require the student to query the database, create Flask-Marshmallow models, and implement the CRUD operations.
+
+## Topic: Python
+
+**Module: Intro to Node.JS**
+
+_**Learning Objectives**_
+
+* Students will learn the basics of writing Javascript in the context of a desktop/web app.
+* Students will get exposure to synchronous and asynchronous functions, which are an integral part of Node.js.
+* Students will get exposure to modularity\(i.e making functions that will be used in completely different programs\).
+* Students will learn how to use the Node.js HTTP client and server usage.
+
+_**Activities**_
+
+* Search For A Word
+  * You will write a program that reads and parses a file\(both synchronously and asynchronously\)  and outputs the line number\(by counting the “\n”\) of a word you pass into the function.
+* Give The Robot His Brain Back
+  * You will write two programs \(one acts as a base for the other, in order to teach modularity\), the second program will only run if and only if the first program is written, passed in and exported properly. 
+* Wikipedia Reading
+  * Use HTTP get method in order to read and output the lines of a short Wikipedia or Project GutenBerg book/article. 
+* Glorified\(But Polite\) Clock
+  * Use the HTTP client to make a program that outputs \(on the CLI\) when it receives a get request.
+
+_**Labs**_
+
+* Random Sentence Generator
+  * You are going to write a program that generates random sentences from the words the user inputs into a file.
+* Pig Latin Converter
+  * Create a series of small programs\(that interlink into a bigger program i.e using modularity\) that “get” words from a small wikipedia/Gutenberg article/book and output a pig latin version of it.
+
+## Topic: NoSQL/MongoDB
+
+**Module: Intro to NoSQL/MongoDB**
+
+_**Learning Objectives**_
+
+* Students will learn the advantages of using a NoSQL database.
+* Students will learn how to utilize MongoDB's Stitch and Atlas platforms to their advantage.
+* Students will learn how to set up a MongoDB database.
+* Students will learn how to lookup files/data in their databases.
+* Students will learn how to manipulate their data in their databases and create relationships in their databases.
+
+_**Activities**_
+
+* My Favorite Foods
+  * You will write a Node.js program that creates and populates a MongoDB database with your favorite food’s recipe. Students will also use Stitch to make a alternative verison of the original\(showcasing the time saved if they had used Stitch\).
+* I Feel Like Eating This Today
+  * You will write a Node.js program that searches for a specific recipe in your Food database.
+* Changing Taste
+  * You will write a Node.js program that updates your database with new recipes and removes some old ones. You will also put your foods into different categories\(using an MongoDB's ORM\). They will also utilize MongoDB Atlas to move this database to the cloud!
+* Too Much Flour
+  * You will write a Node.js program that returns the average amount of flour used in your recipes\(which are in your database\).
+
+_**Labs**_
+
+* Tweet Up
+  * You are going to write a program that populates a MongoDB database with the tweets of your favorite user and organizes them into different groups using statistics like how many people retweeted a specific tweet and etc. You must use MongoDB's Atlas\(for cloud support\) and Stitch\(for ease of use\) for this lab.
+* Simple Pokemon Battle
+  * You are going to write a program that sets up a MongoDB database with a couple of Pokemon\(grouping them by type\) and makes two random Pokemon fight!
+* GutenBooks
+  * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
+
+## **Topic: Flask**
 
 **Module: Python Flask**
 
 _**Learning Objectives:**_
 
 * Students will learn the purpose and basics of Python Flask.
+* Students will learn what Flask as a microframework is and the role that microframeworks play in web development.
 * Students will learn how to route different pages within their applications using Flask.
 * Students will gain experience with structuring different CRUD operations.
 * Students will use Flask-RESTful to structure their routes for RESTful APIs.
@@ -14,7 +106,7 @@ _**Learning Objectives:**_
 _**Activities:**_
 
 * Flask Intro
-  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
+  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask and microframeworks in web development to get the students going.
 * Portfolio Site
   * Students will learn how to route pages using Flask by building a simple portfolio site and routing the different pages together \(Home, About Me, Resume, etc.\)
 * Book Tracker
@@ -28,7 +120,6 @@ _**Labs:**_
   * Students will be provided with a native dictionary of recipes in their application, and use Flask and Flask-RESTful to create endpoints to create, remove, and edit the recipes.
 * Tic Tac Toe Game:
   * Students will store a tic tac toe game in a 2D array and build out a Flask endpoint that allows the user to specify the shape of their marker and place where to put their marker; the app should display the game board and indicate when a certain user has won.
-
 
 ## Topic: Express.JS
 
@@ -267,6 +358,68 @@ _**Labs**_
 * Hangman
   * Create a Hangman game for a player to guess a random word
 
+## Topic: APIs
+
+**Module: API Concepts**
+
+_**Learning Objectives**_
+
+* Students will learn the basic concepts behind APIs, why they are used, the idea behind their functionality, etc
+* Students will understand CRUD operations
+* Students will learn HTTP Methods and Endpoints
+* Students will understand JSON data 
+
+_**Activities**_
+
+* Introduction to APIs
+  * Introduce what an API is, possibly ask students to come up with their own possible uses of APIs, introduce vocabulary like client and server, etc. 
+* CRUD Notes App
+  * Students will learn how to use CRUD operations through a basic concrete example such as a notes app
+* RESTful APIs
+  * Students will learn what you need to make a basic HTTP request: Url, Method, Headers, and Body as well as a basic HTTP response: status code, headers, and body 
+* Pizzeria
+  * Students will learn data formatting with JSon; keys and values through examples such as a pizza order and how to use these formats with HTTP
+* Security
+  * Students will learn how to use authentication for apis such as API keys
+
+_**Labs**_
+
+* Weather Application
+  * students will use a simple weather API to create a weather app. They can use their basic knowledge of HTML/CSS and other backend resources
+* Notes Application
+  * similar to weather application lab, but instead students can create an application to keep notes on
+
+_\*\*\*\*_
+
+### Module: Testing APIs with Postman
+
+_**Learning Objectives**_
+
+* Students will learn how to use Postman in order to test API requests and why this is useful to developers
+* Understand Postman Collections and Collection Runner
+* Understand Postman Mock Servers
+* Learn Postman Documentation
+
+_**Activities**_
+
+* Creating and Testing BitBloxs
+  * Use the bitblox API in order to teach students the basics of how to run requests through postman
+* Creating Postman Collections
+  * Teach students how to create collections, import collections, and create documentation. 
+* Collection Runners
+  * Students will learn how to use the postman collection runner, either through bitblocks or through a new API
+* Mock Servers
+  * Student can learn about postman's Mock Servers and why they are useful
+* Documentation in Postman
+  * Teach students how to make documentation in postman
+
+_**Labs**_
+
+* NASA API
+  * Adjust the activity APIs for front end developers in order to create a lab where students create a more indepth website using NASA's API
+* BitBloxs
+  * Use Postman to play the bitbloxs game
+
 ## Topic: Blockchain
 
 **Overview**
@@ -281,11 +434,11 @@ The Blockchain topic is split into five separate modules:
 
 Each module naturally builds off of the prior one in terms of knowledge and activities/labs
 
-_Principles of Blockchain_ clarifies what a Blockchain is, providing an understanding of what it is and how it works. It takes students through a historical walkthrough of the evolution of Blockchain architecture to what it is today, focusing on smart contracts and the ability to execute code on Blockchains themselves. 
+_Principles of Blockchain_ clarifies what a Blockchain is, providing an understanding of what it is and how it works. It takes students through a historical walkthrough of the evolution of Blockchain architecture to what it is today, focusing on smart contracts and the ability to execute code on Blockchains themselves.
 
 _Fundamental Solidity_ picks up from _Principles of Blockchains_ on the subject of smart contracts, introducing students to the nuances of the Ethereum blockchain and Solidity, the programming language used to create them. A development stack is also introduced and used by all subsequent modules.
 
-_Intermediate Solidity_  takes _Fundamental Solidity_  a step further by combining the introductory knowledge of the Solidity programming language with more advanced data types and program structures. Students are also introduced to the core use cases of smart contracts.
+_Intermediate Solidity_ takes _Fundamental Solidity_ a step further by combining the introductory knowledge of the Solidity programming language with more advanced data types and program structures. Students are also introduced to the core use cases of smart contracts.
 
 _Advanced Solidity_ is the apex of the _Solidity_ series \(_Fundamental_ and _Intermediate Solidity\),_ integrating both with the tools needed to manage particularly large and complex contracts, as well as introducing students to pre-existing frameworks and practices to expedite development.
 
@@ -439,4 +592,54 @@ _**Labs**_
 
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
+
+**Module: GraphQL** _**Learning Objectives**_
+
+* Students will have an understanding of GraphQL and how to query/insert/Mutate through data
+* Students will be able to integrate GraphQL into their applications
+* Students will be able to use GraphiQL and GraphQL playground
+* Schema and JSON/SDL formatting
+
+_**Activities**_
+
+* Query though a blog entry
+  * Students will query though blog posts that can display various data
+* Send mutations to database to store entries using GraphQL
+  * Students will be able to insert and add to database
+* Relationships with GraphQL
+  * Students will be link between various databases
+* Labs \( Hard to design because GraphQL is not standalone. It needs to be an extension off of existing knowledge\)
+
+_**Labs**_
+
+* Use GraphQL in a blog
+  * Use GraphQL to filter through a list in a blog posts
+
+**Module: Static Site Generators** _**Learning Objectives**_
+
+* Students will learn about Static Sites Generators and how they can be useful
+* Students will learn about GatsbyJS and NextJS and how to use them to generate a website
+* Students will learn about the various plugins associated with both generators _**Activities**_
+* When to use GatsbyJS vs NodeJS?
+  * Students will learn the advantages of using GatsbyJS and NodeJS such as how
+* Students will learn the purposes of Static Site Generators
+  * Gatsby Plugins
+* Students will integrate various API's
+  * GraphQL, Algolia will be gone over and their respective plugins
+* NextJS functionality
+  * TBD
+
+_**Labs**_
+
+* Build a Blog
+  * Students will use a GatsbyJS to build a functional blog
+* Build a React App with NextJS
+  * TBD
+
+_**Modules Required**_
+
+* React
+* GraphQL
+* CSS/HTML
+* JS
 
