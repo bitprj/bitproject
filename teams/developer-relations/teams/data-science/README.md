@@ -4,25 +4,23 @@ description: Introduction to Data Science!
 
 # Data Science
 
-#### Introduction
+### Introduction
 
 With the advent of the "Internet of Things" \(i.e every thing from your watch to your fridge harvesting data and being connected to some sort of computer network\) and the internet as whole, organizations have the ability to accumulate tons and tons of data. However, like a diamond in the rough : work is needed in order to make sense out of this data. Here data science comes into play. Using mathematical and computational techniques data scientists can make useful connections and observations that can help benefit companies and research organizations.
 
-#### Mission
+### Mission
 
- Here at Bit, we want you take get exposed to the tricks and tools that are actually used in industry-level data science. Moreover, we want to help you learn data science concepts that will help you in both research and industry.
+Here at Bit, we want you take get exposed to the tricks and tools that are actually used in industry-level data science. Moreover, we want to help you learn data science concepts that will help you in both research and industry.
+
+| Topic | Modules |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Topic</th>
-      <th style="text-align:left">Modules</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Computational Social Science with the Twitter API</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Computational Social Science with the Twitter API</th>
+      <th style="text-align:left">
         <ul>
           <li><a href="introduction-to-the-twitter-api.md">Introduction to the Twitter API</a>
           </li>
@@ -47,26 +45,25 @@ With the advent of the "Internet of Things" \(i.e every thing from your watch to
           <li><a href="intro-to-nlp.md">Introduction to Natural Language Processing</a>
           </li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>### Weekly Updates:
-
-#### Current Zoom Meeting Link \(as of 3/19/2020\): N/A
+  </thead>
+  <tbody></tbody>
+</table>### Current Zoom Meeting Link \(as of 3/19/2020\): N/A
 
 | Weekly Meeting Notes | YouTube Link | Weekly Milestone Assignments |
 | :--- | :--- | :--- |
-| N/A | N/A | N/A |
+| [https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20\_AvocadosTeamSync.md](https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20_AvocadosTeamSync.md) | [https://youtu.be/GpbPcpJdAX0](https://youtu.be/GpbPcpJdAX0) | N/A |
 
-### What is Data Science:
-
-_WIP_
-
-### Topics Covered:
+## What is Data Science:
 
 _WIP_
 
-### Putting It All Together:
+## Topics Covered:
+
+_WIP_
+
+## Putting It All Together:
 
 _WIP_
 

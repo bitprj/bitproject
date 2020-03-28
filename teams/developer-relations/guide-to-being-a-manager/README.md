@@ -6,7 +6,7 @@ Reviewers are in charge of **curriculum departments.** Each department is a team
 
 All reviewers will be assigned an issue in the **bitproject** repository, to be completed within _3 days of assignment._
 
-### Pre-approval Checklist 
+### Pre-approval Checklist
 
 * [ ] Confirm modules to be done
 * [ ] Finalize activities, labs and workshop list
@@ -29,11 +29,9 @@ All reviewers will be assigned an issue in the **bitproject** repository, to be 
 
 This checklist will be posted within the issue and should all be completed within 3 days of assignment.
 
-## Weekly Checklist
+## Weekly Manager Checklist
 
-Every week by **Sunday,** reviewers are expected to complete the following:
-
-* [ ] Review developers' work and provide a review according to the **Reviewer Checklist** \(see below\)
+* [ ] Review developers' work and provide a review according to the Pull Request Checklist 
 * [ ] Ensure "first draft" pull requests are in **by Friday**
 * [ ] Pull request to `master` should be in by **Sunday**
 * [ ] Generate issues for the project based on feedback received and progress made the week prior
@@ -41,24 +39,23 @@ Every week by **Sunday,** reviewers are expected to complete the following:
   * [ ] Designate two issues _not being solved_ to be "first timer only" issues
   * [ ] Milestone should be set-up
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
-  * [ ] Ensure General Review Checklist is being updated based on the developers' progress
 * [ ] Adjust timeline in Zenhub Calendar
 
-## Reviewer Checklist
+## Pull Request Checklist
 
-Every week, there are a couple things that every reviewer should take care of for each dev's pull request: 
+Every week, there are a couple essential things that every manager should take care of for each dev's pull request:
 
 * [ ] Spelling and grammar errors fixed
-* [ ] Correct Markdown Formatting
+* [ ] Markdown Formatting
 * [ ] Correctly spaced code snippets
 * [ ] Code style followed
 * [ ] Local images with &lt;img&gt; NOT Markdown 
 * [ ] Splitting Up Cards \(no more than one scroll a card\)
-* [ ] Readability Test: Automated Readability Index result of _9th grade or under_ \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
+* [ ] Readability Test: Automated Readability Index result of 9th grade or under \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
 
-**This checklist should be pasted into each review, and checked off completely by Sunday.** 
+This checklist should be pasted into each review, and checked off completely by Sunday.
 
 ## General Review Checklist 
 
@@ -83,7 +80,6 @@ With regards to this checklist, reviewers should do the following:
 #### Stage 1 - Starting Content
 
 * [ ] High-schooler friendly writing style, easy to understand
-  * [ ] Professional writing
 * [ ] Correct numbering
 * [ ] Every card has code\* 
 * [ ] 1 scroll per card\*\*

@@ -14,4 +14,3 @@
 8. [ ] Give developers time to review and discuss the issues that have been issued to them. They should also be given time to come up with new ideas or more general feedback.Once they are done, they should relay everything to the reviewer. Adjustments to issues\(or goals\) are planned accordingly.
 9. [ ] Future long-term and short-term plans the reviewer has \(beyond the current week\) are addressed. Reviewer asks for feedback.
 10. [ ] Any special events/tasks/etc. \(e.g Town Hall date reminders\) are addressed.
-
