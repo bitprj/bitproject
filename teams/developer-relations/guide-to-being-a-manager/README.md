@@ -41,10 +41,11 @@ This checklist will be posted within the issue and should all be completed withi
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
 * [ ] Adjust timeline in Zenhub Calendar
 
-## "First Draft" Pull Request Checklist
+## Pull Request Checklist
 
-Every week, there are a couple essential things that every manager should take care of for each dev's pull request:
+Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`. 
 
+* [ ] **Branch updated from `master`**
 * [ ] Spelling and grammar errors fixed
 * [ ] Markdown Formatting
 * [ ] Correctly spaced code snippets
@@ -55,15 +56,15 @@ Every week, there are a couple essential things that every manager should take c
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
 * [ ] Specific micro-issues addressed in pull request 
-* [ ] Specific areas addressed in pull request \(from General Development Review Checklist\)
+* [ ] Specific "checkbox" areas addressed in pull request for each activity and lab Epic that was worked on 
+  * from General Development Review Checklist
 * [ ] Pull Request properly named
-  * [ ] \[Activity/Lab Code\] \[Activity/Lab Name\] 
+  * [ ] If manager: \[Activity/Lab Code\] \[Activity/Lab Name\] Week of \*/\*\*: \*Manager Name\*
+  * [ ] If developer: \[Activity/Lab Code\] \[Activity/Lab Name\] Week of \*/\*\*: \*Manager Name\*
+* [ ] Proper Stage Label per the General Development Review Checklist
+* [ ] Proper Project Label
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
-
-## "Final Draft" Pull Request Checklist
-
-Every week by Sunday, managers are expected to complete a pull request to  `master`. 
 
 ## General Development Review Checklist 
 
