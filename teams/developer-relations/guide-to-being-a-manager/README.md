@@ -1,6 +1,6 @@
 # Guide to Being a Manager
 
-Reviewers are in charge of **curriculum departments.** Each department is a team of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
+Reviewers are in charge of **curriculum teams.** Each team consists of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
 ## Starting Off: Receiving Module Assignments
 
@@ -14,7 +14,7 @@ All reviewers will be assigned an issue in the **bitproject** repository, to be 
 
 ### Post-approval Checklist
 
-* [ ] Making Epics in a Project
+* [ ] Making Epics in a Project \[THIS SHOULD BE DONE ASAP post-approval\]
   * [ ] If applicable, make modules as Epics on Zenhub
   * [ ] Post activities, labs and workshops on Zenhub as Epics under the appropriate module
 * [ ] First week's issues \[THIS SHOULD BE DONE ASAP post-approval\]
@@ -31,9 +31,9 @@ This checklist will be posted within the issue and should all be completed withi
 
 ## Weekly Manager Checklist
 
-* [ ] Review developers' work and provide a review according to the Pull Request Checklist 
+* [ ] Review developers' work and provide a review according to the "First Draft" Pull Request Checklist 
 * [ ] Ensure "first draft" pull requests are in **by Friday**
-* [ ] Pull request to `master` should be in by **Sunday**
+* [ ] "Final draft" pull request to `master` should be in by **Sunday**
 * [ ] Generate issues for the project based on feedback received and progress made the week prior
   * [ ] Ensure issues are made and set-up for next week's tasks 
   * [ ] Designate two issues _not being solved_ to be "first timer only" issues
@@ -41,7 +41,7 @@ This checklist will be posted within the issue and should all be completed withi
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
 * [ ] Adjust timeline in Zenhub Calendar
 
-## Pull Request Checklist
+## "First Draft" Pull Request Checklist
 
 Every week, there are a couple essential things that every manager should take care of for each dev's pull request:
 
@@ -54,8 +54,16 @@ Every week, there are a couple essential things that every manager should take c
 * [ ] Readability Test: Automated Readability Index result of 9th grade or under \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
+* [ ] Specific micro-issues addressed in pull request 
+* [ ] Specific areas addressed in pull request \(from General Development Review Checklist\)
+* [ ] Pull Request properly named
+  * [ ] \[Activity/Lab Code\] \[Activity/Lab Name\] 
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
+
+## "Final Draft" Pull Request Checklist
+
+Every week by Sunday, managers are expected to complete a pull request to  `master`. 
 
 ## General Development Review Checklist 
 
@@ -79,16 +87,6 @@ With regards to this checklist, reviewers should do the following:
 
 #### Stage 1 - Starting Content
 
-* [ ] High-schooler friendly writing style, easy to understand
-* [ ] Correct numbering
-* [ ] Every card has code\* 
-  * [ ] Progressing through code should make sense 
-* [ ] 1 scroll per card\*\*
-* [ ] Content of cards make sense
-* [ ] Proper grammar, punctuation, capitalization, etc.
-* [ ] Micro to Macro Principle
-* [ ] Titles for Concepts associated with each Card
-* [ ] Acceptable Styling per the Manager Checklist
 * [ ] High-schooler friendly writing style, easy to understand
 * [ ] Correct numbering
 * [ ] Every card has code\* 
