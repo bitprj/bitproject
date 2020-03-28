@@ -12,26 +12,31 @@ Creating these technical workshops provides students with exposure to programs t
 
 ## Workshop Checklist
 
-* [ ] Stage 1: Workshop Proposal
+### Stage 1: Preparation
+
+* [ ] Step 1: Workshop Proposal
   * [ ] Choose Topic
   * [ ] Key Components Listed
   * [ ] Tentative Dates of Stages with Set Completion Date
   * [ ] Write in a Markdown File
   * [ ] Review with Dev
-* [ ] Stage 2: Interactive Component Idea
+* [ ] Step 2: Interactive Component Idea
   * [ ] Summary of General Idea
   * [ ] Step by Step of How
   * [ ] Write in a Markdown File
   * [ ] Review with Dev
-* [ ] Stage 3: Responsibilities Delegated
+* [ ] Step 3: Responsibilities Delegated
   * [ ] Timeline of Responsibilities with Specified Delegations
   * [ ] Write in a Markdown File
   * [ ] Review with Dev
-* [ ] Stage 4: Presentation Slides Outline
+
+### Stage 2: Slides and Component
+
+* [ ] Step 1: Presentation Slides Outline
   * [ ] Clear Workflow
   * [ ] Provide us with Link
   * [ ] Review with Dev
-* [ ] Stage 5: Completing Slides and Interactive Component 
+* [ ] Step 2: Completing Slides and Interactive Component 
   * [ ] Completed Slides with Presentation Notes 
     * [ ] Peer Reviews
     * [ ] Complete Presentation Check List
@@ -47,13 +52,16 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Script of Presentation
   * [ ] Place is with slide links and GitHub Link
   * [ ] Review with Dev
-* [ ] Stage 6: Presentation Practice
+
+### Stage 3: Presentation
+
+* [ ] Step 1: Presentation Practice
   * [ ] Practice with Team 
   * [ ] Schedule Dry Run with Dev
   * [ ] Inform us of Date
   * [ ] Complete Dry Run with Dev
   * [ ] Practice with Feedback Given
-* [ ] Stage 7: Present to Bit & Organization
+* [ ] Step 2: Present to Bit & Organization
   * [ ] Schedule a date to present your workshop to Bit and your own organization
   * [ ] Inform us of Date
   * [ ] Present to Bit & Organization
