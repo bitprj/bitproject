@@ -59,8 +59,8 @@ Every week, there are a couple essential things that every manager should take c
 * [ ] Specific "checkbox" areas addressed in pull request for each activity and lab Epic that was worked on 
   * from General Development Review Checklist
 * [ ] Pull Request properly named
-  * [ ] If manager: \[Activity/Lab Code\] \[Activity/Lab Name\] Week of \*/\*\*: \*Manager Name\*
-  * [ ] If developer: \[Activity/Lab Code\] \[Activity/Lab Name\] Week of \*/\*\*: \*Manager Name\*
+  * [ ] If manager: \[Module Name\] Week of \*/\*\*: \*Manager Name\*
+  * [ ] If developer: \[Activity/Lab Code\] \[Activity/Lab Name\] Week of \*/\*\*: \*Reviewer Name\*
 * [ ] Proper Stage Label per the General Development Review Checklist
 * [ ] Proper Project Label
 
