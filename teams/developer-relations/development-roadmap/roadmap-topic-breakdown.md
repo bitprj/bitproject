@@ -20,7 +20,7 @@ _**Activities**_
 * Wikipedia Reading
   * Use HTTP get method in order to read and output the lines of a short Wikipedia or Project GutenBerg book/article. 
 * Glorified\(But Polite\) Clock
-  * Use the HTTP client to make a program that outputs (on the CLI) when it receives a get request.
+  * Use the HTTP client to make a program that outputs \(on the CLI\) when it receives a get request.
 
 _**Labs**_
 
@@ -44,32 +44,31 @@ _**Learning Objectives**_
 _**Activities**_
 
 * My Favorite Foods
-  * You will write a Node.js program that creates and populates a MongoDB database with your favorite food’s recipe. Students will also use Stitch to make a alternative verison of the original(showcasing the time saved if they had used Stitch).
-
+  * You will write a Node.js program that creates and populates a MongoDB database with your favorite food’s recipe. Students will also use Stitch to make a alternative verison of the original\(showcasing the time saved if they had used Stitch\).
 * I Feel Like Eating This Today
   * You will write a Node.js program that searches for a specific recipe in your Food database.
 * Changing Taste
-  * You will write a Node.js program that updates your database with new recipes and removes some old ones. You will also put your foods into different categories(using an MongoDB's ORM). They will also utilize MongoDB Atlas to move this database to the cloud!
-
+  * You will write a Node.js program that updates your database with new recipes and removes some old ones. You will also put your foods into different categories\(using an MongoDB's ORM\). They will also utilize MongoDB Atlas to move this database to the cloud!
 * Too Much Flour
   * You will write a Node.js program that returns the average amount of flour used in your recipes\(which are in your database\).
 
 _**Labs**_
 
 * Tweet Up
-  * You are going to write a program that populates a MongoDB database with the tweets of your favorite user and organizes them into different groups using statistics like how many people retweeted a specific tweet and etc. You must use MongoDB's Atlas(for cloud support) and Stitch(for ease of use) for this lab.
+  * You are going to write a program that populates a MongoDB database with the tweets of your favorite user and organizes them into different groups using statistics like how many people retweeted a specific tweet and etc. You must use MongoDB's Atlas\(for cloud support\) and Stitch\(for ease of use\) for this lab.
 * Simple Pokemon Battle
   * You are going to write a program that sets up a MongoDB database with a couple of Pokemon\(grouping them by type\) and makes two random Pokemon fight!
 * GutenBooks
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
-**Topic: Flask**
+## **Topic: Flask**
 
 **Module: Python Flask**
 
 _**Learning Objectives:**_
 
 * Students will learn the purpose and basics of Python Flask.
+* Students will learn what Flask as a microframework is and the role that microframeworks play in web development.
 * Students will learn how to route different pages within their applications using Flask.
 * Students will gain experience with structuring different CRUD operations.
 * Students will use Flask-RESTful to structure their routes for RESTful APIs.
@@ -77,7 +76,7 @@ _**Learning Objectives:**_
 _**Activities:**_
 
 * Flask Intro
-  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
+  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask and microframeworks in web development to get the students going.
 * Portfolio Site
   * Students will learn how to route pages using Flask by building a simple portfolio site and routing the different pages together \(Home, About Me, Resume, etc.\)
 * Book Tracker
@@ -197,11 +196,11 @@ The Blockchain topic is split into five separate modules:
 
 Each module naturally builds off of the prior one in terms of knowledge and activities/labs
 
-_Principles of Blockchain_ clarifies what a Blockchain is, providing an understanding of what it is and how it works. It takes students through a historical walkthrough of the evolution of Blockchain architecture to what it is today, focusing on smart contracts and the ability to execute code on Blockchains themselves. 
+_Principles of Blockchain_ clarifies what a Blockchain is, providing an understanding of what it is and how it works. It takes students through a historical walkthrough of the evolution of Blockchain architecture to what it is today, focusing on smart contracts and the ability to execute code on Blockchains themselves.
 
 _Fundamental Solidity_ picks up from _Principles of Blockchains_ on the subject of smart contracts, introducing students to the nuances of the Ethereum blockchain and Solidity, the programming language used to create them. A development stack is also introduced and used by all subsequent modules.
 
-_Intermediate Solidity_  takes _Fundamental Solidity_  a step further by combining the introductory knowledge of the Solidity programming language with more advanced data types and program structures. Students are also introduced to the core use cases of smart contracts.
+_Intermediate Solidity_ takes _Fundamental Solidity_ a step further by combining the introductory knowledge of the Solidity programming language with more advanced data types and program structures. Students are also introduced to the core use cases of smart contracts.
 
 _Advanced Solidity_ is the apex of the _Solidity_ series \(_Fundamental_ and _Intermediate Solidity\),_ integrating both with the tools needed to manage particularly large and complex contracts, as well as introducing students to pre-existing frameworks and practices to expedite development.
 
