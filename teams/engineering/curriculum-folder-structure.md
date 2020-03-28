@@ -19,7 +19,7 @@ Each folder in the root of the Github repo is going to be a Topic folder which h
 
 #### Example of Topic folder structure
 
-```text
+```
 - Data-Structure-and-Algorithm-Topic
  - README.md
  - images
@@ -27,6 +27,8 @@ Each folder in the root of the Github repo is going to be a Topic folder which h
  - Module1-Intro-to-Data-Structures
  - Module2-Intermediate-Data-Structures
 ```
+
+### 
 
 ### Modules
 
@@ -56,6 +58,8 @@ Each module folder would be inside of a topic folder. Module folders can be plac
  - Activity4-Stacks
 ```
 
+
+
 ### Activities and Labs
 
 #### Naming conventions
@@ -82,14 +86,17 @@ Each Activity/Lab would be inside of a module folder and would have the followin
  - README.md
  - cards
   - 1.md
-    - 2.md
+	- 2.md
  - images
   - image.png
  - checkpoints
   - 1-checkpoint.md
  - student-starter
-    - main.py
+	- main.py
  - tests
   - test1
+
 ```
+
+
 

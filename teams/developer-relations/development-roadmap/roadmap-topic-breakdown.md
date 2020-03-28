@@ -1,38 +1,36 @@
 # Roadmap Topic Breakdown
 
-## 
+## Topic: Version Control 
 
-## **Topic: SQL/SQLAlchemy**
+**Module: Into to Version Control**
 
-**Module: SQL/SQLAlchemy**
+_**Learning Objectives**_
 
-_**Learning Objectives:**_
+* Students will learn the basics of Version Control and its purpose in the context of software development. 
+* Students will be introduced to command line 
+* Students will be introduced to a basic Version Control Systems like Github
+* Students will learn how to use Github and Github desktop
 
-* Students will learn the basics of SQL, its purpose, and how it is different from NoSQL.
-* Students will learn how to use SQLAlchemy to easily implement an SQL database into their Flask applications.
-* Students will learn how to interact with their SQL database through querying objects, deleting objects, etc..
-* Students will learn how to make models and use Flask-Marshmallow to specify the required format of each field.
-* Students will learn the concept of ORM \(object-relational mapping\) with SQL as a technique of converting data between relational data bases as objects in code.
+_**Activities**_ 
 
-_**Activities:**_
+* Git through Command Line 
+  * You will download git to your computer and set it up through command line as well as  learning the basic git command line arguments. 
+* Basics of a Version Control System
+  * You will be introduced to the basics of the Version Control System Github by creating your own account and starting with a sample repo to explore around with. 
+* Getting to Know GitHub Desktop
+  * You will download Github desktop and link it to your Github account and explore the local merges, commits, and pulls
+* Work in Pairs! 
+  * You will work in pairs to discover the usefulness of a Version Control System by collaborating on a sample code by adding files, methods, and variables.
 
-* SQL/SQLAlchemy Basics
-  * Students will learn the basics of SQL and SQLAlchemy through this activity to apply these concepts to the other labs and activities in this module.
-* Classroom Directory
-  * Students will make a simple Flask application and use SQLAlchemy to build a database of students in a particular classroom. There should be POST and DELETE endpoints.
-* Building a School
-  * As an extension of the previous activity, now students will use Flask and Flask-Marshmallow to build out different models for a Student, Teacher, Principle, Janitor, Administrator, etc.
-* Housing Directory:
-  * Now that the student has a school directory, they should create a directory that contains all the information about each person at the school’s housing information; the databases should then be related.
+_**Labs**_
 
-_**Labs:**_
+* Create Your Own Repository
+  * You will create your own Repository and upload your own projects and set up issues that need to be addressed. 
+* Work on an Issue
 
-* Flask Election App:
-  * Students should make a simple Flask App that is capable of storing information about different candidates in an election. This application must support the CRUD operations and students will use models and Flask-Marshmallow to specify the type of data being stored.
-* Recipe Application:
-  * Students will alter the recipe application they built in the Flask module to now  use a SQLAlchemy database rather than a native dictionary. This application will require the student to query the database, create Flask-Marshmallow models, and implement the CRUD operations.
+  * You will practice working on an issue of a sample repo through GitHub Desktop and make commits locally as well as making a pull request through Github. 
 
-## Topic: Python
+## Topic: Node.JS
 
 **Module: Intro to Node.JS**
 
@@ -93,14 +91,13 @@ _**Labs**_
 * GutenBooks
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
-## **Topic: Flask**
+**Topic: Flask**
 
 **Module: Python Flask**
 
 _**Learning Objectives:**_
 
 * Students will learn the purpose and basics of Python Flask.
-* Students will learn what Flask as a microframework is and the role that microframeworks play in web development.
 * Students will learn how to route different pages within their applications using Flask.
 * Students will gain experience with structuring different CRUD operations.
 * Students will use Flask-RESTful to structure their routes for RESTful APIs.
@@ -108,7 +105,7 @@ _**Learning Objectives:**_
 _**Activities:**_
 
 * Flask Intro
-  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask and microframeworks in web development to get the students going.
+  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
 * Portfolio Site
   * Students will learn how to route pages using Flask by building a simple portfolio site and routing the different pages together \(Home, About Me, Resume, etc.\)
 * Book Tracker
@@ -387,55 +384,53 @@ _**Labs**_
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
-**Module: GraphQL**
-_**Learning Objectives**_
+**Module: GraphQL** _**Learning Objectives**_
 
- * Students will have an understanding of GraphQL and how to query/insert/Mutate through data
- * Students will be able to integrate GraphQL into their applications
- * Students will be able to use GraphiQL and GraphQL playground
- * Schema and JSON/SDL formatting
- 
+* Students will have an understanding of GraphQL and how to query/insert/Mutate through data
+* Students will be able to integrate GraphQL into their applications
+* Students will be able to use GraphiQL and GraphQL playground
+* Schema and JSON/SDL formatting
+
 _**Activities**_
 
- * Query though a blog entry
-   * Students will query though blog posts that can display various data
- * Send mutations to database to store entries using GraphQL
-   * Students will be able to insert and add to database
- * Relationships with GraphQL
-   * Students will be link between various databases
- * Labs ( Hard to design because GraphQL is not standalone. It needs to be an extension off of existing knowledge)
+* Query though a blog entry
+  * Students will query though blog posts that can display various data
+* Send mutations to database to store entries using GraphQL
+  * Students will be able to insert and add to database
+* Relationships with GraphQL
+  * Students will be link between various databases
+* Labs \( Hard to design because GraphQL is not standalone. It needs to be an extension off of existing knowledge\)
 
 _**Labs**_
- * Use GraphQL in a blog
-   * Use GraphQL to filter through a list in a blog posts
 
-**Module: Static Site Generators**
-_**Learning Objectives**_
+* Use GraphQL in a blog
+  * Use GraphQL to filter through a list in a blog posts
 
- * Students will learn about Static Sites Generators and how they can be useful
- * Students will learn about GatsbyJS and NextJS and how to use them to generate a website
- * Students will learn about the various plugins associated with both generators
-_**Activities**_
+**Module: Static Site Generators** _**Learning Objectives**_
 
- * When to use GatsbyJS vs NodeJS?
-   * Students will learn the advantages of using GatsbyJS and NodeJS such as how
- * Students will learn the purposes of Static Site Generators
-   * Gatsby Plugins
- * Students will integrate various API's
-   * GraphQL, Algolia will be gone over and their respective plugins
- * NextJS functionality
-   * TBD
-   
+* Students will learn about Static Sites Generators and how they can be useful
+* Students will learn about GatsbyJS and NextJS and how to use them to generate a website
+* Students will learn about the various plugins associated with both generators _**Activities**_
+* When to use GatsbyJS vs NodeJS?
+  * Students will learn the advantages of using GatsbyJS and NodeJS such as how
+* Students will learn the purposes of Static Site Generators
+  * Gatsby Plugins
+* Students will integrate various API's
+  * GraphQL, Algolia will be gone over and their respective plugins
+* NextJS functionality
+  * TBD
+
 _**Labs**_
 
- * Build a Blog
-   * Students will use a GatsbyJS to build a functional blog
- * Build a React App with NextJS
-   * TBD
-   
+* Build a Blog
+  * Students will use a GatsbyJS to build a functional blog
+* Build a React App with NextJS
+  * TBD
+
 _**Modules Required**_
 
- * React
- * GraphQL
- * CSS/HTML
- * JS
+* React
+* GraphQL
+* CSS/HTML
+* JS
+
