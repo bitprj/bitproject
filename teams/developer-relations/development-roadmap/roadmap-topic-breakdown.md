@@ -61,13 +61,14 @@ _**Labs**_
 * GutenBooks
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
-**Topic: Flask**
+## **Topic: Flask**
 
 **Module: Python Flask**
 
 _**Learning Objectives:**_
 
 * Students will learn the purpose and basics of Python Flask.
+* Students will learn what Flask as a microframework is and the role that microframeworks play in web development.
 * Students will learn how to route different pages within their applications using Flask.
 * Students will gain experience with structuring different CRUD operations.
 * Students will use Flask-RESTful to structure their routes for RESTful APIs.
@@ -75,7 +76,7 @@ _**Learning Objectives:**_
 _**Activities:**_
 
 * Flask Intro
-  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
+  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask and microframeworks in web development to get the students going.
 * Portfolio Site
   * Students will learn how to route pages using Flask by building a simple portfolio site and routing the different pages together \(Home, About Me, Resume, etc.\)
 * Book Tracker
