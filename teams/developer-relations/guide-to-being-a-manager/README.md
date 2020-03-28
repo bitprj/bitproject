@@ -70,6 +70,8 @@ This checklist should be pasted into each review, and checked off completely by 
 
 The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
 
+This checklist should be maintained and updated 
+
 #### Checklist for Devs
 
 Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly.
@@ -97,15 +99,10 @@ With regards to this checklist, reviewers should do the following:
 * [ ] Micro to Macro Principle
 * [ ] Titles for Concepts associated with each Card
 * [ ] Acceptable Styling per the Manager Checklist
-* [ ] High-schooler friendly writing style, easy to understand
-* [ ] Correct numbering
-* [ ] Every card has code\* 
-* [ ] 1 scroll per card\*\*
-* [ ] Content of cards make sense
-* [ ] Proper grammar, punctuation, capitalization, etc.
-* [ ] Micro to Macro Principle
-* [ ] Titles for Concepts associated with each Card
-* [ ] Acceptable Styling per the Manager Checklist
+
+\*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
+
+\*\* If you have to scroll more than once to view the whole card, the card is too long
 
 #### Stage 1 - Lab Addendum
 
@@ -124,10 +121,6 @@ With regards to this checklist, reviewers should do the following:
 * [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
 * [ ] All concepts fleshed out
 * [ ] Acceptable Styling per the Manager Checklist
-
-\*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
-
-\*\* If you have to scroll more than once to view the whole card, the card is too long
 
 #### Stage 2 - Lab Addendum
 
@@ -159,4 +152,11 @@ With regards to this checklist, reviewers should do the following:
 * [ ] Gem Amounts 
   * Labs: calculated using John's Code 
   * Activities: Predetermined amounts
+* [ ] Have curriculum proofread by writing team \(currently Victoria Xu @vkxu657\)
+
+
+
+
+
+
 
