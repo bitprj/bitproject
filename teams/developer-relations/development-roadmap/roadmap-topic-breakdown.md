@@ -355,3 +355,55 @@ _**Labs**_
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
+**Module: GraphQL**
+_**Learning Objectives**_
+
+ * Students will have an understanding of GraphQL and how to query/insert/Mutate through data
+ * Students will be able to integrate GraphQL into their applications
+ * Students will be able to use GraphiQL and GraphQL playground
+ * Schema and JSON/SDL formatting
+ 
+_**Activities**_
+
+ * Query though a blog entry
+   * Students will query though blog posts that can display various data
+ * Send mutations to database to store entries using GraphQL
+   * Students will be able to insert and add to database
+ * Relationships with GraphQL
+   * Students will be link between various databases
+ * Labs ( Hard to design because GraphQL is not standalone. It needs to be an extension off of existing knowledge)
+
+_**Labs**_
+ * Use GraphQL in a blog
+   * Use GraphQL to filter through a list in a blog posts
+
+**Module: Static Site Generators**
+_**Learning Objectives**_
+
+ * Students will learn about Static Sites Generators and how they can be useful
+ * Students will learn about GatsbyJS and NextJS and how to use them to generate a website
+ * Students will learn about the various plugins associated with both generators
+_**Activities**_
+
+ * When to use GatsbyJS vs NodeJS?
+   * Students will learn the advantages of using GatsbyJS and NodeJS such as how
+ * Students will learn the purposes of Static Site Generators
+   * Gatsby Plugins
+ * Students will integrate various API's
+   * GraphQL, Algolia will be gone over and their respective plugins
+ * NextJS functionality
+   * TBD
+   
+_**Labs**_
+
+ * Build a Blog
+   * Students will use a GatsbyJS to build a functional blog
+ * Build a React App with NextJS
+   * TBD
+   
+_**Modules Required**_
+
+ * React
+ * GraphQL
+ * CSS/HTML
+ * JS
