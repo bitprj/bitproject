@@ -1,5 +1,36 @@
 # Roadmap Topic Breakdown
 
+## Topic: Version Control 
+
+**Module: Intro to Version Control**
+
+_**Learning Objectives**_
+
+* Students will learn the basics of Version Control and its purpose in the context of software development. 
+* Students will be introduced to command line 
+* Students will be introduced to a basic Version Control Systems like Github
+* Students will learn how to use Github and Github desktop
+
+_**Activities**_ 
+
+* Git through Command Line 
+  * You will download git to your computer and set it up through command line as well as  learning the basic git command line arguments. 
+* Basics of a Version Control System
+  * You will be introduced to the basics of the Version Control System Github by creating your own account and starting with a sample repo to explore around with. 
+* Getting to Know GitHub Desktop
+  * You will download Github desktop and link it to your Github account and explore the local merges, commits, and pulls
+* Work in Pairs! 
+  * You will work in pairs to discover the usefulness of a Version Control System by collaborating on a sample code by adding files, methods, and variables.
+
+_**Labs**_
+
+* Create Your Own Repository
+  * You will create your own Repository and upload your own projects and set up issues that need to be addressed. 
+* Work on an Issue
+
+  * You will practice working on an issue of a sample repo through GitHub Desktop and make commits locally as well as making a pull request through Github. 
+
+
 ## **Topic: SQL/SQLAlchemy**
 
 **Module: SQL/SQLAlchemy**
@@ -30,7 +61,7 @@ _**Labs:**_
 * Recipe Application:
   * Students will alter the recipe application they built in the Flask module to now  use a SQLAlchemy database rather than a native dictionary. This application will require the student to query the database, create Flask-Marshmallow models, and implement the CRUD operations.
 
-## Topic: Python
+## Topic: Node.JS
 
 **Module: Intro to Node.JS**
 
@@ -91,14 +122,13 @@ _**Labs**_
 * GutenBooks
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
-## **Topic: Flask**
+**Topic: Flask**
 
 **Module: Python Flask**
 
 _**Learning Objectives:**_
 
 * Students will learn the purpose and basics of Python Flask.
-* Students will learn what Flask as a microframework is and the role that microframeworks play in web development.
 * Students will learn how to route different pages within their applications using Flask.
 * Students will gain experience with structuring different CRUD operations.
 * Students will use Flask-RESTful to structure their routes for RESTful APIs.
@@ -106,7 +136,7 @@ _**Learning Objectives:**_
 _**Activities:**_
 
 * Flask Intro
-  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask and microframeworks in web development to get the students going.
+  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
 * Portfolio Site
   * Students will learn how to route pages using Flask by building a simple portfolio site and routing the different pages together \(Home, About Me, Resume, etc.\)
 * Book Tracker

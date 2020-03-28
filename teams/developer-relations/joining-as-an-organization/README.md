@@ -72,9 +72,9 @@ Creating these technical workshops provides students with exposure to programs t
 
 **\*Ideal to complete this process within 3 weeks for a 4 person team.**
 
-During the first meeting of receiving this assignment, you will be invited to the BitProject GitBook. Please sign up for GitBooks at gitbook.com. To find your designated page, go to Developer Relations under Teams. In the drop down, select Joining as an Organization and then your designated page.
+### Placing your work in GitBook.
 
-Place your work in its marked locations. After every edit, you are making a new draft. You must click "save" at the bottom left corner. Then click "merge" to have your edits displayed on the official page.
+During the first meeting of receiving this assignment, you will be invited to the BitProject GitBook. Please sign up for GitBooks at gitbook.com. To find your designated page, go to Developer Relations under Teams. In the drop down, select Joining as an Organization and then your designated page.
 
 Place your work in its marked locations. After every edit, you are making a new draft. You must click "save" at the bottom left corner. Then click "merge" to have your edits displayed on the official page.
 

@@ -1,10 +1,8 @@
 # README Formats
 
-## README Formats
+## Topic README Format
 
-### Topic README Format
-
-#### Github id \(This is required\)
+### Github id \(This is required\)
 
 Each topic needs a github\_id so that the server knows it is unique. The word "github\_id" should be in a markdown h1 tag like below:
 
@@ -13,7 +11,7 @@ Each topic needs a github\_id so that the server knows it is unique. The word "g
 1
 ```
 
-#### Name \(This is required\)
+### Name \(This is required\)
 
 Each Topic needs a name field. The word "name" should be in markdown h1 tag like below:
 
@@ -22,16 +20,16 @@ Each Topic needs a name field. The word "name" should be in markdown h1 tag like
 Postman Topic
 ```
 
-#### Description \(This is required\)
+### Description \(This is required\)
 
 Each Topic has a description field to describe what the topic will accomplish. The word "description" should be in markdown h1 tag like below:
 
 ```text
 # description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum 
 ```
 
-#### Image \(This is required\)
+### Image \(This is required\)
 
 Each Topic has an image field. The word "image" should be in markdown h1 tag while the image url must be in an img tag:
 
@@ -40,7 +38,7 @@ Each Topic has an image field. The word "image" should be in markdown h1 tag whi
 <img src="images/dee.jpg">
 ```
 
-#### Image Folder \(This is required\)
+### Image Folder \(This is required\)
 
 Each Topic needs to point to an image folder where the image is being used. The word "image\_folder" should be in a markdown h1 tag like below:
 
@@ -49,7 +47,7 @@ Each Topic needs to point to an image folder where the image is being used. The 
 /Topic_Postman/
 ```
 
-#### Modules \(This is not required\)
+### Modules \(This is not required\)
 
 Each Topic has modules. To add modules to a topic, add the module's github\_ids in a list. Add the word "modules" in a markdown h1 tag and then add the github\_ids in a list with \*'s:
 
@@ -58,7 +56,7 @@ Each Topic has modules. To add modules to a topic, add the module's github\_ids 
 * 5
 ```
 
-#### Topic README Example
+### Topic README Example
 
 ```text
 # github_id
@@ -80,9 +78,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * 5
 ```
 
-### Module README Format
 
-#### Github id \(This is required\)
+
+## Module README Format
+
+### Github id \(This is required\)
 
 Each module needs a github\_id so that the server knows it is unique. The word "github\_id" should be in a markdown h1 tag like below:
 
@@ -91,7 +91,7 @@ Each module needs a github\_id so that the server knows it is unique. The word "
 1
 ```
 
-#### Name \(This is required\)
+### Name \(This is required\)
 
 Each Module needs a name field. The word "name" should be in markdown h1 tag like below:
 
@@ -100,16 +100,16 @@ Each Module needs a name field. The word "name" should be in markdown h1 tag lik
 Some Module 2
 ```
 
-#### Description \(This is required\)
+### Description \(This is required\)
 
 Each Module has a description field to describe what the module will accomplish. The word "description" should be in markdown h1 tag like below:
 
 ```text
 # description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum 
 ```
 
-#### Gems\_needed \(This is required\)
+### Gems\_needed \(This is required\)
 
 Each Module has a gems\_needed field which is the number of gems needed to complete this module. The word "gems\_needed" should be in markdown h1 tag like below:
 
@@ -120,7 +120,7 @@ Each Module has a gems\_needed field which is the number of gems needed to compl
 0
 ```
 
-#### Image \(This is required\)
+### Image \(This is required\)
 
 Each Module has an image field. The word "image" should be in markdown h1 tag while the image url should be put in an img tag:
 
@@ -129,7 +129,7 @@ Each Module has an image field. The word "image" should be in markdown h1 tag wh
 <img src="images/dee.jpg">
 ```
 
-#### Image Folder \(This is required\)
+### Image Folder \(This is required\)
 
 Each Module needs to point to an image folder where the image is being used. The word "image\_folder" should be in a markdown h1 tag like below:
 
@@ -138,7 +138,7 @@ Each Module needs to point to an image folder where the image is being used. The
 Topic_1/Module2_test/
 ```
 
-#### Final Example
+### Final Example
 
 ```text
 # github_id
@@ -160,9 +160,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Topic_1/Module2_test/
 ```
 
-### Activity/Lab README Format
 
-#### Github id \(This is required\)
+
+## Activity/Lab README Format
+
+### Github id \(This is required\)
 
 Each activity needs a github\_id so that the server knows it is unique. The word "github\_id" should be in a markdown h1 tag like below:
 
@@ -171,7 +173,7 @@ Each activity needs a github\_id so that the server knows it is unique. The word
 1
 ```
 
-#### Name \(This is required\)
+### Name \(This is required\)
 
 Each Activity/Lab needs a name field. The word "name" should be in markdown h1 tag like below:
 
@@ -180,7 +182,7 @@ Each Activity/Lab needs a name field. The word "name" should be in markdown h1 t
 Some Activity
 ```
 
-#### Description \(This is required\)
+### Description \(This is required\)
 
 Each Activity/Lab has a description field to describe what the activity will accomplish. The word "description" should be in markdown h1 tag like below:
 
@@ -189,16 +191,16 @@ Each Activity/Lab has a description field to describe what the activity will acc
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
 ```
 
-#### Summary \(This is required\)
+### Summary \(This is required\)
 
 Each Activity/Lab has a summary field to describe what the activity will accomplish in depth. The word "summary" should be in markdown h1 tag like below:
 
 ```text
 # summary
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum 
 ```
 
-#### Difficulty \(This is required\)
+### Difficulty \(This is required\)
 
 Each Activity/Lab needs a Difficulty field to indicate how hard the Activity/Lab is for the user. Add the "word" difficulty in a markdown h1 tag, and put the difficulty under it:
 
@@ -213,7 +215,7 @@ Types of Difficulty:
 Hard
 ```
 
-#### Image \(This is required\)
+### Image \(This is required\)
 
 Each Activity has an image field. The word "image" should be in markdown h1 tag like below:
 
@@ -222,7 +224,7 @@ Each Activity has an image field. The word "image" should be in markdown h1 tag 
 <img src="images/bandanna.jpg">
 ```
 
-#### Image Folder \(This is required\)
+### Image Folder \(This is required\)
 
 Each Activity needs to point to an image folder where the image is being used. The word "image\_folder" should be in a markdown h1 tag like below:
 
@@ -231,11 +233,11 @@ Each Activity needs to point to an image folder where the image is being used. T
 Topic1/Module2_test/Activity_4/
 ```
 
-#### Cards
+### Cards
 
 The cards fields is used to indicate the name of the card, order in which the card is shown and number of gems that the card has.
 
-**Cards \(This is required\)**
+#### Cards \(This is required\)
 
 To define cards in an Activity, you have to have the word "cards" in a markdown h1 tag. This is used to tell the server where the cards are:
 
@@ -243,7 +245,7 @@ To define cards in an Activity, you have to have the word "cards" in a markdown 
 # cards
 ```
 
-**Card Key \(This is required\)**
+#### Card Key \(This is required\)
 
 Each card you define in the Activity README, must have a corresponding filename as its key. For example if a card/hint was named [1.md](http://1.md) then its key would be 1. The card key must be placed in a markdown h2 tag like below:
 
@@ -251,7 +253,7 @@ Each card you define in the Activity README, must have a corresponding filename 
 ## 1
 ```
 
-**Card Name \(This is required\)**
+#### Card Name \(This is required\)
 
 Each card has a name field. Each name should be in a markdown h3 tag like below:
 
@@ -260,7 +262,7 @@ Each card has a name field. Each name should be in a markdown h3 tag like below:
 Card 1 Github
 ```
 
-**Card Order \(This is required\)**
+#### Card Order \(This is required\)
 
 Each card has an order field. The order is the last digit of the card key. If a card had a key of 1-2, then the order for that card would be 2. The order of a card is the order in which each card is displayed. Each name should be in a markdown h3 tag like below:
 
@@ -269,7 +271,7 @@ Each card has an order field. The order is the last digit of the card key. If a 
 2
 ```
 
-**Card Gems \(This is required\)**
+#### Card Gems \(This is required\)
 
 Each card has a gems field. The gems fields is used to indicate the number of gems earned when opening a card. If this for a medium/easy card, this field is for the amount of gems a student would lose for using the medium/easy card. Each name should be in a markdown h3 tag like below:
 
@@ -278,7 +280,7 @@ Each card has a gems field. The gems fields is used to indicate the number of ge
 300
 ```
 
-**Card Concepts \(Concepts only apply to hard cards, not medium or easy cards\)**
+#### Card Concepts \(Concepts only apply to hard cards, not medium or easy cards\)
 
 To give a card concepts, write the word "concepts" in a markdown h3 tag and list out the name of the concepts in \* like below:
 
@@ -292,7 +294,7 @@ To give a card concepts, write the word "concepts" in a markdown h3 tag and list
 
 ```text
 # cards
-
+ 
 ## 1
 
 ### name
@@ -375,7 +377,7 @@ Bleh Card 131 Github
 300
 ```
 
-#### Final Example
+### Final Example
 
 ```text
 # github_id
@@ -424,9 +426,11 @@ Medium Card
 100
 ```
 
-### Hint Format \(Medium/Easy Card\)
 
-#### Image Folder \(This is required\)
+
+## Hint Format \(Medium/Easy Card\)
+
+### Image Folder \(This is required\)
 
 Each Hint \(easy or medium card\) needs to point to an image folder where the image is being used. The word "image\_folder" should be in a markdown h1 tag like below:
 
@@ -435,7 +439,7 @@ Each Hint \(easy or medium card\) needs to point to an image folder where the im
 Topic1/Module2_test/Activity_7/cards
 ```
 
-#### Start of the Steps
+### Start of the Steps
 
 You must include the word "steps" in a markdown h1 tag so the sever knows when the steps start like below:
 
@@ -443,7 +447,7 @@ You must include the word "steps" in a markdown h1 tag so the sever knows when t
 # steps
 ```
 
-#### Step Key \(This is required\)
+### Step Key \(This is required\)
 
 Next you **must** include the step key so the server can keep track of the steps. The Step key should be the hint name along with the step number in a markdown h1 tag like this:
 
@@ -451,53 +455,44 @@ Next you **must** include the step key so the server can keep track of the steps
 ## 1-2-1 Step 1
 ```
 
-#### Step name \(This is required\)
+### Step name \(This is required\)
 
 Under the hint name, you have to give the step a name with a markdown h2 tag. **Please put the contents of name in a code block.** It should look something like this:
 
 ```text
 ### name
 ```
-
 How to install VSCode
-
-```text
-
+```
 ```
 
-#### Md\_content \(This is required\)
+### Md\_content \(This is required\)
 
 To include the md\_content for the step, give the md\_content with a markdown h2 tag. **Please put the contents of md\_content in a code block.** It should look something like this:
 
 ```text
 ### md_content
 ```
-
-## Hello world in js
-
+# Hello world in js
 This is how you do **it**
-
-```text
-
+```
 ```
 
-#### Optional Fields
+### Optional Fields
 
-#### Code Snippet
+### Code Snippet
 
 To include the code snippet for the step, give the code snippet with a markdown h2 tag. **Please put the contents of the code in a code block.** It should look something like this:
 
 ```text
 ### code_snippet
 ```
-
-def pls\_work\(\): return True... maybe
-
-```text
-
+def pls_work():
+    return True... maybe
+```
 ```
 
-#### Image
+### Image
 
 To include an image for a step, you need to put a h2 markdown tag and assign it to "image"
 
@@ -506,7 +501,7 @@ To include an image for a step, you need to put a h2 markdown tag and assign it 
 <img src="images/bandanna.jpg">
 ```
 
-#### Final Example:
+### Final Example:
 
 Note: You can always add more steps as long as you follow the above syntax.
 
@@ -520,31 +515,30 @@ Topic1/Module2_test/Activity_7/cards
 
 ### name
 ```
-
 How to install VSCode
+```
 
-```text
 ### md_content
 ```
-
-## Hello world in js
-
+# Hello world in js
 This is how you do **it**
-
-```text
-### code_snippet
 ```
 
-def pls\_work\(\): return True... maybe
+### code_snippet
+```
+def pls_work():
+    return True... maybe
+```
 
-```text
 ### image
 <img src="images/bandanna.jpg">
 ```
 
-### Concept Format
 
-#### Concept Name \(This is required\)
+
+## Concept Format
+
+### Concept Name \(This is required\)
 
 Each concept needs a name. The name should be in a h1 tag like below:
 
@@ -553,7 +547,7 @@ Each concept needs a name. The name should be in a h1 tag like below:
 Concept name
 ```
 
-#### Image Folder \(This is required\)
+### Image Folder \(This is required\)
 
 Each Concept needs to point to an image folder where the image is being used. The image\_folder should be in a markdown h1 tag like below:
 
@@ -562,7 +556,7 @@ Each Concept needs to point to an image folder where the image is being used. Th
 Topic1/Module2_test/concepts/
 ```
 
-#### Step Key \(This is required\)
+### Step Key \(This is required\)
 
 Next you **must** include the step key so the server can keep track of the steps. The Step key should be the concept name along with the step number in a markdown h1 tag like this:
 
@@ -570,53 +564,44 @@ Next you **must** include the step key so the server can keep track of the steps
 # concept_name Step 1
 ```
 
-#### Step name \(This is required\)
+### Step name \(This is required\)
 
 Under the hint name, you have to give the step a name with a markdown h2 tag. **Please put the contents of name in a code block.** It should look something like this:
 
 ```text
 ## name
 ```
-
 How to install VSCode
-
-```text
-
+```
 ```
 
-#### Md\_content \(You need to include this for each step\)
+### Md\_content \(You need to include this for each step\)
 
 To include the md\_content for the step, give the md\_content with a markdown h2 tag. **Please put the contents of md\_content in a code block.** It should look something like this:
 
 ```text
 ## md_content
 ```
-
-## Hello world in js
-
+# Hello world in js
 This is how you do **it**
-
-```text
-
+```
 ```
 
-#### Optional Fields
+### Optional Fields
 
-#### Code Snippet
+### Code Snippet
 
 To include the code snippet for the step, give the code snippet with a markdown h2 tag. **Please put the contents of the code in a code block.** It should look something like this:
 
 ```text
 ## code_snippet
 ```
-
-def pls\_work\(\): return True... maybe
-
-```text
-
+def pls_work():
+    return True... maybe
+```
 ```
 
-#### Image
+### Image
 
 To include an image for a step, you need to put a h2 markdown tag and assign it to "image"
 
@@ -625,7 +610,7 @@ To include an image for a step, you need to put a h2 markdown tag and assign it 
 <img src="dee.jpg">
 ```
 
-#### Final Example:
+### Final Example:
 
 Note: You can always add more steps as long as you follow the above syntax.
 
@@ -640,35 +625,34 @@ Topic1/Module2_test/concepts/
 
 ## name
 ```
-
 How to install VSCode
+```
 
-```text
 ## md_content
 ```
-
-## Hello world in js
-
+# Hello world in js
 This is how you do **it**
-
-```text
-## code_snippet
 ```
 
-def pls\_work\(\): return True... maybe
+## code_snippet
+```
+def pls_work():
+    return True... maybe
+```
 
-```text
 ## image
 <img src="dee.jpg">
 ```
 
-### Checkpoint Format
 
-#### Name of the file
+
+## Checkpoint Format
+
+### Name of the file
 
 For the file name, name it the card that you want it to be associated with. So if you wanted to create a checkpoint for [1.md](http://1.md), you would name the checkpoint file "[1-checkpoint.md](http://1-checkpoint.md)"
 
-#### Name \(This is required\)
+### Name \(This is required\)
 
 This is the name of the checkpoint. Put the word "name" in a markdown h1 tag. Put the name of the checkpoint under the h1 tag like so:
 
@@ -677,7 +661,7 @@ This is the name of the checkpoint. Put the word "name" in a markdown h1 tag. Pu
 Code Check in
 ```
 
-#### Cards Folder \(This is required\)
+### Cards Folder \(This is required\)
 
 This is the folder on where the cards are located. Put the word "cards\_folder" in a markdown h1 tag. Put the card folder path under the h1 tag like so:
 
@@ -686,7 +670,7 @@ This is the folder on where the cards are located. Put the word "cards\_folder" 
 Topic1/Module7/Activity_13/cards/
 ```
 
-#### Checkpoint Type \(This is required\)
+### Checkpoint Type \(This is required\)
 
 This is to define the type of checkpoint. Put the word checkpoint\_type in a markdown h1 tag.
 
@@ -703,7 +687,7 @@ Checkpoints could be **ONE** of the following:
 Video
 ```
 
-#### Instruction \(This is required\)
+### Instruction \(This is required\)
 
 This is what you would tell the user to do for a checkpoint. Put the word instruction in a markdown h1 tag. Put the instruction content under the h1 tag like so:
 
@@ -712,9 +696,9 @@ This is what you would tell the user to do for a checkpoint. Put the word instru
 Submit a photo your Minsweeper code working
 ```
 
-#### Other Fields
+### Other Fields
 
-#### Criteria \(This is required for Video and Image Checkpoints\)
+### Criteria \(This is required for Video and Image Checkpoints\)
 
 Criteria is a rubric for TA's to grade a student's Image or Video Checkpoint.
 
@@ -731,7 +715,7 @@ After that you can list each criteria in a markdown h2 tag with a number at the 
 Does the student's board look like this:
 ```
 
-#### Multiple Choice \(This is required for Multiple Choice Checkpoints\)
+### Multiple Choice \(This is required for Multiple Choice Checkpoints\)
 
 You must declare where the choices for the checkpoint would begin. You would do this by putting the words mc\_choices in a markdown h1 tag like so:
 
@@ -745,7 +729,7 @@ Next you would define each choice in a markdown h2 tag with a number at the end 
 ## choice_1
 ```
 
-#### Files to send \(This is required for Autograder Checkpoint\)
+### Files to send \(This is required for Autograder Checkpoint\)
 
 These are the files that the student will submit if the student chooses to submit through their code to the cli.
 
@@ -754,7 +738,7 @@ These are the files that the student will submit if the student chooses to submi
 main.py class1.py class2.py
 ```
 
-#### Test file location \(This is required for Autograder Checkpoint\)
+### Test file location \(This is required for Autograder Checkpoint\)
 
 This field is used to tell where the test case folder is for the checkpoint.
 
@@ -763,9 +747,9 @@ This field is used to tell where the test case folder is for the checkpoint.
 Topic1/Module7/Activity_13/Tests/test_1
 ```
 
-### Checkpoint Examples
+## Checkpoint Examples
 
-#### Video/Image
+### Video/Image
 
 ```text
 # name
@@ -789,7 +773,7 @@ Does the student's board look like this?
 Does the student's code print the board out?
 ```
 
-#### Short Answer
+### Short Answer
 
 ```text
 # name
@@ -805,7 +789,7 @@ Short Answer
 Submit a photo your Minsweeper code working
 ```
 
-#### Multiple Choice
+### Multiple Choice
 
 ```text
 # name
@@ -835,7 +819,7 @@ printf()
 print()
 ```
 
-#### Autograder
+### Autograder
 
 ```text
 # name
@@ -857,11 +841,13 @@ main.py class1.py class2.py
 Topic1/Module7/Activity_13/Tests/test_1
 ```
 
-### Test Cases Format
+
+
+## Test Cases Format
 
 **Note: All test case files must end with .test**
 
-#### File formating
+### File formating
 
 If you have multiple test cases they should have a number at the end of it like below:
 
@@ -877,7 +863,7 @@ If you have input files, then make sure that their name as .txt. **They should b
 * input2.txt
 * input3.txt
 
-#### Name
+### Name
 
 Each test case file must have a name on the first line like so:
 
@@ -914,7 +900,7 @@ Mines: 10
 Uh oh! You blew up!
 ```
 
-#### Inputs
+### Inputs
 
 To write test cases, you must type "&gt;&gt;&gt;" followed by the name of the function that you wish to test on. Since you will mostly be testing the main function it would look like the following:
 
@@ -922,7 +908,7 @@ To write test cases, you must type "&gt;&gt;&gt;" followed by the name of the fu
 >>> main()
 ```
 
-#### Outputs
+### Outputs
 
 Right after the declaring the function that you want to test, you would put the output right below it like so:
 
@@ -931,13 +917,13 @@ Right after the declaring the function that you want to test, you would put the 
 Hello World!
 ```
 
-#### Handling User Input
+### Handling User Input
 
 If your program needs user input, then you must include the following Python file
 
 [https://gist.github.com/wongband/597c126217a306ca4770931680417faa](https://gist.github.com/wongband/597c126217a306ca4770931680417faa)
 
-For the input.txt files add the input that want to put for the corresponding test file. For example, if you have input1.txt then that should correspond as the input for minesweeper1.test.
+For the input.txt files add the input that want to put for the corresponding test file. For example, if you have input1.txt then that should correspond as the input for minesweeper1.test. 
 
 Since the minesweeper1.test lab needs to have the input of 42, all we have to do is create an input1.txt with 42 in it. **Do not put a new line if your program does not output a newline.**
 
@@ -945,7 +931,7 @@ Since the minesweeper1.test lab needs to have the input of 42, all we have to do
 42
 ```
 
-#### Minesweeper Example
+### Minesweeper Example
 
 Below is the minesweeper1.test file. In this case we target the main function while passing the number 2 to it. Below that function, the output is the board and a prompt for the user input.
 
