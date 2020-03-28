@@ -14,7 +14,7 @@ Creating these technical workshops provides students with exposure to programs t
 
 ### Stage 1: Preparation
 
-* [ ] Step 1: Workshop Proposal
+* [ ] Step 1: Workshop Proposal 
   * [ ] Choose Topic
   * [ ] Key Components Listed
   * [ ] Tentative Dates of Stages with Set Completion Date
@@ -68,7 +68,9 @@ Creating these technical workshops provides students with exposure to programs t
 
 ## Workshop Checklist Breakdown
 
-**\*After every stage, you must checkin with your assigned Dev and send in a Markdown File of your work.\***
+**\*After every stage, you must checkin with your assigned Dev and send in a Markdown File of your work.**
+
+**\*Ideal to complete this process within 3 weeks for a 4 person team.** 
 
 ### Placing your work in GitBook.
 
