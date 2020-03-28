@@ -31,7 +31,7 @@ This checklist will be posted within the issue and should all be completed withi
 
 ## Weekly Manager Checklist
 
-* [ ] Review developers' work and provide a review according to the "First Draft" Pull Request Checklist 
+* [ ] Review developers' work and provide a review according to the Pull Request Checklist 
 * [ ] Ensure "first draft" pull requests are in **by Friday**
 * [ ] "Final draft" pull request to `master` should be in by **Sunday**
 * [ ] Generate issues for the project based on feedback received and progress made the week prior
@@ -153,10 +153,4 @@ With regards to this checklist, reviewers should do the following:
   * Labs: calculated using John's Code 
   * Activities: Predetermined amounts
 * [ ] Have curriculum proofread by writing team \(currently Victoria Xu @vkxu657\)
-
-
-
-
-
-
 
