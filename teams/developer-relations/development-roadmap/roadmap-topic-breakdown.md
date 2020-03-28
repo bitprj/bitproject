@@ -13,20 +13,20 @@ _**Learning Objectives:**_
 _**Activities:**_ 
 
 * HTML Basics 
- * Students will learn the basics to HMTL and the most common tags through this lab to apply to the labs later.
+  * Students will learn the basics to HMTL and the most common tags through this lab to apply to the labs later.
 * CSS Basics
- * Students will learn the basics to CSS and the many functionalities it has for designing  and formatting a website
+  * Students will learn the basics to CSS and the many functionalities it has for designing  and formatting a website
 * Combining the Classics
- * Students will create their own webpage through HTML and format it in CSS in an effort to practice website development.
+  * Students will create their own webpage through HTML and format it in CSS in an effort to practice website development.
 * Lets Mix It Up
- * Students will follow a set of guidelines to improve a sample website.
+  * Students will follow a set of guidelines to improve a sample website.
 
 _**Labs:**_
 
 * Create a Resume
- * Students will create their own website that is a resume though basic HTML & CSS practices. 
+  * Students will create their own website that is a resume though basic HTML & CSS practices. 
 * Fun in Formatting
- * Students will edit a sample website by making required changes that improve the overall aesthetic and functionality of the site. 
+  * Students will edit a sample website by making required changes that improve the overall aesthetic and functionality of the site. 
 
 
 
