@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-*Objectives*
+**Objectives**
 
-*Collaborators and Tasks*
+**Collaborators and Tasks**
 
-*Deadline*
+**Deadline**
