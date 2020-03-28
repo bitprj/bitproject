@@ -57,13 +57,13 @@ Every week, there are a couple essential things that every manager should take c
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
 
-## General Review Checklist 
+## General Review Checklist
 
-The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development. 
+The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
 
 #### Checklist for Devs
 
-Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly. 
+Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly.
 
 Additionally, each pull request should have stage labels corresponding to the four stages. Please apply as many labels as applicable, for every item addressed in a stage, there should be that corresponding stage label applied.
 
@@ -97,7 +97,7 @@ With regards to this checklist, reviewers should do the following:
 * [ ] Solution and starter code in Airtable and GitHub
   * [ ] Code is testable, not too general
 
-#### Stage 2 - Finishing Content 
+#### Stage 2 - Finishing Content
 
 * [ ] Logical card progression 
 * [ ] Ample pictures/custom visuals \(copyright-free, Pexels is a great source\) 
@@ -126,7 +126,7 @@ With regards to this checklist, reviewers should do the following:
   * [ ] Hints \(Medium + Easy Cards\)
   * [ ] Concepts
   * [ ] Checkpoints
-    * [ ] With test cases if applicable
+  * [ ] With test cases if applicable
 * [ ] Concepts for each card completely finalized, with correct README formatting
 * [ ] Acceptable Styling per the Manager Checklist
 

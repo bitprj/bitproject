@@ -1,6 +1,66 @@
 # Roadmap Topic Breakdown
 
-## Topic: Node.JS
+## **Topic: Basic Front-End**
+
+**Module: HTML & CSS**
+
+_**Learning Objectives:**_
+
+* Students will learn the basics of Front-End development with **HTML & CSS**.
+* Students will learn how HTML, CSS, and Java Script interact and differ to create a webpage. 
+* Students will learn to use HTML & CSS to create and style their own page.
+
+_**Activities:**_ 
+
+* HTML Basics 
+* * Students will learn the basics to HMTL and the most common tags through this lab to apply to the labs later.
+* CSS Basics
+* * Students will learn the basics to CSS and the many functionalities it has for designing  and formatting a website
+* Combining the Classics
+* * Students will create their own webpage through HTML and format it in CSS in an effort to practice website development.
+* Lets Mix It Up
+* * Students will follow a set of guidelines to improve a sample website.
+
+_**Labs:**_
+
+* Create a Resume
+* * Students will create their own website that is a resume though basic HTML & CSS practices. 
+* Fun in Formatting
+* * Students will edit a sample website by making required changes that improve the overall aesthetic and functionality of the site. 
+
+
+
+## **Topic: SQL/SQLAlchemy**
+
+**Module: SQL/SQLAlchemy**
+
+_**Learning Objectives:**_
+
+* Students will learn the basics of SQL, its purpose, and how it is different from NoSQL.
+* Students will learn how to use SQLAlchemy to easily implement an SQL database into their Flask applications.
+* Students will learn how to interact with their SQL database through querying objects, deleting objects, etc..
+* Students will learn how to make models and use Flask-Marshmallow to specify the required format of each field.
+* Students will learn the concept of ORM \(object-relational mapping\) with SQL as a technique of converting data between relational data bases as objects in code.
+
+_**Activities:**_
+
+* SQL/SQLAlchemy Basics
+  * Students will learn the basics of SQL and SQLAlchemy through this activity to apply these concepts to the other labs and activities in this module.
+* Classroom Directory
+  * Students will make a simple Flask application and use SQLAlchemy to build a database of students in a particular classroom. There should be POST and DELETE endpoints.
+* Building a School
+  * As an extension of the previous activity, now students will use Flask and Flask-Marshmallow to build out different models for a Student, Teacher, Principle, Janitor, Administrator, etc.
+* Housing Directory:
+  * Now that the student has a school directory, they should create a directory that contains all the information about each person at the school’s housing information; the databases should then be related.
+
+_**Labs:**_
+
+* Flask Election App:
+  * Students should make a simple Flask App that is capable of storing information about different candidates in an election. This application must support the CRUD operations and students will use models and Flask-Marshmallow to specify the type of data being stored.
+* Recipe Application:
+  * Students will alter the recipe application they built in the Flask module to now  use a SQLAlchemy database rather than a native dictionary. This application will require the student to query the database, create Flask-Marshmallow models, and implement the CRUD operations.
+
+## Topic: Python
 
 **Module: Intro to Node.JS**
 
@@ -61,13 +121,14 @@ _**Labs**_
 * GutenBooks
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
-**Topic: Flask**
+## **Topic: Flask**
 
 **Module: Python Flask**
 
 _**Learning Objectives:**_
 
 * Students will learn the purpose and basics of Python Flask.
+* Students will learn what Flask as a microframework is and the role that microframeworks play in web development.
 * Students will learn how to route different pages within their applications using Flask.
 * Students will gain experience with structuring different CRUD operations.
 * Students will use Flask-RESTful to structure their routes for RESTful APIs.
@@ -75,7 +136,7 @@ _**Learning Objectives:**_
 _**Activities:**_
 
 * Flask Intro
-  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
+  * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask and microframeworks in web development to get the students going.
 * Portfolio Site
   * Students will learn how to route pages using Flask by building a simple portfolio site and routing the different pages together \(Home, About Me, Resume, etc.\)
 * Book Tracker
