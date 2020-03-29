@@ -251,41 +251,6 @@ _**Labs**_
 * Zeppelin Tokens
   * Use OpenZeppelin to create Tokens and subject them to unit tests
 
-## Topic: JavaScript
-
-**Module: JavaScript Basics**
-
-\*\*\*\*
-
-**Module: JavaScript Advanced**
-
-_**Learning Objectives**_
-
-* -
-* -
-* -
-* -
-
-_**Activities**_
-
-* Simple Timer Game
-  * Create a simple timer game for the user to complete a series of tasks before stopping a stopwatch
-* Find the Invisible Circle
-  * Generate and randomly place a white circle in a canvas 
-* Mouse Cursor Game 2.0
-  * Build an even bigger mouse cursor game and store user's time and display it on the side
-* adarkroom game
-  * Create a similar game to adarkroom with simple buttons, keeping track of user actions, and generating a monologue
-
-_**Labs**_
-
-* Fifteen Puzzle
-  * Use an image to create a fifteen puzzle in a 4x4 grid with one square missing, sliding squares into an empty space until the image is reassembled
-* App Store
-  * Recreate an app store for the user to see various apps and display information about each app when clicked on
-* Crossword Puzzle
-  * Pick a theme and create a crossword puzzle out of the words describing the theme
-
 **Module: Alternative Blockchains**
 
 _**Learning Objectives**_
@@ -334,16 +299,16 @@ _**Labs**_
 
 ## Topic: HTML/CSS
 
-**Module: HTML/CSS Basics**
+### **Module: HTML/CSS Basics**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will begin learning the basics of how to utilize HTML/CSS to create a webpage.
 * Students will learn what HTML \(Hypertext Markup Language\) is and how CSS \(Cascading Style Sheets\) is used to style an HTML page.
 * Students will learn the basic structure of an HTML page that can be used as a boilerplate for any future webpages they create.
 * Students will be able to manipulate their webpages live using DevTools that web browers provide.
 
-_**Activities**_
+#### _**Activities**_
 
 * Hello World Webpage
   * Create a simple HTML page to display "Hello World"
@@ -354,7 +319,7 @@ _**Activities**_
 * Simple Potluck Form
   * Design an invitation to a potluck as a form to fill about what they want to bring and any other food preferences
 
-_**Labs**_
+#### _**Labs**_
 
 * Favorite Internet Icon/Group Collage
   * Create a webpage about an internet icon/group and include what they're about, fun facts, what hobbies they enjoy, and anything else to add
@@ -363,16 +328,16 @@ _**Labs**_
 * Feedback Topic Survey
   * Create a survey for people to give feedback about a specific topic \(e.g. music, food, travel, etc.\)
 
-**Module: HTML/CSS Advanced**
+### **Module: HTML/CSS Advanced**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * DOM, id, classes, selectors
 * nesting, 
 * -
 * Responsive Website
 
-_**Activities**_
+#### _**Activities**_
 
 * Bucket List
   * Create a bucket list with pictures while utilizing more advanced CSS techniques
@@ -383,7 +348,7 @@ _**Activities**_
 * Online Banking
   * Create an aesthetically pleasing online banking application
 
-_**Labs**_
+#### _**Labs**_
 
 * App Store
   * Create an app store for 
@@ -392,18 +357,18 @@ _**Labs**_
 * To-Do List
   * Create a colorful to-do list web application to record tasks, check off tasks, and move around tasks using provided JavaScript code
 
-## Topic: Javascript Basics
+## Topic: Javascript
 
-**Module: Javascript**
+### **Module: Javascript Basics**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn the basics of Javascript syntax
 * Students will begin learning the basics of how to utilize Javascript to make an interactive webpage
 * Students will understand what the DOM is and learn how to access and manipulate it to change the webpage
 * Students will learn how to program various event handlers for the mouse and HTML buttons
 
-_**Activities**_
+#### _**Activities**_
 
 * Random Color Website
   * Create a simple webpage that generates a random color\(s\) depending on the user's choice
@@ -414,7 +379,7 @@ _**Activities**_
 * Mouse Cursor Game
   * Create a mouse cursor game where the cursor is dragged through a maze without touching the walls
 
-_**Labs**_
+#### _**Labs**_
 
 * GPA Calculator
   * Create a GPA calculator to help calculate the user's GPA
@@ -423,9 +388,38 @@ _**Labs**_
 * Hangman
   * Create a Hangman game for a player to guess a random word
 
+### **Module: JavaScript Advanced**
+
+#### _**Learning Objectives**_
+
+* -
+* -
+* -
+* -
+
+#### _**Activities**_
+
+* Simple Timer Game
+  * Create a simple timer game for the user to complete a series of tasks before stopping a stopwatch
+* Find the Invisible Circle
+  * Generate and randomly place a white circle in a canvas 
+* Mouse Cursor Game 2.0
+  * Build an even bigger mouse cursor game and store user's time and display it on the side
+* adarkroom game
+  * Create a similar game to adarkroom with simple buttons, keeping track of user actions, and generating a monologue
+
+#### _**Labs**_
+
+* Fifteen Puzzle
+  * Use an image to create a fifteen puzzle in a 4x4 grid with one square missing, sliding squares into an empty space until the image is reassembled
+* App Store
+  * Recreate an app store for the user to see various apps and display information about each app when clicked on
+* Crossword Puzzle
+  * Pick a theme and create a crossword puzzle out of the words describing the theme
+
 ## Topic: APIs
 
-**Module: API Concepts**
+### **Module: API Concepts**
 
 _**Learning Objectives**_
 
