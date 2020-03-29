@@ -40,12 +40,15 @@ This checklist will be posted within the issue and should all be completed withi
   * [ ] Milestone should be set-up
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
 * [ ] Adjust timeline in Zenhub Calendar
+* [ ] Weekly Team Sync
+* [ ] 1:1s with devs
 
 ## Pull Request Checklist
 
 Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`. 
 
 * [ ] **Branch updated from `master`**
+  * [ ] Resolving all Merge Conflicts
 * [ ] Spelling and grammar errors fixed
 * [ ] Markdown Formatting
 * [ ] Correctly spaced code snippets
