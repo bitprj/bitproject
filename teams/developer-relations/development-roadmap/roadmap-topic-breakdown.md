@@ -29,6 +29,127 @@
 * Work on an Issue
   * You will practice working on an issue of a sample repo through GitHub Desktop and make commits locally as well as making a pull request through Github. 
 
+## Topic: HTML/CSS
+
+### Module: HTML/CSS Basics
+
+#### _**Learning Objectives**_
+
+* Students will begin learning the basics of how to utilize HTML/CSS to create a webpage.
+* Students will learn what HTML \(Hypertext Markup Language\) is and how CSS \(Cascading Style Sheets\) is used to style an HTML page.
+* Students will learn the basic structure of an HTML page that can be used as a boilerplate for any future webpages they create.
+* Students will be able to manipulate their webpages live using DevTools that web browers provide.
+
+#### _**Activities**_
+
+* Hello World Webpage
+  * Create a simple HTML page to display "Hello World"
+* Google.com Page
+  * Replicate Google.com's page with a Google logo, buttons, and links
+* Amazon Search Result Page
+  * Design an Amazon search result page for a search on a piece of furniture
+* Simple Potluck Form
+  * Design an invitation to a potluck as a form to fill about what they want to bring and any other food preferences
+
+#### _**Labs**_
+
+* Favorite Internet Icon/Group Collage
+  * Create a webpage about an internet icon/group and include what they're about, fun facts, what hobbies they enjoy, and anything else to add
+* Recipe Page
+  * Create a detailed webpage about your favorite recipe for others to follow
+* Feedback Topic Survey
+  * Create a survey for people to give feedback about a specific topic \(e.g. music, food, travel, etc.\)
+
+### Module: HTML/CSS Advanced
+
+#### _**Learning Objectives**_
+
+* Students will expand on using ids and classes to help stylize specific HTML elements
+* Students will understand how CSS selectors and nesting can be utilized to style specific HTML elements
+* Students will learn how to create a responsive website for easier readability
+
+#### ‌_**Activities**_
+
+* Bucket List
+  * Create a bucket list with pictures while utilizing more advanced CSS techniques
+* Recreate YouTube
+  * Recreate YouTube's home page with a selection of videos, video titles underneath each video, and a sidebar with subscriptions
+* Coffee Shop Website
+  * Create a website to show to customers different coffee drinks, where coffee beans are sourced, etc.
+* Online Banking
+  * Create an aesthetically pleasing online banking application
+
+#### _**Labs**_
+
+* App Store
+  * Create an app store for
+* CSS Zen Garden
+  * Create CSS for the CSS Zen Garden Project
+* To-Do List
+  * Create a colorful to-do list web application to record tasks, check off tasks, and move around tasks using provided JavaScript code
+
+## Topic: JavaScript
+
+### Module: JavaScript Basics
+
+#### _**Learning Objectives**_
+
+* Students will learn the basics of JavaScript syntax
+* Students will begin learning the basics of how to utilize JavaScript to make an interactive webpage
+* Students will understand what the DOM is and learn how to access and manipulate it to change the webpage
+* Students will learn how to program various UI events for the mouse and HTML buttons
+
+#### _**Activities**_
+
+* Interactive Hello World Webpage
+  * Create an interactive Hello World webpage using alerts, prompts, and confirms
+* Random Color Website
+  * Create a simple webpage that generates a random color\(s\) depending on the user's choice
+* Simple Guessing Game
+  * Design a simple game to guess a randomly generated number between a given min and max that will include hints
+* Mouse Cursor Game
+  * Create a mouse cursor game where the cursor is dragged through a maze without touching the walls
+
+#### _**Labs**_
+
+* GPA Calculator
+  * Create a GPA calculator to help calculate the user's GPA
+* howmuch\[insert item\].com
+  * Create an interactive webpage for a user to calculate how much they need of \[insert item\] to survive the pandemic
+* Hangman
+  * Create a Hangman game for a player to guess a random word
+
+### Module: JavaScript Advanced
+
+#### _Learning Objectives_
+
+* Students will expand on JavaScript syntax to learn how to select HTML elements using CSS syntax
+* Students will learn more in depth of various JavaScript datatypes like objects, array, and maps
+* Students will learn how to utilize HTML canvas element for drawing graphics on a webpage
+* Students will learn JavaScript scheduling, utilizing setTimeout and setInterval to create timers
+
+#### _Activities_
+
+* Dot Art Wall
+  * Create a canvas that the user can draw their mouse through to leave a trail of dots
+* Simple Timer Game
+  * Create a simple timer game for the user to complete a series of tasks before stopping a stopwatch
+* Find the Invisible Circle
+  * Generate and randomly place a white circle in a canvas
+* Mouse Cursor Game 2.0
+  * Build an even bigger mouse cursor game and store user's time and display it on the side
+* adarkroom game
+  * Create a similar game to adarkroom with simple buttons, keeping track of user actions, and generating a monologue
+
+#### _Labs_
+
+* Fifteen Puzzle
+  * Use an image to create a fifteen puzzle in a 4x4 grid with one square missing, sliding squares into an empty space until the image is reassembled
+* App Store
+  * Recreate an app store for the user to see various apps and display information about each app when clicked on
+* Crossword Puzzle
+  * Pick a theme and create a crossword puzzle out of the words describing the theme
+
 ## **Topic: SQL/SQLAlchemy**
 
 ### **Module: SQL/SQLAlchemy**
