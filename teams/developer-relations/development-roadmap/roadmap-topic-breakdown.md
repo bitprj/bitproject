@@ -11,6 +11,7 @@
 * Students will be introduced to a basic Version Control Systems like Github
 * Students will learn how to use Github and Github desktop
 
+
 #### _**Activities**_
 
 * Git through Command Line 
@@ -68,7 +69,7 @@
 * Students will understand how CSS selectors and nesting can be utilized to style specific HTML elements
 * Students will learn how to create a responsive website for easier readability
 
-#### ‌_**Activities**_
+#### _**Activities**_
 
 * Bucket List
   * Create a bucket list with pictures while utilizing more advanced CSS techniques
@@ -241,7 +242,7 @@
 * GutenBooks
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
-## **Topic: Flask**
+**Topic: Flask**
 
 ### **Module: Python Flask**
 
