@@ -2,5 +2,3 @@
 
 {% page-ref page="writing-style.md" %}
 
-
-

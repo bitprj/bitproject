@@ -1,3 +1,7 @@
+---
+description: How to join Bit Project as an organization
+---
+
 # Joining as an Organization
 
 ## Why Workshops?

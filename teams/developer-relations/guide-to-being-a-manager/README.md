@@ -39,20 +39,22 @@ This checklist will be posted within the issue and should all be completed withi
   * [ ] Designate two issues _not being solved_ to be "first timer only" issues
   * [ ] Milestone should be set-up
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
+  * [ ] Ensure General Review Checklist is being updated based on the developers' progress
 * [ ] Adjust timeline in Zenhub Calendar
 
 ## Pull Request Checklist
 
-Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`. 
+Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`.
 
 * [ ] **Branch updated from `master`**
 * [ ] Spelling and grammar errors fixed
-* [ ] Markdown Formatting
+* [ ] Correct Markdown Formatting
+* [ ] Adjust timeline in Zenhub Calendar
 * [ ] Correctly spaced code snippets
 * [ ] Code style followed
 * [ ] Local images with &lt;img&gt; NOT Markdown 
 * [ ] Splitting Up Cards \(no more than one scroll a card\)
-* [ ] Readability Test: Automated Readability Index result of 9th grade or under \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
+* [ ] Readability Test: Automated Readability Index result of _9th grade or under_ \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
 * [ ] Specific micro-issues addressed in pull request 
@@ -66,7 +68,7 @@ Every week, there are a couple essential things that every manager should take c
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
 
-## General Development Review Checklist 
+## General Development Review Checklist
 
 The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
 
