@@ -578,6 +578,147 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
   * Students will use a GatsbyJS to build a functional blog
 * Build a React App with NextJS
   * TBD
+  
+### **Module: Mordern CSS & CSS Frameworks**
+
+#### _**Learning Objectives**_
+
+* Students will learn about the emerging trend of css graphs and how it plays into creating resposive websites
+* Students will learn about different CSS writing ideologies. Specifically 2 with different core ideas: BEM and Atomic CSS.
+* Students will learn about CSS frameworks—one simple and one more complex. Students will learn Skeleton and Bootstrap
+
+#### _**Activities**_
+
+* Create a blog post page
+  * Create a resposive CSS blog post page using CSS grid.
+* User Profile "cards" with BEM 
+  * Create small modularized cards with with the BEM ideology to write and maintain CSS
+  * "horizontal layout"
+* "Pokedex" with Atomic CSS
+  * Create a page that acts like a Pokedex with Atomic CSS ideology to write and maintain CSS
+  * "vertical layout"
+* Portfolio website with Skeleton
+  * Students will learn to create a portfolio website using the Skeleton CSS boilerplate
+* Mock Twitter interface with Bootstrap
+  * Students will learn to replicate the Twitter interface with Bootstrap (no interaction, just placement)
+
+#### _**Labs**_
+
+* Chain Restaurant Website
+  *  Students will implement the CSS of single page (but responsive) website for a restuarant with plenty of pictures, menu, quotes, and Google Maps.
+* Fairytales Themed Blog website
+  * Students will implment the CSS of a simple blog website which writes commentary essays about fairytales.
+  * 2 tabs: home, contact, all posts
+  * Posts will be modular, with pictures associated with specific paragraphs
+* German Grammar Tables Reference Page
+  * Students will implment the CSS of a single responsive page website where that shows all the German grammar tables for a quick reference. The only other thing is a menu that allows users to jump to sections of the page.
+  * Have to transform tables with moderate amounts of information (which is a pain in the ass, but good practice)
+
+
+
+### **Module: Intro React**
+
+#### _**Learning Objectives**_
+
+* Students will learn about the Javascript Framework React and about what it can and can't do.
+* Students will learn how to code both React class and function components
+* Students will learn how to style their components
+* Students will learn how to manage their states
+
+#### _**Activities**_
+
+* User profile "cards"
+  * Create and render editable User profile "cards"
+* Build an accordion menu with React
+  * Create an accordion interactive accordion menu with React where only one subsection can be expanded at a time.
+* "Pokedex" Website with React
+  * Create a site that acts like a Pokedex with React. Pages of the site will be split by generations and routing will be used to switch between these.
+
+#### _**Labs**_
+
+* Chain Restaurant Website (React ver)
+  *  Students will implement a single page website for a restuarant with plenty of pictures, menu, quotes, and Google Maps.
+* Fairytales Themed Blog website (React ver)
+  * Students will implment a simple blog website which writes commentary essays about fairytales.
+  * 2 tabs: home, contact, all posts
+  * Posts will be modular, with pictures associated with specific paragraphs
+* German Grammar reference site (React ver)
+  * Students will implment  a single responsive website where that shows all the German grammar tables for a quick reference. Pages will be comprised of parts of speech. Each page will have an explanation section and then the associated grammar tables
+  * Students will have to create these table containers themselves
+
+
+
+### **Module: Advanced React**
+
+#### _**Learning Objectives**_
+
+* Students will learn about calling APIs with React
+* Students will learn how to implement dynamic forms with React
+* Students will learn how to use other APIs
+* Students will learn how to deplot their website that is built with React
+
+#### _**Activities**_
+
+* User profile "cards"
+  * Create and render editable User profile "cards"
+  * But this time with a lot more information that will be in each card, and an editing form (no db)
+  * Front-end only form validation with React
+* Build an accordion menu with React I
+  * Create an accordion interactive accordion menu with React where only one subsection can be expanded at a time. You can change the name of the foods, ingredients, or description.
+  * Editting form. db used
+* Build an accordion menu with React II
+  * Convert the menu into a site
+  * Use the Google Maps API on the site
+  * Use the Algolia API to do a search by ingredient (in case of allergies)
+* "Pokedex" Website with React
+  * Create a site that acts like a Pokedex with React. Pages of the site will be split by generations and routing will be used to switch between these
+  * Switch to using db (review) & then deploy
+
+#### _**Labs**_
+
+* Fantasy Boy/Girl Group Creation Application
+  * Students will implement the CRUD operations of forming a fantasy boy/girl group with databases and forms
+  * Then deploy it with heroku
+* Pantry + Shopping List Tracker Application
+  * Students will implement the CRUD of an application to keep track of what is in their pantry. Pantry will have foods, its quantities, and their expiration dates.
+  * They will use Algolia's search API
+  * They can also have the option to add things into their shopping list so that (from either the pantry or a new item altogether)
+  * Shopping List Functionality: when an item has been bought then automatically add it to the pantry
+  
+### **Module: Redux** & Alternatives
+
+#### _**Learning Objectives**_
+
+* Students will learn about handling global states with Redux
+* Students will learn how to use Redux in general outside of a React environment 
+* Students will learn how to integrate Redux and React
+* Students will learn how to create normal and admin views
+* Students will learn about Redux Alternatives: Context API and React Hooks
+
+#### _**Activities**_
+
+* Getting acquainted with Redux Store, Reducer, & Dispatch
+  * Just going over the words, what they mean and how they are meant to be used
+  * This is a guided walkthrough
+* Build an accordion menu with React III (Redux)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Redux
+* Build an accordion menu with React III (Context API)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Context API
+* Build an accordion menu with React III (React HooksI)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Context API
+
+#### _**Labs**_
+
+* Fantasy Boy/Girl Group Creation Application (with User types)
+  * Students will implement the CRUD operations of forming a fantasy boy/girl group with databases and forms
+  * Then deploy it with heroku
+  * Create a login for a boss persona so that they are the only people allowed to add and remove members, but anyone can edit the user profiles
+* Pantry + Shopping List Tracker Application (with User types)
+  * Students will implement the CRUD of an application to keep track of what is in their pantry. Pantry will have foods, its quantities, and their expiration dates.
+  * They will use Algolia's search API
+  * They can also have the option to add things into their shopping list so that (from either the pantry or a new item altogether)
+  * Shopping List Functionality: when an item has been bought then automatically add it to the pantry
+  * Create a login for a kid and mother persona so that when kid users try to make a request to add something to the shopping list, it can be approved or rejected the mother. So there is a "pre-shopping list limbo" for foods.
 
 #### _**Modules Required**_
 
