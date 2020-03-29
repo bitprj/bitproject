@@ -579,7 +579,7 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 * Build a React App with NextJS
   * TBD
   
-### **Module: Mordern CSS & CSS Frameworks
+### **Module: Mordern CSS & CSS Frameworks**
 
 #### _**Learning Objectives**_
 
@@ -616,7 +616,7 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 
 
 
-### **Module: Intro React
+### **Module: Intro React**
 
 #### _**Learning Objectives**_
 
@@ -648,7 +648,7 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 
 
 
-### **Module: Advanced React
+### **Module: Advanced React**
 
 #### _**Learning Objectives**_
 
