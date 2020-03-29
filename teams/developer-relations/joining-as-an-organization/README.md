@@ -218,3 +218,4 @@ We had developers that were not working on the workshop to participate in it. Th
 ### Stage 7: Present to Bit & Organization
 
 The presentation took place in person at UC Davis, and we had over 85 attendees. Developers from Postman joined us to provide their perspective and insight on the software. It proved to be a huge success as students were able to participate in the game easily and had a blast.
+

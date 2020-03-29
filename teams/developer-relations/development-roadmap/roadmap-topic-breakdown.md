@@ -140,14 +140,15 @@ _**Activities**_
   * You will write a Node.js program using the Express.js library to create a dynamic webpage that outputs the local weather\(using their own data\) in JSON.
 
 _**Labs**_
+
 * Quartz,Parchment,Shears
-	* You are going to write a program that sets up a dynamic website that allows you to play rock,paper,scissors with an AI player!
+  * You are going to write a program that sets up a dynamic website that allows you to play rock,paper,scissors with an AI player!
 * TVs and more!
-	* You are going to write a program that sets up a simple e-commerce store (with a MongoDB database) that showcases electronics.
+  * You are going to write a program that sets up a simple e-commerce store \(with a MongoDB database\) that showcases electronics.
 
 ## Topic: Blockchain
 
-**Module: Principles of Blockchain** 
+**Module: Principles of Blockchain**
 
 _**Learning Objectives**_
 
@@ -182,7 +183,7 @@ _**Learning Objectives**_
 * Students will learn about the general procedure for developing, deploying, and testing smart contracts
 * Students will learn about fundamental types and their associated operations in Solidity
 
-_**Activities**_ 
+_**Activities**_
 
 * Ethereum Simulation
   * Learn to send, receive, and analyze transactions in a simulated environment
@@ -249,6 +250,41 @@ _**Labs**_
   * Have several contracts relay data to each other, mutating and deciphering data in a predictable fashion 
 * Zeppelin Tokens
   * Use OpenZeppelin to create Tokens and subject them to unit tests
+
+## Topic: JavaScript
+
+**Module: JavaScript Basics**
+
+\*\*\*\*
+
+**Module: JavaScript Advanced**
+
+_**Learning Objectives**_
+
+* -
+* -
+* -
+* -
+
+_**Activities**_
+
+* Simple Timer Game
+  * Create a simple timer game for the user to complete a series of tasks before stopping a stopwatch
+* Find the Invisible Circle
+  * Generate and randomly place a white circle in a canvas 
+* Mouse Cursor Game 2.0
+  * Build an even bigger mouse cursor game and store user's time and display it on the side
+* adarkroom game
+  * Create a similar game to adarkroom with simple buttons, keeping track of user actions, and generating a monologue
+
+_**Labs**_
+
+* Fifteen Puzzle
+  * Use an image to create a fifteen puzzle in a 4x4 grid with one square missing, sliding squares into an empty space until the image is reassembled
+* App Store
+  * Recreate an app store for the user to see various apps and display information about each app when clicked on
+* Crossword Puzzle
+  * Pick a theme and create a crossword puzzle out of the words describing the theme
 
 **Module: Alternative Blockchains**
 
@@ -326,6 +362,35 @@ _**Labs**_
   * Create a detailed webpage about your favorite recipe for others to follow
 * Feedback Topic Survey
   * Create a survey for people to give feedback about a specific topic \(e.g. music, food, travel, etc.\)
+
+**Module: HTML/CSS Advanced**
+
+_**Learning Objectives**_
+
+* DOM, id, classes, selectors
+* nesting, 
+* -
+* Responsive Website
+
+_**Activities**_
+
+* Bucket List
+  * Create a bucket list with pictures while utilizing more advanced CSS techniques
+* Recreate YouTube
+  * Recreate YouTube's home page with a selection of videos, video titles underneath each video, and a sidebar with subscriptions
+* Coffee Shop Website
+  * Create a website to show to customers different coffee drinks, where coffee beans are sourced, etc.
+* Online Banking
+  * Create an aesthetically pleasing online banking application
+
+_**Labs**_
+
+* App Store
+  * Create an app store for 
+* CSS Zen Garden
+  * Create CSS for the CSS Zen Garden Project
+* To-Do List
+  * Create a colorful to-do list web application to record tasks, check off tasks, and move around tasks using provided JavaScript code
 
 ## Topic: Javascript Basics
 
@@ -593,7 +658,9 @@ _**Labs**_
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
-**Module: GraphQL** _**Learning Objectives**_
+**Module: GraphQL** 
+
+_**Learning Objectives**_
 
 * Students will have an understanding of GraphQL and how to query/insert/Mutate through data
 * Students will be able to integrate GraphQL into their applications

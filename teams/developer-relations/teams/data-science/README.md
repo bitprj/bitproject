@@ -49,11 +49,7 @@ Here at Bit, we want you take get exposed to the tricks and tools that are actua
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Weekly Meeting Notes | YouTube Link | Weekly Milestone Assignments |
-| :--- | :--- | :--- |
-| [https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20\_AvocadosTeamSync.md](https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20_AvocadosTeamSync.md) | [https://youtu.be/GpbPcpJdAX0](https://youtu.be/GpbPcpJdAX0) | N/A |
-
-## What is Data Science:
+</table>## What is Data Science:
 
 _WIP_
 
