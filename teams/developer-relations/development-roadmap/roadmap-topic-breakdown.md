@@ -684,6 +684,41 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
   * They will use Algolia's search API
   * They can also have the option to add things into their shopping list so that (from either the pantry or a new item altogether)
   * Shopping List Functionality: when an item has been bought then automatically add it to the pantry
+  
+### **Module: Redux** & Alternatives
+
+#### _**Learning Objectives**_
+
+* Students will learn about handling global states with Redux
+* Students will learn how to use Redux in general outside of a React environment 
+* Students will learn how to integrate Redux and React
+* Students will learn how to create normal and admin views
+* Students will learn about Redux Alternatives: Context API and React Hooks
+
+#### _**Activities**_
+
+* Getting acquainted with Redux Store, Reducer, & Dispatch
+  * Just going over the words, what they mean and how they are meant to be used
+  * This is a guided walkthrough
+* Build an accordion menu with React III (Redux)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Redux
+* Build an accordion menu with React III (Context API)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Context API
+* Build an accordion menu with React III (React HooksI)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Context API
+
+#### _**Labs**_
+
+* Fantasy Boy/Girl Group Creation Application (with User types)
+  * Students will implement the CRUD operations of forming a fantasy boy/girl group with databases and forms
+  * Then deploy it with heroku
+  * Create a login for a boss persona so that they are the only people allowed to add and remove members, but anyone can edit the user profiles
+* Pantry + Shopping List Tracker Application (with User types)
+  * Students will implement the CRUD of an application to keep track of what is in their pantry. Pantry will have foods, its quantities, and their expiration dates.
+  * They will use Algolia's search API
+  * They can also have the option to add things into their shopping list so that (from either the pantry or a new item altogether)
+  * Shopping List Functionality: when an item has been bought then automatically add it to the pantry
+  * Create a login for a kid and mother persona so that when kid users try to make a request to add something to the shopping list, it can be approved or rejected the mother. So there is a "pre-shopping list limbo" for foods.
 
 #### _**Modules Required**_
 
