@@ -472,14 +472,12 @@ To include the md\_content for the step, give the md\_content with a markdown h2
 ```text
 ### md_content
 ```
-
-## Hello world in js
-
-This is how you do **it**
-
-```text
-
+### Hello world in js
+This is how you do it
 ```
+```
+
+
 
 #### Optional Fields
 
@@ -490,11 +488,8 @@ To include the code snippet for the step, give the code snippet with a markdown 
 ```text
 ### code_snippet
 ```
-
-def pls\_work\(\): return True... maybe
-
-```text
-
+def pls_work(): return True... maybe
+```
 ```
 
 #### Image
@@ -519,28 +514,24 @@ Topic1/Module2_test/Activity_7/cards
 ## 1-2-1 Step 1
 
 ### name
-```
-
 How to install VSCode
 
-```text
 ### md_content
 ```
-
-## Hello world in js
-
-This is how you do **it**
-
-```text
-### code_snippet
+Hello world in js
+This is how you do it
 ```
 
-def pls\_work\(\): return True... maybe
+### code_snippet
+```
+def pls_work(): return True... maybe
+```
 
-```text
 ### image
 <img src="images/bandanna.jpg">
 ```
+
+
 
 ### Concept Format
 
@@ -577,11 +568,8 @@ Under the hint name, you have to give the step a name with a markdown h2 tag. **
 ```text
 ## name
 ```
-
 How to install VSCode
-
-```text
-
+```
 ```
 
 #### Md\_content \(You need to include this for each step\)
@@ -591,14 +579,12 @@ To include the md\_content for the step, give the md\_content with a markdown h2
 ```text
 ## md_content
 ```
-
 ## Hello world in js
-
-This is how you do **it**
-
-```text
-
+This is how you do it
 ```
+```
+
+
 
 #### Optional Fields
 
@@ -609,11 +595,8 @@ To include the code snippet for the step, give the code snippet with a markdown 
 ```text
 ## code_snippet
 ```
-
-def pls\_work\(\): return True... maybe
-
-```text
-
+def pls_work(): return True... maybe
+```
 ```
 
 #### Image
@@ -640,24 +623,19 @@ Topic1/Module2_test/concepts/
 
 ## name
 ```
-
 How to install VSCode
+```
 
-```text
 ## md_content
 ```
-
-## Hello world in js
-
-This is how you do **it**
-
-```text
-## code_snippet
+Hello world in js
+This is how you do it
 ```
 
-def pls\_work\(\): return True... maybe
-
-```text
+## code_snippet
+```
+def pls_work(): return True... maybe
+```
 ## image
 <img src="dee.jpg">
 ```

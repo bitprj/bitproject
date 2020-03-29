@@ -11,7 +11,6 @@
 * Students will be introduced to a basic Version Control Systems like Github
 * Students will learn how to use Github and Github desktop
 
-
 #### _**Activities**_
 
 * Git through Command Line 
@@ -557,7 +556,7 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 * Use GraphQL in a blog
   * Use GraphQL to filter through a list in a blog posts
 
-### **Module: Static Site Generators** 
+### **Module: Static Site Generators**
 
 #### _**Learning Objectives**_
 

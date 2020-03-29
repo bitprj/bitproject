@@ -72,7 +72,7 @@ This checklist should be pasted into each review, and checked off completely by 
 
 The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
 
-This checklist should be maintained and updated 
+This checklist should be maintained and updated
 
 #### The General Checklist for Devs
 
