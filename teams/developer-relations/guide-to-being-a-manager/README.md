@@ -90,21 +90,24 @@ With regards to this checklist, reviewers should do the following:
 
 ### General Checklist
 
-#### Stage 1 - Starting Content
+#### General Items \(Apply to All Stages\)
 
 * [ ] High-schooler friendly writing style, easy to understand
 * [ ] Correct numbering
 * [ ] Every card has code\* 
 * [ ] 1 scroll per card\*\*
-* [ ] Content of cards is more accessible to beginners
 * [ ] Proper grammar, punctuation, capitalization, etc.
-* [ ] Micro to Macro Principle
-* [ ] Titles for Concepts associated with each Card
-* [ ] Acceptable Styling per the Manager Checklist
+* [ ] Acceptable Styling per the Pull Request Checklist
 
 \*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
 
 \*\* If you have to scroll more than once to view the whole card, the card is too long
+
+#### Stage 1 - Starting Content
+
+* [ ] Content of cards is more accessible to beginners
+* [ ] Micro to Macro Principle
+* [ ] Titles for Concepts associated with each Card
 
 #### Stage 1 - Lab Addendum
 
@@ -122,7 +125,6 @@ With regards to this checklist, reviewers should do the following:
 * [ ] \(For activities\) Fleshed-out, real-life scenarios
 * [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
 * [ ] All concepts fleshed out
-* [ ] Acceptable Styling per the Manager Checklist
 
 #### Stage 2 - Lab Addendum
 
@@ -139,11 +141,10 @@ With regards to this checklist, reviewers should do the following:
   * [ ] Hints \(Medium + Easy Cards\)
   * [ ] Concepts
   * [ ] Checkpoints
-  * [ ] With test cases if applicable
+  * [ ] With test cases for checkpoints if applicable
 * [ ] Concepts for each card completely finalized, with correct README formatting
-* [ ] Acceptable Styling per the Manager Checklist
 
-#### Stage 3 - Lab Addendum
+**Stage 3 - Lab Addendum**
 
 * [ ] 5-10 test cases, correctly formatted according to READMEs
 
