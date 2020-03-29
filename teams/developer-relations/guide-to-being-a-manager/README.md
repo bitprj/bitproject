@@ -72,13 +72,13 @@ The following checklist must be fully completed before an Epic deadline, and als
 
 This checklist should be maintained and updated 
 
-#### Checklist for Devs
+#### The General Checklist for Devs
 
 Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly.
 
 Additionally, each pull request should have stage labels corresponding to the four stages. Please apply as many labels as applicable, for every item addressed in a stage, there should be that corresponding stage label applied.
 
-#### Checklist for Reviewers
+#### The General Checklist for Reviewers
 
 With regards to this checklist, reviewers should do the following:
 
@@ -88,13 +88,15 @@ With regards to this checklist, reviewers should do the following:
 * Ensure that stage labels are being properly marked
 * When entire checklist is checked off for an Epic, then that Epic should be completed and linked within a pull request to `master` to indicate completion
 
+### General Checklist
+
 #### Stage 1 - Starting Content
 
 * [ ] High-schooler friendly writing style, easy to understand
 * [ ] Correct numbering
 * [ ] Every card has code\* 
 * [ ] 1 scroll per card\*\*
-* [ ] Content of cards make sense
+* [ ] Content of cards is more accessible to beginners
 * [ ] Proper grammar, punctuation, capitalization, etc.
 * [ ] Micro to Macro Principle
 * [ ] Titles for Concepts associated with each Card
@@ -144,7 +146,6 @@ With regards to this checklist, reviewers should do the following:
 #### Stage 3 - Lab Addendum
 
 * [ ] 5-10 test cases, correctly formatted according to READMEs
-* [ ] Badge Gem Amounts correctly calculated using John’s code \(no diagram for activities\)
 
 #### Stage 4 - For Reviewers Only
 
