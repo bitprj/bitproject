@@ -158,3 +158,16 @@ With regards to this checklist, reviewers should do the following:
   * Activities: Predetermined amounts
 * [ ] Have curriculum proofread by writing team \(currently Victoria Xu @vkxu657\)
 
+## Quality Assurance Procedures for Managers and Developers
+
+We want to the developers and the managers to provide give their input for each aspect of our projects. Therefore, we need procedures that allow the developers to quickly and effectively work together to complete tasks while maintaining a standard of quality.
+
+### Procedure:
+
+* [ ] Managers and Kevin conduct code reviews through GitHub
+  * [ ] Checking Issues and contributions
+    * Each time a developer makes a Pull Request, they need to provide a list of check boxes of items they addressed for their work that week.
+    * When managers review each Pull Request, they must check to ensure that all assigned issues in the milestone were completed and the checkbox contributions match the assigned issues.
+  * [ ] Every checkbox must be addressed with a comment by the reviewer
+    * A comment can acknowledge that the developer did something correctly or give constructive feedback.
+
