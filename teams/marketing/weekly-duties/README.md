@@ -8,7 +8,7 @@ description: Weekly Tasks of Members of the Marketing Team.
 
 ## Assigning Organizations to Members
 
-## Sending Emails 
+## Sending Emails
 
 ## Track Followups
 

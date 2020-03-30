@@ -10,7 +10,7 @@ _**Learning Objectives:**_
 * Students will learn how HTML, CSS, and Java Script interact and differ to create a webpage. 
 * Students will learn to use HTML & CSS to create and style their own page.
 
-_**Activities:**_ 
+_**Activities:**_
 
 * HTML Basics 
   * Students will learn the basics to HMTL and the most common tags through this lab to apply to the labs later.
@@ -27,8 +27,6 @@ _**Labs:**_
   * Students will create their own website that is a resume though basic HTML & CSS practices. 
 * Fun in Formatting
   * Students will edit a sample website by making required changes that improve the overall aesthetic and functionality of the site. 
-
-
 
 ## **Topic: SQL/SQLAlchemy**
 
