@@ -49,9 +49,7 @@ Here at Bit, we want you take get exposed to the tricks and tools that are actua
     </tr>
   </thead>
   <tbody></tbody>
-</table>### Current Zoom Meeting Link \(as of 3/19/2020\): N/A
-
-| Weekly Meeting Notes | YouTube Link | Weekly Milestone Assignments |
+</table>| Weekly Meeting Notes | YouTube Link | Weekly Milestone Assignments |
 | :--- | :--- | :--- |
 | [https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20\_AvocadosTeamSync.md](https://github.com/bitprj/meetings/blob/master/devrel/sync/03-25-20_AvocadosTeamSync.md) | [https://youtu.be/GpbPcpJdAX0](https://youtu.be/GpbPcpJdAX0) | N/A |
 
