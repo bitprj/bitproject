@@ -42,13 +42,13 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Review with Dev
 * [ ] Step 2: Completing Slides and Interactive Component 
   * [ ] Completed Slides with Presentation Notes 
-    * [ ] Peer Reviews
-      * [ ] Complete Presentation Check List
-      * [ ] Limited Text on Each Slide
-      * [ ] Attractive Visuals
-      * [ ] Slide Templates Used Appropriately
-      * [ ] Interactive Component Fully Integrated
-      * [ ] Grammar Check 
+  * [ ] Peer Reviews
+  * [ ] Complete Presentation Check List
+  * [ ] Limited Text on Each Slide
+  * [ ] Attractive Visuals
+  * [ ] Slide Templates Used Appropriately
+  * [ ] Interactive Component Fully Integrated
+  * [ ] Grammar Check 
   * [ ] Completed and Working Interactive Component
   * [ ] **Game on Github Repository**
   * [ ] README

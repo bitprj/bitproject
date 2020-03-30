@@ -6,7 +6,7 @@ description: Reflexive clauses are your friends
 
 ## **Content**
 
-It is each individual's job to make sure that their own code snippets are formatted and commented correctly—this is in terms of the functionality of the code. If the code works, but the spacing is off, this must be fixed by the developer themselves most likely during their second revision, but **before** merging. 
+It is each individual's job to make sure that their own code snippets are formatted and commented correctly—this is in terms of the functionality of the code. If the code works, but the spacing is off, this must be fixed by the developer themselves most likely during their second revision, but **before** merging.
 
 1. [ ] The code is functional and devoid of runtime errors
    * [ ] If you can think of a case where the code fails, this must be addressed
@@ -20,7 +20,7 @@ It is each individual's job to make sure that their own code snippets are format
    * [ ] Semantically named variables
    * [ ] Comments are preceded by a space. Ex: `// this is a correct comment`
    * [ ] Spaces between operators. Ex: `snake = 'Voldemort'`
-     * [ ] Not `snake='Voldemort'`,  `snake ='Voldemort'`, or `snake= 'Voldemort'`
+   * [ ] Not `snake='Voldemort'`,  `snake ='Voldemort'`, or `snake= 'Voldemort'`
    * [ ] Has proper language selected so that there is helpful highlighting
 
 ## **Context**
@@ -41,8 +41,8 @@ It is each individual's job to make sure that their own code snippets are format
   * [ ] Pass by reference or pass by value
 * [ ] Returns
   * [ ] \(Base\) Cases
-    * [ ] Explain the condition
-    * [ ] Explain the return
+  * [ ] Explain the condition
+  * [ ] Explain the return
   * [ ] Mention how we are going to return the correct value—switch cases, if else statements, recursion, etc
 
 #### Methods \(body\)
@@ -56,7 +56,7 @@ It is each individual's job to make sure that their own code snippets are format
 
 * [ ] Use technical terms when possible
   * [ ] The **first instances** of these in each lab/activity are bolded and followed by a reminder or an explanation
-    * [ ] **Reflexive clauses** are your friends
+  * [ ] **Reflexive clauses** are your friends
   * [ ] If you use non technical terms \(ex: left or right\), please have them be accompanied by **more** technical terms \(ex: less than, greater than\)
   * [ ] Be careful that your tone does not become too dry—we still want to sound personable and engaging
 * [ ] Adding more adjectives and adverbs do not make your explanations more clear. Just because an explanation is prefaced by "simply" or any other similar word, it does not mean that the explanation is that.
