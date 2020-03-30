@@ -1,6 +1,6 @@
 # Roadmap Topic Breakdown
 
-## Topic: Version Control 
+## Topic: Version Control
 
 **Module: Intro to Version Control**
 
@@ -11,7 +11,7 @@ _**Learning Objectives**_
 * Students will be introduced to a basic Version Control Systems like Github
 * Students will learn how to use Github and Github desktop
 
-_**Activities**_ 
+_**Activities**_
 
 * Git through Command Line 
   * You will download git to your computer and set it up through command line as well as  learning the basic git command line arguments. 
@@ -27,9 +27,7 @@ _**Labs**_
 * Create Your Own Repository
   * You will create your own Repository and upload your own projects and set up issues that need to be addressed. 
 * Work on an Issue
-
   * You will practice working on an issue of a sample repo through GitHub Desktop and make commits locally as well as making a pull request through Github. 
-
 
 ## **Topic: SQL/SQLAlchemy**
 

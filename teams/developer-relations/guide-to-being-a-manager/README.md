@@ -43,7 +43,7 @@ This checklist will be posted within the issue and should all be completed withi
 
 ## Pull Request Checklist
 
-Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`. 
+Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`.
 
 * [ ] **Branch updated from `master`**
 * [ ] Spelling and grammar errors fixed
@@ -66,7 +66,7 @@ Every week, there are a couple essential things that every manager should take c
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
 
-## General Development Review Checklist 
+## General Development Review Checklist
 
 The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
 
