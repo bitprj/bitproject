@@ -64,50 +64,47 @@ We expect volunteers to set an example for the students
 
 ## **Method of Control**
 
-The second thing we need to introduce is a method of control. This involves an action by the adult and a response by the students. This could be ringing a bell and then having students place their hands on their head. It could be calling out a quiet coyote and the students copy the sign. In the end, we want students to stop working and be quiet so we can give instruction for safety and efficiency. Often times, teachers already have this implemented so be sure to ask!  
-
+The second thing we need to introduce is a method of control. This involves an action by the adult and a response by the students. This could be ringing a bell and then having students place their hands on their head. It could be calling out a quiet coyote and the students copy the sign. In the end, we want students to stop working and be quiet so we can give instruction for safety and efficiency. Often times, teachers already have this implemented so be sure to ask!
 
 ## **Discipline and Praise**
 
-**The third thing we need to do is establish a fair discipline system. Most teachers have this already implemented in their class and all classrooms are different. Before an activity, ask the teacher how they discipline their students.** 
+The third thing we need to do is establish a fair discipline system. Most teachers have this already implemented in their class and all classrooms are different. Before an activity, ask the teacher how they discipline their students. 
 
-**Remember, in order to have effective discipline, the three expectations must be clearly communicated first. Methods of discipline may involve different signals but they are all very similar and typically involves four steps:**
+Remember, in order to have effective discipline, the three expectations must be clearly communicated first. Methods of discipline may involve different signals but they are all very similar and typically involves four steps:
 
-1. **Reminding them of the expectations**
-2. **Acknowledging what the student has done**
-3. **Understanding why what the student did was wrong**
-4. **Learning why it is important not to repeat that behavior**
+1. Reminding them of the expectations
+2. Acknowledging what the student has done
+3. Understanding why what the student did was wrong
+4. Learning why it is important not to repeat that behavior
 
-**The teacher is responsible for confronting the students. If a teacher is not present, the volunteers are responsible for correcting behavior.**  
+The teacher is responsible for confronting the students. If a teacher is not present, the volunteers are responsible for correcting behavior.
 
+Another aspect of discipline is praise! Make sure to set aside time to show off a student’s work and allow students to show off to both you and the class what they have done! Children cannot read micro expressions as well as adults do, so make sure your positive emotions are exaggerated! You might feel weird or embarrassed over exaggerating expressions; but a little goes a long way!
 
-**Another aspect of discipline is praise! Make sure to set aside time to show off a student’s work and allow students to show off to both you and the class what they have done! Children cannot read micro expressions as well as adults do, so make sure your positive emotions are exaggerated! You might feel weird or embarrassed over exaggerating expressions; but a little goes a long way!**  
+## BitCart Specifics
 
+The role of a volunteer is to help teachers and students conduct the activity. At events, there are a few important things to keep in mind.
 
-## **BitCart Specifics**
+* Follow the volunteer lead if there is one! A volunteer lead is an experienced Bit Project Volunteer that makes sure the event goes well and is carried out on time.
+* Don’t get carried away… Focus on helping students learn and understand various difficult concepts. If you feel there is too much information help make sure key concepts are understood!
+* If you feel uncomfortable with any of the concepts, check out the Learn More page at the end of each designated activity. Feel free to ask other volunteers for help.
 
-**The role of a volunteer is to help teachers and students conduct the activity. At events, there are a few important things to keep in mind.**
+Make sure you watch two other videos if you haven’t done so already: 
 
-* **Follow the volunteer lead if there is one! A volunteer lead is an experienced Bit Project Volunteer that makes sure the event goes well and is carried out on time.**
-* **Don’t get carried away… Focus on helping students learn and understand various difficult concepts. If you feel there is too much information help make sure key concepts are understood!**
-* **If you feel uncomfortable with any of the concepts, check out the Learn More page at the end of each designated activity. Feel free to ask other volunteers for help.**
+1. Activity: This video explains the activity to be done at your event!
+2.  “BitCart Logistics”
 
-**Make sure you watch two other videos if you haven’t done so already:** 
+The “BitCart Logistics” will contain information on: 
 
-1. **Activity: This video explains the activity to be done at your event!**
-2.  **“BitCart Logistics”**
-
-**The “BitCart Logistics” will contain information on:** 
-
-* **Logistics for general events**
-* **Location - transportation options**
-* **Timings of Event**
-* **Signing in/out of school office and getting a volunteer sticker**
-* **Getting set up \(checking materials, collecting missing materials, cart to classroom\)**
-* **What do you do if some materials are unavailable?**
-* **Cleaning up**
-* **Placing cart back**
-* **Signing out**
-* **Transportation back**
-* **Volunteer feedback**
+* Logistics for general events
+* Location - transportation options
+* Timings of Event
+* Signing in/out of school office and getting a volunteer sticker
+* Getting set up \(checking materials, collecting missing materials, cart to classroom\)
+* What do you do if some materials are unavailable?
+* Cleaning up
+* Placing cart back
+* Signing out
+* Transportation back
+* Volunteer feedback
 
