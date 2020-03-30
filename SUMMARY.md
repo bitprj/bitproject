@@ -9,7 +9,7 @@
   * [Code of Conduct](organization/values/code-of-conduct.md)
   * [Inclusion & Diversity](organization/values/inclusion-and-diversity.md)
 * [Organizational Structure](organization/organizational-structure/README.md)
-  * [Untitled](organization/organizational-structure/untitled.md)
+  * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication.md)
 * [Culture](organization/culture.md)
 * [Style Guides](organization/style-guides/README.md)
