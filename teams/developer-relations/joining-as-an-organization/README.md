@@ -38,17 +38,17 @@ Creating these technical workshops provides students with exposure to programs t
   * [ ] Review with Dev
 * [ ] Step 2: Completing Slides and Interactive Component 
   * [ ] Completed Slides with Presentation Notes 
-    * [ ] Peer Reviews
-    * [ ] Complete Presentation Check List
-      * [ ] Limited Text on Each Slide
-      * [ ] Attractive Visuals
-      * [ ] Slide Templates Used Appropriately
-      * [ ] Interactive Component Fully Integrated
-      * [ ] Grammar Check 
+  * [ ] Peer Reviews
+  * [ ] Complete Presentation Check List
+  * [ ] Limited Text on Each Slide
+  * [ ] Attractive Visuals
+  * [ ] Slide Templates Used Appropriately
+  * [ ] Interactive Component Fully Integrated
+  * [ ] Grammar Check 
   * [ ] Completed and Working Interactive Component
-    * [ ] **Game on Github Repository**
-    * [ ] README
-    * [ ] Replication Instructions
+  * [ ] **Game on Github Repository**
+  * [ ] README
+  * [ ] Replication Instructions
   * [ ] Script of Presentation
   * [ ] Place is with slide links and GitHub Link
   * [ ] Review with Dev
@@ -70,7 +70,7 @@ Creating these technical workshops provides students with exposure to programs t
 
 **\*After every stage, you must checkin with your assigned Dev and send in a Markdown File of your work.**
 
-**\*Ideal to complete this process within 3 weeks for a 4 person team.** 
+**\*Ideal to complete this process within 3 weeks for a 4 person team.**
 
 During the first meeting of receiving this assignment, you will be invited to the BitProject GitBook. Please sign up for GitBooks at gitbook.com. To find your designated page, go to Developer Relations under Teams. In the drop down, select Joining as an Organization and then your designated page.
 
