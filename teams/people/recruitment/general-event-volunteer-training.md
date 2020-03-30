@@ -13,7 +13,7 @@
 
 [**Volunteer Expectations**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.p4fhfis7bpo)
 
-[**UCD Rules when Working with Minors**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.yy8a3u3gehcz)
+[**UC Davis Rules when Working with Minors**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.yy8a3u3gehcz)
 
 [**Method of Control**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.uu4g3o69o1yr)
 
@@ -24,53 +24,47 @@
 
 ## **Introduction**
 
-**Teachers and Volunteers are expecting volunteers to set a model behavioral example for their students.**  
+Teachers and Volunteers are expecting volunteers to set a model behavioral example for their students.
 
-
-**Students will always question WHY? WHY IS THE ACTIVITY IMPORTANT? WHY IS IT IMPORTANT TO FOLLOW THE RULES? We need to set the atmosphere that we will patiently listen, we will encourage curiosity, exploration, success, and failure, and we will reward respectful behavior and positive attitudes.**  
-
+Students will always question WHY? WHY IS THE ACTIVITY IMPORTANT? WHY IS IT IMPORTANT TO FOLLOW THE RULES? We need to set the atmosphere that we will patiently listen, we will encourage curiosity, exploration, success, and failure, and we will reward respectful behavior and positive attitudes.
 
 ## **Student Maturity and Developmental Level**
 
-**It is important to understand that students all have different developmental and academic levels. Therefore, we need to be careful with how we approach students as their mentors.**  
-
+It is important to understand that students all have different developmental and academic levels. Therefore, we need to be careful with how we approach students as their mentors.
 
 ## **Volunteer Expectations**
 
-**When we first begin leading a group of students, we need to set the expectations. The best way to do that is to have volunteers follow the following three main expectations:**
+When we first begin leading a group of students, we need to set the expectations. The best way to do that is to have volunteers follow the following three main expectations:
 
-1. **Safety**
-2. **Responsibility**
-3. **Integrity**
+1. Safety
+2. Responsibility
+3. Integrity
 
-**It all comes down to these three things.**
+It all comes down to these three things.
 
-* **Safety: We don’t want anyone to get hurt.**
-* **Responsibility: We want to be able to trust the students to follow directions and use materials properly.**
-* **Integrity: And we want the students to respect each other in this learning experience.**
+* Safety: We don’t want anyone to get hurt.
+* Responsibility: We want to be able to trust the students to follow directions and use materials properly.
+* Integrity: And we want the students to respect each other in this learning experience.
 
-## **UCD Rules when Working with Minors**
+## **UC Davis Rules when Working with Minors**
 
-**Since the events are organized by a UC Davis student organization, we are required to abide by certain school policies. For instance:** 
+Since the events are organized by a UC Davis student organization, we are required to abide by certain school policies. For instance: 
 
-1. **Minors will be treated with respect at all times: regardless of race, sex, age, or religion**
-2. **Staff and volunteers must avoid showing affection with minors, not use profanity or tell jokes with innuendos that contain racist or indecent commentary.**
-3. **You will not tell of your sexual encounters, not become romantically involved with minors, and not be under the influence of drugs or alcohol when in the presence of minors,**
-4. **You cannot have any secrets with minors, stare or comment on their bodies.**
-5. **Avoid being alone with minors at all times. Always be in the presence of another volunteer.**
-   1. **If students need to go on bathroom breaks, contact your volunteer lead.**
-6. **You must prohibit minors from engaging in inappropriate behavior such as hazing, bullying,** 
+1. Minors will be treated with respect at all times: regardless of race, sex, age, or religion
+2. Staff and volunteers must avoid showing affection with minors, not use profanity or tell jokes with innuendos that contain racist or indecent commentary.
+3. You will not tell of your sexual encounters, not become romantically involved with minors, and not be under the influence of drugs or alcohol when in the presence of minors,
+4. You cannot have any secrets with minors, stare or comment on their bodies.
+5. Avoid being alone with minors at all times. Always be in the presence of another volunteer.
+   1. If students need to go on bathroom breaks, contact your volunteer lead.
+6. You must prohibit minors from engaging in inappropriate behavior such as hazing, bullying, 
 
-**Example of a Situation**
+Example of a Situation: Dodging hugs. 
 
-**Dodging hugs.** 
-
-**We expect volunteers to set an example for the students**   
-
+We expect volunteers to set an example for the students 
 
 ## **Method of Control**
 
-**The second thing we need to introduce is a method of control. This involves an action by the adult and a response by the students. This could be ringing a bell and then having students place their hands on their head. It could be calling out a quiet coyote and the students copy the sign. In the end, we want students to stop working and be quiet so we can give instruction for safety and efficiency. Often times, teachers already have this implemented so be sure to ask!**  
+The second thing we need to introduce is a method of control. This involves an action by the adult and a response by the students. This could be ringing a bell and then having students place their hands on their head. It could be calling out a quiet coyote and the students copy the sign. In the end, we want students to stop working and be quiet so we can give instruction for safety and efficiency. Often times, teachers already have this implemented so be sure to ask!  
 
 
 ## **Discipline and Praise**
