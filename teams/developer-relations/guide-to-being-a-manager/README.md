@@ -162,6 +162,84 @@ With regards to this checklist, reviewers should do the following:
 
 > Note: All elements of a unit \(Module,Activity,Topic,etc.\) are REQUIRED unless stated otherwise.
 
+#### Topic README Format
+
+**Github ID**
+
+Each topic needs a `github_id` so that the server knows it is unique. The word `github_id` should be in a markdown `h1` tag like below:
+
+```text
+# github_id
+1
+```
+
+**Name**
+
+Each Topic needs a `name` field. The word `name` should be in markdown `h1` tag like below:
+
+```text
+# name
+Postman Topic
+```
+
+**Description**
+
+Each Topic has a `description` field to describe what the topic will help accomplish. The word `description` should be in markdown h1 tag like below:
+
+```text
+# description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+```
+
+**Image**
+
+Each Topic has an `image` field. The word `image` should be in markdown `h1` tag while the image `url` must be in an `img` tag:
+
+```text
+# image
+<img src="images/dee.jpg">
+```
+
+**Image Folder**
+
+Each Topic needs to point to an image folder where image\(s\) are being used. The word `image_folder` should be in a markdown `h1` tag like below:
+
+```text
+# image_folder
+/Topic_Postman/
+```
+
+**Modules**
+
+Each Topic has modules. To add modules to a topic, add the module's `github_ids` in a list. Add the word `modules` in a markdown `h1` tag and then add the `github_id`s in a list with \*'s:
+
+```text
+# modules
+* 5
+```
+
+**Topic README Example**
+
+```text
+# github_id
+1
+
+# name
+Postman Topic
+
+# description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum  
+
+# image
+<img src="images/dee.jpg">
+
+# image_folder
+/Topic_Postman/
+
+# modules
+* 5
+```
+
 #### Module README Format
 
 **Github ID**
@@ -688,33 +766,33 @@ def pls_work(): return True... maybe
 <img src="dee.jpg">
 ```
 
-#### Checkpoint Format
+#### Checkpoint README Format
 
-**Name of the file**
+**Filename**
 
-For the file name, name it the card that you want it to be associated with. So if you wanted to create a checkpoint for [1.md](http://1.md), you would name the checkpoint file "[1-checkpoint.md](http://1-checkpoint.md)"
+For the file name, name it the card that you want it to be associated with. So if you wanted to create a checkpoint for 1.md, you would name the checkpoint file `1-checkpoint.md`
 
-**Name \(This is required\)**
+**Name**
 
-This is the name of the checkpoint. Put the word "name" in a markdown h1 tag. Put the name of the checkpoint under the h1 tag like so:
+Every checkpoint needs a `name`:
 
 ```text
 # name
 Code Check in
 ```
 
-**Cards Folder \(This is required\)**
+**Cards Folder**
 
-This is the folder on where the cards are located. Put the word "cards\_folder" in a markdown h1 tag. Put the card folder path under the h1 tag like so:
+Every checkpoint needs a `cards_folder`:
 
 ```text
 # cards_folder
 Topic1/Module7/Activity_13/cards/
 ```
 
-**Checkpoint Type \(This is required\)**
+**Checkpoint Type**
 
-This is to define the type of checkpoint. Put the word checkpoint\_type in a markdown h1 tag.
+This is to define the type of checkpoint. Put `checkpoint_type` in a markdown `h1` tag.
 
 Checkpoints could be **ONE** of the following:
 
@@ -729,9 +807,9 @@ Checkpoints could be **ONE** of the following:
 Video
 ```
 
-**Instruction \(This is required\)**
+**Instruction**
 
-This is what you would tell the user to do for a checkpoint. Put the word instruction in a markdown h1 tag. Put the instruction content under the h1 tag like so:
+This is what you would tell the user to do for a checkpoint. Put the word `instruction` in a markdown `h1` tag. Put the instruction content under the `h1` tag like so:
 
 ```text
 # instruction
@@ -740,47 +818,47 @@ Submit a photo your Minsweeper code working
 
 **Other Fields**
 
-**Criteria \(This is required for Video and Image Checkpoints\)**
+* **Criteria \(Required for Video and Image Checkpoints Only\)**
 
-Criteria is a rubric for TA's to grade a student's Image or Video Checkpoint.
+Criteria correspond to a rubric for TAs to grade a student's Image or Video Checkpoint.
 
-You must declare where the criteria for a checkpoint would begin. You would do this by putting the word "criteria" in a markdown h1 tag like so:
+You must declare where the criteria for a checkpoint would begin. You would do this by putting the word `criteria` in a markdown `h1` tag like so:
 
 ```text
 # criteria
 ```
 
-After that you can list each criteria in a markdown h2 tag with a number at the end like so:
+After that you can list each criteria in a markdown `h2` tag with a number at the end like so:
 
 ```text
 ## criteria_1
 Does the student's board look like this:
 ```
 
-**Multiple Choice \(This is required for Multiple Choice Checkpoints\)**
+* **Multiple Choice \(Only for MC Checkpoints\)**
 
-You must declare where the choices for the checkpoint would begin. You would do this by putting the words mc\_choices in a markdown h1 tag like so:
+You must declare where the choices for the checkpoint would begin. You would do this by putting the words `mc_choices` in a markdown `h1` tag like so:
 
 ```text
 # mc_choices
 ```
 
-Next you would define each choice in a markdown h2 tag with a number at the end like so:
+Next you would define each choice in a markdown `h2` tag with a number at the end like so:
 
 ```text
 ## choice_1
 ```
 
-**Files to send \(This is required for Autograder Checkpoint\)**
+* **Files to send \(Autograder Checkpoint Only\)**
 
-These are the files that the student will submit if the student chooses to submit through their code to the cli.
+These are the files that the student will submit if the student chooses to submit through their code to the `cli`.
 
 ```text
 # files_to_send
 main.py class1.py class2.py
 ```
 
-**Test file location \(This is required for Autograder Checkpoint\)**
+**Test file location \(Autograder Checkpoint Only\)**
 
 This field is used to tell where the test case folder is for the checkpoint.
 
@@ -883,21 +961,21 @@ main.py class1.py class2.py
 Topic1/Module7/Activity_13/Tests/test_1
 ```
 
-#### Test Cases Format
+#### Test Cases README Format
 
-**Note: All test case files must end with .test**
+> Note: All test case files must end with .test
 
-**File formating**
+**File formatting**
 
-If you have multiple test cases they should have a number at the end of it like below:
+If you have multiple test cases they should have a number at the end of their filenames like below:
 
-**Your test case must be named after the lab/activity and then a sequential number**
+**Your test case must be named after the lab/activity and then contain a number in sequential order:**
 
 * minesweeper1.test
 * minesweeper2.test
 * minesweeper3.test
 
-If you have input files, then make sure that their name as .txt. **They should be in numerical order as like this**:
+If you have input files, then make sure that their name has a .txt extension. **They should be in numerical order as like this**:
 
 * input1.txt
 * input2.txt
@@ -905,7 +983,7 @@ If you have input files, then make sure that their name as .txt. **They should b
 
 **Name**
 
-Each test case file must have a name on the first line like so:
+Each test case file must have a `name`:
 
 ```text
 Board Function
@@ -950,7 +1028,7 @@ To write test cases, you must type "&gt;&gt;&gt;" followed by the name of the fu
 
 **Outputs**
 
-Right after the declaring the function that you want to test, you would put the output right below it like so:
+Right after the declaring the function that you want to test, you would place that function's output right below it like so:
 
 ```text
 >>> main()
@@ -959,13 +1037,13 @@ Hello World!
 
 **Handling User Input**
 
-If your program needs user input, then you must include the following Python file
+If your program needs user input, then you must include the following Python file:
 
 [https://gist.github.com/wongband/597c126217a306ca4770931680417faa](https://gist.github.com/wongband/597c126217a306ca4770931680417faa)
 
-For the input.txt files add the input that want to put for the corresponding test file. For example, if you have input1.txt then that should correspond as the input for minesweeper1.test.
+The input.txt files should have the same numbering as the corresponding test files. For example, if you have input1.txt then that should correspond to minesweeper1.test.
 
-Since the minesweeper1.test lab needs to have the input of 42, all we have to do is create an input1.txt with 42 in it. **Do not put a new line if your program does not output a newline.**
+If, for instance, the minesweeper1.test file needs to have the input of 42, all we have to do is to create an input1.txt with 42 in it. **Do not put a new line if your program does not output a newline.**
 
 ```text
 42
@@ -1007,4 +1085,6 @@ Mines: 10
   0123456789
 Uh oh! You blew up!
 ```
+
+> Note: Each test case file should contain 5-10 unique test cases.
 
