@@ -68,6 +68,7 @@
   * [Onboarding Guides](teams/people/onboarding-guides.md)
   * [Talent Acquisition](teams/people/talent-acquisition.md)
   * [Primary Ed](teams/people/recruitment/README.md)
+    * [How to Be a Volunteer Lead](teams/people/recruitment/how-to-be-a-volunteer-lead.md)
     * [General Event Volunteer Training](teams/people/recruitment/general-event-volunteer-training.md)
 * [Engineering](teams/engineering/README.md)
   * [README Formats](teams/engineering/readme-formats.md)
