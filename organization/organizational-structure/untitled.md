@@ -34,7 +34,7 @@
 | Backend Developer | Backend | Jason Livinghouse |
 | Backend Developer \(2\) | Backend | **VACANT** |
 
-**DevRel Department**
+**DevRel Department \(29 Vacancies\)**
 
 | Role | Team | Person |
 | :--- | :--- | :--- |
