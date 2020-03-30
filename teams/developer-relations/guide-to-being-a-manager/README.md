@@ -1,4 +1,4 @@
-# Guide to Being a Manager
+# Guide to Being a Reviewer
 
 Reviewers are in charge of **curriculum departments.** Each department is a team of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
@@ -6,7 +6,7 @@ Reviewers are in charge of **curriculum departments.** Each department is a team
 
 All reviewers will be assigned an issue in the **bitproject** repository, to be completed within _3 days of assignment._
 
-### Pre-approval Checklist 
+### Pre-approval Checklist
 
 * [ ] Confirm modules to be done
 * [ ] Finalize activities, labs and workshop list
@@ -41,11 +41,9 @@ This checklist will be posted within the issue and should all be completed withi
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
 * [ ] Adjust timeline in Zenhub Calendar
 
-
-
 ## Manager Checklist
 
-Every week, there are a couple things that every manager should take care of for each dev's pull request: 
+Every week, there are a couple things that every manager should take care of for each dev's pull request:
 
 * [ ] Spelling and grammar errors fixed
 * [ ] Markdown Formatting
@@ -57,7 +55,7 @@ Every week, there are a couple things that every manager should take care of for
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
 
-This checklist should be pasted into each review, and checked off completely by Sunday. 
+This checklist should be pasted into each review, and checked off completely by Sunday.
 
 ## General Review Checklist \[TO BE DONE SOON\]
 
