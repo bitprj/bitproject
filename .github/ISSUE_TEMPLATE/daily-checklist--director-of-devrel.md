@@ -16,7 +16,8 @@ assignees: kavuong
 - [ ] Clean-up all of today's meetings
   - [ ] Update and push meeting notes to bitprj/meetings
   - [ ] Update issues pertaining to meetings
-- [ ] Update Meeting Table: status of 1-1s and all-manager meeting 
+- [ ] Update Table: status of 1-1s and all-manager meeting 
+- [ ] Later in week: ensure all PRs are met; update Table
 - [ ] Plan upcoming issues
   - [ ] Start active issues 
 - [ ] Be proactive and generate new issues, if applicable!
@@ -39,12 +40,12 @@ assignees: kavuong
 * 
 
 ### Manager Table
-Manager Name  | 1-1 Scheduled? | Meeting Notes Made? | Meeting Completed? | 
-------|-------------|----------|------
-Sarah | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
-Jason | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
-Michelle | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
-Owen | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
-Ismail | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
-Jeff | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
-All-Managers | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
+Manager Name  | 1-1 Scheduled? | Meeting Notes Made? | Meeting Completed? | Dev PRs in (by Fri) | Manager PRs in (by Sun) | One dev -> manager PR audited
+------|-------------|----------|------|-|-|-
+Sarah | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
+Jason | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
+Michelle | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
+Owen | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
+Ismail | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
+Jeff | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
+All-Managers | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> |  |  |
