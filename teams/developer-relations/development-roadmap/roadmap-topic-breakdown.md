@@ -39,22 +39,22 @@ _**Learning Objectives:**_
 _**Activities:**_ 
 
 * JavaScript Basics
-* Students will learn the basics of JavaScript syntax
+ * Students will learn the basics of JavaScript syntax
 * Random Cow Generator
-* Students will create a website that generates a random cow picture every time a button is pushed. 
+ * Students will create a website that generates a random cow picture every time a button is pushed. 
 * What \_\_ are you?
-* Create a quiz where the results are based of the multiple choice answers given
+ * Create a quiz where the results are based of the multiple choice answers given
 * Mouse Cursor Game
-* Create a mouse cursor game where the cursor is dragged through a maze without touching the walls
+ * Create a mouse cursor game where the cursor is dragged through a maze without touching the walls
 
 Labs:
 
 * GPA Calculator
-* Students will create a GPA Calculator
+ * Students will create a GPA Calculator
 * Interactive Resume
-* Students will update their resume page from before and make it interactive. 
+ * Students will update their resume page from before and make it interactive. 
 
-\*\*\*\*
+
 
 
 
