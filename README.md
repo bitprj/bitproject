@@ -65,7 +65,7 @@ We make software engineering and computer science education accessible to studen
 
 [Talent Acquisition](teams/people/talent-acquisition.md)
 
-[Inclusion & Diversity](organization/values/inclusion-and-diversity.md)
+[Inclusion & Diversity](organization/values/inclusion-and-diversity/)
 
 [On-Boarding](teams/people/onboarding-guides.md)
 
