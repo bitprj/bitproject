@@ -6,8 +6,8 @@
 
 _**Learning Objectives:**_
 
-* Students will learn the basics of Front-End development with **HTML & CSS**.
-* Students will learn how HTML, CSS, and Java Script interact and differ to create a webpage. 
+* Students will learn the basics of Front-End development with HTML & CSS.
+* Students will learn how HTML & CSS interact and differ to create a webpage. 
 * Students will learn to use HTML & CSS to create and style their own page.
 
 _**Activities:**_
@@ -16,17 +16,47 @@ _**Activities:**_
   * Students will learn the basics to HMTL and the most common tags through this lab to apply to the labs later.
 * CSS Basics
   * Students will learn the basics to CSS and the many functionalities it has for designing  and formatting a website
-* Combining the Classics
-  * Students will create their own webpage through HTML and format it in CSS in an effort to practice website development.
-* Lets Mix It Up
-  * Students will follow a set of guidelines to improve a sample website.
+* Google.com Page
+  * Replicate Google.com's page with a Google logo, buttons, and links
+* Create A Survey 
+  * Students will follow a set of guidelines to create a a simple survey. 
 
 _**Labs:**_
 
 * Create a Resume
   * Students will create their own website that is a resume though basic HTML & CSS practices. 
-* Fun in Formatting
-  * Students will edit a sample website by making required changes that improve the overall aesthetic and functionality of the site. 
+* Vacation Advertisements
+  * Students will create an extravagant website advertising a place as a vacation attraction.
+
+**Module: JavaScript**
+
+_**Learning Objectives:**_
+
+* Students will learn the basics of JavaScript 
+* Students will learn how to use JavaScript to create interactive webpages
+* Students will learn the basics of DOM programming interface and how it interacts with the webpage
+
+_**Activities:**_ 
+
+* JavaScript Basics
+* Students will learn the basics of JavaScript syntax
+* Random Cow Generator
+* Students will create a website that generates a random cow picture every time a button is pushed. 
+* What \_\_ are you?
+* Create a quiz where the results are based of the multiple choice answers given
+* Mouse Cursor Game
+* Create a mouse cursor game where the cursor is dragged through a maze without touching the walls
+
+Labs:
+
+* GPA Calculator
+* Students will create a GPA Calculator
+* Interactive Resume
+* Students will update their resume page from before and make it interactive. 
+
+\*\*\*\*
+
+
 
 ## **Topic: SQL/SQLAlchemy**
 
