@@ -67,7 +67,7 @@
     * [General Event Volunteer Training](teams/people/recruitment/general-event-volunteer-training.md)
 * [Engineering](teams/engineering/README.md)
   * [Roles](teams/engineering/roles/README.md)
-    * [Untitled](teams/engineering/roles/untitled.md)
+    * [Director of Engineering](teams/engineering/roles/untitled.md)
     * [Frontend Architect](teams/engineering/roles/frontend-architect.md)
     * [React.js Developer](teams/engineering/roles/react.js-developer.md)
     * [Backend Developer](teams/engineering/roles/backend-developer.md)
