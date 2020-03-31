@@ -40,8 +40,8 @@ assignees: kavuong
 * 
 
 ### Manager Table
-Manager Name  | 1-1 Scheduled? | Meeting Notes Made? | Meeting Completed? | Dev PRs in (by Fri) | Manager PRs in (by Sun) | One dev -> manager PR audited
-------|-------------|----------|------|-|-|-
+Manager Name   | 1-1 Scheduled? | Meeting Notes Made? | Meeting Completed? | Dev PRs in (by Fri) | Manager PRs in (by Sun) | One dev -> manager PR audited
+----|-------------|----------|------|-|-|-
 Sarah | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
 Jason | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
 Michelle | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
@@ -49,3 +49,12 @@ Owen | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li
 Ismail | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
 Jeff | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
 All-Managers | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul> |  |  |
+
+Manager Name | Team Milestone set-up? | Team Meeting on Google?
+-|-|-
+Sarah | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> 
+Jason | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> 
+Michelle | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> 
+Owen | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> 
+Ismail | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> 
+Jeff | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>
