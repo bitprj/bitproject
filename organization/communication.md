@@ -8,6 +8,10 @@
 
 Communication is the exchange and sharing of ideas and information between two or more persons. Our organization is built upon **transparency** and learning different ways to **improve our communication skills. I**t is crucial for us to practice clear communication in ways that will help stay connected and work efficiently!
 
+
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.22.12-am.png)
+
 ## Effective and Responsible Communication Guidelines
 
 1. **Kindness matters**
@@ -21,6 +25,8 @@ Communication is the exchange and sharing of ideas and information between two o
 5. **Everyone is a moderator** 
    * If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss
 
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.23.04-am.png)
+
 ## Why We Document Everything
 
 In small organizations, it's particularly tempting to avoid a documentation strategy. With only a few team members, it's feasible to keep everyone informed via meetings, Slack, or email threads. Long-term, this oversight becomes increasingly harmful.
@@ -30,6 +36,10 @@ As a team scales, the need for documentation increases in parallel with the cost
 Documentation is rarely placed on the same pedestal with metrics such as sales and client retention during a company's formative years, but it deserves to be. The difference between a well-documented company and one that eschews a handbook is stark.
 
 A handbook-first organization is home to team members who benefit from having a single source of truth to lean on. This type of organization is able to operate with almost supernatural efficiency. An organization that does not put concerted effort into structured documentation has no choice but to watch its team members ask and re-ask for same bits of data in perpetuity, creating a torturous loop of interruptions, meetings, and suboptimal knowledge transfers.
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.24.48-am.png)
+
+  
 
 ## GitHub
 
@@ -45,7 +55,13 @@ Template:
 * A notetaker will be responsible to write in important points discussed into the notes
 * Other attendees are encouraged to help the notetaker to participate by taking notes when they speak
 
-###  
+### The Meeting Notes Template
+
+
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.26.07-am.png)
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.26.13-am.png)
 
 ## Slack
 
@@ -74,6 +90,8 @@ Before making an account, you must download slack onto both your computer and mo
    2. Use `@channel` to notify _ALL_ members in the room, irrespective of away status. Please only use `@channel` if the message is important _and_ urgent.
 8. If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
 
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.29.15-am.png)
+
 ### General Guidelines <a id="general-guidelines"></a>
 
 1. If the subject is of value to the wider community, consider commenting on an existing issue or opening a new issue instead on the pertinent Github Repository.
@@ -91,6 +109,14 @@ Before making an account, you must download slack onto both your computer and mo
 9. As an admin of the Slack workspace, if given the option to _"Disable future attachments from this website"_ when removing an attachment from a message **this will blacklist the link/domain from** [**unfurling**](https://about.gitlab.com/handbook/tools-and-tips/#unfurling-links-in-messages) **in the entire Slack workspace**. Be careful and deliberate when choosing this option as it will impact every user in the workspace.
 10. When selecting your Slack display name, please do not have your name in all capital letters as this is often [associated as shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting) in written communications.
 
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.29.49-am.png)
+
+### Hey Taco!
+
+Hey Taco is an application that is integrated with Slack. It is a way to give shoutouts and appreciation to people in your organization! What’s the point of all this taco giving? To put it simply: unity, recognition and gratitude. You name it and someone has probably given out a taco for it. Team member appreciation, a birthday, gratitude for leadership, or welcoming a new team member are all just a few of the reasons we give out tacos. You get 5 tacos a day!
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.35.03-am.png)
+
 ## Zoom
 
 [Zoom](https://zoom.us/) is a cloud-based video conferencing platform that can be used for video conferencing meetings, audio conferencing, webinars, meeting recordings, and live chat. This video conferencing will allow us to meet and work together productively "face-to-face" when meeting in-person isn't possible. This makes meeting remotely much more human, which essential in order to help users feel and stay connected.
@@ -103,6 +129,10 @@ Before making an account, you must download slack onto both your computer and mo
 4. It's okay to interrupt and put in your input. Keep to a moderate amount! We understand that when you are in a call and you want to have some input, the lag can make it seem like you are interrupting but put feel free to talk in between. We want the meetings to be more of discussion and it can improve the quality of our work. 
 5. We expect you to be in an appropriate setting and wearing appropriate clothing. If you are in a loud environment, please go ahead and mute yourself. 
 6. It is your own responsibly to remember what was discussed in the meeting. So takes notes if needed. 
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.36.37-am.png)
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.36.54-am.png)
 
 ### How Your First Meeting Will Generally Go 
 
@@ -118,28 +148,7 @@ Before making an account, you must download slack onto both your computer and mo
 
 [**Calendly**](https://calendly.com/) **is a simple calendar setting app.** One person makes a list of dates and times they are available, and other people go there and self-select their time. [**Calendly**](https://calendly.com/) **allows us to find the best time for 1:1 meetings. Only supervisors need Calendly and their links will be in their Slack profile.**
 
-#### How to Set Up an Account?
-
-1. Set up your Calendly account
-2. Create a “15 Minute Meeting” on your [Calendly account page](https://calendly.com/event_types/user/me) 
-   * Your new event should show up under Event Types
-3.  Click the event to edit settings
-4. Edit settings to match the following image:
-   * Include your name in the event name
-   * Location: Zoom \(add free integration\)
-   * Save & Close when complete
-   * Date range: indefinitely
-   * Advanced settings: as per your preference
-   * Add your availabilities at the bottom
-     * Tip: you can add the same availabilities to multiple days by clicking and dragging over the days
-   * Save & Close
-   * Add two Invitee Questions:
-     * Team Name
-     * Supervisor
-   * And make them both required fields.
-     * Save & Close
-
-\*\*\*Refer to the Bit Project Webinar \#1's deck for further instructions 
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.39.06-am.png)
 
 ## Google Calendar 
 
@@ -149,7 +158,11 @@ Google Calendar is a time-management and scheduling calendar service. Google Cal
 * All Calendly events will be linked to the Calendar
 * All virtual socials will be updated on the Calendar
 
-**If you are invited to any Google Calendar event, please RSVP as soon as possible**
+**If you are invited to any Google Calendar event, please RSVP as soon as possible.** 
+
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.39.38-am.png)
+
+**If you do not have access to our Google Calendar please tell your supervisor!**
 
 ### How to Use it
 
@@ -164,126 +177,7 @@ Team/Department Meetings:
   * Invite all members to event
   * Include Zoom meeting link in description
 
-## Webinar \#1: Communication 
-
-\(insert video\) 
-
-This is a rough outline of what was discussed in the webinar
-
-* Slide 1: 
-  * Hey everyone welcome to this first webinar. The point of Bit doing these presentations is a way to improve the organization as a whole but also improve our workflow and understanding the expectations that we have from everyone.
-* Slide 2
-  * Today’s main topic that we will be focusing on is Communications
-* Slide 3
-  * This is the content slide which is basically the agenda and you can refer back to this if needed. 
-* Slide 4
-  * The goal for this is to practice clear communication in a way that will help us stay connected and work efficiently as we go more remote due to the corona virus that is currently happening right now. 
-  * I want to highlight that one of our biggest values our organization is built upon is transparency. Additionally, we are constantly looking for new ways to improve our communication skill. So by of these end of these webinars please let us know if you have any ideas to improve our communications
-* Slide 5
-  * A simple definition of the communication can be seen as an exchange between sharing of ideas and information between two or more persons
-* Slide 6
-  * We got inspired by GitLab and created the effective and responsible communication guidelines. So the first one being. 
-    * 1. Kindness matters. We want to communicate and talk to others in a kind way and we need to be mindful of what we say. For instance, when you talk through messaging platforms you can feel like you can say anything. But just remember that if you wouldn’t say it to them in person do not send it through text! Positive vibes only in Bit! 
-    * 2. Express your thoughts. We live in different locations and often have very different perspectives. We want to know your thoughts, opinions, and feelings on projects. All opinions are valid and will be taken into account for. 
-    * 3. Feedback is Essential. We encourage team members to give feedback and receive feedback in a considerate way. Do not be afraid to get anyone feedback but give it in a respectful way. 
-    * 4. 1:1 are super important and we should implement this practice more in our communication because sometimes it is more effective to take conversation to zoom calls. Moreover, ensure that directors and members are on the same page as well as build better relationships around this organization. We always want to improve as a whole and 1:1 help us reassess Bit.
-    * Everyone is a moderator. If you see something that you have concerns about please reach out to someone in a 1:1 
-* Slide 7
-  * Channels you should get familiar with are Slack, Calendly, zoom, Google Calendar, and GitHub. 
-* Slide 8
-  * First of is learning a bit about how we communicate on Slack 
-* Slide 9
-  * Slack is pretty easy to figure out because it user interface is really friendly so it is your responsibility to understand how to use it but we will specifically talk about the etiquette of using Slack 
-  * And REMEMBER! Major decisions should not be made on slack because most likely you will forget about it and messages will get delete within 8 days
-* Slide 10
-  * Private Dm versus Public Channels 
-  * This is a big issue that we have been having. So I cannot stress this enough but everyone needs to make an effort and start posting on Public channels more and less sending messages on private DM because it discourages collaboration, and provide less feedback
-  * It is also simply not efficient because people start getting confused on who is doing what. I will provide some examples on what I mean.
-  * But Rule of thumb: if an idea/question can benefit others, then post in the public channel. And if someone sends you a work-related message then let them know nicely…. 
-* Slide 11
-  * This is an example of a private DM
-    * Is say someone is asking a personal questions such as “are you going to itea” this has nothing to do with Bit so it can be used in a private DM
-  * In a public channel, even when the girl is referring to a specific person it still needs to be posted on the public channel so everyone in the team is up to date with what is happening. It can be a way to keep everyone accountable.
-  * We are trying to reach this quota of 55 percent of discussion should be on public channel, 25 of private channels, and 20 on private dm 
-* Slide 12
-  * Maybe now you are wondering what channel you should use. Each channel should have a short description on what the channel is about. If you are still confused feel free to ask a team member or your supervisor! Also please do not try to use @channel too much!
-* Slide 13
-  * Also, we started using an application called “hey taco” where we can give shoutouts to people. Too often we get caught up in our work and forget to recognize each other and celebrate each other’s work. 
-  * All you have to do is add a taco emoji in your message!
-* Slide 14
-  * Fewer Messages= Fewer Notifications 
-  * I want us to work on posting your ideas/ questions in one post rather than many posts. We should practice avoiding cluttering people with notification. Getting everything you need into a single direct message means that only one notification is sent to the channel/person
-  * Please be clear and concise so there are less interruptions 
-* Slide 15
-  * Here is an example of cluttering. There are 10 notifications rather it can be condensed into 2 or 3 notifications or messages. When there are a lot of pings it can be overwhelming and distracting to people in the channel. So please be mindful when sending messages.  
-* Slide 16
-  * Another thing we can do to avoid cluttering is using threads. Members can talk without tripping the unread indicator for everyone else in the channel. Meaning not everyone in the channel will get a notification. It allows for an ongoing conversation while keeping the main channel clear. But if you want people to know what you are talking about in the thread you can check the box below your message to post to the entire channel. This is a way for us to be mindful!
-* Slide 17 
-  * Here a quick example of us using a thread. And you can see that even though it was just us setting up a zoom meeting we still posted it in the public while not cluttering the chat by using the thread. 
-* Slide 18
-  * This is more of a tip but you can replace short follow-up messages with emoji reactions. Here is just a short emoji glossary.
-    * The check mark can be translated as completed or approved
-    * The thumbs up can mean i agree or understand 
-    * Or the heart emoji can mean I love it!
-* Slide 19
-  * We understand that you are busy, but please remember to respond whenever you can! It would be really efficient if you guys can respond within 24 hours. Also if you guys are busy for a certain amount of time please tell your director that you are busy in a private message. 
-* Slide 20
-  * Take some conversation face to face. What I mean is that some conversations are super technical so it would be more time-efficient if you take your conversation to zoom. This means less miscommunication! Remember that Slack can never replace face to face interaction where people can always connect better. 
-* Slide 21 
-  * Next up is Zoom 
-* Slide 22
-  * Please learn how to use it on your own time. But it is pretty simple!
-* Slide 23
-  * Everyone from now on needs to introduce themselves at the beginning. Just like a real meeting or any social event, you don’t wanna initiate a convo between people you haven’t met. It would be pretty awk. So let your members know who you are!
-  * Also just some quick tips. Please hold your meeting in a work-appropriate backgrounds and mute yourself if needed
-* Slide 24
-  * We like to document our meetings because some people who could not go to the meeting can catch up.
-  * We will ask for your consent to record the meeting first so please make sure your camera is on. These videos are only going to be used for us and they won’t be posted. 
-  * If you are uncomfortable with this please let me or shreya know and leave the zoom call quietly.  
-* Slide 25
-  * We expect that everyone should come to the meeting prepared and stay on task 
-  * Make sure you guys understand what the meeting is about and what deliverables you need to complete before the meeting 
-  * We only want zoom calls to last around 30-90 mins however there are some exceptions 
-* Slide 26
-  * We do not allow Hybrid Calls because we want to be as professional as we can. Hybrid calls are when two or more persons are using the same camera, headset, and screen. In Bit everyone should have their own because we won't be able to hear you well, and we can miss on important conversations, and we won't be able to tell who is talking. So please use you own equipments 
-* Slide 27
-  * In a Zoom meeting it is okay in Interrupt the speaker! I know that when you are in a call and you want to have some input, the lag can make it seem like you are interrupting but feel free to talk in between. We want the meetings to be more of a discussion, as it improves the quality of our work. But please be mindful of how many times you are interrupting because it can make the discussion longer than necessary. 
-* Slide 28
-  * This is the general process of how our Zoom calls can go
-* Slide 29
-  * Next is Calendly
-* Slide 30
-  * Calendly allows us to find the best time for 1:1 meetings
-  * You are expected to meet with your supervisor once a week for about 15 minutes. And you can use calendly to schedule that. All supervisor will have their calendly in their slack descriptions  
-* Slide 31
-  * Google Calendar
-* Slide 32
-  * Why are we using google calendar?
-    * For the reasons that it helps us all stay on the same schedule even when we all live in different time zones. Because as we go more and more remote there will be a good amount of virtual meetings. Having google calendar will increase one of values which is transparency.
-    * All calendly events will be linked to the calendar 
-    * Socials will be on the calendar as well
-    * You should receive an invite in your second email to get access to our calendar
-* Slide 33 
-  * How will we use it
-    * Again 1:1 meetings will be recorded on there 
-  * Team/ department meetings will be on there
-    * To set it up 
-    * 1. Add the event to calendar
-    * 2. Invite all the members
-    * 3. Include the zoom link in the description 
-* Slide 34
-  * GitHub is the platform where we will take our meetings notes. There be another webinar that goes into depth about this
-* Slide 35 
-  * We document notes based on three main things
-    * Availability 
-    * Accountability
-    * Readability
-* Slide 36 
-  * How to document the meeting notes
-* Slide 37
-  * Example
-* Slide 38
-  * Thanks!
+![](../.gitbook/assets/screen-shot-2020-03-31-at-1.40.52-am.png)
 
 \*\*\*\*
 
