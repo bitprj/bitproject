@@ -38,8 +38,8 @@ assignees: kavuong
 ### All completed issues
 * 
 
-### Meeting Table
-Manager Name  | Scheduled? | Notes Made? | Completed?
+### Manager Table
+Manager Name  | 1-1 Scheduled? | Meeting Notes Made? | Meeting Completed? | 
 ------|-------------|----------|------
 Sarah | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
 Jason | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>
