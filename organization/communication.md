@@ -1,9 +1,12 @@
 # Communication
 
+{% embed url="https://www.youtube.com/watch?v=2f9TkttynIk&feature=youtu.be" %}
+
+**Effective Communication Webinar**, Becca Tran
+
 ## What is Communication? 
 
-Communication is the exchange and sharing of ideas and information between two or more persons. Our organization is built upon **transparency** and learning different ways to **improve our communication skills. I**t is crucial for us to practice clear communication in ways that will help stay connected and work efficiently!  
-
+Communication is the exchange and sharing of ideas and information between two or more persons. Our organization is built upon **transparency** and learning different ways to **improve our communication skills. I**t is crucial for us to practice clear communication in ways that will help stay connected and work efficiently!
 
 ## Effective and Responsible Communication Guidelines
 
