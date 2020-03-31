@@ -2,6 +2,32 @@
 
 Reviewers are in charge of **curriculum teams.** Each team consists of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
+## Developers
+
+For Developers, this checklist will be used to help guide them in the production of curriculum. It will serve as a checklist to help determine what a developer should or should not do when they are creating labs and activities. 
+
+For Example, as developers are doing the activity cards, there is a checklist box that states that there must be 2-3 checkpoints in the activity. By using this checklist as a guide, developers would then remember to add checkpoints somewhere in the list. This would then save the developer's reviewer's time as the reviewer would not have to ask the developer to add the missing content and wait again for the developer to implement what is missing.   
+
+## Managers
+
+For Managers, this guide will be useful for checking on the work of the developers. Managers can refer to this checklist page to see what the developers did wrong, making giving feedback easier than ever. 
+
+For example, In the following we have Michelle as a Manager/Reviewer. In the pull request Checklist portion of this page, there is a checkbox that states "Correct Markdown Formatting", and as seen below, that checkbox was put to good use. By checking in this page, it is now easier to spot what needs to be revised, leading to faster and more efficient feedback given to the developer. 
+
+![](../../../.gitbook/assets/screen-shot-2020-03-30-at-8.51.29-pm.png)
+
+## Kevin
+
+This is the second layer for reviewing the curriculum. Kevin is in charge of further looking into the content of the written curriculum. Specifically, he is in charge of the pull requests made by the managers. As a result, he needs to review a lot of curriculum, and using this checklist will further help save time and work in the reviewing process. 
+
+In the following example, Kevin saw the 1 scroll per card checkbox, and therefore made the following review:  
+
+![](../../../.gitbook/assets/screen-shot-2020-03-30-at-9.54.54-pm.png)
+
+## Daniel
+
+Our Leader Daniel is the final layer in the review process. He Double checks what Kevin reviews and makes sure that the curriculum being used is as close to perfection as possible. And it is through this checklist that his job can be made easier as he just needs to use it as a guide to see what the other reviewers may have missed out on. 
+
 ## Starting Off: Receiving Module Assignments
 
 All reviewers will be assigned an issue in the **bitproject** repository, to be completed within _3 days of assignment._
@@ -28,56 +54,6 @@ All reviewers will be assigned an issue in the **bitproject** repository, to be 
 * [ ] Set timeline for module, activity, lab and workshop Epics in Zenhub Calendar
 
 This checklist will be posted within the issue and should all be completed within 3 days of assignment.
-
-### Pre-approval: What To Do
-
-* [ ] For each module,create a document that outlines the planned curriculum\(make sure to format it properly and according to the example\)
-  * [ ]  Make sure learning objectives are written and formatted properly
-  * [ ] Make sure activity titles and descriptions written and formatted properly
-  * [ ] Make sure lab titles and descriptions written and formatted properly
-
-### Role of Epics + Assigning Epic Points
-
-Epics represent long-term \(in the form of GitHub issues\) that will keep you on track to finish weekly assignment,activities & labs, and entire modules. These epics should be assigned points not based on how long they will take to complete but the overall, implementation based difficulty.  Activity,Lab ,and workshop epics are assigned different points and they add up to represent the total weight/points of an entire module.
-
-###  Explanation of Role of Issues \(curriculum issues\)
-
-Issues are assigned weekly to developers and represent a week's work that will help you reach your epics. These issues should help you push yourself further down your Epics. They should be succinct enough\(and must also follow the given format on GitHub\) for developers to understand but not get overwhelmed by too many details or work.
-
-### Explanation of Role of Milestones
-
-Milestones represent a person's and a team's weekly goals. They are comprised of curriculum issues and represent how much progress a team or person has made during a week. They will help you keep track of everyone's weekly work quota and your own work.
-
-### Adding Issues to Epics \(Modules + Activities + Labs\)
-
-Issues\(GitHub\) should be added to Epics. On a higher level, they represent what things need to be down in order to take down an Epic and will help you breakdown your goals into more tangible ideas and tasks. Module,activities, and lab Epics will be given smaller issues that break them into more ,as previously stated, bit-sized chunks that you can further break down into weekly issues and Milestones.
-
-###  Long-term Plan
-
-A long-term plan should be clear for not only yourself but outsiders who might view it as well. It should follow a set format\(as shown below\) and should outline both major points that need to worked on and the time frame on when these issues will be dealt with. It should be realistic and extra care should be taken into considering that deadlines that you set might need to be adjusted\(so give yourself some "wiggle room"\)
-
-`Overview of things to do:`
-
-* `Create section on Python Class and other OOP concepts`
-* `...`
-* `Recycle older tutorials into new sections for the current module`
-* `Add more descriptive visuals to currently-made activities`
-
-`Weekly Goals:`
-
-`Week of April 23th: Start outlining foundation cards`
-
-`Week of April 30th: Start recycling older cards for the new Python tutorial module`
-
-`...`
-
-### ZenHub Calender
-
-You should use ZenHub as a visual deadline guide and reminder. You will create Epics that will represent blocks on ZenHub. You will then adjust their size according to their perceived start date and deadline. You will also create sub-epics\(i.e activity,workshop labs, etc.\) that will also have their own deadlines\(that will build up the main module epic\).
-
-
-
-
 
 ## Weekly Manager Checklist
 
@@ -207,6 +183,4 @@ With regards to this checklist, reviewers should do the following:
   * Labs: calculated using John's Code 
   * Activities: Predetermined amounts
 * [ ] Have curriculum proofread by writing team \(currently Victoria Xu @vkxu657\)
-
-
 

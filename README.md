@@ -18,7 +18,7 @@ We make software engineering and computer science education accessible to studen
 
 [Communication](organization/communication.md)
 
-[Culture]()
+[Culture](organization/culture.md)
 
 [Style Guide](organization/style-guides/)
 
@@ -52,10 +52,10 @@ We make software engineering and computer science education accessible to studen
 
 ## Marketing
 
-[Community Relations]()
+[Community Relations](teams/community-relations/)
 
-* [First-Time Contributors Program]()
-* [Starting a Branch]()
+* [First-Time Contributors Program](teams/community-relations/first-time-contributors-program.md)
+* [Starting a Branch](teams/community-relations/starting-a-branch/)
   * High School 
   * Collegiate
     * Hackathons
@@ -65,7 +65,7 @@ We make software engineering and computer science education accessible to studen
 
 [Talent Acquisition](teams/people/talent-acquisition.md)
 
-[Inclusion & Diversity](organization/values/inclusion-and-diversity/)
+[Inclusion & Diversity](organization/values/inclusion-and-diversity.md)
 
 [On-Boarding](teams/people/onboarding-guides.md)
 

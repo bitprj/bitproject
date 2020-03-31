@@ -1,6 +1,0 @@
-# Frontend Architect
-
-## Requirements
-
-
-
