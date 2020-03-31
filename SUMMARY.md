@@ -12,19 +12,13 @@
 * [Organizational Structure](organization/organizational-structure/README.md)
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication.md)
-* [Culture](organization/culture.md)
 * [Style Guides](organization/style-guides/README.md)
+  * [Writing Style Guides](organization/style-guides/writing-style-guides.md)
   * [Brand Guidelines](organization/style-guides/brand-guidelines.md)
   * [Markdown Style Guide](organization/style-guides/markdown-style-guide.md)
 
 ## Teams
 
-* [Community Relations](teams/community-relations/README.md)
-  * [First Time Contributors Program](teams/community-relations/first-time-contributors-program.md)
-  * [Starting a Branch](teams/community-relations/starting-a-branch/README.md)
-    * [High School](teams/community-relations/starting-a-branch/high-school.md)
-    * [Collegiate](teams/community-relations/starting-a-branch/collegiate.md)
-    * [Hobbyist Meetups](teams/community-relations/starting-a-branch/hobbyist-meetups.md)
 * [Developer Relations](teams/developer-relations/README.md)
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
