@@ -280,6 +280,8 @@ Each card has a gems field. The gems fields is used to indicate the number of ge
 
 **Card Concepts \(Concepts only apply to hard cards, not medium or easy cards\)**
 
+**Note: This fields is NOT required for the Activity README.md**
+
 To give a card concepts, write the word "concepts" in a markdown h3 tag and list out the name of the concepts in \* like below:
 
 ```text
