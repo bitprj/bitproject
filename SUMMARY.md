@@ -73,5 +73,5 @@
     * [Backend Developer](teams/engineering/roles/backend-developer.md)
   * [README Formats](teams/engineering/readme-formats.md)
   * [Curriculum Folder Structure](teams/engineering/curriculum-folder-structure.md)
-* [How to use the Checklist](how-to-use-the-checklist.md)
+* [How to use the Checklist](teams/how-to-use-the-checklist.md)
 
