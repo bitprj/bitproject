@@ -28,7 +28,7 @@ Here’s an example of a paragraph with good writing style from the activity Tim
 
 “Now that we have an understanding of time complexity and space complexity and how to express them as functions of time, we can elaborate on the way we express these functions. Big-O Notation is a common way to express these functions.
 
-Instead of using terms like Linear Time, Quadratic Time, Logarithmic Time, etc., we can write these terms in Big-O Notation. Depending on what time the function increases by, we assign it a Big-O value. Big-O notation is incredibly important because it allows us to take a more mathematical and calculated approach to understanding the way functions and algorithms grow. Let’s take a look at how we can find and use the Big-O value.”
+Instead of using terms like Linear Time, Quadratic Time, Logarithmic Time, etc., we can write these terms in Big-O Notation. Depending on what time the function increases by, we assign it a Big-O value. Big-O notation is incredibly important because it allows us to take a more mathematical and calculated approach to understanding the way functions and algorithms grow. Let’s take a look at how we can find and use the Big-O value.” 
 
 * Notice that it flows nicely from the previously discussed concepts, and is clear and concise in what it is going to be talked about.
 

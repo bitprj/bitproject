@@ -280,8 +280,6 @@ Each card has a gems field. The gems fields is used to indicate the number of ge
 
 **Card Concepts \(Concepts only apply to hard cards, not medium or easy cards\)**
 
-**Note: This fields is NOT required for the Activity README.md**
-
 To give a card concepts, write the word "concepts" in a markdown h3 tag and list out the name of the concepts in \* like below:
 
 ```text
@@ -474,12 +472,14 @@ To include the md\_content for the step, give the md\_content with a markdown h2
 ```text
 ### md_content
 ```
-### Hello world in js
-This is how you do it
-```
-```
 
+## Hello world in js
 
+This is how you do **it**
+
+```text
+
+```
 
 #### Optional Fields
 
@@ -490,8 +490,11 @@ To include the code snippet for the step, give the code snippet with a markdown 
 ```text
 ### code_snippet
 ```
-def pls_work(): return True... maybe
-```
+
+def pls\_work\(\): return True... maybe
+
+```text
+
 ```
 
 #### Image
@@ -516,24 +519,28 @@ Topic1/Module2_test/Activity_7/cards
 ## 1-2-1 Step 1
 
 ### name
+```
+
 How to install VSCode
 
+```text
 ### md_content
 ```
-Hello world in js
-This is how you do it
-```
 
+## Hello world in js
+
+This is how you do **it**
+
+```text
 ### code_snippet
 ```
-def pls_work(): return True... maybe
-```
 
+def pls\_work\(\): return True... maybe
+
+```text
 ### image
 <img src="images/bandanna.jpg">
 ```
-
-
 
 ### Concept Format
 
@@ -570,8 +577,11 @@ Under the hint name, you have to give the step a name with a markdown h2 tag. **
 ```text
 ## name
 ```
+
 How to install VSCode
-```
+
+```text
+
 ```
 
 #### Md\_content \(You need to include this for each step\)
@@ -581,12 +591,14 @@ To include the md\_content for the step, give the md\_content with a markdown h2
 ```text
 ## md_content
 ```
+
 ## Hello world in js
-This is how you do it
-```
-```
 
+This is how you do **it**
 
+```text
+
+```
 
 #### Optional Fields
 
@@ -597,8 +609,11 @@ To include the code snippet for the step, give the code snippet with a markdown 
 ```text
 ## code_snippet
 ```
-def pls_work(): return True... maybe
-```
+
+def pls\_work\(\): return True... maybe
+
+```text
+
 ```
 
 #### Image
@@ -625,19 +640,24 @@ Topic1/Module2_test/concepts/
 
 ## name
 ```
-How to install VSCode
-```
 
+How to install VSCode
+
+```text
 ## md_content
 ```
-Hello world in js
-This is how you do it
-```
 
+## Hello world in js
+
+This is how you do **it**
+
+```text
 ## code_snippet
 ```
-def pls_work(): return True... maybe
-```
+
+def pls\_work\(\): return True... maybe
+
+```text
 ## image
 <img src="dee.jpg">
 ```
