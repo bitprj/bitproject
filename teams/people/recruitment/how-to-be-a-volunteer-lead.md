@@ -1,36 +1,6 @@
 # How to Be a Volunteer Lead
 
-\*\*\*\*[**How to Be a Volunteer Lead Training**](https://www.youtube.com/watch?v=QEdVY4sYBAw&feature=youtu.be) **\(Video\)**
-
-**Table of Contents**
-
-[**Introduction**](https://about.bitproject.org/teams/people/recruitment/how-to-be-a-volunteer-lead#introduction)
-
-[**What Volunteer Leads Do**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.hmuk041wrme6)
-
-[**Working with Students**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.g67v3nmtahuv)
-
-[**Mood**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.1kyjv7u995pw)
-
-[**Verbal Language**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.7bxdvwa981ax)
-
-[**Body Language**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.fedop5pnqy7w)
-
-[**Delivery**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.4m6ei14peo5w)
-
-[**Situations**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.l8a4z1b8wjsf)
-
-[**Starting off an Event**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.w7hdl0tyzdsk)
-
-[**Opening an Activity**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.8ofv984l8dj7)
-
-[**Activity**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.yee5jn48up98)
-
-[**Cleaning Up**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.s2uaovhqtjvr)
-
-[**BitCart**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.k59vfbffwmk7)
-
-[**BitQuest**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.dvkj4a86qho8)
+[**How to Be a Volunteer Lead Training**](https://www.youtube.com/watch?v=QEdVY4sYBAw&feature=youtu.be) **\(Video\)**
 
 ## **Introduction**
 
