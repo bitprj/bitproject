@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bit Project](README.md)
+* [Join Bit Project](join.md)
 
 ## Organization
 
@@ -23,7 +24,7 @@
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
-  * [Joining the Core Team](teams/developer-relations/joining-the-core-team.md)
+  * [Joining Developer Relations](teams/developer-relations/joining-the-core-team.md)
   * [Joining as an Organization](teams/developer-relations/joining-as-an-organization/README.md)
     * [Workshop: Marketing and Presentation Tips](teams/developer-relations/joining-as-an-organization/workshop-marketing-and-presentation-tips.md)
     * [West Valley College Workshop](teams/developer-relations/joining-as-an-organization/west-valley-college-workshop.md)

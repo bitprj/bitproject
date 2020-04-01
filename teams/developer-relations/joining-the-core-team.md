@@ -2,7 +2,7 @@
 description: The process of joining the core team.
 ---
 
-# Joining the Core Team
+# Joining Developer Relations
 
 ## Introduction
 
