@@ -6,7 +6,7 @@
 
 **Table of Contents** 
 
-[**Introduction**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.ysk5pi603r3r)
+[**Introduction**](https://github.com/bitprj/bitproject/blob/master/teams/people/recruitment/how-to-be-a-volunteer-lead.md#introduction)
 
 [**What Volunteer Leads Do**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.hmuk041wrme6)
 
