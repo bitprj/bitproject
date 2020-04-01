@@ -68,6 +68,12 @@ Every week, there are a couple essential things that every manager should take c
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
 
+Performing code reviews is an incredibly important step, and this function has to be done for every pull request for each of the developers every week. To start you dev should have requested a review from you. If not, please gently remind them or just request yourself. Then you should see a geen "leave a review" button and pressing that will lead you to a page displaying the code differences. You should leave comments on the code that you are viewing with specific things that they can improve on in their nect iteration.
+
+These specific changes should all contribute one way or another to the "Pull Request Checklist" as shown above. This checklist has to be pasted into each pull request. When reviewing, it is important to focus on both the "macro" and the "micro" issues that need to be resolved. This check list helps reviewers raise issues and review in a more efficient manner.
+
+Stemming from an effort to be more transparent and let developers be aware of how their work contributes to the organization as a whole, this list both ensures proper workflow and a more stylistically workflow. As more and more of the list is checked off, the developer is able to see their progress. Ideally, the list for a specific PR is completely checked off by the end of the week.
+
 ## General Development Review Checklist
 
 The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
