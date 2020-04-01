@@ -29,9 +29,3 @@ description: >-
 * Creating code that fits our style and best practice guidelines 
 * Updating documentation of routes on Postman and Gitbook
 
-
-
-
-
-
-

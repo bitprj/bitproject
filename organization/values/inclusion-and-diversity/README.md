@@ -6,5 +6,3 @@ description: Promoting Diversity and Inclusion at Bit Project
 
 {% page-ref page="guide-to-inclusive-language.md" %}
 
-
-
