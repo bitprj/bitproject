@@ -69,7 +69,6 @@
     * [Airtable & HubSpot](teams/marketing/weekly-duties/airtable-and-hubspot.md)
 * [People](teams/people/README.md)
   * [Joining the Team](teams/people/joining-the-team.md)
-  * [Onboarding Guides](teams/people/onboarding-guides.md)
   * [Talent Acquisition](teams/people/talent-acquisition.md)
   * [Recruitment](teams/people/recruitment.md)
 * [Engineering](teams/engineering/README.md)

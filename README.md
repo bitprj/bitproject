@@ -63,7 +63,7 @@ We make software engineering and computer science education accessible to studen
 
 [Inclusion & Diversity](organization/values/inclusion-and-diversity/)
 
-[On-Boarding](teams/people/onboarding-guides.md)
+[On-Boarding]()
 
 ## Join Bit Project
 
