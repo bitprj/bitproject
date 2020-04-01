@@ -1,10 +1,8 @@
 # How to Be a Volunteer Lead
 
-
-
 \*\*\*\*[**How to Be a Volunteer Lead Training**](https://www.youtube.com/watch?v=QEdVY4sYBAw&feature=youtu.be) **\(Video\)**
 
-**Table of Contents** 
+**Table of Contents**
 
 [**Introduction**](https://about.bitproject.org/teams/people/recruitment/how-to-be-a-volunteer-lead#introduction)
 
@@ -32,14 +30,13 @@
 
 [**BitCart**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.k59vfbffwmk7)
 
-[**BitQuest**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.dvkj4a86qho8)  
-****
+[**BitQuest**](https://docs.google.com/document/d/1A2wCG85mgUUvhf9yfHxBEXmuSOJFvObtFOG1TfgRI5s/edit#heading=h.dvkj4a86qho8)
 
 ## **Introduction**
 
 We rely on our volunteer leads to make sure an event runs smoothly for our teachers, students, and volunteers, so this role is super important but also very rewarding. In this section, we will discuss the roles and responsibilities of a volunteer lead!
 
-We will cover specifics about BitCart and BitQuest at the very end! Hopefully before watching this video you have watched the General Event Volunteer Training Video. If not, watch it after! 
+We will cover specifics about BitCart and BitQuest at the very end! Hopefully before watching this video you have watched the General Event Volunteer Training Video. If not, watch it after!
 
 ## **What Volunteer Leads Do**
 
@@ -49,13 +46,11 @@ All Events: Volunteer Attendance, Delegating tasks to volunteers during an event
 
 BitCart Events: Communicating with the Teachers on Methods of Control, Airtable Form
 
-BitQuest Events: Creating a method of control and establishing ground rules, Ensuring volunteers are aware of possible troubleshooting during the event and who to contact  
-****
+BitQuest Events: Creating a method of control and establishing ground rules, Ensuring volunteers are aware of possible troubleshooting during the event and who to contact
 
 ## **Working with Students**
 
-In any Bit Project Event, there will be students from different academic and social backgrounds. Although it will be difficult to cater to each and every one of them, we do want to try our best to make sure all of them feel safe and have fun. A good way to do that is by always thinking about our mood, language, and delivery. All three are super important during an event in all aspects of presentation, answering questions, and discipline. Below we will go more in depth into all three subjects.  
-
+In any Bit Project Event, there will be students from different academic and social backgrounds. Although it will be difficult to cater to each and every one of them, we do want to try our best to make sure all of them feel safe and have fun. A good way to do that is by always thinking about our mood, language, and delivery. All three are super important during an event in all aspects of presentation, answering questions, and discipline. Below we will go more in depth into all three subjects.
 
 ## **Mood**
 
@@ -81,12 +76,11 @@ Emphasis: Precipitation is another word for rain. It is a fancy word scientists 
 
 ^^/Pauses: Precipitation is another word for rain. \*pause\* It is a fancy word scientists use to describe the weather.
 
-Word Fun: Try placing the emphasis on different words and placing the spaces in other locations. What delivery sounds the best? Which is the worst?  
-****
+Word Fun: Try placing the emphasis on different words and placing the spaces in other locations. What delivery sounds the best? Which is the worst?
 
 ## **Body Language**
 
-Stand tall and proud. Use your height to your advantage. 
+Stand tall and proud. Use your height to your advantage.
 
 When speaking, move your hands to emphasize certain words!! Being dramatic is totally cool and entertaining students follow instructions more than bored ones. It might seem comical to exaggerate everything you do, to dramatically show off the materials being used, being amazed by a student’s artwork and showing it off to the class or your peers… but it boosts their egos and students eat it up. Here are some DRAMATIC hand motions you can try in the classroom:
 
@@ -108,7 +102,7 @@ To do that, there are a few things that a volunteer lead should do when they are
 
 ## **Opening an Activity**
 
-A great opening to any activity is by asking a question you know EVERYBODY knows the answer to. For instance: What are different types of weather? What are different types of fruit? What is a bridge for? 
+A great opening to any activity is by asking a question you know EVERYBODY knows the answer to. For instance: What are different types of weather? What are different types of fruit? What is a bridge for?
 
 It might seem pretty basic, but this is extremely important. Students already perceive whether they will be able to do an activity or not based on our opening introduction, so by asking a question we know they know the answer to, we inadvertently boost their confidence and their belief that they can do this activity.
 
@@ -116,7 +110,7 @@ It might seem pretty basic, but this is extremely important. Students already pe
 
 Troubleshooting: The activity is not going as planned.
 
- If the activity is too hard, too easy, or progressing too quickly- volunteers will need to improvise.
+If the activity is too hard, too easy, or progressing too quickly- volunteers will need to improvise.
 
 * Too Hard: Simplify the activity. Identify a few key words and concepts you want students to learn and don’t worry about the rest.
   * Ie: A rocket activity may be too complex with terms like propulsion, thrust, lift, drag, aerodynamics, etc. Instead choose a word to introduce \(like Aerodynamic\) and explain the others qualitatively. \(“Something is pushing the rocket up and down”\)

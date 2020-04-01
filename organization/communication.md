@@ -8,10 +8,6 @@
 
 Communication is the exchange and sharing of ideas and information between two or more persons. Our organization is built upon **transparency** and learning different ways to **improve our communication skills. I**t is crucial for us to practice clear communication in ways that will help stay connected and work efficiently!
 
-
-
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.22.12-am.png)
-
 ## Effective and Responsible Communication Guidelines
 
 1. **Kindness matters**
@@ -25,8 +21,6 @@ Communication is the exchange and sharing of ideas and information between two o
 5. **Everyone is a moderator** 
    * If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.23.04-am.png)
-
 ## Why We Document Everything
 
 In small organizations, it's particularly tempting to avoid a documentation strategy. With only a few team members, it's feasible to keep everyone informed via meetings, Slack, or email threads. Long-term, this oversight becomes increasingly harmful.
@@ -36,10 +30,6 @@ As a team scales, the need for documentation increases in parallel with the cost
 Documentation is rarely placed on the same pedestal with metrics such as sales and client retention during a company's formative years, but it deserves to be. The difference between a well-documented company and one that eschews a handbook is stark.
 
 A handbook-first organization is home to team members who benefit from having a single source of truth to lean on. This type of organization is able to operate with almost supernatural efficiency. An organization that does not put concerted effort into structured documentation has no choice but to watch its team members ask and re-ask for same bits of data in perpetuity, creating a torturous loop of interruptions, meetings, and suboptimal knowledge transfers.
-
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.24.48-am.png)
-
-  
 
 ## GitHub
 
@@ -90,8 +80,6 @@ Before making an account, you must download slack onto both your computer and mo
    2. Use `@channel` to notify _ALL_ members in the room, irrespective of away status. Please only use `@channel` if the message is important _and_ urgent.
 8. If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.29.15-am.png)
-
 ### General Guidelines <a id="general-guidelines"></a>
 
 1. If the subject is of value to the wider community, consider commenting on an existing issue or opening a new issue instead on the pertinent Github Repository.
@@ -109,13 +97,17 @@ Before making an account, you must download slack onto both your computer and mo
 9. As an admin of the Slack workspace, if given the option to _"Disable future attachments from this website"_ when removing an attachment from a message **this will blacklist the link/domain from** [**unfurling**](https://about.gitlab.com/handbook/tools-and-tips/#unfurling-links-in-messages) **in the entire Slack workspace**. Be careful and deliberate when choosing this option as it will impact every user in the workspace.
 10. When selecting your Slack display name, please do not have your name in all capital letters as this is often [associated as shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting) in written communications.
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.29.49-am.png)
+![Example of people just a thread in a public channel ](../.gitbook/assets/screen-shot-2020-03-31-at-8.11.01-pm.png)
+
+![A good example of when to send a message through private DM versus Public Channels ](../.gitbook/assets/screen-shot-2020-03-31-at-8.11.56-pm.png)
+
+
 
 ### Hey Taco!
 
 Hey Taco is an application that is integrated with Slack. It is a way to give shoutouts and appreciation to people in your organization! What’s the point of all this taco giving? To put it simply: unity, recognition and gratitude. You name it and someone has probably given out a taco for it. Team member appreciation, a birthday, gratitude for leadership, or welcoming a new team member are all just a few of the reasons we give out tacos. You get 5 tacos a day!
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.35.03-am.png)
+![Example of one of colleague giving appreciation to other members for their hard work!  ](../.gitbook/assets/screen-shot-2020-03-31-at-8.13.14-pm.png)
 
 ## Zoom
 
@@ -130,9 +122,7 @@ Hey Taco is an application that is integrated with Slack. It is a way to give sh
 5. We expect you to be in an appropriate setting and wearing appropriate clothing. If you are in a loud environment, please go ahead and mute yourself. 
 6. It is your own responsibly to remember what was discussed in the meeting. So takes notes if needed. 
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.36.37-am.png)
-
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.36.54-am.png)
+![](../.gitbook/assets/screen-shot-2020-03-31-at-8.15.52-pm.png)
 
 ### How Your First Meeting Will Generally Go 
 
@@ -148,7 +138,7 @@ Hey Taco is an application that is integrated with Slack. It is a way to give sh
 
 [**Calendly**](https://calendly.com/) **is a simple calendar setting app.** One person makes a list of dates and times they are available, and other people go there and self-select their time. [**Calendly**](https://calendly.com/) **allows us to find the best time for 1:1 meetings. Only supervisors need Calendly and their links will be in their Slack profile.**
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.39.06-am.png)
+![Supervisor&apos;s Calendly links are in their profile ](../.gitbook/assets/screen-shot-2020-03-31-at-8.18.12-pm-1.png)
 
 ## Google Calendar 
 
@@ -160,7 +150,7 @@ Google Calendar is a time-management and scheduling calendar service. Google Cal
 
 **If you are invited to any Google Calendar event, please RSVP as soon as possible.** 
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.39.38-am.png)
+![](../.gitbook/assets/screen-shot-2020-03-31-at-8.20.23-pm.png)
 
 **If you do not have access to our Google Calendar please tell your supervisor!**
 
@@ -176,8 +166,6 @@ Team/Department Meetings:
   * Add event to Calendar
   * Invite all members to event
   * Include Zoom meeting link in description
-
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.40.52-am.png)
 
 \*\*\*\*
 
