@@ -63,7 +63,6 @@
     * [Airtable & HubSpot](teams/marketing/weekly-duties/airtable-and-hubspot.md)
 * [People](teams/people/README.md)
   * [Joining the Team](teams/people/joining-the-team.md)
-  * [Onboarding Guides](teams/people/onboarding-guides.md)
   * [Talent Acquisition](teams/people/talent-acquisition.md)
   * [Primary Ed](teams/people/recruitment/README.md)
     * [How to Be a Volunteer Lead](teams/people/recruitment/how-to-be-a-volunteer-lead.md)
