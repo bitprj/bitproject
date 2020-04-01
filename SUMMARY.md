@@ -21,7 +21,12 @@
 ## Teams
 
 * [Developer Relations](teams/developer-relations/README.md)
-  * [Bible for Developers](teams/developer-relations/bible-for-developers.md)
+  * [Bible for Developers](teams/developer-relations/bible-for-developers/README.md)
+    * [General Items Breakdown](teams/developer-relations/bible-for-developers/general-items-breakdown.md)
+    * [Stage 1 Breakdown](teams/developer-relations/bible-for-developers/stage-1-breakdown.md)
+    * [Stage 2 Breakdown](teams/developer-relations/bible-for-developers/stage-2-breakdown.md)
+    * [Stage 3 Breakdown](teams/developer-relations/bible-for-developers/stage-3-breakdown.md)
+    * [Stage 4 Breakdown](teams/developer-relations/bible-for-developers/stage-4-breakdown.md)
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)

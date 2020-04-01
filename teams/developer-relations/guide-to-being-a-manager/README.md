@@ -136,6 +136,76 @@ With regards to this checklist, reviewers should do the following:
 * Ensure that stage labels are being properly marked
 * When entire checklist is checked off for an Epic, then that Epic should be completed and linked within a pull request to `master` to indicate completion
 
+### General Checklist
+
+#### General Items \(Apply to All Stages\)
+
+* [ ] High-schooler friendly writing style, easy to understand
+* [ ] Correct numbering
+* [ ] Every card has code\* 
+* [ ] 1 scroll per card\*\*
+* [ ] Proper grammar, punctuation, capitalization, etc.
+* [ ] Acceptable Styling per the Pull Request Checklist
+
+\*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
+
+\*\* If you have to scroll more than once to view the whole card, the card is too long
+
+#### Stage 1 - Starting Content
+
+* [ ] Content of cards is more accessible to beginners
+* [ ] Micro to Macro Principle
+* [ ] Titles for Concepts associated with each Card
+
+#### Stage 1 - Lab Addendum
+
+* [ ] Hard cards provide enough guidance for the student to finish task
+* [ ] Mediums bridge Hards and Easys
+* [ ] Easy cards provide solution, are line-separated
+* [ ] Solution and starter code in Airtable and GitHub
+  * [ ] Code is testable, not too general
+
+#### Stage 2 - Finishing Content
+
+* [ ] Logical card progression 
+* [ ] Ample pictures/custom visuals \(copyright-free, Pexels is a great source\) 
+  * [ ] Images placed _locally_ with &lt;img&gt; NOT Markdown 
+* [ ] \(For activities\) Fleshed-out, real-life scenarios
+* [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
+* [ ] All concepts fleshed out
+
+#### Stage 2 - Lab Addendum
+
+* [ ] Medium and easy cards split into hints 
+* [ ] 2-3 code checkpoints, depending on length of lab
+  * [ ] Solution Code for checkpoints
+
+#### Stage 3 - Finishing Touches
+
+* [ ] Correct formatting according to READMEs
+  * [ ] Modules
+  * [ ] Activities
+  * [ ] Labs
+  * [ ] Hints \(Medium + Easy Cards\)
+  * [ ] Concepts
+  * [ ] Checkpoints
+  * [ ] With test cases for checkpoints if applicable
+* [ ] Concepts for each card completely finalized, with correct README formatting
+
+**Stage 3 - Lab Addendum**
+
+* [ ] 5-10 test cases, correctly formatted according to READMEs
+
+#### Stage 4 - For Reviewers Only
+
+* [ ] Assigned modules' folders properly structured within topics
+* [ ] Gem Amounts 
+  * Labs: calculated using John's Code 
+  * Activities: Predetermined amounts
+* [ ] Have curriculum proofread by writing team \(currently Victoria Xu @vkxu657\)
+
+
+
 ### 
 
 ### 
