@@ -18,8 +18,6 @@ We make software engineering and computer science education accessible to studen
 
 [Communication](organization/communication.md)
 
-[Culture]()
-
 [Style Guide](organization/style-guides/)
 
 * Brand Guidelines
@@ -52,14 +50,7 @@ We make software engineering and computer science education accessible to studen
 
 ## Marketing
 
-[Community Relations]()
 
-* [First-Time Contributors Program]()
-* [Starting a Branch]()
-  * High School 
-  * Collegiate
-    * Hackathons
-  * Hobbyist Meet-Ups
 
 ## People
 
