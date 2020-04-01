@@ -200,58 +200,6 @@ With regards to this checklist, reviewers should do the following:
 
 * [ ] **Bit Learning Management System \(LMS\)**
 
-  We have a LMS built to help us teach students step by step how to tackle complex and technical problems. In addition, we are open source so we are looking forward to finishing up LMS and creating small enough issues to let anyone contribute to our project.  
-
-
-  For the LMS to work, each module has a folder structure to follow.   
-
-
-  Walk through example:  
-
-
-  On the Bit curriculum Github, there is a module you should use as an example when trying to structure your module. Follow along by going to [https://bitproject.org/curriculum](https://bitproject.org/curriculum).  
-
-
-  Once at the link it should look like this. We’re going to go into the Data-Structures-and-Algos-Topic.
-
-  ![](https://lh6.googleusercontent.com/qvvB1JPKR_jm5GzbY8MyJtZ5XfJkzJiOsZTS6KswZLK_ivUf5REWuELLhDuImuoqxbSveiiCCtG8ok63KRArxcv28cCQC8ROfS2d2jkTB-9RlT7aCPOdmp95tXau3xAebj1o8VDy)
-
-  You see how each module’s names are formatted Module\# name. Please do only use dashes \(-\) between words as any colons, semicolons, and slashes \(: ; \ / \) will mess with Github and cause trouble.  
-
-
-  Then into Module1-Intro-to-Data-Structures-and-Algos
-
-  ![](https://lh5.googleusercontent.com/b2jiQTcHdt07reu4h8trpAbq57cAEV5UpZfxhrImoP_a-f5mhYcUwCupfMSdX46RcXmWSZoJeQG_Ld7yauBa1ULvIhHKxcZcD5zdfn5si2XZBpvRQwkNyMV7JEn8P2-ZCNDwzQ8e)
-
-  Again, you see how activite’s names are formatted with Activity\# name and it’s title in one chunk but capitalized every first letter of each word. Please do only use dashes \(-\) between words as any colons, semicolons, and slashes \(: ; \ / \) will mess with Github and cause trouble.  
-
-
-  Then into Activity1\_TimeAndSpaceComplexity
-
-  ![](https://lh4.googleusercontent.com/8ErpFq3ixxWpwUZmLatNBRFG9tJYGSds9zc5YIm-fmwe76aScJzgWD89f319MnhO-kAiNNBNM8DGMISQDXVsE63gduIpm8B5Gu1ddA5pCyLRpHAm3FmSwd1lne5VKEDnO9ecWmYM)
-
-  It should look something like this:  
-
-
-  ![](https://lh4.googleusercontent.com/Axm24Rp0aiNJ4PDkF9uyeIEJgFu08o2vam--oonqprZkYsvj-9DE4giGCxczXcd74hUvdtkKpyoQbwn05zOXRmK0DM4xBYsdEMY61mR9saD0Ex2mtOsWyVHacFiCgRtzjYEFEeWK)
-
-  You can already see the way that this activity is being organized. Cards, checkpoints, and images goes in their own folder. Check out each of the folders and see how things are named.   
-
-
-  Cards are named from 1.md to \#.md. 
-
-  Checkpoints are named card\#-checkpoint.md.
-
-  Images are named what the image is related to.  
-
-
-  Notice, the most important here is the README.md. The format of readmes have been documented here [https://about.bitproject.org/teams/engineering/readme-formats](https://about.bitproject.org/teams/engineering/readme-formats). Please follow the documentation and use the example in Github as a guide. Make sure you have all the information.  
-
-
-  \*NOTE: Gems will be explained in the next step so don’t worry about it yet. 
-
-* [ ] **Bit Learning Management System \(LMS\)**
-
   We have a LMS built to help us teach students step by step how to tackle complex and technical problems. In addition, we are open source so we are looking forward to finishing up LMS and creating small enough issues to let anyone contribute to our project.
 
 For the LMS to work, each module has a folder structure to follow.
