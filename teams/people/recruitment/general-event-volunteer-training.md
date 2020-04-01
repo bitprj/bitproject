@@ -5,23 +5,6 @@
 \*\*\*\*[**General Event Volunteer Training**](https://www.youtube.com/watch?v=QEdVY4sYBAw&feature=youtu.be) **\(Video\)**  
 
 
-**Table of Contents** 
-
-\[Introduction\]\(\#Introduction\)
-
-[**Student Maturity and Developmental Level**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.bnudk2mybu8i)
-
-[**Volunteer Expectations**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.p4fhfis7bpo)
-
-[**UC Davis Rules when Working with Minors**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.yy8a3u3gehcz)
-
-[**Method of Control**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.uu4g3o69o1yr)
-
-[**Discipline and Praise**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.99xuhcfa675q)
-
-[**BitCart Specifics**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.qh7wdowcoqir)  
-****
-
 ## **Introduction**
 
 Teachers and Volunteers are expecting volunteers to set a model behavioral example for their students.
