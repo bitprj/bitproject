@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bit Project](README.md)
+* [Join Bit Project](join.md)
 
 ## Organization
 
@@ -10,7 +11,7 @@
   * [Inclusion & Diversity](organization/values/inclusion-and-diversity/README.md)
     * [Guide to Inclusive Language](organization/values/inclusion-and-diversity/guide-to-inclusive-language.md)
 * [Organizational Structure](organization/organizational-structure/README.md)
-  * [Directory](organization/organizational-structure/untitled.md)
+  * [Untitled](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication.md)
 * [Style Guides](organization/style-guides/README.md)
   * [Writing Style Guides](organization/style-guides/writing-style-guides.md)
@@ -23,6 +24,7 @@
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
+  * [Joining Developer Relations](teams/developer-relations/joining-the-core-team.md)
   * [Joining as an Organization](teams/developer-relations/joining-as-an-organization/README.md)
     * [Workshop: Marketing and Presentation Tips](teams/developer-relations/joining-as-an-organization/workshop-marketing-and-presentation-tips.md)
     * [West Valley College Workshop](teams/developer-relations/joining-as-an-organization/west-valley-college-workshop.md)
@@ -60,14 +62,13 @@
   * [Weekly Duties](teams/marketing/weekly-duties/README.md)
     * [Airtable & HubSpot](teams/marketing/weekly-duties/airtable-and-hubspot.md)
 * [People](teams/people/README.md)
+  * [Joining the Team](teams/people/joining-the-team.md)
   * [Onboarding Guides](teams/people/onboarding-guides.md)
   * [Talent Acquisition](teams/people/talent-acquisition.md)
-  * [Primary Ed](teams/people/recruitment/README.md)
-    * [How to Be a Volunteer Lead](teams/people/recruitment/how-to-be-a-volunteer-lead.md)
-    * [General Event Volunteer Training](teams/people/recruitment/general-event-volunteer-training.md)
+  * [Recruitment](teams/people/recruitment.md)
 * [Engineering](teams/engineering/README.md)
   * [Roles](teams/engineering/roles/README.md)
-    * [Untitled](teams/engineering/roles/untitled.md)
+    * [Director of Engineering](teams/engineering/roles/untitled.md)
     * [Frontend Architect](teams/engineering/roles/frontend-architect.md)
     * [React.js Developer](teams/engineering/roles/react.js-developer.md)
     * [Backend Developer](teams/engineering/roles/backend-developer.md)

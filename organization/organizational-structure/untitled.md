@@ -1,4 +1,4 @@
-# Directory
+# Untitled
 
 **President** Daniel Kim
 
@@ -6,25 +6,14 @@
 
 | Role | Team | Person |
 | :--- | :--- | :--- |
-| Director of People |  | Shreya Gupta |
-| L&D Manager | Learning & Development | Becca Tran |
-| People Experience Associate | Learning & Development | Winnie Zhang |
-| Inclusion and | Learning & Development | Lily Hem |
-| Onboarding Manager | Onboarding | Minh Tu Nguyen |
-| Recruiter \(2\) | Onboarding | **VACANT** |
+| Board | President | @board |
+| Director | Director of Marketing | @directors |
+| Manager | Engineering Manager | @managers |
+| Contributors | Developer | @contributors |
 
 **Marketing Department \(4 Vacancies\)**
 
-| Role | Team | Person |
-| :--- | :--- | :--- |
-| Director of Marketing | \*\*\*\* | **VACANT** |
-| Manager of Design | Design | Rochelle Dai |
-| Illustrator | Design | Lilly Paglia |
-| Manager of Technical Writing | Writing | Victoria Xu |
-| Technical Writing Intern \(2\) | Writing | **VACANT** |
-| Recruiter | Onboarding | **VACANT** |
 
-**Engineering Department \(4 Vacancies\)**
 
 | Role | Team | Person |
 | :--- | :--- | :--- |
