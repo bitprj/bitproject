@@ -1,6 +1,6 @@
 # Writing Style Guides
 
-## Punctuation 
+## Punctuation
 
 ### Case
 
@@ -12,36 +12,31 @@ Use sentence case for titles, headings, labels, menu items, and buttons. Use tit
 
 Always capitalize the first word in bulleted lists. This includes sentences that complete an introductory stem.
 
+| Do | Don’t |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Do</th>
-      <th style="text-align:left">Don&#x2019;t</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <p>This is an introductory stem:</p>
         <ul>
           <li>Completed by this capitalized sentence.</li>
           <li>Also completed by this capitalized sentence.</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>This is an introductory stem:</p>
         <ul>
           <li>completed by this uncapitalized sentence.</li>
           <li>also completed by this uncapitalized sentence.</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>### Periods
-
-A period signals to a speaker or reader that a sentence has come to an end, and it assists users in visually breaking up content. Follow these guidelines:
-
-Place a period after a link that is followed by a sentence.
+  </thead>
+  <tbody></tbody>
+</table>Place a period after a link that is followed by a sentence.
 
 | Do | Don’t |
 | :--- | :--- |
@@ -55,115 +50,89 @@ Place periods after sentences that follow a link.
 
 Use a period after every bullet point that is a sentence.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Do</th>
-      <th style="text-align:left">Don&#x2019;t</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <ul>
-          <li>This is a complete sentence.</li>
-          <li>This is also a complete sentence.</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>This is a complete sentence, it needs a period</li>
-          <li>This is also a complete sentence, it also needs a period</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>Use a period after every bullet point that completes the introductory stem.
+| Do | Don’t |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Do</th>
-      <th style="text-align:left">Don&#x2019;t</th>
+      <th style="text-align:left">
+        <ul>
+          <li>This is a complete sentence.</li>
+          <li>This is also a complete sentence.</li>
+        </ul>
+      </th>
+      <th style="text-align:left">
+        <ul>
+          <li>This is a complete sentence, it needs a period</li>
+          <li>This is also a complete sentence, it also needs a period</li>
+        </ul>
+      </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <p>This is an introductory stem:</p>
         <ul>
           <li>Completed by this sentence.</li>
           <li>Also completed by this sentence.</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>This is an introductory stem:</p>
         <ul>
           <li>Completed by this sentence</li>
           <li>Also completed by this sentence</li>
         </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>Use no punctuation after bullets that are not sentences and do not complete the stem.
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Do</th>
-      <th style="text-align:left">Don&#x2019;t</th>
+      </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <p>These are just words in a list:</p>
         <ul>
           <li>One item</li>
           <li>Two item</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>These are just words in a list:</p>
         <ul>
           <li>One item.</li>
           <li>Two item.</li>
         </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>Use all sentences or all fragments in a bulleted list, not a mixture.
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Do</th>
-      <th style="text-align:left">Don&#x2019;t</th>
+      </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <ul>
           <li>Consistency is key here.</li>
           <li>Item.</li>
           <li>Don&#x2019;t mix sentences and individual items in a list.</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Consistency is key here.</li>
           <li>Item</li>
           <li>Don&#x2019;t mix sentences and individual items in a list.</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>### Contractions
-
-We encourage the use of contractions to make writing simpler and easier to read. However, don’t make a sentence harder to understand just to follow this rule. For example, “do not” can give more emphasis than “don’t,” when needed.
-
-| Do | Don’t |
+  </thead>
+  <tbody></tbody>
+</table>| Do | Don’t |
 | :--- | :--- |
 | it’s, can’t, wouldn’t, you’re, you’ve, haven’t, don’t | it is, cannot, would not, it’ll, should’ve |
 
@@ -196,15 +165,13 @@ Use punctuation to add clarity or be grammatically correct.
 | Hyphen | **-** |  | Use to represent negative numbers, or to avoid ambiguity in adjective-noun or noun-participle pairs. Example: “anti-inflammatory”; “5-mile walk.”  Omit in commonly understood terms and adverbs that end in _ly_: “frontend”, “greatly improved performance.”  Omit in the term “open source.” |
 | Parentheses | **\( \)** |  | Use only to define acronyms or jargon: “Secure web connections are based on a technology called SSL \(the secure sockets layer\).”  Avoid other uses, and instead rewrite the text or use dashes or commas to set off the information. If parentheses are required: If the parenthetical is a complete, independent sentence, place the period inside the parentheses; if not, the period goes outside. |
 
-
-
 ## Voice and tone
 
 Copy and messaging are meaningful aspects of the GitLab experience and the conversation with our users.
 
 The copy for GitLab is clear and direct. We strike a balance between professional and friendly. We can empathize with users \(such as celebrating completing all items on the To-Do List\) while remaining respectful to the importance of their work. We are a trusted, friendly, helpful, and understanding coworker.
 
-###  Active voice <a id="active-voice"></a>
+### Active voice <a id="active-voice"></a>
 
 Whenever possible, write in [active voice](https://www.grammarly.com/blog/active-vs-passive-voice/), instead of passive voice. Active voice is easier for users to understand and often results in shorter content.
 
@@ -215,7 +182,7 @@ Sometimes, using passive voice is appropriate. Make sure it’s an intentional c
 | **\(Active voice\)** Ask someone with write access to this repository to merge this request. | This request can be merged by someone with write access to this repository. |
 | **\(Passive voice\)** The Kubernetes cluster is being created on Google Kubernetes Engine. | We are creating the Kubernetes cluster on Google Kubernetes Engine. |
 
-###  Brevity <a id="brevity"></a>
+### Brevity <a id="brevity"></a>
 
 Users will skim content, rather than read text carefully. Copy should be concise and short whenever possible. A long message or label is a red flag hinting at a design that needs improvement.
 
@@ -237,7 +204,7 @@ For each of these content types, look for ways you might rephrase text that seem
 | To link Sentry to GitLab, enter your Sentry URL and Auth Token. | In order to link Sentry to GitLab, enter your Sentry URL and Auth Token. |
 | Use this token to validate received payloads. | Use this token to validate the received payloads. |
 
-####  Avoid Latin abbreviations <a id="avoid-latin-abbreviations"></a>
+#### Avoid Latin abbreviations <a id="avoid-latin-abbreviations"></a>
 
 While we aim to brief, we also avoid Latin abbreviations as they can be easily misinterpreted.
 
@@ -245,7 +212,7 @@ While we aim to brief, we also avoid Latin abbreviations as they can be easily m
 * Instead of “e.g.”, use “for example.”
 * Instead of “etc.”, either use “and so on” or consider editing it out, since it can be vague.
 
-###  Clear error messages <a id="clear-error-messages"></a>
+### Clear error messages <a id="clear-error-messages"></a>
 
 When something goes wrong, it’s important for us to be clear about what happened, why it happened, and what the next steps to take may be. Vague messages frustrate users and can even block them from completing their task.
 
@@ -256,47 +223,42 @@ When writing an error message, leave out extraneous words like _sorry_ and _plea
 | Unable to complete your request. Enter a valid email address. | 400 Bad Request |
 | Enter your email address to sign up with GitLab. | Please enter your email address to sign up with GitLab. |
 
-###  Parallelism <a id="parallelism"></a>
+### Parallelism <a id="parallelism"></a>
 
 [Parallel structure](https://writingcenter.gmu.edu/guides/parallel-structure) ensures that related content takes the same grammatical form; for example, all related items in a list are either a noun or a verb, not a mixture of both. Maintaining parallelism is important, because it’s grammatically correct and much easier to read.
+
+| Do | Don’t |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Do</th>
-      <th style="text-align:left">Don&#x2019;t</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <p>A project is where you:</p>
         <ul>
           <li>House your files</li>
           <li>Plan your work</li>
           <li>Publish your documentation</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>A project is where you:</p>
         <ul>
           <li>House your files</li>
           <li>Plan your work</li>
           <li>Publishing your documentation</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>###  Objective focused <a id="objective-focused"></a>
-
-When users engage with our product, they’re focused on getting tasks done, thinking first in terms of the problem they’re trying to solve, and then how to solve it. Objective-focused content that starts with the task first and then offers the solution can make it easier for users to quickly find and understand the information they need.
-
-| Do | Don’t |
+  </thead>
+  <tbody></tbody>
+</table>| Do | Don’t |
 | :--- | :--- |
 | Monitor your errors by integrating with Sentry | Integrate with Sentry to monitor your errors |
 | To see what’s changed, choose a branch or enter a commit. | Choose a branch or enter a commit to see what’s changed. |
 
-###  Point of view <a id="point-of-view"></a>
+### Point of view <a id="point-of-view"></a>
 
 In most cases, it’s appropriate to use the [second-person](https://www.quickanddirtytips.com/education/grammar/first-second-and-third-person?page=1) point of view, because it’s friendly and easy to understand.
 
@@ -308,9 +270,9 @@ To write in second person, focus on eliminating words like “can” or “will�
 | :--- | :--- |
 | To get started, link this page to your Jaeger server. | Users can get started by linking this page to their Jaeger server. |
 
-###  Verb tenses <a id="verb-tenses"></a>
+### Verb tenses <a id="verb-tenses"></a>
 
-####  Recent past \(instant feedback\) <a id="recent-past-(instant-feedback)"></a>
+#### Recent past \(instant feedback\) <a id="recent-past-(instant-feedback)"></a>
 
 For a status update on something that has just happened in response to a user action or when a user is otherwise watching for an update, use the **present perfect** tense. This is ideal for toast messages and terminal output.
 
@@ -319,7 +281,7 @@ There are two options:
 * When brevity is the priority, use only the noun and verb \(omitting articles and prepositions\); for example, “Pipeline scheduled.”
 * When you want to use a full phrase for a human feel, use a complete sentence; for example, “The pipeline has been scheduled.”
 
-####  Distant past \(earlier than instant feedback\) <a id="distant-past-(earlier-than-instant-feedback)"></a>
+#### Distant past \(earlier than instant feedback\) <a id="distant-past-(earlier-than-instant-feedback)"></a>
 
 Use **past tense**.
 
@@ -327,7 +289,7 @@ Use **past tense**.
 | :--- | :--- |
 | The pipeline was last run on October 3. | The pipeline has been run on October 3. |
 
-####  State <a id="state"></a>
+#### State <a id="state"></a>
 
 Use **present tense**.
 
@@ -335,7 +297,7 @@ Use **present tense**.
 | :--- | :--- |
 | The pipeline is scheduled to run on October 3. | The pipeline will be run on October 3. |
 
-####  Instructions <a id="instructions"></a>
+#### Instructions <a id="instructions"></a>
 
 Use the **present tense** with an imperative form \(also known as a command\).
 

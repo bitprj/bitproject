@@ -1,7 +1,5 @@
 # Mission Statement
 
-## Our Vision for Open Source Education
-
 Open-source and the related workflows are one of the most successful models for collaboration that have ever been applied. Combining open-source with a [distributed version control](http://en.wikipedia.org/wiki/Distributed_revision_control) such as Git allows for a true peer-to-peer approach to collaboration that is unlike anything that came before.
 
 Applying the same principles and workflows to education is one of the best ways to create a sustainable proliferation of high-quality curriculum spread across the world. Leveraging many of these principles will ensure quality and integrity of the experience is maintained as the content is reproduced and propogated.
@@ -72,8 +70,6 @@ Our programs can and should expand over time in the following ways but balanced 
 {% hint style="info" %}
 Note that expansion is important but as noted, should not come at the cost of sacrificing our program quality and outcomes. We need to find the right balance
 {% endhint %}
-
-
 
 **References**
 

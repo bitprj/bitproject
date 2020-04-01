@@ -30,5 +30,3 @@ description: >-
 * Collaborating with other React.js Developers and Designers  to determine the structure and design of components for the LMS
 * Collaborating with Backend developers to determine the necessary data needed to implement components
 
-
-

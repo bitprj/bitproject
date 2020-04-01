@@ -2,6 +2,7 @@
 
 ## Requirements
 
+
 * Expertise with React or some other frontend framework \(Inferno.js, Vue, etc.\)
 * Fluent with ES6/7 Javascript syntax/concepts \(Asynchronous programming, Destructuring, etc.\)
 * Ability to architect efficient and reusable front-end abstractions and systems that drive complex web applications
@@ -24,6 +25,4 @@
 * Optimizing web pages for maximum speed to enhance user experience
 * Collaborating with other React.js Developers and Designers  to determine the structure and design of components for the LMS
 * Collaborating with Backend developers to determine the necessary data needed to implement components
-
-
 

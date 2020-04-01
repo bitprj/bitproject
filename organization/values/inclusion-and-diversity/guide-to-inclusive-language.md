@@ -18,7 +18,7 @@ As my teammate, [Niel](https://twitter.com/nieldlr) shared with me, “Communica
 
 If that spirit of self-improvement resonates with you, perhaps this inclusive language guide for startups/tech will help. And if you can think of any words, phrases or examples we didn’t cover here, please share in the comments!
 
-### 6 overall inclusive language principles <a id="6overallinclusivelanguageprinciples"></a>
+## 6 overall inclusive language principles <a id="6overallinclusivelanguageprinciples"></a>
 
 It’s not always necessary to fret over every word. A few big principles can take you quite far. Here a 6 that many folks involved with diversity and inclusion recommend.
 
@@ -35,7 +35,7 @@ It’s not always necessary to fret over every word. A few big principles can ta
 
 * **If you aren’t sure, ask.** Strive to include language that reflects peoples’ choice and style in how they talk about themselves.
 
-### 37 key phrases for talking about diversity and inclusion in tech <a id="27keyphrasesfortalkingaboutdiversityandinclusionintech"></a>
+## 37 key phrases for talking about diversity and inclusion in tech <a id="27keyphrasesfortalkingaboutdiversityandinclusionintech"></a>
 
 Our quest to be as inclusive as possible means that quite a few new vocabulary words might pop up from time to time as we learn from each other. Here are some words that can offer a greater entry point into the inclusion conversation.
 
@@ -134,7 +134,7 @@ _Example:_ [_http://confcodeofconduct.com/_](http://confcodeofconduct.com/)
 
 **Underrepresented group/underindexed group:** This terms describes any subset of a population that holds a smaller percentage within a significant subgroup than it holds in the general population. Women are often an underrepresented group in science, technology, engineering, and mathematics, for example.
 
-### 18 phrases it might be better to avoid <a id="18phrasesitmightbebettertoavoid"></a>
+## 18 phrases it might be better to avoid <a id="18phrasesitmightbebettertoavoid"></a>
 
 As language evolves and our understanding and empathy increases, it’s often a good practice to dive deeper into specific word choice. Some of these words and phrases are benign, while many carry a fraught history or connotation. In all cases, there’s likely a better and more specific option \(we’ve tried to provide alternatives!\)
 
@@ -157,7 +157,7 @@ As language evolves and our understanding and empathy increases, it’s often a 
 * **Open the kimono:** Problematic business jargon for disclosing information about the workings of a company. It has [sexist and racist overtones](http://www.npr.org/sections/codeswitch/2014/11/02/360479744/why-corporate-executives-talk-about-opening-their-kimonos).
 * **Peanut gallery:** This term for heckling or unwanted disturbance originates in the 1920s when the peanut gallery referred to the back section of theaters, which were the only places that people of color were allowed to sit at the time. The phrase was [meant to poke fun](https://www.youtube.com/watch?v=QhENGl3XviM) at the idea of people of color engaging in intellectualism.
 
-### Plus 8 quick language substitutions <a id="plus8quicklanguagesubstitutions"></a>
+## Plus 8 quick language substitutions <a id="plus8quicklanguagesubstitutions"></a>
 
 Some habits are hard to break! If you’re anything like us, you’ve tried to change a language pattern and fallen back into old habits at least a few times. Here are some quick language substitutions for common situations that might help:
 
@@ -187,7 +187,7 @@ _More inclusive:_ Marginalized groups or underrepresented groups
 _Less inclusive:_ [Minorities](https://twitter.com/betterallies/status/869642678337536000)  
 \(Not all marginalized groups are minorities, and a broader term is generally inclusive of more than race and gender\)
 
-### A special note on the generic “he” in tech <a id="aspecialnoteonthegeneric&#x201C;he&#x201D;intech"></a>
+## A special note on the generic “he” in tech <a id="aspecialnoteonthegeneric&#x201C;he&#x201D;intech"></a>
 
 Particularly in tech conversations and job descriptions, sometimes the pronoun “he” is used to describe technical roles or executive roles by default. Here’s an [example from an old job listing at Buffer](https://open.buffer.com/diversity-mistakes/):
 
@@ -210,7 +210,7 @@ For more information on gender neutral job descriptions, including more lists li
 
 [![](https://open.buffer.com/wp-content/uploads/2017/06/original.jpg)](https://d2mxuefqeaa7sj.cloudfront.net/s_C401446AA445AEE117575D0B1AC31E4D67258C7E9A7C8716D486FA2D59E0D958_1496340284573_pronouns.jpg)
 
-### Over to you! <a id="overtoyou"></a>
+## Over to you! <a id="overtoyou"></a>
 
 This guide is definitely imperfect, but with your help it can become more useful! What words did we miss? What definitions here don’t feel quite correct to you? Share any thoughts in the comments and I’ll do my best to keep the post up-to-date for anyone who might want to reference it.
 
