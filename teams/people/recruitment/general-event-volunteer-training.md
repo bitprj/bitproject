@@ -1,9 +1,22 @@
 # General Event Volunteer Training
 
+\*\*\*\*[**General Event Volunteer Training**](https://www.youtube.com/watch?v=QEdVY4sYBAw&feature=youtu.be) **\(Video\)**
 
+**Table of Contents**
 
-\*\*\*\*[**General Event Volunteer Training**](https://www.youtube.com/watch?v=QEdVY4sYBAw&feature=youtu.be) **\(Video\)**  
+\[Introduction\]\(\#Introduction\)
 
+[**Student Maturity and Developmental Level**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.bnudk2mybu8i)
+
+[**Volunteer Expectations**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.p4fhfis7bpo)
+
+[**UC Davis Rules when Working with Minors**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.yy8a3u3gehcz)
+
+[**Method of Control**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.uu4g3o69o1yr)
+
+[**Discipline and Praise**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.99xuhcfa675q)
+
+[**BitCart Specifics**](https://docs.google.com/document/d/1j9sRsnnDl8zejKH-Rbr2Vi06KXZRn-ybCA-Se2FnihM/edit#heading=h.qh7wdowcoqir)
 
 ## **Introduction**
 
@@ -31,7 +44,7 @@ It all comes down to these three things.
 
 ## **UC Davis Rules when Working with Minors**
 
-Since the events are organized by a UC Davis student organization, we are required to abide by certain school policies. For instance: 
+Since the events are organized by a UC Davis student organization, we are required to abide by certain school policies. For instance:
 
 1. Minors will be treated with respect at all times: regardless of race, sex, age, or religion
 2. Staff and volunteers must avoid showing affection with minors, not use profanity or tell jokes with innuendos that contain racist or indecent commentary.
@@ -41,9 +54,9 @@ Since the events are organized by a UC Davis student organization, we are requir
    1. If students need to go on bathroom breaks, contact your volunteer lead.
 6. You must prohibit minors from engaging in inappropriate behavior such as hazing, bullying, 
 
-Example of a Situation: Dodging hugs. 
+Example of a Situation: Dodging hugs.
 
-We expect volunteers to set an example for the students 
+We expect volunteers to set an example for the students
 
 ## **Method of Control**
 
@@ -51,7 +64,7 @@ The second thing we need to introduce is a method of control. This involves an a
 
 ## **Discipline and Praise**
 
-The third thing we need to do is establish a fair discipline system. Most teachers have this already implemented in their class and all classrooms are different. Before an activity, ask the teacher how they discipline their students. 
+The third thing we need to do is establish a fair discipline system. Most teachers have this already implemented in their class and all classrooms are different. Before an activity, ask the teacher how they discipline their students.
 
 Remember, in order to have effective discipline, the three expectations must be clearly communicated first. Methods of discipline may involve different signals but they are all very similar and typically involves four steps:
 
@@ -72,12 +85,12 @@ The role of a volunteer is to help teachers and students conduct the activity. A
 * Don’t get carried away… Focus on helping students learn and understand various difficult concepts. If you feel there is too much information help make sure key concepts are understood!
 * If you feel uncomfortable with any of the concepts, check out the Learn More page at the end of each designated activity. Feel free to ask other volunteers for help.
 
-Make sure you watch two other videos if you haven’t done so already: 
+Make sure you watch two other videos if you haven’t done so already:
 
 1. Activity: This video explains the activity to be done at your event!
-2.  “BitCart Logistics”
+2. “BitCart Logistics”
 
-The “BitCart Logistics” will contain information on: 
+The “BitCart Logistics” will contain information on:
 
 * Logistics for general events
 * Location - transportation options

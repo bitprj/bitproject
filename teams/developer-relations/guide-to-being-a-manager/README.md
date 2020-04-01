@@ -2,6 +2,38 @@
 
 Reviewers are in charge of **curriculum teams.** Each team consists of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
+## Developer
+
+For Developers, this checklist will be used to help guide them in the production of curriculum. It will serve as a checklist to help determine what a developer should or should not do when they are creating labs and activities. 
+
+
+
+For Example, as developers are doing the activity cards, there is a checklist box that states that there must be 2-3 checkpoints in the activity. By using this checklist as a guide, developers would then remember to add checkpoints somewhere in the list. This would then save the developer's reviewer's time as the reviewer would not have to ask the developer to add the missing content and wait again for the developer to implement what is missing.   
+
+## Manager
+
+For Managers, this guide will be useful for checking on the work of the developers. Managers can refer to this checklist page to see what the developers did wrong, making giving feedback easier than ever. 
+
+
+
+For example, In the following we have Michelle as a Manager/Reviewer. In the pull request Checklist portion of this page, there is a checkbox that states "Correct Markdown Formatting", and as seen below, that checkbox was put to good use. By checking in this page, it is now easier to spot what needs to be revised, leading to faster and more efficient feedback given to the developer. 
+
+![](../../../.gitbook/assets/screen-shot-2020-03-30-at-8.51.29-pm.png)
+
+## Kevin
+
+This is the second layer for reviewing the curriculum. Kevin is in charge of further looking into the content of the written curriculum. Specifically, he is in charge of the pull requests made by the managers. As a result, he needs to review a lot of curriculum, and using this checklist will further help save time and work in the reviewing process. 
+
+
+
+In the following example, Kevin saw the 1 scroll per card checkbox, and therefore made the following review: 
+
+![](../../../.gitbook/assets/screen-shot-2020-03-30-at-9.54.54-pm.png)
+
+## Daniel
+
+Our Leader Daniel is the final layer in the review process. He Double checks what Kevin reviews and makes sure that the curriculum being used is as close to perfection as possible. And it is through this checklist that his job can be made easier as he just needs to use it as a guide to see what the other reviewers may have missed out on. 
+
 ## Starting Off: Receiving Module Assignments
 
 All reviewers will be assigned an issue in the **bitproject** repository, to be completed within _3 days of assignment._
