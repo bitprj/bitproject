@@ -41,6 +41,6 @@ As a team, we are always trying to find new ways to improve Bit Project. We want
 * Onboard, mentor, and grow the careers of all team members
 * Announcing changes and improvements 
 * Engagement survey administration & implementation.
-* 
+
 
 

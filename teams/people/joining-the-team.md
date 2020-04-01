@@ -54,6 +54,9 @@ During your meeting with the Manager \(Becca Tran\), the Manager will go over wh
 
 There are three webinars that you must watch: Communication, Team Feedback, and GitHub. Each of these will teach you more about Bit Project and our expectations of each member. You must also be familiar with how to use GitHub. All webinars are on this Handbook.
 
+* [ ] Complete the Airtable form about the webinars
+  * [ ] [https://airtable.com/shr31V9xdVRxOffMA](https://airtable.com/shr31V9xdVRxOffMA)
+
 ### 5. Sign Up For the Following/ Get Access to the Following
 
 * [ ] Zoom
