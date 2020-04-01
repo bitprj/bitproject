@@ -8,7 +8,7 @@ description: >-
 
 ## Requirements
 
-* Expertise with React or some other frontend framework \(Inferno.js, Vue, etc.\)
+* Experience with React or some other frontend framework \(Inferno.js, Vue, etc.\)
 * Previous experience with HTML, CSS and Javascript \(Vanilla\)
 * Familiarity with ES6 Javascript syntax/concepts \(Asynchronous programming, Destructuring, etc.\)
 * Expertise with CSS styling
@@ -19,8 +19,8 @@ description: >-
 
 ## Nice-haves
 
-* Experience with Postman to test out API endpoints
-* Experience with SQL database
+* Experience with Postman to test API endpoints
+* Experience with either SQL or NoSQL databases
 
 ## Responsibilities
 
