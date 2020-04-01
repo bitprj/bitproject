@@ -130,7 +130,7 @@ Cover topics within next two weeks to ensure that the contributor is onboarded p
 
 ## Checklist Breakdown
 
-### Pre-Interview Tasks:
+### Pre-Interview Tasks: 
 
 These are tasks for the manager in charge of onboarding. They are required to contact the applicant\(s\) through email once the applications are received. A zoom link is sent to them with a time and date for the Welcome Webinar. The manager is also in charge of notifying the president of Bit Project, and the applicants' prospective manager and mentor. 
 
