@@ -90,49 +90,110 @@ With regards to this checklist, reviewers should do the following:
 * Ensure that stage labels are being properly marked
 * When entire checklist is checked off for an Epic, then that Epic should be completed and linked within a pull request to `master` to indicate completion
 
-### General Checklist
+### General Checklist \(Applies to All Stages\)
 
-#### General Items \(Apply to All Stages\)
+Before going into a stage-by-stage breakdown, here's a general overview of things to keep in mind.
 
-* [ ] High-schooler friendly writing style, easy to understand
-* [ ] Correct numbering
-* [ ] Every card has code\* 
-* [ ] 1 scroll per card\*\*
-* [ ] Proper grammar, punctuation, capitalization, etc.
-* [ ] Acceptable Styling per the Pull Request Checklist
+#### Writing Style
 
-\*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
+First and foremost, we want all our developers to use a conversational writing style when making cards. This is because the target audience for our curriculum is high school students, and our goal is to make technical education as accessible as possible. Writing as if you're having a conversation will keep students more engaged. When in doubt, think **blog post** instead of **calculus textbook**.
 
-\*\* If you have to scroll more than once to view the whole card, the card is too long
+#### Numbering
+
+It's crucial that each card is numbered correctly so developers can keep lessons organized and students can follow a logical progression. BitProject uses two numbering schemes, one for Activities and one for Labs. 
+
+Here's an example of an Activity \(pretty self-explanatory\):
+
+![Numbering for Activity Cards](../../../.gitbook/assets/screen-shot-2020-03-29-at-3.00.05-pm.png)
+
+And here's an example of a Lab:
+
+![Numbering for Lab Cards](../../../.gitbook/assets/screen-shot-2020-03-29-at-3.06.54-pm.png)
+
+Each hard card is labelled as a single number.   
+Going off of the above example, **1.md is the first hard card**, and **2.md is the second hard card**. 
+
+To label medium cards, simply add another number associated with its order.   
+In the above example, **1-1.md is the first medium card associated with the first hard card**, and   
+**2-1.md is the first medium card associated with the second hard card**.
+
+To label easy cards, add another number associated with its order \(3 numbers total\).  
+In the above example, **1-1-1.md is the first easy card associated with the first medium card associated with the first hard card.** Can you translate 2-1-1.md into plain English?
+
+#### Card Length
+
+Cards should be concise. Ideally, you should not have to scroll more than once to view the whole card. Stuffing a ton of information in a single card can be too overwhelming, so try to keep things brief and split up topics as much as possible. 
+
+#### Writing Conventions
+
+Last but certainly not least, proper writing conventions such as grammar, punctuation, capitalization, etc. should be utilized. 
+
+### Stages
+
+Here's an in-depth breakdown of how cards progress in the BitProject system. 
 
 #### Stage 1 - Starting Content
 
-* [ ] Content of cards is more accessible to beginners
-* [ ] Micro to Macro Principle
-* [ ] Titles for Concepts associated with each Card
+**Card content should be accessible to beginners**, meaning someone with no prior knowledge should be able to follow the content. This goes hand-in-hand with using a  conversational writing style.
+
+Next up is what we call the **Micro to Macro Principle**. For labs and activities, please start at a micro level and then move up. For example, students should not code the main\(\) function first. As a rule of thumb, you should never have to utter the words “this function will be coded in a later part”. Every hard card should work on its own and not have to rely on later work for it to work out.
+
+![Micro &#x2014;&amp;gt; Macro!](../../../.gitbook/assets/smalltobig.jpeg)
+
+**Images**! Make liberal use of images \(like the one above\) in your cards. It's much easier to visualize a concept than to read three paragraphs of text. Obviously, text is necessary, but pairing text with visuals is immensely helpful. Also, images help break up blocks of text, making it easier on the eyes. Please use copyright-free images, Pexels is a great source. Make sure images are embedded using &lt;img&gt; tags and not URLs.
+
+Activities and Labs will feature coding tasks for students to complete. For these, developers should implement what we call **checkpoints**—Python console output that serves as a frame of reference for students to make sure their code is doing what it's supposed to be doing. 
+
+**Titles**. These should be included in HTML comments at the top of each card, not in the file name itself \(remember, cards are named numerically\). Along with titles, **concepts** covered in the card should also be contained in HTML comments. Here's an example:
+
+![Titles an concepts love swimming in HTML comments.](../../../.gitbook/assets/screen-shot-2020-03-30-at-9.48.40-am.png)
+
+**Card length** should be reasonable. Ideally, keep the entire card viewable with at most one scroll.  
+Students will have a hard time staying focused if a card is too long, and shorter cards are easier to digest. Try to split up topics as much as possible. 
+
+This one is pretty self-explanatory, but make sure your cards progress in a way that makes sense. 
 
 #### Stage 1 - Lab Addendum
 
-* [ ] Hard cards provide enough guidance for the student to finish task
-* [ ] Mediums bridge Hards and Easys
-* [ ] Easy cards provide solution, are line-separated
-* [ ] Solution and starter code in Airtable and GitHub
-  * [ ] Code is testable, not too general
+![Not a paid endorsement, this picture just fits perfectly.](../../../.gitbook/assets/inthelab.jpg)
+
+When creating a Lab, you are essentially giving the student a problem to solve, breaking it down into steps, with each step subdivided into cards of hard, medium, and easy difficulty. An example might be to code a Python program that can solve Sudoku. 
+
+When it comes to Labs, there are a number of things to keep in mind.
+
+**Hard cards** are, by definition, _hard._ A hard card for the Sudoku Solver Lab might explain the game of Sudoku and have a teeny-tiny bit of **starter code** at the end. Keep in mind that, although this card should stretch the student's brain, it should also provide just enough guidance for the student to finish the task. The main thing to keep in mind is you _should NOT_ leak any hints_._ Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/1.md). 
+
+**Medium cards** are probably the most difficult cards to make, since you have to find a delicate middle ground between hard and easy. That said, keep in mind that the goal of medium is to serve as a bridge between hard and easy. You start to squeeze out a few hint droplets into the student's cup, but don't fill the entire cup. Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/11.md).
+
+**Easy cards** should literally walk the student through the problem step-by-step. Imagine leading a blindfolded person through a mine\(sweeper\) field. Functions should be completely written out, and explanations should be given for _everything._ Expanding on the juice analogy—fill the student's cup! Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/111.md).
+
+It's probably a good idea to first make your hard and easy cards for a topic, then do medium last.   
+That way, you give yourself boundaries that your medium card shouldn't cross.
+
+A word about **code**. All Lab cards should contain code, with varying degrees depending on card difficulty. Make sure code is _testable_, meaning a student can copy-paste your code into an IDE and have it output something meaningtul to the problem at hand.
 
 #### Stage 2 - Finishing Content
 
-* [ ] Logical card progression 
-* [ ] Ample pictures/custom visuals \(copyright-free, Pexels is a great source\) 
-  * [ ] Images placed _locally_ with &lt;img&gt; NOT Markdown 
-* [ ] \(For activities\) Fleshed-out, real-life scenarios
-* [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
-* [ ] All concepts fleshed out
+The bulk of your content has been finished. Here are a few more things to top off your cards.
+
+Each card should reward the student a certain number of **gems** upon completion. Think of these as currency in a video game. Students will be able to spend gems to unlock things like hints as they progress further through curriculum tracks. Gem numbers should be included in the README file for the Activity/Lab.
+
+![Beautiful. Just beautiful.](../../../.gitbook/assets/gems.jpeg)
+
+For each Activity and Lab, **three criteria statements** must be provided. Each criteria should outline an important takeaway from the Activity/Lab. Teachers will be referencing this criteria when grading students’ videos of Activities and Labs, and students will have to meet all criteria to proceed. The criteria can be in statement or question format and should be included in the README file for the Activity/Lab. Here's an example:
+
+![A bucket list of things to learn for the student.](../../../.gitbook/assets/screen-shot-2020-03-30-at-11.11.57-am.png)
+
+Each Activity/Lab should contain a brief **summary** describing it using 1 sentence only. In addition, please provide a **long summary** that expands on the main concepts covered in the Activity/Lab, about 3-4 sentences total. Here's an example:
+
+![Example of an Activity summary.](../../../.gitbook/assets/screen-shot-2020-03-30-at-1.40.58-pm.png)
 
 #### Stage 2 - Lab Addendum
 
-* [ ] Medium and easy cards split into hints 
-* [ ] 2-3 code checkpoints, depending on length of lab
-  * [ ] Solution Code for checkpoints
+For each lab, **test cases** must be provided. Make sure your lab is concise enough so that test cases can be made. For example, if you were making a Wheel of Fortune lab, don’t ask users to make their own lists of possible messages. Instead, create the messages yourself and have them simply make a list out of those predefined messages. In the scenario where students get to create their own list, it would be impossible to actually define test cases for each student’s custom list. 
+
+For the test cases, simply provide a document detailing what should be inputted and its output. There should be around 8-10 test cases per Lab.  
+
 
 #### Stage 3 - Finishing Touches
 
