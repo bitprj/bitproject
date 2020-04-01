@@ -36,9 +36,7 @@ Always capitalize the first word in bulleted lists. This includes sentences that
     </tr>
   </thead>
   <tbody></tbody>
-</table>A period signals to a speaker or reader that a sentence has come to an end, and it assists users in visually breaking up content. Follow these guidelines:
-
-Place a period after a link that is followed by a sentence.
+</table>Place a period after a link that is followed by a sentence.
 
 | Do | Don’t |
 | :--- | :--- |
@@ -74,11 +72,7 @@ Use a period after every bullet point that is a sentence.
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Do | Don’t |
-| :--- | :--- |
-
-
-<table>
+</table><table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -98,11 +92,7 @@ Use a period after every bullet point that is a sentence.
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Do | Don’t |
-| :--- | :--- |
-
-
-<table>
+</table><table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -122,11 +112,7 @@ Use a period after every bullet point that is a sentence.
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Do | Don’t |
-| :--- | :--- |
-
-
-<table>
+</table><table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -146,9 +132,7 @@ Use a period after every bullet point that is a sentence.
     </tr>
   </thead>
   <tbody></tbody>
-</table>We encourage the use of contractions to make writing simpler and easier to read. However, don’t make a sentence harder to understand just to follow this rule. For example, “do not” can give more emphasis than “don’t,” when needed.
-
-| Do | Don’t |
+</table>| Do | Don’t |
 | :--- | :--- |
 | it’s, can’t, wouldn’t, you’re, you’ve, haven’t, don’t | it is, cannot, would not, it’ll, should’ve |
 
@@ -269,9 +253,7 @@ When writing an error message, leave out extraneous words like _sorry_ and _plea
     </tr>
   </thead>
   <tbody></tbody>
-</table>When users engage with our product, they’re focused on getting tasks done, thinking first in terms of the problem they’re trying to solve, and then how to solve it. Objective-focused content that starts with the task first and then offers the solution can make it easier for users to quickly find and understand the information they need.
-
-| Do | Don’t |
+</table>| Do | Don’t |
 | :--- | :--- |
 | Monitor your errors by integrating with Sentry | Integrate with Sentry to monitor your errors |
 | To see what’s changed, choose a branch or enter a commit. | Choose a branch or enter a commit to see what’s changed. |

@@ -21,6 +21,7 @@
 ## Teams
 
 * [Developer Relations](teams/developer-relations/README.md)
+  * [Bible for Developers](teams/developer-relations/bible-for-developers.md)
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)

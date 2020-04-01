@@ -13,8 +13,6 @@
 
 **Marketing Department \(4 Vacancies\)**
 
-
-
 | Role | Team | Person |
 | :--- | :--- | :--- |
 | Director of Engineering | \*\*\*\* | Bryan Wong |
