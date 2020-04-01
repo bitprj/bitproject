@@ -100,7 +100,7 @@ First and foremost, we want all our developers to use a conversational writing s
 
 #### Numbering
 
-It's crucial that each card is numbered correctly so developers can keep lessons organized and students can follow a logical progression. BitProject uses two numbering schemes, one for Activities and one for Labs. 
+It's crucial that each card is numbered correctly so developers can keep lessons organized and students can follow a logical progression. Bit Project uses two numbering schemes, one for Activities and one for Labs. 
 
 Here's an example of an Activity \(pretty self-explanatory\):
 
@@ -130,7 +130,7 @@ Last but certainly not least, proper writing conventions such as grammar, punctu
 
 ### Stages
 
-Here's an in-depth breakdown of how cards progress in the BitProject system. 
+Here's an in-depth breakdown of how cards progress in the Bit Project system. 
 
 #### Stage 1 - Starting Content
 
