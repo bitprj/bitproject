@@ -4,35 +4,29 @@ Reviewers are in charge of **curriculum teams.** Each team consists of 4-6 peopl
 
 ## Developer
 
-For Developers, this checklist will be used to help guide them in the production of curriculum. It will serve as a checklist to help determine what a developer should or should not do when they are creating labs and activities. 
+For Developers, this checklist will be used to help guide them in the production of curriculum. It will serve as a checklist to help determine what a developer should or should not do when they are creating labs and activities.
 
-
-
-For Example, as developers are doing the activity cards, there is a checklist box that states that there must be 2-3 checkpoints in the activity. By using this checklist as a guide, developers would then remember to add checkpoints somewhere in the list. This would then save the developer's reviewer's time as the reviewer would not have to ask the developer to add the missing content and wait again for the developer to implement what is missing.   
+For Example, as developers are doing the activity cards, there is a checklist box that states that there must be 2-3 checkpoints in the activity. By using this checklist as a guide, developers would then remember to add checkpoints somewhere in the list. This would then save the developer's reviewer's time as the reviewer would not have to ask the developer to add the missing content and wait again for the developer to implement what is missing.
 
 ## Manager
 
-For Managers, this guide will be useful for checking on the work of the developers. Managers can refer to this checklist page to see what the developers did wrong, making giving feedback easier than ever. 
+For Managers, this guide will be useful for checking on the work of the developers. Managers can refer to this checklist page to see what the developers did wrong, making giving feedback easier than ever.
 
-
-
-For example, In the following we have Michelle as a Manager/Reviewer. In the pull request Checklist portion of this page, there is a checkbox that states "Correct Markdown Formatting", and as seen below, that checkbox was put to good use. By checking in this page, it is now easier to spot what needs to be revised, leading to faster and more efficient feedback given to the developer. 
+For example, In the following we have Michelle as a Manager/Reviewer. In the pull request Checklist portion of this page, there is a checkbox that states "Correct Markdown Formatting", and as seen below, that checkbox was put to good use. By checking in this page, it is now easier to spot what needs to be revised, leading to faster and more efficient feedback given to the developer.
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-30-at-8.51.29-pm.png)
 
 ## Kevin
 
-This is the second layer for reviewing the curriculum. Kevin is in charge of further looking into the content of the written curriculum. Specifically, he is in charge of the pull requests made by the managers. As a result, he needs to review a lot of curriculum, and using this checklist will further help save time and work in the reviewing process. 
+This is the second layer for reviewing the curriculum. Kevin is in charge of further looking into the content of the written curriculum. Specifically, he is in charge of the pull requests made by the managers. As a result, he needs to review a lot of curriculum, and using this checklist will further help save time and work in the reviewing process.
 
-
-
-In the following example, Kevin saw the 1 scroll per card checkbox, and therefore made the following review: 
+In the following example, Kevin saw the 1 scroll per card checkbox, and therefore made the following review:
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-30-at-9.54.54-pm.png)
 
 ## Daniel
 
-Our Leader Daniel is the final layer in the review process. He Double checks what Kevin reviews and makes sure that the curriculum being used is as close to perfection as possible. And it is through this checklist that his job can be made easier as he just needs to use it as a guide to see what the other reviewers may have missed out on. 
+Our Leader Daniel is the final layer in the review process. He Double checks what Kevin reviews and makes sure that the curriculum being used is as close to perfection as possible. And it is through this checklist that his job can be made easier as he just needs to use it as a guide to see what the other reviewers may have missed out on.
 
 ## Starting Off: Receiving Module Assignments
 
@@ -178,7 +172,7 @@ First and foremost, we want all our developers to use a conversational writing s
 
 #### Numbering
 
-It's crucial that each card is numbered correctly so developers can keep lessons organized and students can follow a logical progression. BitProject uses two numbering schemes, one for Activities and one for Labs. 
+It's crucial that each card is numbered correctly so developers can keep lessons organized and students can follow a logical progression. BitProject uses two numbering schemes, one for Activities and one for Labs.
 
 Here's an example of an Activity \(pretty self-explanatory\):
 
@@ -188,11 +182,11 @@ And here's an example of a Lab:
 
 ![Numbering for Lab Cards](../../../.gitbook/assets/screen-shot-2020-03-29-at-3.06.54-pm.png)
 
-Each hard card is labelled as a single number.   
-Going off of the above example, **1.md is the first hard card**, and **2.md is the second hard card**. 
+Each hard card is labelled as a single number.  
+Going off of the above example, **1.md is the first hard card**, and **2.md is the second hard card**.
 
-To label medium cards, simply add another number associated with its order.   
-In the above example, **1-1.md is the first medium card associated with the first hard card**, and   
+To label medium cards, simply add another number associated with its order.  
+In the above example, **1-1.md is the first medium card associated with the first hard card**, and  
 **2-1.md is the first medium card associated with the second hard card**.
 
 To label easy cards, add another number associated with its order \(3 numbers total\).  
@@ -200,19 +194,19 @@ In the above example, **1-1-1.md is the first easy card associated with the firs
 
 #### Card Length
 
-Cards should be concise. Ideally, you should not have to scroll more than once to view the whole card. Stuffing a ton of information in a single card can be too overwhelming, so try to keep things brief and split up topics as much as possible. 
+Cards should be concise. Ideally, you should not have to scroll more than once to view the whole card. Stuffing a ton of information in a single card can be too overwhelming, so try to keep things brief and split up topics as much as possible.
 
 #### Writing Conventions
 
-Last but certainly not least, proper writing conventions such as grammar, punctuation, capitalization, etc. should be utilized. 
+Last but certainly not least, proper writing conventions such as grammar, punctuation, capitalization, etc. should be utilized.
 
 ### Stages
 
-Here's an in-depth breakdown of how cards progress in the BitProject system. 
+Here's an in-depth breakdown of how cards progress in the BitProject system.
 
 #### Stage 1 - Starting Content
 
-**Card content should be accessible to beginners**, meaning someone with no prior knowledge should be able to follow the content. This goes hand-in-hand with using a  conversational writing style.
+**Card content should be accessible to beginners**, meaning someone with no prior knowledge should be able to follow the content. This goes hand-in-hand with using a conversational writing style.
 
 Next up is what we call the **Micro to Macro Principle**. For labs and activities, please start at a micro level and then move up. For example, students should not code the main\(\) function first. As a rule of thumb, you should never have to utter the words “this function will be coded in a later part”. Every hard card should work on its own and not have to rely on later work for it to work out.
 
@@ -220,32 +214,32 @@ Next up is what we call the **Micro to Macro Principle**. For labs and activitie
 
 **Images**! Make liberal use of images \(like the one above\) in your cards. It's much easier to visualize a concept than to read three paragraphs of text. Obviously, text is necessary, but pairing text with visuals is immensely helpful. Also, images help break up blocks of text, making it easier on the eyes. Please use copyright-free images, Pexels is a great source. Make sure images are embedded using &lt;img&gt; tags and not URLs.
 
-Activities and Labs will feature coding tasks for students to complete. For these, developers should implement what we call **checkpoints**—Python console output that serves as a frame of reference for students to make sure their code is doing what it's supposed to be doing. 
+Activities and Labs will feature coding tasks for students to complete. For these, developers should implement what we call **checkpoints**—Python console output that serves as a frame of reference for students to make sure their code is doing what it's supposed to be doing.
 
 **Titles**. These should be included in HTML comments at the top of each card, not in the file name itself \(remember, cards are named numerically\). Along with titles, **concepts** covered in the card should also be contained in HTML comments. Here's an example:
 
 ![Titles an concepts love swimming in HTML comments.](../../../.gitbook/assets/screen-shot-2020-03-30-at-9.48.40-am.png)
 
 **Card length** should be reasonable. Ideally, keep the entire card viewable with at most one scroll.  
-Students will have a hard time staying focused if a card is too long, and shorter cards are easier to digest. Try to split up topics as much as possible. 
+Students will have a hard time staying focused if a card is too long, and shorter cards are easier to digest. Try to split up topics as much as possible.
 
-This one is pretty self-explanatory, but make sure your cards progress in a way that makes sense. 
+This one is pretty self-explanatory, but make sure your cards progress in a way that makes sense.
 
 #### Stage 1 - Lab Addendum
 
 ![Not a paid endorsement, this picture just fits perfectly.](../../../.gitbook/assets/inthelab.jpg)
 
-When creating a Lab, you are essentially giving the student a problem to solve, breaking it down into steps, with each step subdivided into cards of hard, medium, and easy difficulty. An example might be to code a Python program that can solve Sudoku. 
+When creating a Lab, you are essentially giving the student a problem to solve, breaking it down into steps, with each step subdivided into cards of hard, medium, and easy difficulty. An example might be to code a Python program that can solve Sudoku.
 
 When it comes to Labs, there are a number of things to keep in mind.
 
-**Hard cards** are, by definition, _hard._ A hard card for the Sudoku Solver Lab might explain the game of Sudoku and have a teeny-tiny bit of **starter code** at the end. Keep in mind that, although this card should stretch the student's brain, it should also provide just enough guidance for the student to finish the task. The main thing to keep in mind is you _should NOT_ leak any hints_._ Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/1.md). 
+**Hard cards** are, by definition, _hard._ A hard card for the Sudoku Solver Lab might explain the game of Sudoku and have a teeny-tiny bit of **starter code** at the end. Keep in mind that, although this card should stretch the student's brain, it should also provide just enough guidance for the student to finish the task. The main thing to keep in mind is you _should NOT_ leak any hints_._ Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/1.md).
 
 **Medium cards** are probably the most difficult cards to make, since you have to find a delicate middle ground between hard and easy. That said, keep in mind that the goal of medium is to serve as a bridge between hard and easy. You start to squeeze out a few hint droplets into the student's cup, but don't fill the entire cup. Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/11.md).
 
 **Easy cards** should literally walk the student through the problem step-by-step. Imagine leading a blindfolded person through a mine\(sweeper\) field. Functions should be completely written out, and explanations should be given for _everything._ Expanding on the juice analogy—fill the student's cup! Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/111.md).
 
-It's probably a good idea to first make your hard and easy cards for a topic, then do medium last.   
+It's probably a good idea to first make your hard and easy cards for a topic, then do medium last.  
 That way, you give yourself boundaries that your medium card shouldn't cross.
 
 A word about **code**. All Lab cards should contain code, with varying degrees depending on card difficulty. Make sure code is _testable_, meaning a student can copy-paste your code into an IDE and have it output something meaningtul to the problem at hand.
@@ -268,10 +262,9 @@ Each Activity/Lab should contain a brief **summary** describing it using 1 sente
 
 #### Stage 2 - Lab Addendum
 
-For each lab, **test cases** must be provided. Make sure your lab is concise enough so that test cases can be made. For example, if you were making a Wheel of Fortune lab, don’t ask users to make their own lists of possible messages. Instead, create the messages yourself and have them simply make a list out of those predefined messages. In the scenario where students get to create their own list, it would be impossible to actually define test cases for each student’s custom list. 
+For each lab, **test cases** must be provided. Make sure your lab is concise enough so that test cases can be made. For example, if you were making a Wheel of Fortune lab, don’t ask users to make their own lists of possible messages. Instead, create the messages yourself and have them simply make a list out of those predefined messages. In the scenario where students get to create their own list, it would be impossible to actually define test cases for each student’s custom list.
 
-For the test cases, simply provide a document detailing what should be inputted and its output. There should be around 8-10 test cases per Lab.  
-
+For the test cases, simply provide a document detailing what should be inputted and its output. There should be around 8-10 test cases per Lab.
 
 #### Stage 3 - Finishing Touches
 
@@ -305,13 +298,13 @@ Once at the link it should look like this. We’re going to go into the Data-Str
 
 ![](https://lh6.googleusercontent.com/qvvB1JPKR_jm5GzbY8MyJtZ5XfJkzJiOsZTS6KswZLK_ivUf5REWuELLhDuImuoqxbSveiiCCtG8ok63KRArxcv28cCQC8ROfS2d2jkTB-9RlT7aCPOdmp95tXau3xAebj1o8VDy)
 
-You see how each module’s names are formatted Module\# name. Please do only use dashes \(-\) between words as any colons, semicolons, and slashes \(: ;  / \) will mess with Github and cause trouble.
+You see how each module’s names are formatted Module\# name. Please do only use dashes \(-\) between words as any colons, semicolons, and slashes \(: ; / \) will mess with Github and cause trouble.
 
 Then into Module1-Intro-to-Data-Structures-and-Algos
 
 ![](https://lh5.googleusercontent.com/b2jiQTcHdt07reu4h8trpAbq57cAEV5UpZfxhrImoP_a-f5mhYcUwCupfMSdX46RcXmWSZoJeQG_Ld7yauBa1ULvIhHKxcZcD5zdfn5si2XZBpvRQwkNyMV7JEn8P2-ZCNDwzQ8e)
 
-Again, you see how activite’s names are formatted with Activity\# name and it’s title in one chunk but capitalized every first letter of each word. Please do only use dashes \(-\) between words as any colons, semicolons, and slashes \(: ;  / \) will mess with Github and cause trouble.
+Again, you see how activite’s names are formatted with Activity\# name and it’s title in one chunk but capitalized every first letter of each word. Please do only use dashes \(-\) between words as any colons, semicolons, and slashes \(: ; / \) will mess with Github and cause trouble.
 
 Then into Activity1\_TimeAndSpaceComplexity
 
@@ -832,7 +825,7 @@ Medium Card
 
 **Image Folder**
 
-Each Hint needs to point to an image folder. 
+Each Hint needs to point to an image folder.
 
 ```text
 # image_folder
@@ -855,7 +848,7 @@ Next you **must** include the step key so the server can keep track of the indiv
 ## 1-2-1 Step 1
 ```
 
-**Step Name** 
+**Step Name**
 
 Under the hint name, you have to give the step a name with a markdown `h2` tag. **Please put the contents of name in a code block.** It should look something like this:
 
@@ -922,7 +915,7 @@ def pls_work(): return True... maybe
 
 **Concept Name**
 
-Each concept needs a `name`. 
+Each concept needs a `name`.
 
 ```text
 # concept_name
@@ -938,7 +931,7 @@ Each Concept needs to point to an image folder.
 Topic1/Module2_test/concepts/
 ```
 
-**Step Key** 
+**Step Key**
 
 Next you **must** include the step key.
 
