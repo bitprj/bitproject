@@ -2,5 +2,3 @@
 
 {% page-ref page="teams/developer-relations/joining-the-core-team.md" %}
 
-
-
