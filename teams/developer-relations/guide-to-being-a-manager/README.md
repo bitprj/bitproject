@@ -177,7 +177,7 @@ We want to the developers and the managers to provide give their input for each 
 
 Here at Bit, we place heavy emphasis that all content and material developed by Bit is up to our standards. In addition to material being reviewed by respective managers, the material will undergo further review by the head of Develop Relations, Kevin Vvuong, as well as the President of Bit Project, Daniel Kim. We have many developer teams at Bit and this process is necessary to ensure all material is synchronous and consistent.
 
-Kevin will occasionally audit a random Pull request from a developer to a manager and ensure proper feedback is being provided. While Kevin is auditing, he will be looking to ensure the content matches Bit Project's long term goals and is consistent with the other material. 
+Kevin will audit a random Pull request everyweek from a developer to a manager and ensure proper feedback is being provided. While Kevin is auditing, he will be looking to ensure the content matches Bit Project's long term goals and is consistent with the other material. 
 
 Daneil, as president, will also audit Kevin's pull requests to ensure quality is consistent through all curriculum by Bit Project. It will conducted in a similiar process to Code Reviews performed by managers. 
 
