@@ -21,6 +21,7 @@
 
 * [Developer Relations](teams/developer-relations/README.md)
   * [Future Workshop Plan](teams/developer-relations/future-workshop-plan.md)
+  * [Workshop Proposal Guide](teams/developer-relations/workshop-proposal-guide.md)
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
