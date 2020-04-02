@@ -42,15 +42,9 @@ We make software engineering and computer science education accessible to studen
 * [API Development/Microservices ](teams/developer-relations/teams/api-development-microservices.md)
 * [Blockchain](teams/developer-relations/teams/blockchain.md)
 
-
-
 ## Engineering
 
-
-
 ## Marketing
-
-
 
 ## People
 
@@ -58,7 +52,7 @@ We make software engineering and computer science education accessible to studen
 
 [Inclusion & Diversity](organization/values/inclusion-and-diversity/)
 
-[On-Boarding]()
+[On-Boarding](./)
 
 ## Join Bit Project
 

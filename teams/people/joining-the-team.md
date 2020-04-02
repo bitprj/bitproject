@@ -37,18 +37,18 @@ Once you are on slack, please complete the following tasks:
 * [ ] DM Becca Tran to set up a 1:1 Meeting
 * [ ] Send an introduction of yourself to the \#newmembers channel
   * include: 
-    * Name
-    * Team
-    * Major
-    * Year
-    * Favorite Memory
-      * Ex: "Hi! My name is Carl from New York studying at NYU as an Economic major! I am a third year and I am so excited to work you today. I will be joining the best team which is the People Team! My favorite memory this year was going to Disneyland. Can't wait to get to know you guys more!" 
+  * Name
+  * Team
+  * Major
+  * Year
+  * Favorite Memory
+  * Ex: "Hi! My name is Carl from New York studying at NYU as an Economic major! I am a third year and I am so excited to work you today. I will be joining the best team which is the People Team! My favorite memory this year was going to Disneyland. Can't wait to get to know you guys more!" 
 
 ## Day 2
 
 ### 3. 1:1 Meeting With the Manager of People
 
-During your meeting with the Manager \(Becca Tran\), the Manager will go over what exactly the People Team is, the purpose of the team, and what the team does. The Manager will then assign you your tasks, consisting of watching a set of webinars and giving you a case on a workflow issue. This will be taken place over Zoom. 
+During your meeting with the Manager \(Becca Tran\), the Manager will go over what exactly the People Team is, the purpose of the team, and what the team does. The Manager will then assign you your tasks, consisting of watching a set of webinars and giving you a case on a workflow issue. This will be taken place over Zoom.
 
 ### 4. Watching Our Webinars
 
@@ -65,13 +65,13 @@ There are three webinars that you must watch: Communication, Team Feedback, and 
 * [ ] Google Calendar 
   * [ ] [https://calendar.google.com/calendar?cid=dWNkYXZpcy5lZHVfMGhpZzcwNmdlMWRuZmpsMWVyc3V1YmFyaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar?cid=dWNkYXZpcy5lZHVfMGhpZzcwNmdlMWRuZmpsMWVyc3V1YmFyaHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-You can access to this by asking for the Becca Tran if the links do not work 
+You can access to this by asking for the Becca Tran if the links do not work
 
 ## Day 3
 
-### 5. People Issue Case 
+### 5. People Issue Case
 
-You will be given a scenario regarding an issue with the workflow, diversity and inclusion, internal feedback process, or onboarding. Where you would address the issue and find a solution for it in a proposal \(written\) and you will present it during the follow-up with Becca Tran. 
+You will be given a scenario regarding an issue with the workflow, diversity and inclusion, internal feedback process, or onboarding. Where you would address the issue and find a solution for it in a proposal \(written\) and you will present it during the follow-up with Becca Tran.
 
 * [ ] Complete the proposal before the next meeting with Becca Tran 
 * [ ] Email the proposal to Becca Tran \(rhtran@ucdavis.edu\) 

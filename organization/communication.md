@@ -1,10 +1,10 @@
 # Communication
 
-{% embed url="https://www.youtube.com/watch?v=2f9TkttynIk&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=2f9TkttynIk&feature=youtu.be" caption="" %}
 
 **Effective Communication Webinar**, Becca Tran
 
-## What is Communication? 
+## What is Communication?
 
 Communication is the exchange and sharing of ideas and information between two or more persons. Our organization is built upon **transparency** and learning different ways to **improve our communication skills. I**t is crucial for us to practice clear communication in ways that will help stay connected and work efficiently!
 
@@ -46,8 +46,6 @@ Template:
 * Other attendees are encouraged to help the notetaker to participate by taking notes when they speak
 
 ### The Meeting Notes Template
-
-
 
 ![](../.gitbook/assets/screen-shot-2020-03-31-at-1.26.07-am.png)
 
@@ -101,13 +99,11 @@ Before making an account, you must download slack onto both your computer and mo
 
 ![A good example of when to send a message through private DM versus Public Channels ](../.gitbook/assets/screen-shot-2020-03-31-at-8.11.56-pm.png)
 
-
-
 ### Hey Taco!
 
 Hey Taco is an application that is integrated with Slack. It is a way to give shoutouts and appreciation to people in your organization! What’s the point of all this taco giving? To put it simply: unity, recognition and gratitude. You name it and someone has probably given out a taco for it. Team member appreciation, a birthday, gratitude for leadership, or welcoming a new team member are all just a few of the reasons we give out tacos. You get 5 tacos a day!
 
-![Example of one of colleague giving appreciation to other members for their hard work!  ](../.gitbook/assets/screen-shot-2020-03-31-at-8.13.14-pm.png)
+![Example of one of colleague giving appreciation to other members for their hard work! ](../.gitbook/assets/screen-shot-2020-03-31-at-8.13.14-pm.png)
 
 ## Zoom
 
@@ -124,7 +120,7 @@ Hey Taco is an application that is integrated with Slack. It is a way to give sh
 
 ![](../.gitbook/assets/screen-shot-2020-03-31-at-8.15.52-pm.png)
 
-### How Your First Meeting Will Generally Go 
+### How Your First Meeting Will Generally Go
 
 1. Make a round of introductions 
 2. If we plan to record the meeting, the host of the meeting will get your consent to record
@@ -140,7 +136,7 @@ Hey Taco is an application that is integrated with Slack. It is a way to give sh
 
 ![Supervisor&apos;s Calendly links are in their profile ](../.gitbook/assets/screen-shot-2020-03-31-at-8.18.12-pm-1.png)
 
-## Google Calendar 
+## Google Calendar
 
 Google Calendar is a time-management and scheduling calendar service. Google Calendar allows users to create and edit events. Reminders can be enabled for events, with options available for type and time. Event locations can also be added, and other users can be invited to events. Google Calendar helps us all stay on the same schedule even with differences in time zones. **Going remote means having A LOT of virtual meetings:**
 
@@ -148,7 +144,7 @@ Google Calendar is a time-management and scheduling calendar service. Google Cal
 * All Calendly events will be linked to the Calendar
 * All virtual socials will be updated on the Calendar
 
-**If you are invited to any Google Calendar event, please RSVP as soon as possible.** 
+**If you are invited to any Google Calendar event, please RSVP as soon as possible.**
 
 ![](../.gitbook/assets/screen-shot-2020-03-31-at-8.20.23-pm.png)
 
