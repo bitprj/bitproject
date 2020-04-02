@@ -6,12 +6,12 @@
 
 | Role | Team | Person |
 | :--- | :--- | :--- |
-| Director of People |  | Shreya Gupta |
-| L&D Manager | Learning & Development | Becca Tran |
-| People Experience Associate | Learning & Development | Winnie Zhang |
-| Inclusion and | Learning & Development | Lily Hem |
-| Onboarding Manager | Onboarding | Minh Tu Nguyen |
-| Recruiter \(2\) | Onboarding | **VACANT** |
+| [Director of People](https://about.bitproject.org/teams/people/roles/director-of-people) |  | Shreya Gupta |
+| [L&D Manager](https://about.bitproject.org/teams/people/roles/learning-and-development-manager) | Learning & Development | Becca Tran |
+| [People Experience Associate](https://about.bitproject.org/teams/people/roles/people-experience-associate) | Learning & Development | Winnie Zhang |
+| [Diversity and Inclusion Associate](https://about.bitproject.org/teams/people/roles/diversity-and-inclusion-specialist) | Learning & Development | Lily Hem |
+| [Onboarding Manager](https://about.bitproject.org/teams/people/roles/onboarding-manager) | Onboarding | Minh Tu Nguyen |
+| [Recruiter \(2\)](https://about.bitproject.org/teams/people/roles/recruiter) | Onboarding | **VACANT** |
 
 **Marketing Department  \(4 Vacancies\)**
 

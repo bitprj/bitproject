@@ -23,7 +23,7 @@ In many ways, we are organized by output. This way we can ensure that responsibi
 | Department | Director | Output |
 | :--- | :--- | :--- |
 | Developer Relations | Kevin Vuong | Create Quality Diverse Educational Content |
-| Community Relations | Shreya Gupta | Grow Userbase to Underserved Communities |
+| Community Relations | Shreya Gupta | Grow User-base to Underserved Communities |
 | People | Rebecca Tran | Enable people |
 | Engineering | Bryan Wong | Execute development |
 
