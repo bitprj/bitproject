@@ -14,7 +14,8 @@ The Onboarding Manager is the first point of contact for all new members of the 
 
 * Strong interpersonal skills and time management skills
 * Quick learner of new software and technology
-* Proven analytical, problem solving, and communication skills 
+* Proven analytical, problem solving, and communication skills
+* Preferred experience with Google Slides and GitHub
 
 
 

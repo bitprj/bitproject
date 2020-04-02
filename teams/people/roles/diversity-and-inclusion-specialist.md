@@ -10,7 +10,7 @@ Bit Project's Diversity and Inclusion Associate is responsible for supporting th
 * Analyze and interpret inclusion and diversity data/metrics specific to business lines.
 * Confer with senior leaders to help find opportunities and develop a plan to improve metrics.
 * Support and manage efforts with cross-functional teams to review and improve current policies, practices, and behaviors to promote inclusion \(recruiting, onboarding, development, etc.\)
-* Stay current with leading research and innovative trends in the diversity and inclusion space and assess gaps and opportunities for improving Bit Project's inclusion efforts.
+* Stay current with leading research and innovative trends in the diversity and inclusion space and assess gaps and opportunities for improving Bit Project's inclusion efforts
 
 ## Requirements
 
@@ -19,6 +19,9 @@ Bit Project's Diversity and Inclusion Associate is responsible for supporting th
 * Good teamwork skills
 * Experience in sales and/or marketing
 * Adaptable to new and unfamiliar situations
+* Preferred experience with Google Slides and GitHub
+
+## 
 
 
 

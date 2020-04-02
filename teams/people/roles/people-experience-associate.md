@@ -16,6 +16,7 @@ The People Manager will be working with teams and individuals throughout the org
 * High level of empathy
 * Strong organization and written and verbal communication skills
 * Strong interpersonal relationship building skills
+* Preferred experience with Google Slides and GitHub
 
 
 

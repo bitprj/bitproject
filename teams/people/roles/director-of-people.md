@@ -18,4 +18,5 @@ The Director of People has strong leadership qualities and a passion for communi
 * Experience in project management and team leadership
 * Proven success in People Team role or similar
 * Passion for the success of community growth and people's work satisfaction
+* Preferred experience with Google Slides and GitHub
 

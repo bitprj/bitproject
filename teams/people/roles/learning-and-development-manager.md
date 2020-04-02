@@ -17,4 +17,5 @@ The Learning & Development Manager is responsible for ensuring that people withi
 * Strong organization and presentation skills
 * Ability to work well with teams to identify needs
 * Strong public speaking skills \(experience with public speaking preferred\)
+* Preferred experience with Google Slides and GitHub
 
