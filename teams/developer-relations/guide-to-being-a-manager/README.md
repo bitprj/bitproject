@@ -175,19 +175,19 @@ We want to the developers and the managers to provide give their input for each 
 
 ## _Revision by Head of Developer Relations and President \[Jeff\]_
 
-Here at Bit, we place heavy emphasis that all content and material developed by Bit is up to our standards. In addition to material being reviewed by respective managers, the material will undergo further review by the head of Develop Relations, Kevin Vvuong, as well as the President of Bit Project, Daniel Kim. We have many developer teams at Bit and this process is necessary to ensure all material is synchronous and consistent.
+Here at Bit, we place heavy emphasis that all content and material developed by Bit is up to our standards. In addition to material being reviewed by respective managers, the material will undergo further review by the Head of Developer Relations, as well as the President of Bit Project. We have many developer teams at Bit and this process is necessary to ensure all material is synchronous and consistent.
 
-Kevin will audit a random Pull request everyweek from a developer to a manager and ensure proper feedback is being provided. While Kevin is auditing, he will be looking to ensure the content matches Bit Project's long term goals and is consistent with the other material. 
+The Head of Developer Relations will occasionally audit a random Pull request from a developer to a manager and ensure proper feedback is being provided. While the Head is auditing, he will be looking to ensure the content matches Bit Project's long term goals and is consistent with the other material. He will refer to the pull request template mentioned above while performing his audit. This means ensuring all content fulfills the criteria specified by the pull request template which will result in more thorough content. 
 
-Daneil, as president, will also audit Kevin's pull requests to ensure quality is consistent through all curriculum by Bit Project. It will conducted in a similiar process to Code Reviews performed by managers. 
+The president, will also occasionally audit the Head of Developer Relation's pull requests to ensure quality is consistent through all curriculum by Bit Project. It will conducted in a similiar process to Code Reviews performed by managers and the Head of Developer Relations.
 
 In order for curriculum to have a level of quality expected of Bit Project, we have implemented 3 checks. 
 
  1. Approval by Manager
 
- 2. Approval by Kevin Vvoung
+ 2. Approval by Head of Developer Relations
 
- 3. Approval by Daniel Kim
+ 3. Approval by President of Bit Project
 
 ## General Development Review Checklist
 
