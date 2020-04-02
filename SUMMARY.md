@@ -66,7 +66,7 @@
     * [Director of People](teams/people/roles/director-of-people.md)
     * [Learning & Development Manager](teams/people/roles/learning-and-development-manager.md)
     * [People Experience Associate](teams/people/roles/people-experience-associate.md)
-    * [Diversity and Inclusion Specialist](teams/people/roles/diversity-and-inclusion-specialist.md)
+    * [Diversity and Inclusion Associate](teams/people/roles/diversity-and-inclusion-specialist.md)
     * [Onboarding Manager](teams/people/roles/onboarding-manager.md)
     * [Recruiter](teams/people/roles/recruiter.md)
   * [Joining the Team](teams/people/joining-the-team.md)
