@@ -29,6 +29,56 @@ All reviewers will be assigned an issue in the **bitproject** repository, to be 
 
 This checklist will be posted within the issue and should all be completed within 3 days of assignment.
 
+### Pre-approval: What To Do
+
+* [ ] For each module,create a document that outlines the planned curriculum\(make sure to format it properly and according to the example\)
+  * [ ]  Make sure learning objectives are written and formatted properly
+  * [ ] Make sure activity titles and descriptions written and formatted properly
+  * [ ] Make sure lab titles and descriptions written and formatted properly
+
+### Role of Epics + Assigning Epic Points
+
+Epics represent long-term \(in the form of GitHub issues\) that will keep you on track to finish weekly assignment,activities & labs, and entire modules. These epics should be assigned points not based on how long they will take to complete but the overall, implementation based difficulty.  Activity,Lab ,and workshop epics are assigned different points and they add up to represent the total weight/points of an entire module.
+
+###  Explanation of Role of Issues \(curriculum issues\)
+
+Issues are assigned weekly to developers and represent a week's work that will help you reach your epics. These issues should help you push yourself further down your Epics. They should be succinct enough\(and must also follow the given format on GitHub\) for developers to understand but not get overwhelmed by too many details or work.
+
+### Explanation of Role of Milestones
+
+Milestones represent a person's and a team's weekly goals. They are comprised of curriculum issues and represent how much progress a team or person has made during a week. They will help you keep track of everyone's weekly work quota and your own work.
+
+### Adding Issues to Epics \(Modules + Activities + Labs\)
+
+Issues\(GitHub\) should be added to Epics. On a higher level, they represent what things need to be down in order to take down an Epic and will help you breakdown your goals into more tangible ideas and tasks. Module,activities, and lab Epics will be given smaller issues that break them into more ,as previously stated, bit-sized chunks that you can further break down into weekly issues and Milestones.
+
+###  Long-term Plan
+
+A long-term plan should be clear for not only yourself but outsiders who might view it as well. It should follow a set format\(as shown below\) and should outline both major points that need to worked on and the time frame on when these issues will be dealt with. It should be realistic and extra care should be taken into considering that deadlines that you set might need to be adjusted\(so give yourself some "wiggle room"\)
+
+`Overview of things to do:`
+
+* `Create section on Python Class and other OOP concepts`
+* `...`
+* `Recycle older tutorials into new sections for the current module`
+* `Add more descriptive visuals to currently-made activities`
+
+`Weekly Goals:`
+
+`Week of April 23th: Start outlining foundation cards`
+
+`Week of April 30th: Start recycling older cards for the new Python tutorial module`
+
+`...`
+
+### ZenHub Calender
+
+You should use ZenHub as a visual deadline guide and reminder. You will create Epics that will represent blocks on ZenHub. You will then adjust their size according to their perceived start date and deadline. You will also create sub-epics\(i.e activity,workshop labs, etc.\) that will also have their own deadlines\(that will build up the main module epic\).
+
+
+
+
+
 ## Weekly Manager Checklist
 
 * [ ] Review developers' work and provide a review according to the Pull Request Checklist 
@@ -39,23 +89,25 @@ This checklist will be posted within the issue and should all be completed withi
   * [ ] Designate two issues _not being solved_ to be "first timer only" issues
   * [ ] Milestone should be set-up
 * [ ] Adjust long-term plan and epic points for each module epic based on feedback and progress
+  * [ ] Ensure General Review Checklist is being updated based on the developers' progress
 * [ ] Adjust timeline in Zenhub Calendar
 * [ ] Weekly Team Sync
 * [ ] 1:1s with devs
 
 ## Pull Request Checklist
 
-Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`. 
+Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`.
 
 * [ ] **Branch updated from `master`**
   * [ ] Resolving all Merge Conflicts
 * [ ] Spelling and grammar errors fixed
-* [ ] Markdown Formatting
+* [ ] Correct Markdown Formatting
+* [ ] Adjust timeline in Zenhub Calendar
 * [ ] Correctly spaced code snippets
 * [ ] Code style followed
 * [ ] Local images with &lt;img&gt; NOT Markdown 
 * [ ] Splitting Up Cards \(no more than one scroll a card\)
-* [ ] Readability Test: Automated Readability Index result of 9th grade or under \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
+* [ ] Readability Test: Automated Readability Index result of _9th grade or under_ \([https://readabilityformulas.com/free-readability-formula-tests.php](https://readabilityformulas.com/free-readability-formula-tests.php)\)
 * [ ] Visuals make sense
   * [ ] Alternate text for visuals
 * [ ] Specific micro-issues addressed in pull request 
@@ -69,19 +121,19 @@ Every week, there are a couple essential things that every manager should take c
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
 
-## General Development Review Checklist 
+## General Development Review Checklist
 
 The following checklist must be fully completed before an Epic deadline, and also serve as a general guide to development.
 
-This checklist should be maintained and updated 
+This checklist should be maintained and updated
 
-#### Checklist for Devs
+#### The General Checklist for Devs
 
 Developers should be developing curriculum with all of those requirements in mind. Each issue they are assigned should address items on this checklist directly.
 
 Additionally, each pull request should have stage labels corresponding to the four stages. Please apply as many labels as applicable, for every item addressed in a stage, there should be that corresponding stage label applied.
 
-#### Checklist for Reviewers
+#### The General Checklist for Reviewers
 
 With regards to this checklist, reviewers should do the following:
 
@@ -91,21 +143,26 @@ With regards to this checklist, reviewers should do the following:
 * Ensure that stage labels are being properly marked
 * When entire checklist is checked off for an Epic, then that Epic should be completed and linked within a pull request to `master` to indicate completion
 
-#### Stage 1 - Starting Content
+### General Checklist
+
+#### General Items \(Apply to All Stages\)
 
 * [ ] High-schooler friendly writing style, easy to understand
 * [ ] Correct numbering
 * [ ] Every card has code\* 
 * [ ] 1 scroll per card\*\*
-* [ ] Content of cards make sense
 * [ ] Proper grammar, punctuation, capitalization, etc.
-* [ ] Micro to Macro Principle
-* [ ] Titles for Concepts associated with each Card
-* [ ] Acceptable Styling per the Manager Checklist
+* [ ] Acceptable Styling per the Pull Request Checklist
 
 \*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
 
 \*\* If you have to scroll more than once to view the whole card, the card is too long
+
+#### Stage 1 - Starting Content
+
+* [ ] Content of cards is more accessible to beginners
+* [ ] Micro to Macro Principle
+* [ ] Titles for Concepts associated with each Card
 
 #### Stage 1 - Lab Addendum
 
@@ -123,7 +180,6 @@ With regards to this checklist, reviewers should do the following:
 * [ ] \(For activities\) Fleshed-out, real-life scenarios
 * [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
 * [ ] All concepts fleshed out
-* [ ] Acceptable Styling per the Manager Checklist
 
 #### Stage 2 - Lab Addendum
 
@@ -140,14 +196,12 @@ With regards to this checklist, reviewers should do the following:
   * [ ] Hints \(Medium + Easy Cards\)
   * [ ] Concepts
   * [ ] Checkpoints
-  * [ ] With test cases if applicable
+  * [ ] With test cases for checkpoints if applicable
 * [ ] Concepts for each card completely finalized, with correct README formatting
-* [ ] Acceptable Styling per the Manager Checklist
 
-#### Stage 3 - Lab Addendum
+**Stage 3 - Lab Addendum**
 
 * [ ] 5-10 test cases, correctly formatted according to READMEs
-* [ ] Badge Gem Amounts correctly calculated using John’s code \(no diagram for activities\)
 
 #### Stage 4 - For Reviewers Only
 
@@ -156,4 +210,6 @@ With regards to this checklist, reviewers should do the following:
   * Labs: calculated using John's Code 
   * Activities: Predetermined amounts
 * [ ] Have curriculum proofread by writing team \(currently Victoria Xu @vkxu657\)
+
+
 

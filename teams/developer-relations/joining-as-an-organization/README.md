@@ -1,3 +1,7 @@
+---
+description: How to join Bit Project as an organization
+---
+
 # Joining as an Organization
 
 ## Why Workshops?
@@ -32,26 +36,6 @@ Creating these technical workshops provides students with exposure to programs t
 
 ### Stage 2: Slides and Component
 
-* [ ] Step 1: Presentation Slides Outline
-  * [ ] Clear Workflow
-  * [ ] Provide us with Link
-  * [ ] Review with Dev
-* [ ] Step 2: Completing Slides and Interactive Component 
-  * [ ] Completed Slides with Presentation Notes 
-    * [ ] Peer Reviews
-      * [ ] Complete Presentation Check List
-      * [ ] Limited Text on Each Slide
-      * [ ] Attractive Visuals
-      * [ ] Slide Templates Used Appropriately
-      * [ ] Interactive Component Fully Integrated
-      * [ ] Grammar Check 
-  * [ ] Completed and Working Interactive Component
-  * [ ] **Game on Github Repository**
-  * [ ] README
-  * [ ] Replication Instructions
-  * [ ] Script of Presentation
-  * [ ] Place is with slide links and GitHub Link
-  * [ ] Review with Dev
 * [ ] Step 1: Presentation Slides Outline
   * [ ] Clear Workflow
   * [ ] Provide us with Link

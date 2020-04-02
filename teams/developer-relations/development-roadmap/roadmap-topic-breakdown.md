@@ -2,16 +2,16 @@
 
 ## Topic: Version Control
 
-**Module: Intro to Version Control**
+### **Module: Intro to Version Control**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn the basics of Version Control and its purpose in the context of software development. 
 * Students will be introduced to command line 
 * Students will be introduced to a basic Version Control Systems like Github
 * Students will learn how to use Github and Github desktop
 
-_**Activities**_
+#### _**Activities**_
 
 * Git through Command Line 
   * You will download git to your computer and set it up through command line as well as  learning the basic git command line arguments. 
@@ -22,18 +22,139 @@ _**Activities**_
 * Work in Pairs! 
   * You will work in pairs to discover the usefulness of a Version Control System by collaborating on a sample code by adding files, methods, and variables.
 
-_**Labs**_
+#### _**Labs**_
 
 * Create Your Own Repository
   * You will create your own Repository and upload your own projects and set up issues that need to be addressed. 
 * Work on an Issue
   * You will practice working on an issue of a sample repo through GitHub Desktop and make commits locally as well as making a pull request through Github. 
 
+## Topic: HTML/CSS
+
+### Module: HTML/CSS Basics
+
+#### _**Learning Objectives**_
+
+* Students will begin learning the basics of how to utilize HTML/CSS to create a webpage.
+* Students will learn what HTML \(Hypertext Markup Language\) is and how CSS \(Cascading Style Sheets\) is used to style an HTML page.
+* Students will learn the basic structure of an HTML page that can be used as a boilerplate for any future webpages they create.
+* Students will be able to manipulate their webpages live using DevTools that web browers provide.
+
+#### _**Activities**_
+
+* Hello World Webpage
+  * Create a simple HTML page to display "Hello World"
+* Google.com Page
+  * Replicate Google.com's page with a Google logo, buttons, and links
+* Amazon Search Result Page
+  * Design an Amazon search result page for a search on a piece of furniture
+* Simple Potluck Form
+  * Design an invitation to a potluck as a form to fill about what they want to bring and any other food preferences
+
+#### _**Labs**_
+
+* Favorite Internet Icon/Group Collage
+  * Create a webpage about an internet icon/group and include what they're about, fun facts, what hobbies they enjoy, and anything else to add
+* Recipe Page
+  * Create a detailed webpage about your favorite recipe for others to follow
+* Feedback Topic Survey
+  * Create a survey for people to give feedback about a specific topic \(e.g. music, food, travel, etc.\)
+
+### Module: HTML/CSS Advanced
+
+#### _**Learning Objectives**_
+
+* Students will expand on using ids and classes to help stylize specific HTML elements
+* Students will understand how CSS selectors and nesting can be utilized to style specific HTML elements
+* Students will learn how to create a responsive website for easier readability
+
+#### _**Activities**_
+
+* Bucket List
+  * Create a bucket list with pictures while utilizing more advanced CSS techniques
+* Recreate YouTube
+  * Recreate YouTube's home page with a selection of videos, video titles underneath each video, and a sidebar with subscriptions
+* Coffee Shop Website
+  * Create a website to show to customers different coffee drinks, where coffee beans are sourced, etc.
+* Online Banking
+  * Create an aesthetically pleasing online banking application
+
+#### _**Labs**_
+
+* App Store
+  * Create an app store for
+* CSS Zen Garden
+  * Create CSS for the CSS Zen Garden Project
+* To-Do List
+  * Create a colorful to-do list web application to record tasks, check off tasks, and move around tasks using provided JavaScript code
+
+## Topic: JavaScript
+
+### Module: JavaScript Basics
+
+#### _**Learning Objectives**_
+
+* Students will learn the basics of JavaScript syntax
+* Students will begin learning the basics of how to utilize JavaScript to make an interactive webpage
+* Students will understand what the DOM is and learn how to access and manipulate it to change the webpage
+* Students will learn how to program various UI events for the mouse and HTML buttons
+
+#### _**Activities**_
+
+* Interactive Hello World Webpage
+  * Create an interactive Hello World webpage using alerts, prompts, and confirms
+* Random Color Website
+  * Create a simple webpage that generates a random color\(s\) depending on the user's choice
+* Simple Guessing Game
+  * Design a simple game to guess a randomly generated number between a given min and max that will include hints
+* Mouse Cursor Game
+  * Create a mouse cursor game where the cursor is dragged through a maze without touching the walls
+
+#### _**Labs**_
+
+* GPA Calculator
+  * Create a GPA calculator to help calculate the user's GPA
+* howmuch\[insert item\].com
+  * Create an interactive webpage for a user to calculate how much they need of \[insert item\] to survive the pandemic
+* Hangman
+  * Create a Hangman game for a player to guess a random word
+
+### Module: JavaScript Advanced
+
+#### _Learning Objectives_
+
+* Students will expand on JavaScript syntax to learn how to select HTML elements using CSS syntax
+* Students will learn more in depth of various JavaScript datatypes like objects, array, and maps
+* Students will learn how to utilize HTML canvas element for drawing graphics on a webpage
+* Students will learn JavaScript scheduling, utilizing setTimeout and setInterval to create timers
+
+#### _Activities_
+
+* Dot Art Wall
+  * Create a canvas that the user can draw their mouse through to leave a trail of dots
+* Simple Timer Game
+  * Create a simple timer game for the user to complete a series of tasks before stopping a stopwatch
+* Find the Invisible Circle
+  * Generate and randomly place a white circle in a canvas
+* Mouse Cursor Game 2.0
+  * Build an even bigger mouse cursor game and store user's time and display it on the side
+* adarkroom game
+  * Create a similar game to adarkroom with simple buttons, keeping track of user actions, and generating a monologue
+
+#### _Labs_
+
+* Fifteen Puzzle
+  * Use an image to create a fifteen puzzle in a 4x4 grid with one square missing, sliding squares into an empty space until the image is reassembled
+* App Store
+  * Recreate an app store for the user to see various apps and display information about each app when clicked on
+* Crossword Puzzle
+  * Pick a theme and create a crossword puzzle out of the words describing the theme
+
 ## **Topic: SQL/SQLAlchemy**
 
-**Module: SQL/SQLAlchemy**
+### **Module: SQL/SQLAlchemy**
 
-_**Learning Objectives:**_
+#### _**Learning Objectives:**_
 
 * Students will learn the basics of SQL, its purpose, and how it is different from NoSQL.
 * Students will learn how to use SQLAlchemy to easily implement an SQL database into their Flask applications.
@@ -41,7 +162,7 @@ _**Learning Objectives:**_
 * Students will learn how to make models and use Flask-Marshmallow to specify the required format of each field.
 * Students will learn the concept of ORM \(object-relational mapping\) with SQL as a technique of converting data between relational data bases as objects in code.
 
-_**Activities:**_
+#### _**Activities:**_
 
 * SQL/SQLAlchemy Basics
   * Students will learn the basics of SQL and SQLAlchemy through this activity to apply these concepts to the other labs and activities in this module.
@@ -52,7 +173,7 @@ _**Activities:**_
 * Housing Directory:
   * Now that the student has a school directory, they should create a directory that contains all the information about each person at the school’s housing information; the databases should then be related.
 
-_**Labs:**_
+#### _**Labs:**_
 
 * Flask Election App:
   * Students should make a simple Flask App that is capable of storing information about different candidates in an election. This application must support the CRUD operations and students will use models and Flask-Marshmallow to specify the type of data being stored.
@@ -61,16 +182,16 @@ _**Labs:**_
 
 ## Topic: Node.JS
 
-**Module: Intro to Node.JS**
+### **Module: Intro to Node.JS**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn the basics of writing Javascript in the context of a desktop/web app.
 * Students will get exposure to synchronous and asynchronous functions, which are an integral part of Node.js.
 * Students will get exposure to modularity\(i.e making functions that will be used in completely different programs\).
 * Students will learn how to use the Node.js HTTP client and server usage.
 
-_**Activities**_
+#### _**Activities**_
 
 * Search For A Word
   * You will write a program that reads and parses a file\(both synchronously and asynchronously\)  and outputs the line number\(by counting the “\n”\) of a word you pass into the function.
@@ -81,7 +202,7 @@ _**Activities**_
 * Glorified\(But Polite\) Clock
   * Use the HTTP client to make a program that outputs \(on the CLI\) when it receives a get request.
 
-_**Labs**_
+#### _**Labs**_
 
 * Random Sentence Generator
   * You are going to write a program that generates random sentences from the words the user inputs into a file.
@@ -90,9 +211,9 @@ _**Labs**_
 
 ## Topic: NoSQL/MongoDB
 
-**Module: Intro to NoSQL/MongoDB**
+### **Module: Intro to NoSQL/MongoDB**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn the advantages of using a NoSQL database.
 * Students will learn how to utilize MongoDB's Stitch and Atlas platforms to their advantage.
@@ -100,7 +221,7 @@ _**Learning Objectives**_
 * Students will learn how to lookup files/data in their databases.
 * Students will learn how to manipulate their data in their databases and create relationships in their databases.
 
-_**Activities**_
+#### _**Activities**_
 
 * My Favorite Foods
   * You will write a Node.js program that creates and populates a MongoDB database with your favorite food’s recipe. Students will also use Stitch to make a alternative verison of the original\(showcasing the time saved if they had used Stitch\).
@@ -111,7 +232,7 @@ _**Activities**_
 * Too Much Flour
   * You will write a Node.js program that returns the average amount of flour used in your recipes\(which are in your database\).
 
-_**Labs**_
+#### _**Labs**_
 
 * Tweet Up
   * You are going to write a program that populates a MongoDB database with the tweets of your favorite user and organizes them into different groups using statistics like how many people retweeted a specific tweet and etc. You must use MongoDB's Atlas\(for cloud support\) and Stitch\(for ease of use\) for this lab.
@@ -122,16 +243,16 @@ _**Labs**_
 
 **Topic: Flask**
 
-**Module: Python Flask**
+### **Module: Python Flask**
 
-_**Learning Objectives:**_
+#### _**Learning Objectives:**_
 
 * Students will learn the purpose and basics of Python Flask.
 * Students will learn how to route different pages within their applications using Flask.
 * Students will gain experience with structuring different CRUD operations.
 * Students will use Flask-RESTful to structure their routes for RESTful APIs.
 
-_**Activities:**_
+#### _**Activities:**_
 
 * Flask Intro
   * Since Flask can be difficult to set up, the first activity will cover the basic intro to Flask to get the students going.
@@ -142,7 +263,7 @@ _**Activities:**_
 * Making Users Active
   * Students will learn the concept of Flask session by creating simple endpoints that makes a user active, returns JSON data of the active user, and deactivates a user.
 
-_**Labs:**_
+#### _**Labs:**_
 
 * Recipe Application
   * Students will be provided with a native dictionary of recipes in their application, and use Flask and Flask-RESTful to create endpoints to create, remove, and edit the recipes.
@@ -151,16 +272,16 @@ _**Labs:**_
 
 ## Topic: Express.JS
 
-**Module: Intro to Express.JS**
+### **Module: Intro to Express.JS**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn how to use Express.js in order to react to and serve client requests.
 * Students will learn how to supply client requests with HTML web pages.
 * Students will learn how to supply clients with more dynamic web pages\(using PUG, jQuery, CSS, etc.\) 
 * Students will learn how to supply clients with JSON and data from a MongoDB database.
 
-_**Activities**_
+#### _**Activities**_
 
 * Hello World Around The World
   * You will write a Node.js program using the Express.js library to create a static HTML webpage that showcases the phrase “Hello World” in different spoken languages.
@@ -171,7 +292,7 @@ _**Activities**_
 * Your Local Weather Channel
   * You will write a Node.js program using the Express.js library to create a dynamic webpage that outputs the local weather\(using their own data\) in JSON.
 
-_**Labs**_
+#### _**Labs**_
 
 * Quartz,Parchment,Shears
   * You are going to write a program that sets up a dynamic website that allows you to play rock,paper,scissors with an AI player!
@@ -180,16 +301,16 @@ _**Labs**_
 
 ## Topic: APIs
 
-**Module: API Concepts**
+### **Module: API Concepts**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn the basic concepts behind APIs, why they are used, the idea behind their functionality, etc
 * Students will understand CRUD operations
 * Students will learn HTTP Methods and Endpoints
 * Students will understand JSON data 
 
-_**Activities**_
+#### _**Activities**_
 
 * Introduction to APIs
   * Introduce what an API is, possibly ask students to come up with their own possible uses of APIs, introduce vocabulary like client and server, etc. 
@@ -202,7 +323,7 @@ _**Activities**_
 * Security
   * Students will learn how to use authentication for apis such as API keys
 
-_**Labs**_
+#### _**Labs**_
 
 * Weather Application
   * students will use a simple weather API to create a weather app. They can use their basic knowledge of HTML/CSS and other backend resources
@@ -213,14 +334,14 @@ _\*\*\*\*_
 
 ### Module: Testing APIs with Postman
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn how to use Postman in order to test API requests and why this is useful to developers
 * Understand Postman Collections and Collection Runner
 * Understand Postman Mock Servers
 * Learn Postman Documentation
 
-_**Activities**_
+#### _**Activities**_
 
 * Creating and Testing BitBloxs
   * Use the bitblox API in order to teach students the basics of how to run requests through postman
@@ -233,7 +354,7 @@ _**Activities**_
 * Documentation in Postman
   * Teach students how to make documentation in postman
 
-_**Labs**_
+#### _**Labs**_
 
 * NASA API
   * Adjust the activity APIs for front end developers in order to create a lab where students create a more indepth website using NASA's API
@@ -242,7 +363,7 @@ _**Labs**_
 
 ## Topic: Blockchain
 
-**Overview**
+### **Overview**
 
 The Blockchain topic is split into five separate modules:
 
@@ -264,16 +385,16 @@ _Advanced Solidity_ is the apex of the _Solidity_ series \(_Fundamental_ and _In
 
 _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental, Intermediate,_ and _Advanced_\) but is focused more towards building off of the _Principles of Blockchain_ module, introducing students to Blockchain-related technologies to create more powerful and capable decentralized applications.
 
-**Module: Principles of Blockchain**
+### **Module: Principles of Blockchain**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn about what distinguishes a blockchain from existing technologies
 * Students will learn about the Bitcoin architecture and its defining success as well as failures
 * Students will learn about Post-Bitcoin architectures
 * Students will learn about what Smart Contracts and are and their uses
 
-_**Activities**_
+#### _**Activities**_
 
 * Hash Playground 
   * Experiment with different hashing protocols used in different blockchain architectures
@@ -284,22 +405,22 @@ _**Activities**_
 * PoS Blockchain 
   * Create a simple Proof of State \(PoS\) based blockchain
 
-_**Labs**_
+#### _**Labs**_
 
 * Your Own PoW Blockchain 
   * Create an upgraded PoW blockchain
 * Your Own PoS Blockchain 
   * Create a custom staking protocol
 
-**Module: Fundamental Solidity**
+### **Module: Fundamental Solidity**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn about the Ethereum Blockchain architecture and how it executes Smart Contracts
 * Students will learn about the general procedure for developing, deploying, and testing smart contracts
 * Students will learn about fundamental types and their associated operations in Solidity
 
-_**Activities**_
+#### _**Activities**_
 
 * Ethereum Simulation
   * Learn to send, receive, and analyze transactions in a simulated environment
@@ -310,22 +431,22 @@ _**Activities**_
 * Solidity Oddity
   * Experiment with solidity-specific data types and understand their uses
 
-_**Labs**_
+#### _**Labs**_
 
 * Blockulator
   * Create a smart contract calculator that can perform simple arithmetic on integers
 * Cipher
   * Create a smart contract with an encryption and decryption utility utilizing solidity-specific data types
 
-**Module: Intermediate Solidity**
+### **Module: Intermediate Solidity**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will gain mastery of the Ethereum memory layout
 * Students will be introduce to compound and reference types
 * Students will learn about the mainstream applications of the Ethereum blockchain
 
-_**Activities**_
+#### _**Activities**_
 
 * Voting
   * Create a simple voting smart contract where individuals can cast votes which are then tallied
@@ -334,22 +455,22 @@ _**Activities**_
 * Blind Auction
   * Create a smart contract for a blind auction on a certain goods
 
-_**Labs**_
+#### _**Labs**_
 
 * Rolodex
   * Create a smart contract that stores contact information and preferences of individuals
 * Token 2.0
   * Upgrade the original Token implementation for more fine-grained control and advanced features
 
-**Module: Advanced Solidity**
+### **Module: Advanced Solidity**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn about using libraries to promote code reusability
 * Students will learn about how to use multiple contracts together to build more complex applications
 * Students will learn about unit testing to ensure safe contract design
 
-_**Activities**_
+#### _**Activities**_
 
 * MathLib
   * Create a library for faster and safer math operations
@@ -360,22 +481,22 @@ _**Activities**_
 * Test Driven Development
   * Learn to leverage unit testing to ensure proper smart contract behavior
 
-_**Labs**_
+#### _**Labs**_
 
 * Telephone 
   * Have several contracts relay data to each other, mutating and deciphering data in a predictable fashion 
 * Zeppelin Tokens
   * Use OpenZeppelin to create Tokens and subject them to unit tests
 
-**Module: Alternative Blockchains**
+### **Module: Alternative Blockchains**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn about alternative blockchain platforms that support the Solidity Programming Language
 * Students will learn about alternative blockchain platforms that use a language other than Solidity
 * Students will learn about permissioned blockchain platforms as well as the benefits and drawbacks they provide
 
-_**Activities**_
+#### _**Activities**_
 
 * TRON
   * Deploy and interact with a contract on the TRON platform
@@ -384,22 +505,22 @@ _**Activities**_
 * HyperLedger
   * Deploy and interact with a contract on the Hyperledger platform
 
-_**Labs**_
+#### _**Labs**_
 
 * TRON Port 
   * Deploy the previously built calculator app onto the TRON platform
 * EOS Calculator
   * Port the calculator you built in Solidity to EOS
 
-**Module: Beyond Blockchain**
+### **Module: Beyond Blockchain**
 
-_**Learning Objectives**_
+#### _**Learning Objectives**_
 
 * Students will learn about how to create cross-blockchain applications
 * Students will learn about decentralized storage protocols and their interface to smart contracts
 * Students will learn about the applications of Blockchain for Internet-of-Things \(IoT\) devices
 
-_**Activities**_
+#### _**Activities**_
 
 * Aboard the Ark
   * Create two contracts on two separate blockchain platforms and make them interact with each other
@@ -408,19 +529,19 @@ _**Activities**_
 * Iota
   * Experiment with a blockchain for Internet of Things \(IoT\) devices
 
-_**Labs**_
+#### _**Labs**_
 
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
-**Module: GraphQL** _**Learning Objectives**_
+### **Module: GraphQL** _**Learning Objectives**_
 
 * Students will have an understanding of GraphQL and how to query/insert/Mutate through data
 * Students will be able to integrate GraphQL into their applications
 * Students will be able to use GraphiQL and GraphQL playground
 * Schema and JSON/SDL formatting
 
-_**Activities**_
+#### _**Activities**_
 
 * Query though a blog entry
   * Students will query though blog posts that can display various data
@@ -430,12 +551,14 @@ _**Activities**_
   * Students will be link between various databases
 * Labs \( Hard to design because GraphQL is not standalone. It needs to be an extension off of existing knowledge\)
 
-_**Labs**_
+#### _**Labs**_
 
 * Use GraphQL in a blog
   * Use GraphQL to filter through a list in a blog posts
 
-**Module: Static Site Generators** _**Learning Objectives**_
+### **Module: Static Site Generators**
+
+#### _**Learning Objectives**_
 
 * Students will learn about Static Sites Generators and how they can be useful
 * Students will learn about GatsbyJS and NextJS and how to use them to generate a website
@@ -449,14 +572,151 @@ _**Labs**_
 * NextJS functionality
   * TBD
 
-_**Labs**_
+#### _**Labs**_
 
 * Build a Blog
   * Students will use a GatsbyJS to build a functional blog
 * Build a React App with NextJS
   * TBD
 
-_**Modules Required**_
+### **Module: Mordern CSS & CSS Frameworks**
+
+#### _**Learning Objectives**_
+
+* Students will learn about the emerging trend of css graphs and how it plays into creating resposive websites
+* Students will learn about different CSS writing ideologies. Specifically 2 with different core ideas: BEM and Atomic CSS.
+* Students will learn about CSS frameworks—one simple and one more complex. Students will learn Skeleton and Bootstrap
+
+#### _**Activities**_
+
+* Create a blog post page
+  * Create a resposive CSS blog post page using CSS grid.
+* User Profile "cards" with BEM 
+  * Create small modularized cards with with the BEM ideology to write and maintain CSS
+  * "horizontal layout"
+* "Pokedex" with Atomic CSS
+  * Create a page that acts like a Pokedex with Atomic CSS ideology to write and maintain CSS
+  * "vertical layout"
+* Portfolio website with Skeleton
+  * Students will learn to create a portfolio website using the Skeleton CSS boilerplate
+* Mock Twitter interface with Bootstrap
+  * Students will learn to replicate the Twitter interface with Bootstrap \(no interaction, just placement\)
+
+#### _**Labs**_
+
+* Chain Restaurant Website
+  * Students will implement the CSS of single page \(but responsive\) website for a restuarant with plenty of pictures, menu, quotes, and Google Maps.
+* Fairytales Themed Blog website
+  * Students will implment the CSS of a simple blog website which writes commentary essays about fairytales.
+  * 2 tabs: home, contact, all posts
+  * Posts will be modular, with pictures associated with specific paragraphs
+* German Grammar Tables Reference Page
+  * Students will implment the CSS of a single responsive page website where that shows all the German grammar tables for a quick reference. The only other thing is a menu that allows users to jump to sections of the page.
+  * Have to transform tables with moderate amounts of information \(which is a pain in the ass, but good practice\)
+
+### **Module: Intro React**
+
+#### _**Learning Objectives**_
+
+* Students will learn about the Javascript Framework React and about what it can and can't do.
+* Students will learn how to code both React class and function components
+* Students will learn how to style their components
+* Students will learn how to manage their states
+
+#### _**Activities**_
+
+* User profile "cards"
+  * Create and render editable User profile "cards"
+* Build an accordion menu with React
+  * Create an accordion interactive accordion menu with React where only one subsection can be expanded at a time.
+* "Pokedex" Website with React
+  * Create a site that acts like a Pokedex with React. Pages of the site will be split by generations and routing will be used to switch between these.
+
+#### _**Labs**_
+
+* Chain Restaurant Website \(React ver\)
+  * Students will implement a single page website for a restuarant with plenty of pictures, menu, quotes, and Google Maps.
+* Fairytales Themed Blog website \(React ver\)
+  * Students will implment a simple blog website which writes commentary essays about fairytales.
+  * 2 tabs: home, contact, all posts
+  * Posts will be modular, with pictures associated with specific paragraphs
+* German Grammar reference site \(React ver\)
+  * Students will implment  a single responsive website where that shows all the German grammar tables for a quick reference. Pages will be comprised of parts of speech. Each page will have an explanation section and then the associated grammar tables
+  * Students will have to create these table containers themselves
+
+### **Module: Advanced React**
+
+#### _**Learning Objectives**_
+
+* Students will learn about calling APIs with React
+* Students will learn how to implement dynamic forms with React
+* Students will learn how to use other APIs
+* Students will learn how to deplot their website that is built with React
+
+#### _**Activities**_
+
+* User profile "cards"
+  * Create and render editable User profile "cards"
+  * But this time with a lot more information that will be in each card, and an editing form \(no db\)
+  * Front-end only form validation with React
+* Build an accordion menu with React I
+  * Create an accordion interactive accordion menu with React where only one subsection can be expanded at a time. You can change the name of the foods, ingredients, or description.
+  * Editting form. db used
+* Build an accordion menu with React II
+  * Convert the menu into a site
+  * Use the Google Maps API on the site
+  * Use the Algolia API to do a search by ingredient \(in case of allergies\)
+* "Pokedex" Website with React
+  * Create a site that acts like a Pokedex with React. Pages of the site will be split by generations and routing will be used to switch between these
+  * Switch to using db \(review\) & then deploy
+
+#### _**Labs**_
+
+* Fantasy Boy/Girl Group Creation Application
+  * Students will implement the CRUD operations of forming a fantasy boy/girl group with databases and forms
+  * Then deploy it with heroku
+* Pantry + Shopping List Tracker Application
+  * Students will implement the CRUD of an application to keep track of what is in their pantry. Pantry will have foods, its quantities, and their expiration dates.
+  * They will use Algolia's search API
+  * They can also have the option to add things into their shopping list so that \(from either the pantry or a new item altogether\)
+  * Shopping List Functionality: when an item has been bought then automatically add it to the pantry
+
+### **Module: Redux** & Alternatives
+
+#### _**Learning Objectives**_
+
+* Students will learn about handling global states with Redux
+* Students will learn how to use Redux in general outside of a React environment 
+* Students will learn how to integrate Redux and React
+* Students will learn how to create normal and admin views
+* Students will learn about Redux Alternatives: Context API and React Hooks
+
+#### _**Activities**_
+
+* Getting acquainted with Redux Store, Reducer, & Dispatch
+  * Just going over the words, what they mean and how they are meant to be used
+  * This is a guided walkthrough
+* Build an accordion menu with React III \(Redux\)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Redux
+* Build an accordion menu with React III \(Context API\)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Context API
+* Build an accordion menu with React III \(React HooksI\)
+  * Create a log in for owners so that they are the only people allowed to change the menu offerings with Context API
+
+#### _**Labs**_
+
+* Fantasy Boy/Girl Group Creation Application \(with User types\)
+  * Students will implement the CRUD operations of forming a fantasy boy/girl group with databases and forms
+  * Then deploy it with heroku
+  * Create a login for a boss persona so that they are the only people allowed to add and remove members, but anyone can edit the user profiles
+* Pantry + Shopping List Tracker Application \(with User types\)
+  * Students will implement the CRUD of an application to keep track of what is in their pantry. Pantry will have foods, its quantities, and their expiration dates.
+  * They will use Algolia's search API
+  * They can also have the option to add things into their shopping list so that \(from either the pantry or a new item altogether\)
+  * Shopping List Functionality: when an item has been bought then automatically add it to the pantry
+  * Create a login for a kid and mother persona so that when kid users try to make a request to add something to the shopping list, it can be approved or rejected the mother. So there is a "pre-shopping list limbo" for foods.
+
+#### _**Modules Required**_
 
 * React
 * GraphQL

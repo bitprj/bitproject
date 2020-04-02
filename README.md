@@ -18,8 +18,6 @@ We make software engineering and computer science education accessible to studen
 
 [Communication](organization/communication.md)
 
-[Culture](organization/culture.md)
-
 [Style Guide](organization/style-guides/)
 
 * Brand Guidelines
@@ -52,22 +50,15 @@ We make software engineering and computer science education accessible to studen
 
 ## Marketing
 
-[Community Relations](teams/community-relations/)
 
-* [First-Time Contributors Program](teams/community-relations/first-time-contributors-program.md)
-* [Starting a Branch](teams/community-relations/starting-a-branch/)
-  * High School 
-  * Collegiate
-    * Hackathons
-  * Hobbyist Meet-Ups
 
 ## People
 
 [Talent Acquisition](teams/people/talent-acquisition.md)
 
-[Inclusion & Diversity](organization/values/inclusion-and-diversity.md)
+[Inclusion & Diversity](organization/values/inclusion-and-diversity/)
 
-[On-Boarding](teams/people/onboarding-guides.md)
+[On-Boarding]()
 
 ## Join Bit Project
 
