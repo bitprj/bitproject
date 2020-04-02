@@ -18,6 +18,7 @@ Bit Project's Diversity and Inclusion Associate is responsible for supporting th
 * Ability to work on multiple projects at once
 * Good teamwork skills
 * Experience in sales and/or marketing
+* Adaptable to new and unfamiliar situations
 
 
 
