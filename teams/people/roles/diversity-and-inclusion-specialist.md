@@ -6,7 +6,7 @@ Bit Project's Diversity and Inclusion Specialist is responsible for supporting t
 
 ## Responsibilities
 
-* Provide subject matter knowledge to help design, implement and manage initiatives and programs that advances the  inclusion and diversity strategy.
+* Provide subject matter knowledge to help design, implement and manage initiatives and programs that advances the inclusion and diversity strategy.
 
   Analyze and interpret inclusion and diversity data/metrics specific to business lines. Confer with senior leaders to help find opportunities and develop a plan to improve metrics.
 
@@ -23,6 +23,4 @@ Bit Project's Diversity and Inclusion Specialist is responsible for supporting t
   Good teamwork skills
 
   Experience in sales and/or marketing
-
-
 

@@ -48,7 +48,7 @@ We make software engineering and computer science education accessible to studen
 
 ## People
 
-[Talent Acquisition]()
+[Talent Acquisition](./)
 
 [Inclusion & Diversity](organization/values/inclusion-and-diversity/)
 

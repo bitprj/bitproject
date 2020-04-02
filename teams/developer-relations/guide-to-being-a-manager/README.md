@@ -1,5 +1,7 @@
 # Guide to Being a Manager
 
+**Italics indicate sections that still should be reviewed.** 
+
 Reviewers are in charge of **curriculum teams.** Each team consists of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
 ## Starting Off: Receiving Module Assignments
@@ -35,6 +37,8 @@ This checklist will be posted within the issue and should all be completed withi
   * [ ] Make sure learning objectives are written and formatted properly
   * [ ] Make sure activity titles and descriptions written and formatted properly
   * [ ] Make sure lab titles and descriptions written and formatted properly
+
+## _Module Assignments Documentation \[Ismail\]_
 
 ### Role of Epics + Assigning Epic Points
 
@@ -90,6 +94,36 @@ You should use ZenHub as a visual deadline guide and reminder. You will create E
 * [ ] Weekly Team Sync
 * [ ] 1:1s with devs
 
+## _Weekly Manager Checklist Documentation \[Owen\]_
+
+### Deadlines:
+
+Friday: Friday deadlines are the fist draft deadlines for your team. This means that your team members should have finished their issues and submitted a pull request to your branch for review. You should take the next few days to work on any problems that come up after review. 
+
+Sunday: Sunday deadlines are the final draft deadlines for you team. This means that you should submit a pull request to master with your team's completed work for the week. There will also be a form that documents your team's work for the week that is due. 
+
+Tuesday: Tuesday deadlines are for the issues that need to assigned to your team. 
+
+### Issues:
+
+Issues are unresolved problems that developers need to address. As a manager, it is your job to raise issues for your developers and assign them each week. You should make sure that there are enough issues each week to be worked on, raising issues as you review your developer's work as well as in line for your long-term goals.
+
+There are also other issues that should be raised and given as first-timer issues. These issues are generally less complicated resource wise compared to other issues. This does not mean that they are less difficult content wise.
+
+All issues addressed should fully address the long-term plans set up!
+
+### Milestones:
+
+Milestones are used to organize your weekly team's weekly tasks. Issues are placed into your milestones to keep track of your team's work for the week. To create a milestone go to the issues tab in GitHub and there should be a milestones button to the left of the new issue button. Here you can create new milestones as assign tasks to your milestones. In addition your milestones should follow the naming convention of your team-week of- Tuesday of week. 
+
+### Adjustments:
+
+After all your weekly tasks are completed, assess your long-term plan and make any changes necessary. If a part of your activity is completed, assign the appropriate epic points. If there was not as much progress as originally thought, modify the long-term deadlines. Adjust overall long-term plan according to the week's progress and any feedback from developers. 
+
+### Github Projects:
+
+Github Projects are another source of organization for your long-term plans. You can use them to group issues of your long-term plan for a module and track the progress of completion. 
+
 ## Pull Request Checklist
 
 Every week, there are a couple essential things that every manager should take care in pull requests. This checklist applies to both pull requests from developers' branches to managers' branches and from managers' branches to `master`.
@@ -116,6 +150,43 @@ Every week, there are a couple essential things that every manager should take c
 * [ ] Proper Project Label
 
 This checklist should be pasted into each review, and checked off completely by Sunday.
+
+## _Weekly Code Review Documentation \[Michelle\]_
+
+Performing code reviews is an incredibly important step, and this function has to be done for every pull request for each of the developers every week. To start you dev should have requested a review from you. If not, please gently remind them or just request yourself. Then you should see a geen "leave a review" button and pressing that will lead you to a page displaying the code differences. You should leave comments on the code that you are viewing with specific things that they can improve on in their nect iteration.
+
+These specific changes should all contribute one way or another to the "Pull Request Checklist" as shown above. This checklist has to be pasted into each pull request. When reviewing, it is important to focus on both the "macro" and the "micro" issues that need to be resolved. This check list helps reviewers raise issues and review in a more efficient manner.
+
+Stemming from an effort to be more transparent and let developers be aware of how their work contributes to the organization as a whole, this list both ensures proper workflow and a more stylistically workflow. As more and more of the list is checked off, the developer is able to see their progress. Ideally, the list for a specific PR is completely checked off by the end of the week.
+
+## _Quality Assurance Procedures for Managers and Developers \[Jason\]_
+
+We want to the developers and the managers to provide give their input for each aspect of our projects. Therefore, we need procedures that allow the developers to quickly and effectively work together to complete tasks while maintaining a standard of quality.
+
+### Procedure:
+
+* [ ] Managers and Kevin conduct code reviews through GitHub
+  * [ ] Checking Issues and contributions
+    * Each time a developer makes a Pull Request, they need to provide a list of check boxes of items they addressed for their work that week.
+    * When managers review each Pull Request, they must check to ensure that all assigned issues in the milestone were completed and the checkbox contributions match the assigned issues.
+  * [ ] Every checkbox must be addressed with a comment by the reviewer
+    * A comment can acknowledge that the developer did something correctly or give constructive feedback.
+
+## _Revision by Head of Developer Relations and President \[Jeff\]_
+
+Here at Bit, we place heavy emphasis that all content and material developed by Bit is up to our standards. In addition to material being reviewed by respective managers, the material will undergo further review by the head of Develop Relations, Kevin Vvuong, as well as the President of Bit Project, Daniel Kim. We have many developer teams at Bit and this process is necessary to ensure all material is synchronous and consistent.
+
+Kevin will occasionally audit a random Pull request from a developer to a manager and ensure proper feedback is being provided. While Kevin is auditing, he will be looking to ensure the content matches Bit Project's long term goals and is consistent with the other material. 
+
+Daneil, as president, will also audit Kevin's pull requests to ensure quality is consistent through all curriculum by Bit Project. It will conducted in a similiar process to Code Reviews performed by managers. 
+
+In order for curriculum to have a level of quality expected of Bit Project, we have implemented 3 checks. 
+
+ 1. Approval by Manager
+
+ 2. Approval by Kevin Vvoung
+
+ 3. Approval by Daniel Kim
 
 ## General Development Review Checklist
 

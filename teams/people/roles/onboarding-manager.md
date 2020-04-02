@@ -2,12 +2,6 @@
 
 ## Description
 
+* **Responsibilities**
+* **Requirements**
 * 
-## Responsibilities
-
-* 
-## Requirements
-
-* 
-
-
