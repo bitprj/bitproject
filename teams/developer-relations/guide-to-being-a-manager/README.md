@@ -79,6 +79,7 @@ A long-term plan should be clear for not only yourself but outsiders who might v
 
 You should use ZenHub as a visual deadline guide and reminder. You will create Epics that will represent blocks on ZenHub. You will then adjust their size according to their perceived start date and deadline. You will also create sub-epics\(i.e activity,workshop labs, etc.\) that will also have their own deadlines\(that will build up the main module epic\).
 
+
 ## Weekly Manager Checklist
 
 * [ ] Review developers' work and provide a review according to the Pull Request Checklist 
