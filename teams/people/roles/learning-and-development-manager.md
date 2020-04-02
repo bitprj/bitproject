@@ -2,7 +2,7 @@
 
 ## Description
 
-The Learning & Development Manager is responsible to guide members within a dynamic and fast-pace organization with the resources to succeed professionally and 
+The Learning & Development Manager is responsible to guide members within a dynamic and fast-pace organization with the resources to succeed professionally and
 
 ## Responsibilities
 
@@ -14,6 +14,4 @@ The Learning & Development Manager is responsible to guide members within a dyna
 * Strong organization and presentation skills
 * Ability to work well with teams to identify needs
 * Strong public speaking skills \(experience with public speaking preferred\)
-
-
 

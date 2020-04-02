@@ -73,8 +73,6 @@ Our programs can and should expand over time in the following ways but balanced 
 Note that expansion is important but as noted, should not come at the cost of sacrificing our program quality and outcomes. We need to find the right balance
 {% endhint %}
 
-
-
 **References**
 
 * [http://opensource.com/education/13/10/open-business-model-free-education](http://opensource.com/education/13/10/open-business-model-free-education)

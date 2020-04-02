@@ -17,5 +17,3 @@ We are looking for an ambitious and self-motivate People Manager with strong lea
 * Strong organization and written and verbal communication skills
 * Strong interpersonal relationship building skills
 
-
-

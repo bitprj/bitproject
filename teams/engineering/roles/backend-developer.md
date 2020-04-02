@@ -31,9 +31,3 @@ description: >-
 * Running code through a series of load testing to fix existing bugs to enhance the speed of enpoints
 * Documenting/updating endpoints on Postman
 
-
-
-
-
-
-
