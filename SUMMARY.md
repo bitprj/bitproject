@@ -64,6 +64,7 @@
   * [Weekly Duties](teams/marketing/weekly-duties/README.md)
     * [Airtable & HubSpot](teams/marketing/weekly-duties/airtable-and-hubspot.md)
 * [People](teams/people/README.md)
+  * [Transitioning to a manager role](teams/people/transitioning-to-a-manager-role.md)
   * [Roles](teams/people/roles/README.md)
     * [Director of People](teams/people/roles/director-of-people.md)
     * [Learning & Development Manager](teams/people/roles/learning-and-development-manager.md)
