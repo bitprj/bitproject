@@ -18,6 +18,8 @@ We make software engineering and computer science education accessible to studen
 
 [Communication](organization/communication.md)
 
+[Github Basics](organization/github.md)
+
 [Style Guide](organization/style-guides/)
 
 * Brand Guidelines
@@ -41,10 +43,13 @@ We make software engineering and computer science education accessible to studen
 * [Frontend Engineering](teams/developer-relations/teams/frontend-engineering/)
 * [API Development/Microservices ](teams/developer-relations/teams/api-development-microservices.md)
 * [Blockchain](teams/developer-relations/teams/blockchain.md)
-
-
-
+* 
 ## Engineering
+
+Documentation
+
+* [README Formats](teams/engineering/readme-formats.md)
+* [Curriculum Folder Structure](teams/engineering/curriculum-folder-structure.md)
 
 
 
@@ -54,11 +59,15 @@ We make software engineering and computer science education accessible to studen
 
 ## People
 
-[Talent Acquisition]()
+Code of Conduct
 
-[Inclusion & Diversity](organization/values/inclusion-and-diversity/)
+Inclusion and Diversity
 
-[On-Boarding]()
+* Guide to Inclusive Language
+
+Outreach
+
+Onboarding Procedures
 
 ## Join Bit Project
 
