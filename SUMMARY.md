@@ -13,7 +13,7 @@
 * [Organizational Structure](organization/organizational-structure/README.md)
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication.md)
-* [GitHub](organization/github.md)
+* [GitHub Basics](organization/github.md)
 * [Style Guides](organization/style-guides/README.md)
   * [Writing Style Guides](organization/style-guides/writing-style-guides.md)
   * [Brand Guidelines](organization/style-guides/brand-guidelines.md)
