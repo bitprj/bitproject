@@ -38,6 +38,7 @@
 * [ ] Logical card progression 
 * [ ] Ample pictures/custom visuals \(copyright-free, Pexels is a great source\) 
   * [ ] Images placed _locally_ with &lt;img&gt; NOT Markdown 
+  * [ ] all &lt;img&gt; tags should close properly &lt;img ... /&gt;
 * [ ] \(For activities\) Fleshed-out, real-life scenarios
 * [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
 * [ ] All concepts fleshed out
