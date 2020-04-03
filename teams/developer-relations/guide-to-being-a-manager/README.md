@@ -1,6 +1,6 @@
 # Guide to Being a Manager
 
-**Italics indicate sections that still should be reviewed.** 
+**Italics indicate sections that still should be reviewed.**
 
 Reviewers are in charge of **curriculum teams.** Each team consists of 4-6 people who work on different modules of curriculum. They will be tasked with a project, usually covering a topic, and a deadline. By this deadline, all activities, labs and workshops for that project should be completed.
 
@@ -79,7 +79,6 @@ A long-term plan should be clear for not only yourself but outsiders who might v
 
 You should use ZenHub as a visual deadline guide and reminder. You will create Epics that will represent blocks on ZenHub. You will then adjust their size according to their perceived start date and deadline. You will also create sub-epics\(i.e activity,workshop labs, etc.\) that will also have their own deadlines\(that will build up the main module epic\).
 
-
 ## Weekly Manager Checklist
 
 * [ ] Review developers' work and provide a review according to the Pull Request Checklist 
@@ -99,11 +98,11 @@ You should use ZenHub as a visual deadline guide and reminder. You will create E
 
 ### Deadlines:
 
-Friday: Friday deadlines are the fist draft deadlines for your team. This means that your team members should have finished their issues and submitted a pull request to your branch for review. You should take the next few days to work on any problems that come up after review. 
+Friday: Friday deadlines are the fist draft deadlines for your team. This means that your team members should have finished their issues and submitted a pull request to your branch for review. You should take the next few days to work on any problems that come up after review.
 
-Sunday: Sunday deadlines are the final draft deadlines for you team. This means that you should submit a pull request to master with your team's completed work for the week. There will also be a form that documents your team's work for the week that is due. 
+Sunday: Sunday deadlines are the final draft deadlines for you team. This means that you should submit a pull request to master with your team's completed work for the week. There will also be a form that documents your team's work for the week that is due.
 
-Tuesday: Tuesday deadlines are for the issues that need to assigned to your team. 
+Tuesday: Tuesday deadlines are for the issues that need to assigned to your team.
 
 ### Issues:
 
@@ -115,15 +114,15 @@ All issues addressed should fully address the long-term plans set up!
 
 ### Milestones:
 
-Milestones are used to organize your weekly team's weekly tasks. Issues are placed into your milestones to keep track of your team's work for the week. To create a milestone go to the issues tab in GitHub and there should be a milestones button to the left of the new issue button. Here you can create new milestones as assign tasks to your milestones. In addition your milestones should follow the naming convention of your team-week of- Tuesday of week. 
+Milestones are used to organize your weekly team's weekly tasks. Issues are placed into your milestones to keep track of your team's work for the week. To create a milestone go to the issues tab in GitHub and there should be a milestones button to the left of the new issue button. Here you can create new milestones as assign tasks to your milestones. In addition your milestones should follow the naming convention of your team-week of- Tuesday of week.
 
 ### Adjustments:
 
-After all your weekly tasks are completed, assess your long-term plan and make any changes necessary. If a part of your activity is completed, assign the appropriate epic points. If there was not as much progress as originally thought, modify the long-term deadlines. Adjust overall long-term plan according to the week's progress and any feedback from developers. 
+After all your weekly tasks are completed, assess your long-term plan and make any changes necessary. If a part of your activity is completed, assign the appropriate epic points. If there was not as much progress as originally thought, modify the long-term deadlines. Adjust overall long-term plan according to the week's progress and any feedback from developers.
 
 ### Github Projects:
 
-Github Projects are another source of organization for your long-term plans. You can use them to group issues of your long-term plan for a module and track the progress of completion. 
+Github Projects are another source of organization for your long-term plans. You can use them to group issues of your long-term plan for a module and track the progress of completion.
 
 ## Pull Request Checklist
 
@@ -168,26 +167,24 @@ We want to the developers and the managers to provide give their input for each 
 
 * [ ] Managers and Kevin conduct code reviews through GitHub
   * [ ] Checking Issues and contributions
-    * Each time a developer makes a Pull Request, they need to provide a list of check boxes of items they addressed for their work that week.
-    * When managers review each Pull Request, they must check to ensure that all assigned issues in the milestone were completed and the checkbox contributions match the assigned issues.
+  * Each time a developer makes a Pull Request, they need to provide a list of check boxes of items they addressed for their work that week.
+  * When managers review each Pull Request, they must check to ensure that all assigned issues in the milestone were completed and the checkbox contributions match the assigned issues.
   * [ ] Every checkbox must be addressed with a comment by the reviewer
-    * A comment can acknowledge that the developer did something correctly or give constructive feedback.
+  * A comment can acknowledge that the developer did something correctly or give constructive feedback.
 
 ## _Revision by Head of Developer Relations and President \[Jeff\]_
 
 Here at Bit, we place heavy emphasis that all content and material developed by Bit is up to our standards. In addition to material being reviewed by respective managers, the material will undergo further review by the Head of Developer Relations, as well as the President of Bit Project. We have many developer teams at Bit and this process is necessary to ensure all material is synchronous and consistent.
 
-The Head of Developer Relations will occasionally audit a random Pull request from a developer to a manager and ensure proper feedback is being provided. While the Head is auditing, he will be looking to ensure the content matches Bit Project's long term goals and is consistent with the other material. He will refer to the pull request template mentioned above while performing his audit. This means ensuring all content fulfills the criteria specified by the pull request template which will result in more thorough content. 
+The Head of Developer Relations will occasionally audit a random Pull request from a developer to a manager and ensure proper feedback is being provided. While the Head is auditing, he will be looking to ensure the content matches Bit Project's long term goals and is consistent with the other material. He will refer to the pull request template mentioned above while performing his audit. This means ensuring all content fulfills the criteria specified by the pull request template which will result in more thorough content.
 
 The president, will also occasionally audit the Head of Developer Relation's pull requests to ensure quality is consistent through all curriculum by Bit Project. It will conducted in a similiar process to Code Reviews performed by managers and the Head of Developer Relations.
 
-In order for curriculum to have a level of quality expected of Bit Project, we have implemented 3 checks. 
+In order for curriculum to have a level of quality expected of Bit Project, we have implemented 3 checks.
 
- 1. Approval by Manager
-
- 2. Approval by Head of Developer Relations
-
- 3. Approval by President of Bit Project
+1. Approval by Manager
+2. Approval by Head of Developer Relations
+3. Approval by President of Bit Project
 
 ## General Development Review Checklist
 
