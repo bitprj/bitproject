@@ -13,6 +13,7 @@
 * [Organizational Structure](organization/organizational-structure/README.md)
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication.md)
+* [GitHub](organization/github.md)
 * [Style Guides](organization/style-guides/README.md)
   * [Writing Style Guides](organization/style-guides/writing-style-guides.md)
   * [Brand Guidelines](organization/style-guides/brand-guidelines.md)
@@ -21,6 +22,7 @@
 ## Teams
 
 * [Developer Relations](teams/developer-relations/README.md)
+  * [Issues](teams/developer-relations/issues.md)
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
