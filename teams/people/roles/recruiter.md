@@ -4,7 +4,7 @@
 
 The Recruiter works well with team leader to find need for new members and uses various technologies and tools to find strong and suitable talent for the organization.
 
-## Responsibilities 
+## Responsibilities
 
 * Explore new and innovative technologies and communication methods to expand outreach to students across the world for technical and administrative recruitment
 * Manage applicants' recruitment process including all communication before onboarding, interviews, and follow ups
@@ -18,6 +18,4 @@ The Recruiter works well with team leader to find need for new members and uses 
 * Excellent interpersonal and marketing skills
 * Passion for finding suitable talent for the organization
 * Preferred experience with Google Slides and GitHub
-
-
 

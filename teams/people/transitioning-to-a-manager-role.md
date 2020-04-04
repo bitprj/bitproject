@@ -40,7 +40,7 @@ During this type of transition, it’s easy to become overly focused on your for
 
 There are many more challenges that you could face as a new manager. The goal of this program is to provide a foundation for your success and enable you to overcome those challenges.
 
-As a manager, you can lead your team to learn, grow and succeed. Following their progress and acknowledging their development can be the most rewarding aspect of your work. As issues arise, you can lean on a support network and receive guidance from experienced colleagues. This support consists of recurring Managers' coffee chats, dedicated slack channels, training modules, templates, leaders/mentors, and People Experience  Associates all ready to answer questions and provide you with guidance.
+As a manager, you can lead your team to learn, grow and succeed. Following their progress and acknowledging their development can be the most rewarding aspect of your work. As issues arise, you can lean on a support network and receive guidance from experienced colleagues. This support consists of recurring Managers' coffee chats, dedicated slack channels, training modules, templates, leaders/mentors, and People Experience Associates all ready to answer questions and provide you with guidance.
 
 The **Becoming a Bit Project Manager issue** is a launchpad, and it can connect you with crucial information about being a manager at Bit Project. This issue should be assigned to you by your manager as part of your transition to the manager role, however, you can also assign it to yourself. It is designed to ensure you start your journey as a manager with all the resources training available. This checklist will evolve as we iterate upon it and continue to build this program. Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
 
@@ -50,7 +50,7 @@ If you have questions as you work your way through this checklist please ask the
 
 Do not assume that team members understand good remote work practices. Bit Project managers are expected to coach their reports to utilize asyncronous communication, be handbook-first, design an optimal workspace, and understand the importance of self-learning and self-service.
 
-Leaders should ensure that new team members  read the getting started guide, and make themselves available to answer questions. 
+Leaders should ensure that new team members read the getting started guide, and make themselves available to answer questions.
 
 ## **Create a personalized learning pathway**
 

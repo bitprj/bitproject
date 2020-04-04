@@ -19,7 +19,7 @@ This endpoint allows you to get free cakes.
 
 {% api-method-headers %}
 {% api-method-parameter name="jwt\_token" type="string" required=true %}
-A JWT token to keep track of the user's information. 
+A JWT token to keep track of the user's information.
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 {% endapi-method-request %}
@@ -30,7 +30,7 @@ A JWT token to keep track of the user's information.
 Activity found
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "id": 86,
     "name": "Time and Space Complexity",
@@ -74,7 +74,7 @@ Activity found
 Activity does not exist.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "message": "Activity does not exist"
 }
@@ -108,28 +108,30 @@ FetchCard
 Card found
 {% endapi-method-response-example-description %}
 
-    {
-        "id": 325,
-        "activity_id": 90,
-        "content": "Now we have our array of stored unicode for graphic, `grid`.\n(32 for space, 9608 for wall and 9618 for exit- refer to \"Load File as Map\")\nwe can now print out our maze!\n\nWrite a `printGrid(grid)` function that takes in `grid` and print them out accordingly.\n",
-        "gems": 100,
-        "name": "Print Grid",
-        "concepts": [],
-        "hints": [
-            {
-                "id": 428,
-                "hints": [
-                    {
-                        "id": 429,
-                        "hints": []
-                    }
-                ]
-            }
-        ],
-        "checkpoint": {
-            "id": 77
+```text
+{
+    "id": 325,
+    "activity_id": 90,
+    "content": "Now we have our array of stored unicode for graphic, `grid`.\n(32 for space, 9608 for wall and 9618 for exit- refer to \"Load File as Map\")\nwe can now print out our maze!\n\nWrite a `printGrid(grid)` function that takes in `grid` and print them out accordingly.\n",
+    "gems": 100,
+    "name": "Print Grid",
+    "concepts": [],
+    "hints": [
+        {
+            "id": 428,
+            "hints": [
+                {
+                    "id": 429,
+                    "hints": []
+                }
+            ]
         }
+    ],
+    "checkpoint": {
+        "id": 77
     }
+}
+```
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=404 %}
@@ -137,7 +139,7 @@ Card found
 Card does not exist
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "message": "Card does not exist"
 }
