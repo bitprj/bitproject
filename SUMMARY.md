@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bit Project](README.md)
+* [Join Bit Project](join.md)
 
 ## Organization
 
@@ -12,6 +13,9 @@
 * [Organizational Structure](organization/organizational-structure/README.md)
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication.md)
+* [GitHub Basics](organization/github/README.md)
+  * [How To: Make Issues](organization/github/how-to-make-issues.md)
+  * [How To: Make Issue Templates](organization/github/how-to-make-issue-templates.md)
 * [Style Guides](organization/style-guides/README.md)
   * [Writing Style Guides](organization/style-guides/writing-style-guides.md)
   * [Brand Guidelines](organization/style-guides/brand-guidelines.md)
@@ -25,6 +29,7 @@
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
   * [Sync Meeting Guide](teams/developer-relations/sync-meeting-guide.md)
+  * [Joining Developer Relations](teams/developer-relations/joining-the-core-team.md)
   * [Joining as an Organization](teams/developer-relations/joining-as-an-organization/README.md)
     * [Workshop: Marketing and Presentation Tips](teams/developer-relations/joining-as-an-organization/workshop-marketing-and-presentation-tips.md)
     * [West Valley College Workshop](teams/developer-relations/joining-as-an-organization/west-valley-college-workshop.md)
@@ -62,8 +67,15 @@
   * [Weekly Duties](teams/marketing/weekly-duties/README.md)
     * [Airtable & HubSpot](teams/marketing/weekly-duties/airtable-and-hubspot.md)
 * [People](teams/people/README.md)
-  * [Onboarding Guides](teams/people/onboarding-guides.md)
-  * [Talent Acquisition](teams/people/talent-acquisition.md)
+  * [Transitioning to a manager role](teams/people/transitioning-to-a-manager-role.md)
+  * [Roles](teams/people/roles/README.md)
+    * [Director of People](teams/people/roles/director-of-people.md)
+    * [Learning & Development Manager](teams/people/roles/learning-and-development-manager.md)
+    * [People Experience Associate](teams/people/roles/people-experience-associate.md)
+    * [Diversity and Inclusion Associate](teams/people/roles/diversity-and-inclusion-specialist.md)
+    * [Onboarding Manager](teams/people/roles/onboarding-manager.md)
+    * [Recruiter](teams/people/roles/recruiter.md)
+  * [Joining the Team](teams/people/joining-the-team.md)
   * [Primary Ed](teams/people/recruitment/README.md)
     * [How to Be a Volunteer Lead](teams/people/recruitment/how-to-be-a-volunteer-lead.md)
     * [General Event Volunteer Training](teams/people/recruitment/general-event-volunteer-training.md)

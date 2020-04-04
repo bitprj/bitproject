@@ -29,56 +29,6 @@ All reviewers will be assigned an issue in the **bitproject** repository, to be 
 
 This checklist will be posted within the issue and should all be completed within 3 days of assignment.
 
-### Pre-approval: What To Do
-
-* [ ] For each module,create a document that outlines the planned curriculum\(make sure to format it properly and according to the example\)
-  * [ ]  Make sure learning objectives are written and formatted properly
-  * [ ] Make sure activity titles and descriptions written and formatted properly
-  * [ ] Make sure lab titles and descriptions written and formatted properly
-
-### Role of Epics + Assigning Epic Points
-
-Epics represent long-term \(in the form of GitHub issues\) that will keep you on track to finish weekly assignment,activities & labs, and entire modules. These epics should be assigned points not based on how long they will take to complete but the overall, implementation based difficulty.  Activity,Lab ,and workshop epics are assigned different points and they add up to represent the total weight/points of an entire module.
-
-###  Explanation of Role of Issues \(curriculum issues\)
-
-Issues are assigned weekly to developers and represent a week's work that will help you reach your epics. These issues should help you push yourself further down your Epics. They should be succinct enough\(and must also follow the given format on GitHub\) for developers to understand but not get overwhelmed by too many details or work.
-
-### Explanation of Role of Milestones
-
-Milestones represent a person's and a team's weekly goals. They are comprised of curriculum issues and represent how much progress a team or person has made during a week. They will help you keep track of everyone's weekly work quota and your own work.
-
-### Adding Issues to Epics \(Modules + Activities + Labs\)
-
-Issues\(GitHub\) should be added to Epics. On a higher level, they represent what things need to be down in order to take down an Epic and will help you breakdown your goals into more tangible ideas and tasks. Module,activities, and lab Epics will be given smaller issues that break them into more ,as previously stated, bit-sized chunks that you can further break down into weekly issues and Milestones.
-
-###  Long-term Plan
-
-A long-term plan should be clear for not only yourself but outsiders who might view it as well. It should follow a set format\(as shown below\) and should outline both major points that need to worked on and the time frame on when these issues will be dealt with. It should be realistic and extra care should be taken into considering that deadlines that you set might need to be adjusted\(so give yourself some "wiggle room"\)
-
-`Overview of things to do:`
-
-* `Create section on Python Class and other OOP concepts`
-* `...`
-* `Recycle older tutorials into new sections for the current module`
-* `Add more descriptive visuals to currently-made activities`
-
-`Weekly Goals:`
-
-`Week of April 23th: Start outlining foundation cards`
-
-`Week of April 30th: Start recycling older cards for the new Python tutorial module`
-
-`...`
-
-### ZenHub Calender
-
-You should use ZenHub as a visual deadline guide and reminder. You will create Epics that will represent blocks on ZenHub. You will then adjust their size according to their perceived start date and deadline. You will also create sub-epics\(i.e activity,workshop labs, etc.\) that will also have their own deadlines\(that will build up the main module epic\).
-
-
-
-
-
 ## Weekly Manager Checklist
 
 * [ ] Review developers' work and provide a review according to the Pull Request Checklist 

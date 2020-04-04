@@ -46,7 +46,7 @@ Each Topic needs to point to an image folder where the image is being used. The 
 
 ```text
 # image_folder
-/Topic_Postman/
+Topic_Postman/
 ```
 
 #### Modules \(This is not required\)
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="images/dee.jpg">
 
 # image_folder
-/Topic_Postman/
+Topic_Postman/
 
 # modules
 * 5
@@ -460,11 +460,8 @@ Under the hint name, you have to give the step a name with a markdown h2 tag. **
 ```text
 ### name
 ```
-
 How to install VSCode
-
-```text
-
+```
 ```
 
 #### Md\_content \(This is required\)
