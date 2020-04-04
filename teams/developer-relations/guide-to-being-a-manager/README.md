@@ -161,16 +161,21 @@ Stemming from an effort to be more transparent and let developers be aware of ho
 
 ## _Quality Assurance Procedures for Managers and Developers \[Jason\]_
 
-We want to the developers and the managers to provide give their input for each aspect of our projects. Therefore, we need procedures that allow the developers to quickly and effectively work together to complete tasks while maintaining a standard of quality.
+We want the developers and the managers to provide their input for each aspect of our projects. Therefore, we need procedures that allow the developers and managers to quickly and effectively work together to complete tasks while maintaining a standard of quality.
 
-### Procedure:
+All developer work will be assessed with code reviews through Github. When conducting code reviews, managers will check all issues assigned to the developer to ensure that all necessary changes requested in the issues are addressed. The developer should use the issues as a guideline when reviewing the work of their developers, but should also check that the changes proposed by the developers fit the activity as a whole.
 
-* [ ] Managers and Kevin conduct code reviews through GitHub
-  * [ ] Checking Issues and contributions
-  * Each time a developer makes a Pull Request, they need to provide a list of check boxes of items they addressed for their work that week.
-  * When managers review each Pull Request, they must check to ensure that all assigned issues in the milestone were completed and the checkbox contributions match the assigned issues.
-  * [ ] Every checkbox must be addressed with a comment by the reviewer
-  * A comment can acknowledge that the developer did something correctly or give constructive feedback.
+Every time developers make Pull Requests, in the description, they must provide a list of check boxes that condense the issues they addressed in their Pull Request. The manager must be able to check off each box in the lists to ensure the quality of the developers' work.
+
+Each of the check boxes must be addressed with a comment from the code reviewer. The comment can acknowledge the quality of the work or give constructive feedback to the developers.
+
+Example of constructive feedback:
+
+* The explanation of binary heaps is unclear. Organize the explanation in steps and provide a visual to help the students’ understanding of the concept.
+
+Example of unproductive feedback:
+
+* I don’t like the way you explained binary heaps. 
 
 ## _Revision by Head of Developer Relations and President \[Jeff\]_
 
