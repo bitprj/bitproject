@@ -104,7 +104,7 @@ Sunday: Sunday deadlines are the final draft deadlines for you team. This means 
 
 Monday: Monday deadlines are for the issues that need to assigned to your team.
 
-**\*Both Friday and Sunday Pull Requests should follow the given Pull Request template in GitHub found below**
+_**\*Both Friday and Sunday Pull Requests should follow the given Pull Request template in GitHub found below**_
 
 **Don't forget a stage label and to set a reviewer and assignee to your reviewer. \(please remove this line before starting your PR\)**
 
@@ -126,6 +126,10 @@ Changes proposed in this pull request:
 
 @reviewer/kavuong
 
+Here is and example of a completed Pull Request:
+
+![](../../../.gitbook/assets/screen-shot-2020-04-04-at-3.20.28-pm.png)
+
 ### Issues:
 
 Issues are unresolved problems that developers need to address. As a manager, it is your job to raise issues for your developers and assign them each week. You should make sure that there are enough issues each week to be worked on, raising issues as you review your developer's work as well as in line for your long-term goals.‌
@@ -141,6 +145,10 @@ All issues addressed should fully address the long-term plans set up!
 ### Milestones:
 
 Milestones are used to organize your weekly team's weekly tasks. Issues are placed into your milestones to keep track of your team's work for the week. To create a milestone go to the issues tab in GitHub and there should be a milestones button to the left of the new issue button. Here you can create new milestones as assign tasks to your milestones. In addition your milestones should follow the naming convention of your team-week of- Monday of week. To assign issues to milestones, one can either go to the issue and assign it to a milestone on the right-hand side of of the issue or click on the milestone and search for issues to add from there.
+
+Here is an example of a milestones:
+
+![](../../../.gitbook/assets/screen-shot-2020-04-04-at-3.23.56-pm.png)
 
 ### Adjustments:
 
