@@ -52,3 +52,71 @@ After finishing up week two slides, start on week three's code deliverables, if 
 
 If there are more code deliverables to be completed, make sure they are done this week. Other than that, this week is for finishing up week three's work, and reviewing the overall presentation. Check for spelling, grammar, clarity of ideas, images needed, code deliverables, and any other aspect of the presentation that needs to be edited. Lastly, you will develop a plan for how the slides will be converted into a lab. This only needs to be a summary of that process.
 
+## Slide Deliverables
+
+### Three-Part Delivery
+
+The slides in the workshop will be split into three parts in order to create an informative and interactive experience for the audience, and the developer duo can use the information below to check and see if their slides are ready for slide reviews, which will be performed by the manager every week. 
+
+#### Part One: Idea/Motivation
+
+The first draft of these slides must be completed by the end of Week One and reviewed by the manager at the start of Week Two, and the final draft of these slides should be completed during Week Two and finalized during Week Three. Part One slides should fulfill the following:
+
+* [ ] Clear learning objective
+* [ ] Important buzz-words
+* [ ] Examples and applications \(describes how far the world has come\)
+* [ ] Use cases \(explains why the topic of the workshop is useful\)
+
+#### Part Two: Concepts + Interactive Introduction
+
+The first draft of these slides must be completed by the end of Week Two and reviewed by the manager at the start of Week Three, and the final draft of these slides should be completed during Week Three and finalized during Week Four. Part Two slides should fulfill the following:
+
+* [ ] Highly-developed concepts
+  * [ ] Verbal descriptions \(explains the preparations behind the slides\)
+  * [ ] Speaker notes \(supplements explanations given to the audience\)
+* [ ] Bridge between concepts and the interactive activity
+* [ ] Explanation of code's development and support
+* [ ] Introduction to interactive activity
+
+#### Part Three: Interactive Tutorial + Additional Concepts
+
+The first draft of these slides must be completed by the end of Week Three and reviewed by the manager at the start of Week Four, and the final draft of these slides should be during Week Four and finalized during by the end of Week Four, finishing the workshop. Part Three slides should fulfill the following:
+
+* [ ] Ample screenshots or photos
+* [ ] Clear instructions \(on the slide or verbally given\)
+* [ ] Step-by-Step slides for interactive activity
+* [ ] Functioning interactive activity
+
+### General Checklist
+
+After looking into the specific requirements for the content of each individual part of the workshop, here are some requirements that all of the slides should fulfill:
+
+* [ ] Precise headers
+* [ ] Appropriate formatting 
+* [ ] Correct spelling, grammar, and punctuation
+* [ ] Consise text \(includes clear descriptions without tangents\)
+* [ ] Smooth transitions \(includes references to previous slides, if needed\)
+* [ ] Consistent pacing \(includes significant and meaningful content\)
+
+## Slide Reviews
+
+### Manager's Role
+
+Throughout this process, managers will be checking in with the developer duo in weekly meetings to conduct slide reviews in order to provide support and feedback and to ensure that the workshop is ready to be presented at the end of this process.
+
+#### Week One
+
+Before the developer duo starts creating the slides, the manager should have checked in with the  duo during the previous week to make sure that the proposal is completed or is at least close to completion. During this week, the manager will now look over the proposal to review its quality and point out any errors that may need more clarification. The manager may further discuss how to integrate ideas from the proposal into slides and personally work with the developer duo on ironing out code deliverable thorughout this process.
+
+#### Week Two
+
+After last week's discussion, the developer duo should have completed the first draft of Part One slides, and it will be the manager's role to arrange and perform quality assurance checks on the presentation during each weekly meeting. To know what to look for during a slide review, refer to the section above. After reviewing the slides, the manager will provide feedback by Tuesday every week and follow up again with the developer duo to check in on progress with Part Two slides. The manager should offer expertise where needed and will check in with the developer duo throughout the week to ensure that all tasks are completed at the end of the week, which will be every Sunday.
+
+#### Week Three
+
+By this week, the developer duo should be done with the first draft of Part Two slides and the final draft of Part One slides, so the manager will finalize the Part One slides by fixing any last-minute overlooked errors and ambiguities and review Part Two slides by providing feedback. The manager should also determine checkpoints and concepts for the workshop's lab conversion in Part Three slides during this week, as well as be following up with the developer duo frequently to make sure that they are working at a good pace and thoroughly understand their material for their workshop.
+
+#### Week Four
+
+For the final week, the developer duo should be finished with the first draft of Part Three slides and the final draft of Part Two slides. The manager will finalize Part Two slides, and to perform a quality assurance check on Part Three slides, the manger should ensure checkpoint and concepts, run through the lab to check that the lac is completely functional, and raise any potential questions that students may have while interacting with the lab. By the end of this week, the workshop should be completely finalized and ready to be presented.
+
