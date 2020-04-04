@@ -1,4 +1,4 @@
-# GitHub
+# GitHub Basics
 
 ## GOAL
 
