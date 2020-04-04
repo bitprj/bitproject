@@ -94,35 +94,61 @@ You should use ZenHub as a visual deadline guide and reminder. You will create E
 * [ ] Weekly Team Sync
 * [ ] 1:1s with devs
 
-## _Weekly Manager Checklist Documentation \[Owen\]_
+## _Weekly Manager Checklist Documentation \[Owen\]_‌
 
 ### Deadlines:
 
-Friday: Friday deadlines are the fist draft deadlines for your team. This means that your team members should have finished their issues and submitted a pull request to your branch for review. You should take the next few days to work on any problems that come up after review.
+Friday: Friday deadlines are the fist draft deadlines for your team. This means that your team members should have finished their issues and submitted a pull request\* to your branch for review. You should take Saturday to work on any problems that come up after review.
 
-Sunday: Sunday deadlines are the final draft deadlines for you team. This means that you should submit a pull request to master with your team's completed work for the week. There will also be a form that documents your team's work for the week that is due.
+Sunday: Sunday deadlines are the final draft deadlines for you team. This means that you should submit a pull request\* to master with your team's completed work for the week. There will also be a form that documents your team's work for the week that is due.
 
-Tuesday: Tuesday deadlines are for the issues that need to assigned to your team.
+Monday: Monday deadlines are for the issues that need to assigned to your team.
+
+**\*Both Friday and Sunday Pull Requests should follow the given Pull Request template in GitHub found below**
+
+**Don't forget a stage label and to set a reviewer and assignee to your reviewer. \(please remove this line before starting your PR\)**
+
+**Issues Closed**
+
+_Please make one new line for each issue, otherwise not all issues will be accounted for!_
+
+Closes \#xxx
+
+Closes \#xxx
+
+Closes \#xxx
+
+...
+
+Changes proposed in this pull request:
+
+* Bullet point summary
+
+@reviewer/kavuong
 
 ### Issues:
 
-Issues are unresolved problems that developers need to address. As a manager, it is your job to raise issues for your developers and assign them each week. You should make sure that there are enough issues each week to be worked on, raising issues as you review your developer's work as well as in line for your long-term goals.
+Issues are unresolved problems that developers need to address. As a manager, it is your job to raise issues for your developers and assign them each week. You should make sure that there are enough issues each week to be worked on, raising issues as you review your developer's work as well as in line for your long-term goals.‌
 
-There are also other issues that should be raised and given as first-timer issues. These issues are generally less complicated resource wise compared to other issues. This does not mean that they are less difficult content wise.
+There are also other issues that should be raised and given as first-timer issues. These issues are generally less complicated resource wise compared to other issues. This does not mean that they are less difficult content wise. Managers should raise two of these first-timer issues a week. These issues carry over to the next week if no one joins the team. The first-timer issues are for the new people to a team filling in vacancies.
+
+An example of a first timer issue would be something like:
+
+_Give a description and explanation of why and what a cursor is and why we need a class for it._
 
 All issues addressed should fully address the long-term plans set up!
 
 ### Milestones:
 
-Milestones are used to organize your weekly team's weekly tasks. Issues are placed into your milestones to keep track of your team's work for the week. To create a milestone go to the issues tab in GitHub and there should be a milestones button to the left of the new issue button. Here you can create new milestones as assign tasks to your milestones. In addition your milestones should follow the naming convention of your team-week of- Tuesday of week.
+Milestones are used to organize your weekly team's weekly tasks. Issues are placed into your milestones to keep track of your team's work for the week. To create a milestone go to the issues tab in GitHub and there should be a milestones button to the left of the new issue button. Here you can create new milestones as assign tasks to your milestones. In addition your milestones should follow the naming convention of your team-week of- Monday of week. To assign issues to milestones, one can either go to the issue and assign it to a milestone on the right-hand side of of the issue or click on the milestone and search for issues to add from there.
 
 ### Adjustments:
 
-After all your weekly tasks are completed, assess your long-term plan and make any changes necessary. If a part of your activity is completed, assign the appropriate epic points. If there was not as much progress as originally thought, modify the long-term deadlines. Adjust overall long-term plan according to the week's progress and any feedback from developers.
+After all your weekly tasks are completed, assess your long-term plan and make any changes necessary. If a part of your activity is completed, assign the appropriate epic points. If there was not as much progress as originally thought, modify the long-term deadlines. Adjust overall long-term plan according to the week's progress and any feedback from developers.‌
 
 ### Github Projects:
 
-Github Projects are another source of organization for your long-term plans. You can use them to group issues of your long-term plan for a module and track the progress of completion.
+Github Projects are another source of organization for your long-term plans. You can use them to group issues of your long-term plan for a module and track the progress of completion. You should have you Github Projects set up like a kanban board where there are columns for projects todo, blocked, in progress, and done. Create each column click the add column button. Then fill the column with the cards representing the modules your team is working on with each card having checkboxes of what needs to be accomplished. To keep your kanban board updated with your team's progress you just check off your checklist and drag and drop the cards to their appropriate columns. All of the issues that a manager is responsible for ultimately doing \(short-term and long-term\) and the status of these issues should be kept track in here.
 
 ## Pull Request Checklist
 
