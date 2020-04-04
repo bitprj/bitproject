@@ -30,5 +30,9 @@ Click **Commit changes**. Once these changes are merged into the default branch,
 
 ![](../../.gitbook/assets/screenshot-2020-04-04-at-9.14.48-am.png)
 
+Locate the template in the repo within the .github/ISSUE\_TEMPLATE/ folder
+
+![](../../.gitbook/assets/screenshot-2020-04-04-at-9.17.54-am.png)
+
 _Modified original from:_  [_**Creating issue templates for your repository**_](https://help.github.com/en/enterprise/2.15/user/articles/creating-issue-templates-for-your-repository)_\*\*\*\*_
 
