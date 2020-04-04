@@ -91,7 +91,7 @@ For example, as developers are doing the activity cards, there is a checklist bo
 
 For Managers, this guide will be useful for checking on the work of the developers, streamlining the process of giving feedback.
 
-For example, In the following we have Michelle as a Manager/Reviewer. In the pull request Checklist portion of this page, there is a checkbox that states "Correct Markdown Formatting", and as seen below, that checkbox was put to good use. By checking in this page, it is now easier to spot what needs to be revised, leading to faster and more efficient feedback given to the developer.
+For example, in the following we have Michelle as a manager/reviewer. In the pull request checklist portion of this page, there is a checkbox that states "Correct Markdown Formatting", and as seen below, that checkbox was put to good use. By checking in this page, it is now easier to spot what needs to be revised, leading to faster and more efficient feedback given to the developer.
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-30-at-8.51.29-pm.png)
 
@@ -105,5 +105,5 @@ In the following example, Kevin saw the 1 scroll per card checkbox, and therefor
 
 ### Daniel
 
-Our Leader Daniel is the final layer in the review process. He Double checks what Kevin reviews and makes sure that the curriculum being used is as close to perfection as possible. And it is through this checklist that his job can be made easier as he just needs to use it as a guide to see what the other reviewers may have missed out on.
+Our Leader Daniel is the final layer in the review process. He double checks what Kevin reviews and makes sure that the curriculum being used is as close to perfection as possible. And it is through this checklist that his job can be made easier as he just needs to use it as a guide to see what the other reviewers may have missed out on.
 
