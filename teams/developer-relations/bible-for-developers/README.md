@@ -85,11 +85,11 @@
 
 For Developers, this checklist will be used to help guide them in the production of curriculum. It will serve as a checklist to help determine what a developer should or should not do when they are creating labs and activities.
 
-For Example, as developers are doing the activity cards, there is a checklist box that states that there must be 2-3 checkpoints in the activity. By using this checklist as a guide, developers would then remember to add checkpoints somewhere in the list. This would then save the developer's reviewer's time as the reviewer would not have to ask the developer to add the missing content and wait again for the developer to implement what is missing.
+For example, as developers are doing the activity cards, there is a checklist box that states that there must be 2-3 checkpoints in the activity. By using this checklist as a guide, developers would then remember to add checkpoints somewhere in the list. This would then save the developer's reviewer's time as the reviewer would not have to ask the developer to add the missing content and wait again for the developer to implement what is missing.
 
 ### Manager
 
-For Managers, this guide will be useful for checking on the work of the developers. Managers can refer to this checklist page to see what the developers did wrong, making giving feedback easier than ever.
+For Managers, this guide will be useful for checking on the work of the developers, streamlining the process of giving feedback.
 
 For example, In the following we have Michelle as a Manager/Reviewer. In the pull request Checklist portion of this page, there is a checkbox that states "Correct Markdown Formatting", and as seen below, that checkbox was put to good use. By checking in this page, it is now easier to spot what needs to be revised, leading to faster and more efficient feedback given to the developer.
 
@@ -97,7 +97,7 @@ For example, In the following we have Michelle as a Manager/Reviewer. In the pul
 
 ### Kevin
 
-This is the second layer for reviewing the curriculum. Kevin is in charge of further looking into the content of the written curriculum. Specifically, he is in charge of the pull requests made by the managers. As a result, he needs to review a lot of curriculum, and using this checklist will further help save time and work in the reviewing process.
+This is the second layer for reviewing the curriculum. Kevin is in charge of the pull requests made by the managers. As a result, he needs to review a lot of curriculum, and using this checklist will further help save time and work in the reviewing process.
 
 In the following example, Kevin saw the 1 scroll per card checkbox, and therefore made the following review:
 
