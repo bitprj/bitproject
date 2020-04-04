@@ -120,3 +120,30 @@ By this week, the developer duo should be done with the first draft of Part Two 
 
 For the final week, the developer duo should be finished with the first draft of Part Three slides and the final draft of Part Two slides. The manager will finalize Part Two slides, and to perform a quality assurance check on Part Three slides, the manger should ensure checkpoint and concepts, run through the lab to check that the lac is completely functional, and raise any potential questions that students may have while interacting with the lab. By the end of this week, the workshop should be completely finalized and ready to be presented.
 
+
+
+### How to Convert Workshops into Labs
+
+#### For Developers:
+
+Converting a workshop into a lab will be similar to the process of making any lab, and thus will follow the usual guidelines for lab making. This section will discuss the differences in creating labs from workshops rather than scratch. Keep in mind that every workshop is different, which means the lab process may be unique to the workshop. However, these are the general guidelines to follow. 
+
+The lab should replicate the interactive section of the workshop. Because of this, most likely there will not be a need for easy or medium cards for these labs. Other than that, all general items for labs/activities, as they are specified in this bible, still apply. For stage 1, starting content still applies. Keep in mind for many workshops there will probably be starter code for the students. The lab is supposed to be the workshop, not explainations of the code behind it. This code should be given. Stage 2, finishing content, still applies, however there may not be as many autograder checkpoints depending on the nature of the workshop. Stage 3 also fully applies. 
+
+Most of the cards, checkpoints, and concepts can simply be more indepth explainations of the workshop slides. For example, if you have a slide which asks the audience a question, this may be turned into a short answer checkpoint. 
+
+#### For Managers:
+
+Remember that you only have one week to have the lab completely finished. As always, you should have a plan in place to do so!
+
+At the begining of week 4, managers should delegate specific tasks to every teammember so that all parts of the lab will be completed. These tasks, just like a regular lab, include:
+
+* cards \(content\) 
+* concepts - should follow the concepts mentioned in the workshop
+* checkpoints - may or may not be autograder checkpoints, depending on the hands-on part of the workshop
+* formatting \(READMEs, hints, concepts, checkpoints\)
+
+Besides the usual reviewing done for content quality, managers should closely monitor the parts of the lab which are easily overlooked such as concept creation, checkpoints, and proper formatting. Make sure these tasks are properly assigned to a developer and that these developers understand the process of these tasks, especially formatting.
+
+Formatting is often confusing to developers who have never done it before, so please ensure that whoever implements formatting is well guided. This includes READMEs and hints. Checkpoints and concepts similarly are often overlooked or done incorrectly, and both require a lot of specific formatting as well. 
+
