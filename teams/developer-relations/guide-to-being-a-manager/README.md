@@ -158,15 +158,15 @@ With regards to this checklist, reviewers should do the following:
   * Activities: Predetermined amounts
 * [ ] Have curriculum proofread by writing team \(currently Victoria Xu @vkxu657\)
 
-### Stage 3 Documentation \(Atul\)
+### Stage 3 Breakdown
 
-> Note: All elements of a unit \(Module,Activity,Topic,etc.\) are REQUIRED unless stated otherwise.
+> Note: All elements of a unit \(Module,Activity,Topic,etc.\) are REQUIRED unless stated otherwise. Additionally, ALL concepts should be fully done by this point.
 
 #### Topic README Format
 
 **Github ID**
 
-Each topic needs a `github_id` so that the server knows it is unique. The word `github_id` should be in a markdown `h1` tag like below:
+Each topic needs a `github_id` so that the server knows it is unique. There is a maintained Airtable for these ids. Developers should check in with their managers if the id is missing, and then with Kevin. The word `github_id` should be in a markdown `h1` tag like below:
 
 ```text
 # github_id
@@ -770,7 +770,7 @@ def pls_work(): return True... maybe
 
 **Filename**
 
-For the file name, name it the card that you want it to be associated with. So if you wanted to create a checkpoint for 1.md, you would name the checkpoint file `1-checkpoint.md`
+For the file name, name it the card that you want it to be associated with. So if you wanted to create a checkpoint for `1.md`, you would name the checkpoint file `1-checkpoint.md`.This checkpoint should be created AFTER the associated card.
 
 **Name**
 
@@ -882,7 +882,7 @@ Topic1/Module7/Activity_13/Cards/
 Video
 
 # instruction
-Submit a photo your Minsweeper code working
+Submit a video to show your Minesweeper code is working
 
 # criteria
 
@@ -892,6 +892,8 @@ Does the student's board look like this?
 ## criteria_2
 Does the student's code print the board out?
 ```
+
+Here, the checkpoint would require the student to send in a video recording of their output to ensure that their code matches the listed criteria.
 
 **Short Answer**
 
@@ -906,8 +908,10 @@ Topic1/Module7/Activity_13/Cards/
 Short Answer
 
 # instruction
-Submit a photo your Minsweeper code working
+Submit a photo your Minesweeper code working
 ```
+
+With short answer checkpoints, a student would send in a paragraph response to a provided prompt. This would naturally be suited for conceptual or theoretical questions which don't ask for code.
 
 **Multiple Choice**
 
@@ -939,6 +943,8 @@ printf()
 print()
 ```
 
+This is fairly self-explanatory. With MC checkpoints, a student would be prompted to answer a quick conceptual question using multiple choice. These checkpoints are suited for questions that have very short answers and so Short Answer checkpoints wouldn't be appropriate.
+
 **Autograder**
 
 ```text
@@ -961,21 +967,23 @@ main.py class1.py class2.py
 Topic1/Module7/Activity_13/Tests/test_1
 ```
 
+With Autograder checkpoints, a student will send in their code to be tested by an autograder program that will compare the expected output with that of theirs. This is where test cases come into play.
+
 #### Test Cases README Format
 
-> Note: All test case files must end with .test
+> Note: All test case files must have .test as their extension.
 
 **File formatting**
 
-If you have multiple test cases they should have a number at the end of their filenames like below:
+ If there are multiple test cases, they need to be numbered in the order that they will be used.
 
-**Your test case must be named after the lab/activity and then contain a number in sequential order:**
+**Your test case must be named after the associated lab/activity followed by a number:**
 
 * minesweeper1.test
 * minesweeper2.test
 * minesweeper3.test
 
-If you have input files, then make sure that their name has a .txt extension. **They should be in numerical order as like this**:
+If you have input files, then make sure that their name has a .txt extension. **They should be in numerical order like so**:
 
 * input1.txt
 * input2.txt
@@ -983,44 +991,15 @@ If you have input files, then make sure that their name has a .txt extension. **
 
 **Name**
 
-Each test case file must have a `name`:
+Each test case must have a `name`:
 
 ```text
 Board Function
->>> main(2)
-Mines: 10
-  0123456789
-0 XXXXXXXXXX 0
-1 XXXXXXXXXX 1
-2 XXXXXXXXXX 2
-3 XXXXXXXXXX 3
-4 XXXXXXXXXX 4
-5 XXXXXXXXXX 5
-6 XXXXXXXXXX 6
-7 XXXXXXXXXX 7
-8 XXXXXXXXXX 8
-9 XXXXXXXXXX 9
-  0123456789
-Enter your move (for help enter "H"): 42
-Mines: 10
-  0123456789
-0 XXXXXXXXXX 0
-1 XXXXXXXXXX 1
-2 XXXXMXXXXX 2
-3 XXXXXXXXXX 3
-4 XXXXXXXXXX 4
-5 XXXXXXXXXX 5
-6 XXXXXXXXXX 6
-7 XXXXXXXXXX 7
-8 XXXXXXXXXX 8
-9 XXXXXXXXXX 9
-  0123456789
-Uh oh! You blew up!
 ```
 
 **Inputs**
 
-To write test cases, you must type "&gt;&gt;&gt;" followed by the name of the function that you wish to test on. Since you will mostly be testing the main function it would look like the following:
+To write test cases, you must type "&gt;&gt;&gt;" followed by the name of the function that you wish to test. This is done so that the test case looks like the output on a command shell when you run the code. Since you will mostly be testing the main function it would look like the following:
 
 ```text
 >>> main()
@@ -1041,7 +1020,7 @@ If your program needs user input, then you must include the following Python fil
 
 [https://gist.github.com/wongband/597c126217a306ca4770931680417faa](https://gist.github.com/wongband/597c126217a306ca4770931680417faa)
 
-The input.txt files should have the same numbering as the corresponding test files. For example, if you have input1.txt then that should correspond to minesweeper1.test.
+The input.txt files should also have numbers. Specifically, they should have the same number as he testcase associated with them. For example, if you have input1.txt then that corresponds to minesweeper1.test.
 
 If, for instance, the minesweeper1.test file needs to have the input of 42, all we have to do is to create an input1.txt with 42 in it. **Do not put a new line if your program does not output a newline.**
 
@@ -1051,7 +1030,7 @@ If, for instance, the minesweeper1.test file needs to have the input of 42, all 
 
 **Minesweeper Example**
 
-Below is the minesweeper1.test file. In this case we target the main function while passing the number 2 to it. Below that function, the output is the board and a prompt for the user input.
+Below is the minesweeper1.test file. In this case we test the main function while passing a number 2 as its input. Below that function, the output is a printed board and a prompt for the user input.
 
 ```text
 Create Board Function
