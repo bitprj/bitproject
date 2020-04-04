@@ -39,11 +39,31 @@
 | Role | Team | Person |
 | :--- | :--- | :--- |
 | Director of DevRel | \*\*\*\* | Kevin Vuong |
-| Content Development Manager |  | Sarah Gerard |
-| Content Development Manager |  | Owen Gao |
-| Content Development Manager |  | Ismail  |
-| Content Development Manager |  | Michelle Hu |
+| Content Development Manager | octopi | Sarah Gerard |
+| Content Development Manager | mangoesmongoes | Owen Gao |
+| Content Development Manager | avocadoes | Ismail |
+| Content Development Manager | sans-culottes | Michelle Hu |
 | Content Development Manager |  | Jeff Chhen |
+| Content Development Manager | sandcats | Jason Livinghouse |
+| Content Developer | avocadoes | Julia Ma |
+| Content Developer | avocadoes | Ethan Tang |
+| Content Developer | avocadoes | Nozim Islamov |
+| Content Developer | avocadoes | Ryan Kuang |
+| Content Developer | mangoesmongoes | John Voong |
+| Content Developer | mangoesmongoes | Kathy Liu |
+| Content Developer | mangoesmongoes | Sarah Cai |
+| Content Developer | octopi | Brinda Puri |
+| Content Developer | octopi | Jeffrey Ugochukwu |
+| Content Developer | octopi | Scott Gong |
+| Content Developer | octopi | Shayan Riyaz |
+| Content Developer | octopi | Taimur Kashif |
+| Content Developer | sandcats | Atul Jayaram |
+| Content Developer | sandcats | Joey Hua |
+| Content Developer | sandcats | Ruby Yang |
+| Content Developer | sandcats | Sibbons Shrestha |
+| Content Developer | sans-culottes | Allie Bailey |
+| Content Developer | sans-culottes | Emily Gui |
+| Content Developer | sans-culottes | Jose Mendoza |
 | Content Development Intern \(4\) |  | **VACANT** |
 | Content Developer \(5\)  | Data Science | **VACANT** |
 | Content Developer \(5\)  | Block Chain  | **VACANT** |
