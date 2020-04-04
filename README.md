@@ -18,7 +18,7 @@ We make software engineering and computer science education accessible to studen
 
 [Communication](organization/communication.md)
 
-[Github Basics](organization/github.md)
+[Github Basics](organization/github/)
 
 [Style Guide](organization/style-guides/)
 
