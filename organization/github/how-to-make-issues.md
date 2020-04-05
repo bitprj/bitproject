@@ -1,5 +1,9 @@
 # How To: Make Issues
 
+## How to Make Issues
+
+A step by step tutorial on how to create an issue. 
+
 ### Step 1: Select your Repository
 
 Within the Bit Project GitHub, select the repository that you would like to create an issue in. 
