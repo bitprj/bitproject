@@ -66,9 +66,37 @@ On the day of the deadline, check the GitHub issues and see if they have checked
 
 ### 1. Receiving Issues
 
+Team managers are in charge of assigning issues. Either through a meeting or via slack, every issue will be discussed and assigned. Managers will discuss deadlines with all the members, coming to an agreement with the due date. 
+
+Then the issues and their respective due dates will be placed onto GitHub issues and assigned to the correct individuals. Members should be able to have access to their issues as a task list soon after the meeting or slack conversation. 
+
+![](../../.gitbook/assets/screen-shot-2020-04-05-at-3.43.24-pm.png)
+
+#### Objective:
+
+The objective of these issues is to have a very streamlined and clear way for all members and managers to be on the same page. All the work is outlined in one place that everyone has access to and knows where to find. 
+
+#### Collaborator:
+
+
+
+#### Deadline:
+
+All deadlines are negotiable, but it is expected that the tasks are completed by the agreed deadline. It is first discussed so that both the manager and member are on the same page, and to determine a reasonable deadline that gives the member enough time to complete. 
+
 ### 2. Checkmark Tasks
 
+As members go through and completing the tasks on the issues, members should make a habit to checkmark each task once it is finished. This is a good way for members to keep track of which task they have already completed, and it is helpful for managers as they are able to take note of the progress. 
+
+![](../../.gitbook/assets/screen-shot-2020-04-05-at-3.43.34-pm.png)
+
 ### 3. Including Issues in Pull Requests
+
+Refer to [GitHub Basics](./#making-a-pull-request) for how to make a Pull Request. 
+
+When you are submitting a pull request, include your respective issues that you have completed. In the description section, typing in \# will lead to a drop down of the available issues in the repository. Select all of the issues that attain to the pull request. 
+
+![](../../.gitbook/assets/screen-shot-2020-04-05-at-4.01.27-pm.png)
 
 ## Tracking Issues \(Milestones\)
 
@@ -78,37 +106,49 @@ Milestones are issue trackers. Managers are able to easily see which issues are 
 
 #### 1. Select the Repository
 
+Select your repository of choice within the Bit Project GitHub. 
+
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.03.19-pm.png)
 
 #### 2. Click on Issues
+
+Once you select a repository, click on the issues tab. 
 
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.03.25-pm.png)
 
 #### 3. Click on Milestones
 
+Then on the right hand side, select Milestones.
+
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.03.29-pm.png)
 
 #### 4. Click on New Milestone
+
+Click on the green button on the right hand side that says New Milestone.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.03.33-pm.png)
 
 #### 5. Add Details 
 
-Title
+**Title:** Add a relevant title. For example, if it is a milestone for a specific member, name the milestone \[Insert Name\]'s Milestone.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.03.54-pm.png)
 
-Due Date
+**Due Date:** Set a deadline for when the milestone should be due. This means that all issues within the milestone should be closed by this date.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.04.05-pm.png)
 
-Description
+**Description:** Include a short description of what the purpose of the milestone is. 
 
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.04.25-pm.png)
 
 #### 6. Click on Create Milestone
 
+Click on the green button Create Milestone. 
+
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-8.13.44-pm.png)
+
+The milestone should then appear within the milestone page. 
 
 ![](../../.gitbook/assets/screen-shot-2020-04-04-at-7.04.31-pm.png)
 
