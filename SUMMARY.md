@@ -14,6 +14,7 @@
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication.md)
 * [GitHub Basics](organization/github/README.md)
+  * [How To: Use Issues](organization/github/how-to-use-issues.md)
   * [How To: Make Issues](organization/github/how-to-make-issues.md)
   * [How To: Make Issue Templates](organization/github/how-to-make-issue-templates.md)
 * [Style Guides](organization/style-guides/README.md)
