@@ -62,9 +62,13 @@ The day before the deadline, ask each individual member if they have any questio
 
 On the day of the deadline, check the GitHub issues and see if they have checked off the checkmarks. If the member has not, follow-up with them. Make sure all of their work is in the proper format, if not, please follow-up. 
 
-## Completing Issues \(Developer Perspective\)
+## Completing Issues \(Member Perspective\)
 
+### 1. Receiving Issues
 
+### 2. Checkmark Tasks
+
+### 3. Including Issues in Pull Requests
 
 ## Tracking Issues \(Milestones\)
 
