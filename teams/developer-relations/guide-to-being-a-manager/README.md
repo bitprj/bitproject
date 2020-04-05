@@ -136,9 +136,35 @@ With regards to this checklist, reviewers should do the following:
 * Ensure that stage labels are being properly marked
 * When entire checklist is checked off for an Epic, then that Epic should be completed and linked within a pull request to `master` to indicate completion
 
-### General Checklist
+### General Checklist \(Applies to All Stages\)
 
-#### General Items \(Apply to All Stages\)
+Before going into a stage-by-stage breakdown, here's a general overview of things to keep in mind.
+
+#### Writing Style
+
+First and foremost, we want all of our curriculum developers to use a _**conversational writing style**_ when making cards. Strive to make card content accessible and engaging—students should not have to sit through boring lectures to obtain a technical education! Writing as if you're having a conversation will keep students more engaged. When in doubt, think _**blog post**_ instead of _**dry CS lecture!**_
+
+#### Numbering
+
+It's crucial that each card is numbered correctly so developers can keep lessons organized and students can follow a logical progression. Bit Project uses two numbering schemes, one for Activities and one for Labs. 
+
+Here's an example of how to number _**Activity**_ cards \(pretty self-explanatory\):
+
+![Numbering for Activity Cards](../../../.gitbook/assets/screen-shot-2020-03-29-at-3.00.05-pm.png)
+
+And here's an example of how to number _**Lab**_  cards \(a bit more complicated, so we'll explain it after the image\):
+
+![Numbering for Lab Cards](../../../.gitbook/assets/screen-shot-2020-03-29-at-3.06.54-pm.png)
+
+Each hard card is labelled as a _**single number**_.   
+Going off of the above example, _**"1.md " is the first hard card**_, and _**"2.md" is the second hard card**_. 
+
+To label medium cards, simply add another number associated with its order \(2 numbers total\).   
+In the above example, _**"11.md"  is the first medium card associated with the first hard card**_, and   
+_**"21.md" is the first medium card associated with the second hard card**_.
+
+To label easy cards, add another number associated with its order \(3 numbers total\).  
+In the above example, _**"111.md" is the first easy card associated with the first medium card associated with the first hard card.**_ ****
 
 * [ ] High-schooler friendly writing style, easy to understand
 * [ ] Correct numbering
@@ -147,38 +173,78 @@ With regards to this checklist, reviewers should do the following:
 * [ ] Proper grammar, punctuation, capitalization, etc.
 * [ ] Acceptable Styling per the Pull Request Checklist
 
-\*Exception being hard and medium cards in labs as well as activity cards that just introduce concepts
+Cards should be concise. Stuffing a ton of information in a single card can be too overwhelming, so try to keep things brief and split up topics as much as possible. Ideally, you should not have to scroll more than once to view the whole card.
 
-\*\* If you have to scroll more than once to view the whole card, the card is too long
+#### Writing Conventions
+
+Proper writing conventions such as grammar, punctuation, capitalization, etc. should be utilized. 
+
+**Code**
+
+Since we teach programming-related topics, your cards are going to contain code. That said, only include code if it _**serves a purpose.**_ 
+
+Here are some more specific guidelines to follow: 
+
+* Activities introduce concepts; thus, showing code is not a primary purpose
+* Labs push students to apply the concepts they've learned to a problem and will thus be more code-heavy \(more on this in the "Stage 1—Lab Addendum" section below\)
+
+### Stages
+
+Here's an in-depth breakdown of how managers should check card progress in the Bit Project system. We've split up the process into 4 stages. Read on to familiarize yourself! 
 
 #### Stage 1 - Starting Content
 
-* [ ] Content of cards is more accessible to beginners
-* [ ] Micro to Macro Principle
-* [ ] Titles for Concepts associated with each Card
+We really can't stress enough how much we love educational content that _**speaks to students.**_ Please use a conversational writing style! 
+
+When walking students through code, progress as though you are writing a piece of software yourself. Start with the simplest pieces, like variables and functions that _**don't depend on any other code.**_ Progressively work your way up until `main()`. We call this the _**Micro to Macro Principle.**_ 
+
+![Micro &#x2014;&amp;gt; Macro!](../../../.gitbook/assets/smalltobig.jpeg)
+
+_**Card length**_ should be reasonable. Ideally, keep the entire card viewable with at most one scroll. Students will have a hard time staying focused if a card is too long, and shorter cards are easier to digest. 
+
+**.**
+
+**.**
+
+**.**
 
 #### Stage 1 - Lab Addendum
 
-* [ ] Hard cards provide enough guidance for the student to finish task
-* [ ] Mediums bridge Hards and Easys
-* [ ] Easy cards provide solution, are line-separated
-* [ ] Solution and starter code in Airtable and GitHub
-  * [ ] Code is testable, not too general
+![Not a paid endorsement, this picture just fits perfectly.](../../../.gitbook/assets/inthelab.jpg)
+
+When creating a Lab, you are essentially giving the student a problem to solve, breaking it down into steps, with each step subdivided into cards of hard, medium, and easy difficulty. An example of a Lab might be to code a Python program that can solve Sudoku. 
+
+When it comes to Labs, there are a number of things to keep in mind.
+
+**Hard cards** should present a _**high-level overview**_ of the problem_._ Keep in mind that, although this card should stretch the student's brain, it should also provide all the relevant information for the student to finish the task. A hard card for the Sudoku Solver Lab might explain the game of Sudoku and have a bit of starter code ****to point students in the right direction. Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/1.md). 
+
+**Medium cards** should start to shed some more light on the problem. For instance, you can let students know what kinds of variables to keep track of, what data structures to use, or how to set up a certain function. Provide some hints, but don't give it all away. Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/11.md).
+
+**Easy cards** should _literally_ walk the student through a section of the problem step-by-step. Functions should be completely written out, and code should be explained line-by-line_._ Example [here](https://github.com/bitprj/curriculum/blob/master/Data-Structures-and-Algos-Topic/labs/Lab6_Sudoku_Solver/Cards/111.md).
+
+A word about **code**. All Lab cards should contain code, with varying degrees depending on card difficulty \(hard = not much code, medium = some more code, easy = ALOT of code\). Make sure code is _testable_ and works on multiple operating systems—students should be able to copy-paste your code into an IDE and tinker with it on their own. Here's an illustrative example from an easy hard:
+
+![Notice how a student can literally copy-paste this function code and play with it on their own.](../../../.gitbook/assets/screen-shot-2020-04-04-at-12.31.30-pm.png)
 
 #### Stage 2 - Finishing Content
 
-* [ ] Logical card progression 
-* [ ] Ample pictures/custom visuals \(copyright-free, Pexels is a great source\) 
-  * [ ] Images placed _locally_ with &lt;img&gt; NOT Markdown 
-* [ ] \(For activities\) Fleshed-out, real-life scenarios
-* [ ] 2-3 Checkpoints \(Types: Short Answer, Image, Multiple Choice, Video, Autograder/Code\)
-* [ ] All concepts fleshed out
+Your cards should be almost finished by this stage. This section contains a few more crucial characteristics to top off your content.
+
+_**Images!**_  Make liberal use of them in your cards. Concepts don't fully click until students can visualize them. Please use copyright-free images, Pexels is a great source. Since we use markdown to construct our cards, make sure images are embedded using _**local &lt;img&gt; tags**_ \(don't use URLs\).
+
+_**Cards need to follow a logical progression**_. For Activities, this means that you start by introducing a concept in the first card, then move on to specifics of that concept in subsequent cards. For Labs, this means you walk the student through the problem step-by-step.
 
 #### Stage 2 - Lab Addendum
 
-* [ ] Medium and easy cards split into hints 
-* [ ] 2-3 code checkpoints, depending on length of lab
-  * [ ] Solution Code for checkpoints
+_**Checkpoints**_ are crucial for checking students' progress in Activities and Labs. Checkpoints come in different types:
+
+* Multiple choice prompts
+* Short answer prompts
+* Images
+* Videos
+* Autocheck Graders
+
+There should be about 2-3 of these per Lab.
 
 #### Stage 3 - Finishing Touches
 
