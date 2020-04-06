@@ -49,9 +49,9 @@ Template:
 
 
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.26.07-am.png)
+![](../../.gitbook/assets/screen-shot-2020-03-31-at-1.26.07-am.png)
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-1.26.13-am.png)
+![](../../.gitbook/assets/screen-shot-2020-03-31-at-1.26.13-am.png)
 
 ## Slack
 
@@ -97,9 +97,9 @@ Before making an account, you must download slack onto both your computer and mo
 9. As an admin of the Slack workspace, if given the option to _"Disable future attachments from this website"_ when removing an attachment from a message **this will blacklist the link/domain from** [**unfurling**](https://about.gitlab.com/handbook/tools-and-tips/#unfurling-links-in-messages) **in the entire Slack workspace**. Be careful and deliberate when choosing this option as it will impact every user in the workspace.
 10. When selecting your Slack display name, please do not have your name in all capital letters as this is often [associated as shouting](https://en.wikipedia.org/wiki/All_caps#Association_with_shouting) in written communications.
 
-![Example of people just a thread in a public channel ](../.gitbook/assets/screen-shot-2020-03-31-at-8.11.01-pm.png)
+![Example of people just a thread in a public channel ](../../.gitbook/assets/screen-shot-2020-03-31-at-8.11.01-pm.png)
 
-![A good example of when to send a message through private DM versus Public Channels ](../.gitbook/assets/screen-shot-2020-03-31-at-8.11.56-pm.png)
+![A good example of when to send a message through private DM versus Public Channels ](../../.gitbook/assets/screen-shot-2020-03-31-at-8.11.56-pm.png)
 
 
 
@@ -107,7 +107,7 @@ Before making an account, you must download slack onto both your computer and mo
 
 Hey Taco is an application that is integrated with Slack. It is a way to give shoutouts and appreciation to people in your organization! What’s the point of all this taco giving? To put it simply: unity, recognition and gratitude. You name it and someone has probably given out a taco for it. Team member appreciation, a birthday, gratitude for leadership, or welcoming a new team member are all just a few of the reasons we give out tacos. You get 5 tacos a day!
 
-![Example of one of colleague giving appreciation to other members for their hard work!  ](../.gitbook/assets/screen-shot-2020-03-31-at-8.13.14-pm.png)
+![Example of one of colleague giving appreciation to other members for their hard work!  ](../../.gitbook/assets/screen-shot-2020-03-31-at-8.13.14-pm.png)
 
 ## Zoom
 
@@ -122,7 +122,7 @@ Hey Taco is an application that is integrated with Slack. It is a way to give sh
 5. We expect you to be in an appropriate setting and wearing appropriate clothing. If you are in a loud environment, please go ahead and mute yourself. 
 6. It is your own responsibly to remember what was discussed in the meeting. So takes notes if needed. 
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-8.15.52-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-03-31-at-8.15.52-pm.png)
 
 ### How Your First Meeting Will Generally Go 
 
@@ -138,7 +138,7 @@ Hey Taco is an application that is integrated with Slack. It is a way to give sh
 
 [**Calendly**](https://calendly.com/) **is a simple calendar setting app.** One person makes a list of dates and times they are available, and other people go there and self-select their time. [**Calendly**](https://calendly.com/) **allows us to find the best time for 1:1 meetings. Only supervisors need Calendly and their links will be in their Slack profile.**
 
-![Supervisor&apos;s Calendly links are in their profile ](../.gitbook/assets/screen-shot-2020-03-31-at-8.18.12-pm-1.png)
+![Supervisor&apos;s Calendly links are in their profile ](../../.gitbook/assets/screen-shot-2020-03-31-at-8.18.12-pm-1.png)
 
 ## Google Calendar 
 
@@ -150,7 +150,7 @@ Google Calendar is a time-management and scheduling calendar service. Google Cal
 
 **If you are invited to any Google Calendar event, please RSVP as soon as possible.** 
 
-![](../.gitbook/assets/screen-shot-2020-03-31-at-8.20.23-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-03-31-at-8.20.23-pm.png)
 
 **If you do not have access to our Google Calendar please tell your supervisor!**
 

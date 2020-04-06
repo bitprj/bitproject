@@ -16,7 +16,7 @@ We make software engineering and computer science education accessible to studen
 
 [Organizational Structure](organization/organizational-structure/)
 
-[Communication](organization/communication.md)
+[Communication](organization/communication/)
 
 [Github Basics](organization/github/)
 
