@@ -26,9 +26,12 @@
 
 * [Developer Relations](teams/developer-relations/README.md)
   * [Future Workshop Plan](teams/developer-relations/future-workshop-plan/README.md)
+    * [Brainstorming a Workshop Idea](teams/developer-relations/future-workshop-plan/brainstorming-a-workshop-idea.md)
+    * [Code Review Guide](teams/developer-relations/future-workshop-plan/code-review-guide.md)
     * [Managers' Responsibilities](teams/developer-relations/future-workshop-plan/managers-responsibilities/README.md)
       * [Responsibilities for Choosing Your Idea](teams/developer-relations/future-workshop-plan/managers-responsibilities/responsibilities-for-choosing-your-idea.md)
       * [Responsibilities for Creating Your Idea](teams/developer-relations/future-workshop-plan/managers-responsibilities/responsibilities-for-creating-your-idea.md)
+    * [Slide Reviews for Managers](teams/developer-relations/future-workshop-plan/slide-reviews-for-managers.md)
     * [Workshops: Choosing Your Idea](teams/developer-relations/future-workshop-plan/workshops-choosing-your-idea.md)
     * [Workshops: Creating Your Own Idea](teams/developer-relations/future-workshop-plan/workshops-creating-your-own-idea.md)
   * [Development Roadmap](teams/developer-relations/development-roadmap/README.md)

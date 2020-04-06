@@ -4,13 +4,13 @@ description: 'Organizing a workshop for your duos, week by week.'
 
 # Managers' Responsibilities
 
-This page is a guide for week-by-week responsibilities. Responsibilities for every week regardless of status will first be outlined, and then responsibilities for each week pertaining to the 3 or 5 week plan will be described. 
+This page is a guide for week-by-week responsibilities. Responsibilities for every week regardless of status will first be outlined, and then responsibilities for each week pertaining to the 3 or 5 week plan will be described.
 
 **Each manager should persistently update every checklist, and ask their developers to update the checklists in the issues assigned to them.**
 
 ## General Weekly Responsibilities for Managers
 
-_This checklist will be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week \[x\] of \[y\]: General Manager Responsibilities._ 
+_This checklist will be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week \[x\] of \[y\]: General Manager Responsibilities._
 
 * [ ] 1-1 Zoom meeting with duos
 * [ ] "First draft" of work by Friday
@@ -18,8 +18,8 @@ _This checklist will be in an issue with the label `weekly-manager` and a title 
   * [ ] Provide feedback via pull request review by **Saturday**
 * [ ] "Final draft" of work by Sunday
   * [ ] Pull request from your branch to `master`, _referencing all relevant issues_
-    * [ ] Pull request should link all appropriate issues
-    * [ ] Set Kevin \(@kavuong\) as reviewer
+  * [ ] Pull request should link all appropriate issues
+  * [ ] Set Kevin \(@kavuong\) as reviewer
   * [ ] Set up pull request to `master`
   * [ ] Provide feedback via pull request review by **Tuesday**
 * [ ] Be available daily on Slack/GitHub to answer questions and follow-up with team members
@@ -35,7 +35,7 @@ _This checklist will be in an issue with the label `weekly-manager` and a title 
 
 **This checklist will be made by your head every week and assigned to managers. When setting up your "final draft" pull request, please link this issue.** Each of these issues will have the label `weekly-manager`.
 
-**Also please note that for the rest of the checklists in this page, it is each manager's responsibility to create issues for each week for themselves and their developers, as well as keep the issues updated via accountability and GitHub Projects.** 
+**Also please note that for the rest of the checklists in this page, it is each manager's responsibility to create issues for each week for themselves and their developers, as well as keep the issues updated via accountability and GitHub Projects.**
 
 As a baseline, each week every manager needs to schedule a 1-1 Zoom meeting with each of their assigned duos. This 1-1 allows the manager to outline responsibilities for the week and get on the same page as the devs. By the end of this 1-1, each dev should have a clear understanding of how they are going to tackle the tasks for the week. This plan should be **documented** in meeting notes, and pushed to [bitprj/meetings](https://github.com/bitprj/meetings).
 
@@ -47,9 +47,9 @@ Each week, **normal issues** should be assigned. The Epic issues cover what shou
 
 All of your issues \(and Epics\) should be tracked in your personal GitHub projects. By enforcing the naming structure and labels \(see below "Starting Out"\), combining that with a GitHub Project to track statuses will help you a great deal with managing what still has to be done on a weekly basis.
 
-Pull requests should be reviewed by your head and yourself. Please ensure that all feedback is made into issues for the next week. 
+Pull requests should be reviewed by your head and yourself. Please ensure that all feedback is made into issues for the next week.
 
-The ["General Slide Checklist"](../#general-slide-checklist) should be completed by each duo each week. **Copy and paste this list into every pull request review,** and ensure that each box is checked honestly. 
+The ["General Slide Checklist"](../#general-slide-checklist) should be completed by each duo each week. **Copy and paste this list into every pull request review,** and ensure that each box is checked honestly.
 
 **This issue should be completed every week.**
 
@@ -59,7 +59,7 @@ The ["General Slide Checklist"](../#general-slide-checklist) should be completed
 
 ### Devs' Checklist
 
-_This checklist should have the label `weekly-dev`with a title format: \[Topic Name\] \[Project Name\]  Week 1 of \[y\]: Dev Set-Up._
+_This checklist should have the label `weekly-dev`with a title format: \[Topic Name\] \[Project Name\] Week 1 of \[y\]: Dev Set-Up._
 
 * [ ] Form duos
 * [ ] Pick Topic
@@ -78,7 +78,7 @@ Please make sure that MDX-Deck is working on the devs' \(and your\) system to en
 
 ### Managers' Checklist
 
-_This checklist should be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week 1 of \[y\]: Manager Set-Up._ 
+_This checklist should be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week 1 of \[y\]: Manager Set-Up._
 
 #### Set-up
 
@@ -131,5 +131,5 @@ Before starting the process, developers should be aware that these requirements 
 
 Developers must ensure this is fully addressed every week.
 
-Managers must copy this checklist into their pull request review and follow-up to make sure every check is completed. 
+Managers must copy this checklist into their pull request review and follow-up to make sure every check is completed.
 

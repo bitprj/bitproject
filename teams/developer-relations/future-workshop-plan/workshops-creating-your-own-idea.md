@@ -38,7 +38,7 @@ The first step in creating a workshop is making a **proposal**. Your proposal mu
 
 [Workshop Proposal Guide](../workshop-proposal-guide.md)
 
-The workshops will be created over a five-week period. Each week there will be new goals that help you complete the workshop by the end of the cycle. 
+The workshops will be created over a five-week period. Each week there will be new goals that help you complete the workshop by the end of the cycle.
 
 Using the guide above, you and your teammate will create a proposal. Here you will include the main concepts covered in the workshop, an outline of the slide breakdown and how the code elements will be presented as deliverable items. This will be covered more later, but essentially you need to cover how the code related to your concepts will be presented in the slides for every week, what we will call **code deliverables**. The proposal should be done by Friday of the first week, so over the weekend the proposal can be finalized before you begin your work. You will also need create slides that discuss the idea and motivation behind teaching the material, like the real-world applications of it. Throughout the week, the manager will be checking in to ensure it's done on time.
 
@@ -66,9 +66,9 @@ You should try to be done with week one's work before moving on. This will make 
   * [ ] Continue updating README based on additional code deliverables
 * [ ] ["General Slide Checklist"](./#general-slide-checklist) should be completed for your slides
 
-After finishing up week two slides, start on week three's code deliverables, if necessary. The recommended workflow for code deliverables is being done by week two, but if it takes until week three that is okay. Then you want to complete the interactive slides. These will apply the concepts from week two's slides to some sort of activity for the students, so make sure it's made clear that this is the goal of this part of the presentation \(applying the new skills\). Any additional components that weren't covered in week two's slides can also be added here. 
+After finishing up week two slides, start on week three's code deliverables, if necessary. The recommended workflow for code deliverables is being done by week two, but if it takes until week three that is okay. Then you want to complete the interactive slides. These will apply the concepts from week two's slides to some sort of activity for the students, so make sure it's made clear that this is the goal of this part of the presentation \(applying the new skills\). Any additional components that weren't covered in week two's slides can also be added here.
 
-## Week 4 of 5: Finalizing 
+## Week 4 of 5: Finalizing
 
 ![](../../../.gitbook/assets/workshop-flowchart-page-9.png)
 
@@ -81,8 +81,6 @@ After finishing up week two slides, start on week three's code deliverables, if 
   * [ ] Finalize speaker notes
   * [ ] Confirm date and time with Head
 * [ ] ["General Slide Checklist"](./#general-slide-checklist) should be completed for your slides
-
-
 
 If there are more code deliverables to be completed, make sure they are done this week. Other than that, this week is for finishing up week three's work, and reviewing the overall presentation. Check for spelling, grammar, clarity of ideas, images needed, code deliverables, and any other aspect of the presentation that needs to be edited. Lastly, you will develop a plan for how the slides will be converted into a lab. This only needs to be a summary of that process.
 
@@ -101,7 +99,7 @@ Then the cycle starts anew!
 
 ### Three-Part Delivery
 
-The slides in the workshop will be split into three parts in order to create an informative and interactive experience for the audience, and the developer duo can use the information below to check and see if their slides are ready for slide reviews, which will be performed by the manager every week. 
+The slides in the workshop will be split into three parts in order to create an informative and interactive experience for the audience, and the developer duo can use the information below to check and see if their slides are ready for slide reviews, which will be performed by the manager every week.
 
 #### Part One: Idea/Motivation
 

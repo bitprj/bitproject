@@ -293,7 +293,6 @@ Labs:
 * Simple Pokemon Battle
   * You are going to write a program that sets up a MongoDB database with a couple of Pokemon\(grouping them by type\) and makes two random Pokemon fight!
 * GutenBooks
-
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
 ## **Topic: Flask**
@@ -587,7 +586,7 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
-## **Topic: GraphQL** 
+## **Topic: GraphQL**
 
 #### _**Learning Objectives**_
 

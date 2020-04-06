@@ -12,7 +12,7 @@ Currently our teams are focused on creating interactive content for front-end an
 
 Developers at Bit should choose a **category to develop for**, based on their interest.
 
-#### **Front-End Development**
+### **Front-End Development**
 
 This category is being handled by our DevRel manager, Atul Jayaram.
 
@@ -23,7 +23,7 @@ This category is being handled by our DevRel manager, Atul Jayaram.
 * GraphQL
 * Static Site Generators 
 
-#### Back-end Development
+### Back-end Development
 
 This category is being handled by our DevRel manager, Taimur Kashif.
 
@@ -40,6 +40,4 @@ For more details on each of those topics, please consult our roadmap topic break
 {% page-ref page="roadmap-topic-breakdown.md" %}
 
 {% page-ref page="contributing-towards-our-roadmap.md" %}
-
-
 

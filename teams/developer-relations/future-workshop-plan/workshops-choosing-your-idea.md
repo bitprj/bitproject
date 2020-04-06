@@ -22,7 +22,7 @@ Please ensure you **completely confirm your idea** before moving on with this pr
 **Week 1 Checklist**
 
 * [ ] Go through entire workshop
-  * [ ] Make sure it **completely works on your computer**\* ****
+  * [ ] Make sure it **completely works on your computer**\* _\*\*_
   * [ ] Understand at a high level what is happening
 * [ ] Convert workshop idea into MDX-Deck Slides on bitprj/mdx-deck
   * [ ] Make speaker notes for all slides
