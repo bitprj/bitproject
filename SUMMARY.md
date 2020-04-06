@@ -63,7 +63,7 @@
       * [Streaming with the Twitter API](teams/developer-relations/teams/data-science/streaming-with-the-twitter-api.md)
       * [Introduction To The Twitter API](teams/developer-relations/teams/data-science/introduction-to-the-twitter-api.md)
     * [Blockchain](teams/developer-relations/teams/blockchain.md)
-* [Marketing](teams/marketing/README.md)
+* [Growth Marketing](teams/marketing/README.md)
   * [Joining the Team](teams/marketing/joining-the-team.md)
   * [Weekly Duties](teams/marketing/weekly-duties/README.md)
     * [Airtable & HubSpot](teams/marketing/weekly-duties/airtable-and-hubspot.md)
