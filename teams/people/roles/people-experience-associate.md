@@ -18,5 +18,3 @@ The People Manager will be working with teams and individuals throughout the org
 * Strong interpersonal relationship building skills
 * Preferred experience with Google Slides and GitHub
 
-
-

@@ -2,7 +2,7 @@
 
 ## Description
 
-The Director of People has strong leadership qualities and a passion for community growth. They lead the effort to ensure that everyone in the organization is constantly updated, included, and valued. The Director is there for the people, to support professional and social inclusion and growth within the community. 
+The Director of People has strong leadership qualities and a passion for community growth. They lead the effort to ensure that everyone in the organization is constantly updated, included, and valued. The Director is there for the people, to support professional and social inclusion and growth within the community.
 
 ## Responsibilities
 

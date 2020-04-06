@@ -2,11 +2,11 @@
 
 On GitHub Enterprise, navigate to the main page of the repository.
 
- Under your repository name, click **Settings:**
+Under your repository name, click **Settings:**
 
 ![](../../.gitbook/assets/screenshot-2020-04-04-at-8.49.08-am.png)
 
-Scroll down to **Features** and **Set up templates**: 
+Scroll down to **Features** and **Set up templates**:
 
 ![](../../.gitbook/assets/screenshot-2020-04-04-at-8.49.58-am.png)
 
@@ -34,5 +34,5 @@ Locate the template in the repo within the .github/ISSUE\_TEMPLATE/ folder
 
 ![](../../.gitbook/assets/screenshot-2020-04-04-at-9.17.54-am.png)
 
-_Modified original from:_  [_**Creating issue templates for your repository**_](https://help.github.com/en/enterprise/2.15/user/articles/creating-issue-templates-for-your-repository)_\*\*\*\*_
+_Modified original from:_ [_**Creating issue templates for your repository**_](https://help.github.com/en/enterprise/2.15/user/articles/creating-issue-templates-for-your-repository)_\*\*\*\*_
 

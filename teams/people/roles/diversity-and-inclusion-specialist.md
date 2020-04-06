@@ -21,7 +21,3 @@ Bit Project's Diversity and Inclusion Associate is responsible for supporting th
 * Adaptable to new and unfamiliar situations
 * Preferred experience with Google Slides and GitHub
 
-## 
-
-
-

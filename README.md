@@ -43,19 +43,14 @@ We make software engineering and computer science education accessible to studen
 * [Frontend Engineering](teams/developer-relations/teams/frontend-engineering/)
 * [API Development/Microservices ](teams/developer-relations/teams/api-development-microservices.md)
 * [Blockchain](teams/developer-relations/teams/blockchain.md)
-* 
-## Engineering
+* **Engineering**
 
 Documentation
 
 * [README Formats](teams/engineering/readme-formats.md)
 * [Curriculum Folder Structure](teams/engineering/curriculum-folder-structure.md)
 
-
-
 ## Marketing
-
-
 
 ## People
 
