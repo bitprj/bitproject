@@ -293,9 +293,10 @@ Labs:
 * Simple Pokemon Battle
   * You are going to write a program that sets up a MongoDB database with a couple of Pokemon\(grouping them by type\) and makes two random Pokemon fight!
 * GutenBooks
+
   * You are going to write a program that asks a website\(like Project Gutenberg\) for a list of books in its catalog. Then you will store them into your database and sort them by genre.
 
-**Topic: Flask**
+## **Topic: Flask**
 
 ### **Module: Python Flask**
 
@@ -383,8 +384,6 @@ Labs:
   * students will use a simple weather API to create a weather app. They can use their basic knowledge of HTML/CSS and other backend resources
 * Notes Application
   * similar to weather application lab, but instead students can create an application to keep notes on
-
-_\*\*\*\*_
 
 ### Module: Testing APIs with Postman
 
@@ -588,7 +587,9 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 * IPFS x Ethereum
   * Use IPFS with Ethereum to easily store and retrieve arbitrary files
 
-### **Module: GraphQL** _**Learning Objectives**_
+## **Topic: GraphQL** 
+
+#### _**Learning Objectives**_
 
 * Students will have an understanding of GraphQL and how to query/insert/Mutate through data
 * Students will be able to integrate GraphQL into their applications
@@ -610,7 +611,7 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 * Use GraphQL in a blog
   * Use GraphQL to filter through a list in a blog posts
 
-### **Module: Static Site Generators**
+## **Topic: Static Site Generators**
 
 #### _**Learning Objectives**_
 
@@ -633,18 +634,18 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 * Build a React App with NextJS
   * TBD
 
-### **Module: Mordern CSS & CSS Frameworks**
+## **Topic: Modern CSS & CSS Frameworks**
 
 #### _**Learning Objectives**_
 
-* Students will learn about the emerging trend of css graphs and how it plays into creating resposive websites
+* Students will learn about the emerging trend of css graphs and how it plays into creating responsive websites
 * Students will learn about different CSS writing ideologies. Specifically 2 with different core ideas: BEM and Atomic CSS.
 * Students will learn about CSS frameworks—one simple and one more complex. Students will learn Skeleton and Bootstrap
 
 #### _**Activities**_
 
 * Create a blog post page
-  * Create a resposive CSS blog post page using CSS grid.
+  * Create a responsive CSS blog post page using CSS grid.
 * User Profile "cards" with BEM 
   * Create small modularized cards with with the BEM ideology to write and maintain CSS
   * "horizontal layout"
@@ -667,6 +668,8 @@ _Beyond Blockchain_ borrows knowledge from the _Solidity_ series \(_Fundamental,
 * German Grammar Tables Reference Page
   * Students will implment the CSS of a single responsive page website where that shows all the German grammar tables for a quick reference. The only other thing is a menu that allows users to jump to sections of the page.
   * Have to transform tables with moderate amounts of information \(which is a pain in the ass, but good practice\)
+
+## **Topic: React and Redux**
 
 ### **Module: Intro React**
 

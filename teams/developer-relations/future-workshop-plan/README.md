@@ -26,70 +26,41 @@ There will be two versions of every workshop: slides and labs. The labs are simi
 
 Within each pairing, there will be designated roles for both partners. One person will be the **Development Coordinator**. This person might have more knowledge on the topic, and as such they will be in charge of the main concepts behind the workshop. They will create an overall plan for the curriculum and outline what exactly will be taught in the workshop. The **Workshop Developer** will also help form the workshop plan, but their main role will be executing and building upon the workshop plan. This will include making slides \(and the associated lab\) and expanding on concepts. Both team members will play an equal role in the development of the workshop and will take suggestions from each other to make improvements as necessary. The Development Coordinator should be there to answer content questions the Workshop Developer may have, as well as be available to explain specifics of the workshop outline. 
 
-The first step in creating a workshop is making a **proposal**. Here is a guide on how to pursue a workshop idea:
+## What are you delivering?
 
-[Workshop Proposal Guide](workshop-proposal-guide.md)
+1. MDX-Deck presentation slides
+2. Lab converted from slides
+3. A live presentation 
+
+Your presentation slides should be in MDX-Deck format. Documentation can be found here: \[TO BE DONE\]
+
+During the preparation of your slides, you will also work with your partner to create a lab out of your workshop.
+
+At the end of each cycle, you will hold a presentation for your manager and everyone in Bit.
 
 ## Process
 
-### Four-Week Stage
+The entire process can be found in this flow chart:
 
-The workshops will be created over a month-long period. Each week there will be new goals that help you complete the workshop by the end of the cycle. 
+![Workshop Development Process](../../../.gitbook/assets/workshop-flowchart-page-1-2.png)
 
-#### Week One: Proposal and Idea Slides
+This flow chart will be explained in the following sections. 
 
-Using the guide above, you and your teammate will create a proposal. Here you will include the main concepts covered in the workshop, an outline of the slide breakdown and how the code elements will be presented as deliverable items. This will be covered more later, but essentially you need to cover how the code related to your concepts will be presented in the slides for every week, what we will call **code deliverables**. The proposal should be done by Friday of the first week, so over the weekend the proposal can be finalized before you begin your work. You will also need create slides that discuss the idea and motivation behind teaching the material, like the real-world applications of it. Throughout the week, the manager will be checking in to ensure it's done on time.
+### Starting Out
 
-#### Week Two: Finalizing Week One and Creating Concept Slides
+![Flowchart for Starting Out](../../../.gitbook/assets/workshop-flowchart-page-2%20%281%29.jpeg)
 
-You should try to be done with week one's work before moving on. This will make the rest of the process much easier, and allow you to focus on the new tasks at hand. After finalizing week one with your manager's help, you can start on the code deliverables for week two. You should execute the plan outlined in the proposal for how you will deliver code in the slides. This week's slides \(and code deliverables\) should relate to the main concept you cover in the workshop. This is the bulk of the content related to your main topic. Then, you should work on some slides that introduce the interactive component of the workshop.
+* [ ] Form duos
+* [ ] Pick Topic
+* [ ] Decide whether to choose existing idea \(3 weeks\) or pursue original idea \(5 weeks\)
 
-#### Week Three: Finalizing Week Two and Creating Interactive Component
+You and your partner must decide on a topic. Please consult our [roadmap](../development-roadmap/#current-topics-in-focus) for the current topics we are covering.
 
-After finishing up week two slides, start on week three's code deliverables, if necessary. The recommended workflow for code deliverables is being done by week two, but if it takes until week three that is okay. Then you want to complete the interactive slides. These will apply the concepts from week two's slides to some sort of activity for the students, so make sure it's made clear that this is the goal of this part of the presentation \(applying the new skills\). Any additional components that weren't covered in week two's slides can also be added here. 
+Also, each duo must decide whether they would like to pursue an workshop idea. By default, you can choose an idea from our pre-compiled list on Airtable. Please ask a manager to share the Airtable with you.
 
-#### Week Four: Finalizing 
+### General Slide Checklist
 
-If there are more code deliverables to be completed, make sure they are done this week. Other than that, this week is for finishing up week three's work, and reviewing the overall presentation. Check for spelling, grammar, clarity of ideas, images needed, code deliverables, and any other aspect of the presentation that needs to be edited. Lastly, you will develop a plan for how the slides will be converted into a lab. This only needs to be a summary of that process.
-
-## Slide Deliverables
-
-### Three-Part Delivery
-
-The slides in the workshop will be split into three parts in order to create an informative and interactive experience for the audience, and the developer duo can use the information below to check and see if their slides are ready for slide reviews, which will be performed by the manager every week. 
-
-#### Part One: Idea/Motivation
-
-The first draft of these slides must be completed by the end of Week One and reviewed by the manager at the start of Week Two, and the final draft of these slides should be completed during Week Two and finalized during Week Three. Part One slides should fulfill the following:
-
-* [ ] Clear learning objective
-* [ ] Important buzz-words
-* [ ] Examples and applications \(describes how far the world has come\)
-* [ ] Use cases \(explains why the topic of the workshop is useful\)
-
-#### Part Two: Concepts + Interactive Introduction
-
-The first draft of these slides must be completed by the end of Week Two and reviewed by the manager at the start of Week Three, and the final draft of these slides should be completed during Week Three and finalized during Week Four. Part Two slides should fulfill the following:
-
-* [ ] Highly-developed concepts
-  * [ ] Verbal descriptions \(explains the preparations behind the slides\)
-  * [ ] Speaker notes \(supplements explanations given to the audience\)
-* [ ] Bridge between concepts and the interactive activity
-* [ ] Explanation of code's development and support
-* [ ] Introduction to interactive activity
-
-#### Part Three: Interactive Tutorial + Additional Concepts
-
-The first draft of these slides must be completed by the end of Week Three and reviewed by the manager at the start of Week Four, and the final draft of these slides should be during Week Four and finalized during by the end of Week Four, finishing the workshop. Part Three slides should fulfill the following:
-
-* [ ] Ample screenshots or photos
-* [ ] Clear instructions \(on the slide or verbally given\)
-* [ ] Step-by-Step slides for interactive activity
-* [ ] Functioning interactive activity
-
-### General Checklist
-
-After looking into the specific requirements for the content of each individual part of the workshop, here are some requirements that all of the slides should fulfill:
+After looking into the specific requirements for the content of each individual part of the workshop, here are some requirements that all of the slides should fulfill **every week**:
 
 * [ ] Precise headers
 * [ ] Appropriate formatting 
@@ -97,6 +68,24 @@ After looking into the specific requirements for the content of each individual 
 * [ ] Consise text \(includes clear descriptions without tangents\)
 * [ ] Smooth transitions \(includes references to previous slides, if needed\)
 * [ ] Consistent pacing \(includes significant and meaningful content\)
+
+### Choosing an Idea
+
+If you _choose an idea_, your duo will follow a **3 week process** to prepare your deliverables.
+
+{% page-ref page="workshops-choosing-your-idea.md" %}
+
+### 
+
+### Creating Your Own Idea
+
+If you _create your own idea_, your duo will follow a **5 week process** to prepare your deliverables.
+
+{% page-ref page="workshops-creating-your-own-idea.md" %}
+
+"
+
+### 
 
 ## Slide Reviews
 
@@ -128,19 +117,19 @@ For the final week, the developer duo should be finished with the first draft of
 
 Converting a workshop into a lab will be similar to the process of making any lab, and thus will follow the usual guidelines for lab making. This section will discuss the differences in creating labs from workshops rather than scratch. Keep in mind that every workshop is different, which means the lab process may be unique to the workshop. However, these are the general guidelines to follow. 
 
-The lab should replicate the interactive section of the workshop. Because of this, most likely there will not be a need for easy or medium cards for these labs. Other than that, all general items for labs/activities, as they are specified in this bible, still apply. For stage 1, starting content still applies. Keep in mind for many workshops there will probably be starter code for the students. The lab is supposed to be the workshop, not explainations of the code behind it. This code should be given. Stage 2, finishing content, still applies, however there may not be as many autograder checkpoints depending on the nature of the workshop. Stage 3 also fully applies. 
+The lab should replicate the interactive section of the workshop. Because of this, most likely there will not be a need for easy or medium cards for these labs. Other than that, all general items for labs/activities, as they are specified in this bible, still apply. For stage 1, starting content still applies. Keep in mind for many workshops there will probably be starter code for the students. The lab is supposed to be the workshop, not explanations of the code behind it. This code should be given. Stage 2, finishing content, still applies, however there may not be as many auto-grader checkpoints depending on the nature of the workshop. Stage 3 also fully applies. 
 
-Most of the cards, checkpoints, and concepts can simply be more indepth explainations of the workshop slides. For example, if you have a slide which asks the audience a question, this may be turned into a short answer checkpoint. 
+Most of the cards, checkpoints, and concepts can simply be more in-depth explanations of the workshop slides. For example, if you have a slide which asks the audience a question, this may be turned into a short answer checkpoint. 
 
 #### For Managers:
 
 Remember that you only have one week to have the lab completely finished. As always, you should have a plan in place to do so!
 
-At the begining of week 4, managers should delegate specific tasks to every teammember so that all parts of the lab will be completed. These tasks, just like a regular lab, include:
+At the beginning of week 4, managers should delegate specific tasks to every team member so that all parts of the lab will be completed. These tasks, just like a regular lab, include:
 
 * cards \(content\) 
 * concepts - should follow the concepts mentioned in the workshop
-* checkpoints - may or may not be autograder checkpoints, depending on the hands-on part of the workshop
+* checkpoints - may or may not be auto-grader checkpoints, depending on the hands-on part of the workshop
 * formatting \(READMEs, hints, concepts, checkpoints\)
 
 Besides the usual reviewing done for content quality, managers should closely monitor the parts of the lab which are easily overlooked such as concept creation, checkpoints, and proper formatting. Make sure these tasks are properly assigned to a developer and that these developers understand the process of these tasks, especially formatting.

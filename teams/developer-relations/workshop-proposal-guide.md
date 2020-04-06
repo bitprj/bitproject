@@ -6,6 +6,19 @@ description: Pursuing and outlining your proposals.
 
 Your proposal is the framework of your workshop. Although it doesn't need to include every word of the presentation, it should reflect a lot of thought about your project. The stronger your proposal, the easier the workshop creation process will be. 
 
+As a reminder, your proposal must cover the following **in detail**:
+
+* [ ] Specific Idea
+* [ ] Interactive Component
+* [ ] Code Deliverables
+* [ ] Slide Outline
+* [ ] Timing
+* [ ] Motivation Behind Project
+* [ ] Difficulty/prior experience
+* [ ] Technologies that will be used
+
+A proposal template can be found [here](https://github.com/bitprj/mdx-deck/blob/master/misc/proposal-template.md). **You must submit this to your manager before the end of the 1st week** to give your manager ample time for review and follow-up.
+
 ## Creating the Proposal
 
 ### Forming Your Idea
@@ -34,7 +47,7 @@ You want to make sure the students know why they are there \(and that the manage
 
 ## Proposal Resources 
 
-[Future Workshop Plan](future-workshop-plan.md)
+[Future Workshop Plan](future-workshop-plan/)
 
 Link other workshop slides?
 
