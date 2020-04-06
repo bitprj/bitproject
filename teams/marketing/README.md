@@ -30,11 +30,11 @@ We connect with Computer Science advisors and educators at various universities 
 
 #### GitHub
 
-## Customer Relationship Management \(CRM\)
+## Product Marketing & Campaigns
 
-#### Why is CRM important?
+#### What's the Product?
 
-#### CRM at Bit Project
+#### What's the Campaign?
 
 
 
