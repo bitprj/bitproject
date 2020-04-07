@@ -14,7 +14,7 @@
   * [Directory](organization/organizational-structure/untitled.md)
 * [Diversity & Inclusion](organization/diversity-and-inclusion.md)
 * [Communication](organization/communication/README.md)
-  * [How to: Take Meeting Notes](organization/communication/how-to-take-meeting-notes.md)
+  * [How To: Take Meeting Notes](organization/communication/how-to-take-meeting-notes.md)
 * [GitHub Basics](organization/github/README.md)
   * [How To: Use Issues](organization/github/how-to-use-issues.md)
   * [How To: Make Issues](organization/github/how-to-make-issues.md)

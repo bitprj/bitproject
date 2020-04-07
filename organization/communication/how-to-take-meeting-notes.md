@@ -2,7 +2,7 @@
 description: A step by step tutorial on how to make and take meeting notes on GitHub.
 ---
 
-# How to: Take Meeting Notes
+# How To: Take Meeting Notes
 
 ## Making a Copy of Meeting Notes Template
 

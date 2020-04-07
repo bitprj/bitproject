@@ -37,6 +37,8 @@ GitHub gives you a direct path to create websites for your projects, which makes
 
 ### **How to Document Meeting Notes:**
 
+{% page-ref page="how-to-take-meeting-notes.md" %}
+
 Template:
 
 * To increase productivity + efficiency, every meeting will follow the template available on GitHub
