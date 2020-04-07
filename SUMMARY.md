@@ -12,6 +12,7 @@
     * [Guide to Inclusive Language](organization/values/inclusion-and-diversity/guide-to-inclusive-language.md)
 * [Organizational Structure](organization/organizational-structure/README.md)
   * [Directory](organization/organizational-structure/untitled.md)
+* [Diversity & Inclusion](organization/diversity-and-inclusion.md)
 * [Communication](organization/communication/README.md)
   * [How to: Take Meeting Notes](organization/communication/how-to-take-meeting-notes.md)
 * [GitHub Basics](organization/github/README.md)
