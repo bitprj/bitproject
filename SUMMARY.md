@@ -25,6 +25,7 @@
 
 ## Teams
 
+* [Design](teams/design.md)
 * [Developer Relations](teams/developer-relations/README.md)
   * [Future Workshop Plan](teams/developer-relations/future-workshop-plan/README.md)
     * [Brainstorming a Workshop Idea](teams/developer-relations/future-workshop-plan/brainstorming-a-workshop-idea.md)
