@@ -2,7 +2,7 @@
 
 You can see who reports to whom on our organizational chart
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrToCLHh4bK9PjBv?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 ## Layers
 
