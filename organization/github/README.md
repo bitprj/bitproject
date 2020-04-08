@@ -1,6 +1,6 @@
 # GitHub Basics
 
-[https://youtu.be/NNrP1QCF1JE](https://youtu.be/NNrP1QCF1JE)
+{% embed url="https://www.youtube.com/watch?v=NNrP1QCF1JE" caption="Github Webinar by Minh Tu Nguyen, Onboarding Manager, People" %}
 
 ## GOAL
 
