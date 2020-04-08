@@ -110,11 +110,11 @@ Add your own contact info so that you can receive, monitor, and interact with re
 
 
 
-#### Select Send or schedule.
+#### 5. Select Send or schedule.
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.37.12-am.png)
 
-#### 5. You must now edit the Send to\* and the Don't send to.
+#### 6. You must now edit the Send to\* and the Don't send to.
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.37.35-am.png)
 
@@ -126,11 +126,11 @@ Add your own contact info so that you can receive, monitor, and interact with re
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.38.09-am.png)
 
-#### 6.  Select Review and Send in the top right corner.
+#### 7.  Select Review and Send in the top right corner.
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.38.19-am.png)
 
-#### 7. Review the content and ensure that everything is correct. Then hit Send.
+#### 8. Review the content and ensure that everything is correct. Then hit Send.
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.38.25-am.png)
 
