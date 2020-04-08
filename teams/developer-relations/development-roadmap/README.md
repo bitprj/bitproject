@@ -12,6 +12,16 @@ Currently our teams are focused on creating interactive content for front-end an
 
 Developers at Bit should choose a **category to develop for**, based on their interest.
 
+| Topic | Manager |
+| :--- | :--- |
+| Back-end Development | Taimur Kashif |
+| Cloud/DevOps | Daniel Kim |
+| Front-end Development | Atul Jayaram |
+
+### **Cloud/DevOps**
+
+This category is being handled by Daniel Kim.
+
 ### **Front-End Development**
 
 This category is being handled by our DevRel manager, Atul Jayaram.
