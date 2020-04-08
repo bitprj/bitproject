@@ -27,8 +27,10 @@ We plan on transforming our marketing plan from a more traditional process to Gr
 | Title | Point of Contact |
 | :--- | :--- |
 | Director of Marketing |  |
-| Assistant Director of Marketing - Growth |  |
-| Assistant Director of Marketing - Content |  |
+| Marketing Manager, Growth |  |
+| Marketing Manager, Content |  |
+| Marketing Manager, Virtual Events |  |
+| Marketing Manager, Social Media |  |
 
 ## **Contact Marketing**
 
@@ -58,7 +60,6 @@ We plan on transforming our marketing plan from a more traditional process to Gr
         </p>
         <p><code>#social-media</code>
         </p>
-        <p>&lt;code&gt;&lt;/code&gt;</p>
         <p><code>#writing</code>
         </p>
         <p><code>#design</code>

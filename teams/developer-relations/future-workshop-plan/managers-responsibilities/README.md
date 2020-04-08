@@ -8,6 +8,12 @@ This page is a guide for week-by-week responsibilities. Responsibilities for eve
 
 **Each manager should persistently update every checklist, and ask their developers to update the checklists in the issues assigned to them.**
 
+## Every Month: Designate Duos
+
+In order to reach a broad audience, our marketing and design teams will reach out to numerous technical communities, clubs and organizations around the nation to market our workshops. Every month, each manager must designate **two duos** that they feel comfortable with presenting their work to a very large audience. Please note that these duos must be chosen as soon as possible. Our marketing team will prepare marketing materials **custom-made for each workshop** that is chosen, therefore it is vital that each manager picks two duos that they feel **fully confident in showcasing their work to a large audience**, including a huge swath of non-Bit members. 
+
+All other duos will present to Bit members. 
+
 ## General Weekly Responsibilities for Managers
 
 _This checklist will be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week \[x\] of \[y\]: General Manager Responsibilities._

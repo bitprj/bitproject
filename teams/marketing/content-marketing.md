@@ -4,7 +4,7 @@
 
 The Content Marketing team is comprised of content marketers who specialize in different subject areas: Development, Operations, Security, and Customers. This team is responsible for content strategy and new content creation for our content pillars and integrated campaigns. They focus on developing consistent content journey experiences and primarily create resource-driven content such as case studies, eBooks, explainer videos, infographics, reports, whitepapers, and web articles. The goal of the Content Marketing team is to attract interest and position GitLab as a trusted resource through informational and educational content.
 
-Contact the Content Marketing team if you need assistance with:
+Contact the **Content Marketing team** if you need assistance with:
 
 1. Content planning or creation for a campaign
 2. Copywriting for a campaign
@@ -17,7 +17,6 @@ Contact the Content Marketing team if you need assistance with:
 
 | Title | Point of Contact | Responsibility |
 | :--- | :--- | :--- |
-| Assistant Director of Marketing - Content |  | Head of planning and executing all content |
 | Content Marketing Manager  |  | Responsible for Planning and executing Written content for Case Studies and the Blog.  |
 | Social Marketing Manager |  | Responsible for Planning and executing Social Media Campaigns to Increase awareness of Bit Project.  |
 | Virtual Events Manager |  | Responsible for Planning and executing Virtual Events in conjunction with Growth Marketing and DevRel Dept.  |

@@ -24,7 +24,7 @@ There will be two versions of every workshop: slides and labs. The labs are simi
 
 #### Roles
 
-Within each pairing, there will be designated roles for both partners. One person will be the **Development Coordinator**. This person might have more knowledge on the topic, and as such they will be in charge of the main concepts behind the workshop. They will create an overall plan for the curriculum and outline what exactly will be taught in the workshop. The **Workshop Developer** will also help form the workshop plan, but their main role will be executing and building upon the workshop plan. This will include making slides \(and the associated lab\) and expanding on concepts. Both team members will play an equal role in the development of the workshop and will take suggestions from each other to make improvements as necessary. The Development Coordinator should be there to answer content questions the Workshop Developer may have, as well as be available to explain specifics of the workshop outline.
+Each pairing will be composed of two **Workshop Developers.** The two developers should delegate tasks equally, with the assistance of their manager.
 
 ## What are you delivering?
 
@@ -36,7 +36,9 @@ Your presentation slides should be in MDX-Deck format. Documentation can be foun
 
 During the preparation of your slides, you will also work with your partner to create a lab out of your workshop.
 
-At the end of each cycle, you will hold a presentation for your manager and everyone in Bit.
+At the end of each cycle, you will hold a presentation for your manager and everyone in Bit. Presentations will be recorded and put on YouTube.
+
+Every month, each manager will **designate** **two duos** that will have their workshops marketed for technical communities around the nation. These workshops will be presented to a broader audience. 
 
 ## Process
 

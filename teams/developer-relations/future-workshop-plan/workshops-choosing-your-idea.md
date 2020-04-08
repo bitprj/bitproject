@@ -57,6 +57,10 @@ Lastly, for the presentation, speaker notes should be fully fleshed out in MDX-D
 
 ![](../../../.gitbook/assets/workshop-flowchart-page-5.png)
 
+If you are a **designated duo,** please note that in place of the Zoom Presentation, you will conduct a _dry run_ in front of your head and manager. Designated duos will have their workshop **marketed** to numerous technical communities, meet-ups and organizations, and their final presentation will be on a predetermined date after this week. Our design team and marketing team will put great care and time to marketing this workshop!
+
+ Otherwise, you will conduct a normal Zoom presentation, to all members of Bit.
+
 * [ ] Conduct Zoom Presentation
 * [ ] Integrate all Feedback on Slides, Lab and Presentation
 
