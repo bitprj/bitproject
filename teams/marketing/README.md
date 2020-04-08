@@ -4,13 +4,42 @@ description: >-
   out to remote contributors all around the nation and later, the world.
 ---
 
-# Growth Marketing
+# Marketing
 
-## Welcome to the Growth Marketing Team
+### **Marketing Team**
 
 The Marketing Team at Bit Project has two main goals: Growth and Presence. Our team works with various software to manage and develop strong relationships with industry partners and student contributors around the world.
 
 We plan on transforming our marketing plan from a more traditional process to Growth Marketing, so that we can focus on building long-term connections with students, educators, and industry partners from around the world to develop high standard dynamic education.
+
+### **Marketing Philosophy**
+
+* **Transparency**
+
+  We want to be transparent in all of our marketing efforts to build trust and engage with more students.
+
+* **Data-Driven Marketing** At Bit Project, we are committed to making data informed decisions. To that end, we publish our monthly metrics reports in the Documentation
+
+### **Department Organization**
+
+* **Technical Writing** The technical writing team supports the entire organization to edit all written outward facing communications, as well as internal documents.
+* **Design** The design team supports the entire organization integrate custom brand identities into all outward facing communications.
+* **Content Marketing** The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
+* **Field Marketing** \(Fall 2020\) \*\*\*\*The role of field marketing is to support marketing messages at a regional level through in-person interactions \(quality vs. quantity\) coupled with multi-touch activities. Field Marketing programs are focused on relationship building with prospective Bit Project contributors to support and expand opportunities as well as pulling pipeline through the funnel more quickly.
+* **Growth Marketing** As a Growth Marketing Partner\(GMP\), you focus on outreach, prospecting, and lead qualification. To do so, you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal tools and processes. The handbook page will act as a guide to those topics as well as general information about the growth marketing team.
+* _**MarketingOps**_ \(Fall 2020\) Support the marketing team by managing and developing technical workflows around the CRM system.
+
+### **Integrated Marketing Campaigns**
+
+Teams within the Marketing department collaborate to produce Integrated Campaigns. An Integrated Campaign is a communication effort that includes several campaign tactics such as blog posts, emails, events, advertisements, content on [bitproject.org,](https://bitproject.org) videos, case studies, white papers, surveys, social outreach, and webcasts. An Integrated Campaign will have a campaign theme that summarizes the message we are communicating to our market.
+
+
+
+* **Roles and Personas**
+
+\*\*\*\*
+
+
 
 #### Student Organizations:
 
@@ -24,17 +53,7 @@ We connect with Computer Science advisors and educators at various universities 
 
 
 
-## Software:
-
-#### Hubspot
-
-#### GitHub
-
-## Product Marketing & Campaigns
-
-#### What's the Product?
-
-#### What's the Campaign?
+## 
 
 
 
