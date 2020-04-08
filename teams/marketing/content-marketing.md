@@ -84,6 +84,18 @@ In your first month at Bit Project we want to help ensure you have everything yo
 
 {% page-ref page="content-marketing-team/content-marketing-onboarding.md" %}
 
+## Team Structure
+
+### Content Marketing
+
+### Virtual Events
+
+### Social Media
+
+### Design
+
+### 
+
 ## Content Marketing Project Management Guidelines
 
 Content Marketing uses GitHub for agile project management using **issues**. Read through the documentation on each of these GitHub features if you are unfamiliar.

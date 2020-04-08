@@ -63,17 +63,19 @@ We plan on transforming our marketing plan from a more traditional process to Gr
   </tbody>
 </table>## **Department Organization**
 
-### **Content Marketing** 
-
-The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
-
-{% page-ref page="content-marketing/" %}
+### \*\*\*\*
 
 ### **Growth Marketing** 
 
 As a Growth Marketing Partner\(GMP\), you focus on outreach, prospecting, and lead qualification. To do so, you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal tools and processes. The handbook page will act as a guide to those topics as well as general information about the growth marketing team.
 
 {% page-ref page="growth-marketing/" %}
+
+### **Content Marketing** 
+
+The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
+
+
 
 ### _**MarketingOps**_ **\(Fall 2020\)** 
 
