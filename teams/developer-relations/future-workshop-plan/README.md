@@ -2,7 +2,7 @@
 description: How we will create and contribute to new workshops.
 ---
 
-# Future Workshop Plan
+# Introducing Workshops
 
 ## Introduction
 

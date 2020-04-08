@@ -26,7 +26,7 @@
 ## Teams
 
 * [Developer Relations](teams/developer-relations/README.md)
-  * [Future Workshop Plan](teams/developer-relations/future-workshop-plan/README.md)
+  * [Introducing Workshops](teams/developer-relations/future-workshop-plan/README.md)
     * [Brainstorming a Workshop Idea](teams/developer-relations/future-workshop-plan/brainstorming-a-workshop-idea.md)
     * [Code Review Guide](teams/developer-relations/future-workshop-plan/code-review-guide.md)
     * [Managers' Responsibilities](teams/developer-relations/future-workshop-plan/managers-responsibilities/README.md)
