@@ -34,7 +34,7 @@ Once you are on slack, please complete the following tasks:
 
 * Have your school name and team in the description of your profile
 * Add a profile picture 
-* DM Minh-Tu Nguyen to set up a 1:1 Meeting
+* DM your manager to set up a 1:1 Meeting
 * Send an introduction of yourself to the \#newmembers channel
   * Ex: "Hi! My name is Daniel from UC Davis's Bit Project." 
 
@@ -66,7 +66,7 @@ This must be completed within 3 days of granted access.
 
 ### 6. Completing 1:1 With Director of Marketing
 
-Message Minh-Tu again to schedule another but shorter meeting. During this meet-up, you will be given feedback and practice taking notes on GitHub during the meeting. You will also give us feedback on your experience with the onboarding process and how you felt throughout the whole situation.
+Message your manager again to schedule another but shorter meeting. During this meet-up, you will be given feedback and practice taking notes on GitHub during the meeting. You will also give us feedback on your experience with the onboarding process and how you felt throughout the whole situation.
 
 You will then be integrated into the team! You will be introduced to the weekly duties and specified tasks that vary every week. These duties and tasks will require you to become familiar \(and eventually proficient\) in the marketing tools that we use, including but not limited to Hubspot and Airtable.
 
