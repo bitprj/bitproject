@@ -1,5 +1,7 @@
 # GitHub Basics
 
+[https://youtu.be/NNrP1QCF1JE](https://youtu.be/NNrP1QCF1JE)
+
 ## GOAL
 
 Here at Bit Project, we have decided to fully transition our operations to GitHub. We hope to have all of our materials located on a single platform for easy access and efficiency.
