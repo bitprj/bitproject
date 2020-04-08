@@ -26,7 +26,6 @@
 
 ## Teams
 
-* [Design](teams/design.md)
 * [Developer Relations](teams/developer-relations/README.md)
   * [Future Workshop Plan](teams/developer-relations/future-workshop-plan/README.md)
     * [Brainstorming a Workshop Idea](teams/developer-relations/future-workshop-plan/brainstorming-a-workshop-idea.md)
@@ -80,6 +79,10 @@
     * [Creating Marketing Campaigns](teams/marketing/growth-marketing/creating-marketing-campaigns.md)
     * [Roles & Personas](teams/marketing/growth-marketing/roles-and-personas.md)
     * [Airtable & HubSpot](teams/marketing/growth-marketing/airtable-and-hubspot.md)
+  * [Content Marketing](teams/marketing/content-marketing/README.md)
+    * [Content Marketing Onboarding](teams/marketing/content-marketing/content-marketing-onboarding.md)
+    * [Social Media Marketing](teams/marketing/content-marketing/social-media-marketing/README.md)
+      * [Social Media Guidelines](teams/marketing/content-marketing/social-media-marketing/social-media-guidelines.md)
   * [Joining the Team](teams/marketing/joining-the-team.md)
 * [People](teams/people/README.md)
   * [Transitioning to a manager role](teams/people/transitioning-to-a-manager-role.md)

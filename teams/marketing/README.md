@@ -6,7 +6,7 @@ description: >-
 
 # Marketing
 
-### **Marketing Team**
+### Objective
 
 Bit Project provides students around the world a platform on which to contribute to technical education and make it accessible to all. 
 
@@ -22,19 +22,74 @@ We plan on transforming our marketing plan from a more traditional process to Gr
 
 * **Data-Driven Marketing** At Bit Project, we are committed to making data informed decisions. To that end, we publish our monthly metrics reports in the Documentation
 
-## **Department Organization**
+## **Leadership**
 
-* **Technical Writing**  The technical writing team supports the entire organization to edit all written outward facing communications, as well as internal documents.
-* **Design**  The design team supports the entire organization integrate custom brand identities into all outward facing communications.
-* **Content Marketing**  The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
-* **Growth Marketing**  As a Growth Marketing Partner\(GMP\), you focus on outreach, prospecting, and lead qualification. To do so, you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal tools and processes. The handbook page will act as a guide to those topics as well as general information about the growth marketing team.
-* _**MarketingOps**_ \(Fall 2020\)  Support the marketing team by managing and developing technical workflows around the CRM system.
-* **Field Marketing** \(Fall 2020\)  The role of field marketing is to support marketing messages at a regional level through in-person interactions \(quality vs. quantity\) coupled with multi-touch activities. Field Marketing programs are focused on relationship building with prospective Bit Project contributors to support and expand opportunities as well as pulling pipeline through the funnel more quickly.
+| Title | Point of Contact |
+| :--- | :--- |
+| Director of Marketing |  |
+| Assistant Director of Marketing - Growth |  |
+| Assistant Director of Marketing - Content |  |
 
-## **Roles**
+## **Contact Marketing**
 
-**Director  
-Marketing Program Manager \(MPM\)** 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Medium</b>
+      </th>
+      <th style="text-align:left">How to Reach</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Email</td>
+      <td style="text-align:left">marketing@bitproject.org</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Department Slack Channel</td>
+      <td style="text-align:left">
+        <p><code>#marketing</code>
+        </p>
+        <p><code>#marketing-grow</code>
+        </p>
+        <p><code>#marketing-content</code>
+        </p>
+        <p><code>#writing</code>
+        </p>
+        <p><code>#design</code>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>## **Department Organization**
+
+### **Technical Writing** 
+
+The technical writing team supports the entire organization to edit all written outward facing communications, as well as internal documents.
+
+### **Design** 
+
+The design team supports the entire organization integrate custom brand identities into all outward facing communications.
+
+### **Content Marketing** 
+
+The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
+
+{% page-ref page="content-marketing/" %}
+
+### **Growth Marketing** 
+
+As a Growth Marketing Partner\(GMP\), you focus on outreach, prospecting, and lead qualification. To do so, you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal tools and processes. The handbook page will act as a guide to those topics as well as general information about the growth marketing team.
+
+{% page-ref page="growth-marketing/" %}
+
+### _**MarketingOps**_ **\(Fall 2020\)** 
+
+Support the marketing team by managing and developing technical workflows around the CRM system.
+
+### _**Field Marketing**_ \(Fall 2020\) 
+
+The role of field marketing is to support marketing messages at a regional level through in-person interactions \(quality vs. quantity\) coupled with multi-touch activities. Field Marketing programs are focused on relationship building with prospective Bit Project contributors to support and expand opportunities as well as pulling pipeline through the funnel more quickly.
 
 ## Marketing Project Management Guidelines
 
@@ -62,13 +117,15 @@ Every issue should be in one of four statuses. Status labels should be used on a
   * Work that doesn't require review can simply be merged/closed.
 * **Optional**: `scheduled` - work that is complete but should be scheduled for a future date.
   * Scheduled status is optional as not all work will need to be scheduled.
-* `closed` - when work is delivered the issue should be closed. 
+* `closed` - when work is delivered the issue should be closed.
 
-### **Integrated Marketing Campaigns**
+## **Integrated Marketing Campaigns**
 
 Teams within the Marketing department collaborate to produce Integrated Campaigns. An Integrated Campaign is a communication effort that includes several campaign tactics such as blog posts, emails, events, advertisements, content on [bitproject.org,](https://bitproject.org) videos, case studies, white papers, surveys, social outreach, and webcasts. An Integrated Campaign will have a campaign theme that summarizes the message we are communicating to our market.
 
 * **Roles and Personas**
+
+
 
 \*\*\*\*
 

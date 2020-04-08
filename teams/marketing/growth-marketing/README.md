@@ -1,8 +1,10 @@
 # Growth Marketing
 
+## Objective
+
 As a Growth Marketing Partner \(GMP\), you focus on outreach, prospecting, and lead qualification. To do so, you need to have an understanding of not only product and industry knowledge, but also sales soft skills, and internal tools and processes. This handbook page will act as a guide to those topics as well as general information about the GMP team.
 
-**Organizational Structure**
+## **Organization**
 
 | Title | Point of Contact |
 | :--- | :--- |
@@ -10,7 +12,7 @@ As a Growth Marketing Partner \(GMP\), you focus on outreach, prospecting, and l
 | Growth Marketing Manager  |  |
 | Growth Marketing Partner |  |
 
-**How to Reach Growth Marketing**
+## **Reach Growth Marketing**
 
 <table>
   <thead>
@@ -100,9 +102,6 @@ These MQLs will show up in your dashboard on HubSpot. The views, listed below **
 Outbound lead generation is done through prospecting to people who fall into our target audience and could be a great fit for our product. Prospecting is the process of finding and developing new partnerships through searching for potential customers with the end goal of moving these people through the marketing pipeline until they eventually convert into contributors.
 
 You will work closely with other GMPs and your GMM to build a strategy for certain companies, location or personas you as an aligned team want to target. It is crucial that you are very intentional and strategic in your approach and always keep the customer experience in mind. When reaching out, offer value and become a trusted advisor to ensure we always leave a positive impression whether there is current demand or not.
-
-  
-
 
 
 
