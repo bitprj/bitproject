@@ -15,14 +15,15 @@ Contact the Content Marketing team if you need assistance with:
 
 ## **Organization**
 
-| Title | Point of Contact |
-| :--- | :--- |
-| Assistant Director of Marketing - Content |  |
-| Content Marketing Manager  |  |
-| Social Marketing Manager |  |
-| Head of Design | Rochelle Dai |
-| Head of Technical Writing | Vicky Xu |
-| Content Marketing Partner |  |
+| Title | Point of Contact | Responsibility |
+| :--- | :--- | :--- |
+| Assistant Director of Marketing - Content |  | Head of planning and executing all content |
+| Content Marketing Manager  |  | Responsible for Planning and executing Written content for Case Studies and the Blog.  |
+| Social Marketing Manager |  | Responsible for Planning and executing Social Media Campaigns to Increase awareness of Bit Project.  |
+| Virtual Events Manager |  | Responsible for Planning and executing Virtual Events in conjunction with Growth Marketing and DevRel Dept.  |
+| Head of Design | Rochelle Dai | Responsible for Planning and executing Social Media Campaigns to Increase awareness of Bit Project. |
+| Head of Technical Writing | Vicky Xu | Responsible for editing and writing content in labelled `writing` in the marketing repo |
+| Content Marketing Partner |  | Part of the team planning and executing content marketing at Bit Project.  |
 
 ## **Reach Content Marketing**
 
@@ -55,6 +56,8 @@ Contact the Content Marketing team if you need assistance with:
         </p>
         <p><code>#design</code>
         </p>
+        <p><code>#blog</code>
+        </p>
       </td>
     </tr>
   </tbody>
@@ -79,7 +82,7 @@ The Content Marketing team serves to create content for our audience and we serv
 
 In your first month at Bit Project we want to help ensure you have everything you need to be successful in your position! You will go through enablement videos, live sessions and activities covering a wide range of getting started topics.
 
-{% page-ref page="content-marketing-onboarding.md" %}
+{% page-ref page="content-marketing-team/content-marketing-onboarding.md" %}
 
 ## Content Marketing Project Management Guidelines
 

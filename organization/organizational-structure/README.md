@@ -2,7 +2,7 @@
 
 You can see who reports to whom on our organizational chart
 
-
+{% embed url="https://airtable.com/embed/shrToCLHh4bK9PjBv?backgroundColor=blue" caption="Bit Project Org Chart" %}
 
 ## Layers
 

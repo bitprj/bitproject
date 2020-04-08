@@ -63,14 +63,6 @@ We plan on transforming our marketing plan from a more traditional process to Gr
   </tbody>
 </table>## **Department Organization**
 
-### **Technical Writing** 
-
-The technical writing team supports the entire organization to edit all written outward facing communications, as well as internal documents.
-
-### **Design** 
-
-The design team supports the entire organization integrate custom brand identities into all outward facing communications.
-
 ### **Content Marketing** 
 
 The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
@@ -121,11 +113,13 @@ Every issue should be in one of four statuses. Status labels should be used on a
 
 ## **Integrated Marketing Campaigns**
 
+* Integrated Campaign - Organized by marketing programs team, collaborating across marketing teams toward a launch date. It incorporates multiple offers and multiple channels \(see integrated campaigns section below\).
+* Digital Marketing Campaign - Online marketing efforts organized by the digital marketing programs team to drive engagement, conversions, traffic, or revenue
+* Brand Awareness Campaign - Higher-level print and digital marketing efforts organized by the corporate marketing team. These are focused on brand recognition.
+
 Teams within the Marketing department collaborate to produce Integrated Campaigns. An Integrated Campaign is a communication effort that includes several campaign tactics such as blog posts, emails, events, advertisements, content on [bitproject.org,](https://bitproject.org) videos, case studies, white papers, surveys, social outreach, and webcasts. An Integrated Campaign will have a campaign theme that summarizes the message we are communicating to our market.
 
 * **Roles and Personas**
-
-
 
 \*\*\*\*
 
