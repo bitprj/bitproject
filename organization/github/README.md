@@ -2,7 +2,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=NNrP1QCF1JE" caption="Github Webinar by Minh Tu Nguyen, Onboarding Manager, People" %}
 
-## GOAL
+## Goal
 
 Here at Bit Project, we have decided to fully transition our operations to GitHub. We hope to have all of our materials located on a single platform for easy access and efficiency.
 
