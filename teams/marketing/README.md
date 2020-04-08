@@ -54,6 +54,11 @@ We plan on transforming our marketing plan from a more traditional process to Gr
         </p>
         <p><code>#marketing-content</code>
         </p>
+        <p><code>#marketing-events</code>
+        </p>
+        <p><code>#social-media</code>
+        </p>
+        <p>&lt;code&gt;&lt;/code&gt;</p>
         <p><code>#writing</code>
         </p>
         <p><code>#design</code>
@@ -62,8 +67,6 @@ We plan on transforming our marketing plan from a more traditional process to Gr
     </tr>
   </tbody>
 </table>## **Department Organization**
-
-### \*\*\*\*
 
 ### **Growth Marketing** 
 
@@ -75,7 +78,19 @@ As a Growth Marketing Partner\(GMP\), you focus on outreach, prospecting, and le
 
 The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
 
+{% page-ref page="content-marketing-team/" %}
 
+### **Social Media Marketing** 
+
+The social marketing team is responsible for the stewardship of the GitLab brand social channels. They are accountable for the organic editorial calendar and work with team members across the **content marketing**, **Developer Relations**, and **Growth Marketing** teams to orchestrate the social media landscape for **Bit Project**.
+
+{% page-ref page="social-media-marketing/" %}
+
+### Virtual Events Team
+
+As part of the support team behind the Growth Marketing Team, the Virtual Events Marketing Team supports MPMs and GMPs in the Integrated Campaigns to targeted towards certain segments. 
+
+{% page-ref page="virtual-events-team/" %}
 
 ### _**MarketingOps**_ **\(Fall 2020\)** 
 
