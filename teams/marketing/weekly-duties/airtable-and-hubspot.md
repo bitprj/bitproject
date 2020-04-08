@@ -102,7 +102,15 @@ Airtable Link: [https://airtable.com/tblPo65FZeC3q6V9Y/viw1Vij54J9qNEeq6?blocks=
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.36.40-am%20%281%29.png)
 
-#### 4.  Select Send or schedule.
+#### 4.  Edit Settings
+
+Add your own contact info so that you can receive, monitor, and interact with responses. 
+
+![](../../../.gitbook/assets/screenshot-2020-04-08-at-5.50.16-am.png)
+
+
+
+#### Select Send or schedule.
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.37.12-am.png)
 
