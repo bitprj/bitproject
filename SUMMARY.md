@@ -101,6 +101,7 @@
     * [Recruiter](teams/people/roles/recruiter.md)
   * [Joining the Team](teams/people/joining-the-team.md)
   * [Primary Ed](teams/people/recruitment/README.md)
+    * [How to Format Curriculum into Slides](teams/people/recruitment/how-to-format-curriculum-into-slides.md)
     * [How to Be a Volunteer Lead](teams/people/recruitment/how-to-be-a-volunteer-lead.md)
     * [General Event Volunteer Training](teams/people/recruitment/general-event-volunteer-training.md)
 * [Engineering](teams/engineering/README.md)
