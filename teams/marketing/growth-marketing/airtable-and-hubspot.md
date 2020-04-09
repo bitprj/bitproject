@@ -88,7 +88,23 @@ Airtable Link: [https://airtable.com/tblPo65FZeC3q6V9Y/viw1Vij54J9qNEeq6?blocks=
 
 ![](../../../.gitbook/assets/screen-shot-2020-03-25-at-1.25.47-am.png)
 
-### Sending Emails
+### Sending and Tracking Emails
+
+#### 1. Get the HubSpot Sales Chrome Extension
+
+![](../../../.gitbook/assets/screenshot-2020-04-09-at-3.42.53-am.png)
+
+#### 2. Log into the extension with your HubSpot emails
+
+Click on the extension in the toolbar at the top right of the screen and make sure that you're signed in 
+
+![](../../../.gitbook/assets/screenshot-2020-04-09-at-3.56.48-am.png)
+
+#### 3. Go into your mailbox and set up HubSpot Settings
+
+#### 4. Send out individual emails
+
+### Blasting Emails Through HubSpot
 
 #### **1. Click on Marketing \(near top left corner\) and select Emails from the drop down.**
 
