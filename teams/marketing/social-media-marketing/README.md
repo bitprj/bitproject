@@ -2,7 +2,7 @@
 
 ### Objective
 
-The social marketing team is responsible for the stewardship of the GitLab brand social channels. They are accountable for the organic editorial calendar and work with team members across the **content marketing**, **Developer Relations**, and **Growth Marketing** teams to orchestrate the social media landscape for **Bit Project**.
+The social marketing team is responsible for the stewardship of the Bit Project brand social channels. They are accountable for the organic editorial calendar and work with team members across the **content marketing**, **Developer Relations**, and **Growth Marketing** teams to orchestrate the social media landscape for **Bit Project**.
 
 ## **Leadership**
 
@@ -11,7 +11,7 @@ The social marketing team is responsible for the stewardship of the GitLab brand
 | Social Media Manager |  | Responsible for Planning and executing Social Media Campaigns to Increase awareness of Bit Project. |
 | Content Marketing Partner, Social Media |  | Part of the team planning and executing social media marketing at Bit Project. |
 
-## **Contact Marketing**
+## **Contact Social Marketing Team**
 
 | **Medium** | How to Reach |
 | :--- | :--- |
@@ -98,4 +98,6 @@ If you submit original content \(i.e., not originally published somewhere else\)
 * Aim to post one article to Medium every two weeks
 * Cross-post our original thought-leadership posts to Medium, linking back to blog
   * Use the [import tool](https://help.medium.com/hc/en-us/articles/214550207-Import-post); do not copy and paste.
+
+
 

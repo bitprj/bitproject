@@ -20,7 +20,7 @@ We plan on transforming our marketing plan from a more traditional process to Gr
 
   We want to be transparent in all of our marketing efforts to build trust and engage with more students.
 
-* **Data-Driven Marketing** At Bit Project, we are committed to making data informed decisions. To that end, we publish our monthly metrics reports in the Documentation
+* **Data-Driven Marketing**  At Bit Project, we are committed to making data informed decisions. To that end, we publish our monthly metrics reports in the Documentation
 
 ## **Leadership**
 
