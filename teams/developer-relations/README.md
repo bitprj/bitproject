@@ -6,7 +6,9 @@ description: >-
 
 # Developer Relations
 
-## **Roadmap**
+{% embed url="https://youtu.be/wbbbf0JmRQk" %}
+
+\*\*\*\*
 
 ## **Teams**
 
