@@ -4,15 +4,15 @@ Calendly is a platform that allows you to invite others to schedule meeting time
 
 ## Getting Started
 
-### 1. Go to calendly.com and click sign up.
+#### 1. Go to calendly.com and click sign up.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-9.38.05-pm.png)
 
-### 2. Enter your email address.
+#### 2. Enter your email address.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-9.42.46-pm.png)
 
-### 3. After clicking through preferences, you will get to this page.
+#### 3. After clicking through preferences, you will get to this page.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-9.45.00-pm.png)
 
@@ -20,15 +20,15 @@ These 1:1 meetings should be relatively short so I suggest having only 15 or 30 
 
 ## Integrating Zoom into your Meetings
 
-### 1. Click on 15 minute meeting and click on "What event is this?"
+#### 1. Click on 15 minute meeting and click on "What event is this?"
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-9.52.39-pm.png)
 
-### 2. Click on location, then Zoom.
+#### 2. Click on location, then Zoom.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-9.54.32-pm.png)
 
-### 3. Click "Zoom integration page" under location and then click "connect Zoom". 
+#### 3. Click "Zoom integration page" under location and then click "connect Zoom". 
 
 You will be prompted to sign into Zoom.
 
@@ -38,15 +38,15 @@ Zoom is now integrated into your Calendly!
 
 ## How to Schedule a Meeting on Calendly
 
-### 1. When you click on someone's Calendly link, you'll get to this page.
+#### 1. When you click on someone's Calendly link, you'll get to this page.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-10.00.22-pm.png)
 
-### 2. Click on a date and a time on the calendar. Then click confirm.
+#### 2. Click on a date and a time on the calendar. Then click confirm.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-10.00.49-pm.png)
 
-### 3. Fill out your contact information.
+#### 3. Fill out your contact information.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-09-at-10.01.00-pm.png)
 

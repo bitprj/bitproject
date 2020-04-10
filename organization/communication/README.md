@@ -136,7 +136,7 @@ Hey Taco is an application that is integrated with Slack. It is a way to give sh
 6. At the end, people should understand what was discussed and what your next steps are
 7. Schedule another meeting if necessary 
 
-## [Calendly](https://about.bitproject.org/organization/communication/how-to-set-up-and-use-calendly)
+## Calendly
 
 [**Calendly**](https://calendly.com/) **is a simple calendar setting app.** One person makes a list of dates and times they are available, and other people go there and self-select their time. [**Calendly**](https://calendly.com/) **allows us to find the best time for 1:1 meetings. Only supervisors need Calendly and their links will be in their Slack profile.**
 
