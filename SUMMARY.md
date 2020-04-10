@@ -14,6 +14,7 @@
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication/README.md)
   * [How To: Take Meeting Notes](organization/communication/how-to-take-meeting-notes.md)
+  * [How to Set Up and Use Calendly](organization/communication/how-to-set-up-and-use-calendly.md)
 * [GitHub Basics](organization/github/README.md)
   * [How To: Use Issues](organization/github/how-to-use-issues.md)
   * [How To: Make Issues](organization/github/how-to-make-issues.md)
