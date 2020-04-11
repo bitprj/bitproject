@@ -4,7 +4,9 @@ description: A roadmap of how our data science topics interact.
 
 # Data Science Roadmap
 
-## Topical Breakdown
+![](../../../.gitbook/assets/untitled-diagram.png)
+
+## Long-Term Topical Breakdown
 
 * Probability and Statistics
   * Basic Statistical Concepts: Population, Sample, Variance, etc.
@@ -24,7 +26,7 @@ description: A roadmap of how our data science topics interact.
   * Making Visualizations Pretty with Seaborn
 * Machine Learning with Scikit-Learn
   * Review of Prerequisites: Linear Algebra, Gradient Descent, Probability
-    * Supervised Learning
+  * Supervised Learning
     * Linear Regression
     * Multiple Linear Regression
     * Logistic Regression

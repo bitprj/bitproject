@@ -186,7 +186,7 @@ Note that you have to follow the same procedure every time you want to edit the 
 
 Go to the Bit Project Github repository of your choice. Under the _Code_ tab, click on the button called _Branch: master_. A drop-down menu should appear and allow you to type in the search bar.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 **Step 1 \(Cont.\): Creating a Branch**
 
@@ -198,7 +198,7 @@ Select _create branch: FN\_Name\_of\_Activity._
 
 Once you create your branch, you will make all of your changes to the files within this branch.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 #### **Step 2: Using Desktop**
 
@@ -246,7 +246,7 @@ There are two ways to push.
 
 2: Select Repository near the top left of the screen. From the drop-down menu, select _push_. This officially brings the saved changes to the Github repository.
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 #### Now What?
 
@@ -264,7 +264,7 @@ After pushing your edits on GitHub Desktop, return to the GitHub website.
 
 Within the code tab, there should be a notification of your recently pushed branches. Select the green button of _Compare and Pull request_.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 #### **Step 2: Creating the Request**
 
@@ -304,7 +304,7 @@ Then, press on the big green button of _Create pull request_.
 
 After this, you’re done! Your manager will be notified of this request and will review your work before deciding if your edits should be merged into the master branch.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 ## **Markdown & Typora**
 
@@ -342,13 +342,13 @@ In the Preferences window, go to _Integrations_. Then click the dropdown menu fo
 
 Click _Save_.
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 #### **You're All Set!**
 
 Your GitHub Desktop should now be connected to Typora. When you want to edit files, they will now open directly in Typora.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ### **Using Typora with GitHub Desktop**
 
