@@ -37,6 +37,7 @@
     * [Workshops: Choosing Your Idea](teams/developer-relations/future-workshop-plan/workshops-choosing-your-idea.md)
     * [Workshops: Creating Your Own Idea](teams/developer-relations/future-workshop-plan/workshops-creating-your-own-idea.md)
   * [Development Roadmap](teams/developer-relations/development-roadmap/README.md)
+    * [Data Science Roadmap](teams/developer-relations/development-roadmap/data-science-roadmap.md)
     * [Roadmap Topic Breakdown](teams/developer-relations/development-roadmap/roadmap-topic-breakdown.md)
     * [Contributing Towards Our Roadmap](teams/developer-relations/development-roadmap/contributing-towards-our-roadmap.md)
   * [Workshop Proposal Guide](teams/developer-relations/workshop-proposal-guide.md)

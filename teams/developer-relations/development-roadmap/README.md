@@ -14,9 +14,10 @@ Developers at Bit should choose a **category to develop for**, based on their in
 
 | Topic | Manager |
 | :--- | :--- |
-| Back-end Development | Taimur Kashif |
+| Back-end Development | TBA |
 | Cloud/DevOps | Daniel Kim |
 | Front-end Development | Atul Jayaram |
+| Data Science | TBA |
 
 ### **Cloud/DevOps**
 
@@ -35,13 +36,30 @@ This category is being handled by our DevRel manager, Atul Jayaram.
 
 ### Back-end Development
 
-This category is being handled by our DevRel manager, Taimur Kashif.
+This category is being handled by our DevRel manager, TBA.
 
 * SQL/SQLAlchemy
 * Node.js
 * NoSQL/MongoDB
 * GraphQL
 * Python Flask
+
+### Data Science
+
+* Probability and Statistics
+* Introduction to Python
+* Additional Python for Data Science \(NumPy, Pandas\)
+* Machine Learning
+* Computer Vision
+* Data Visualizations
+* Artificial Intelligence
+* Big Data
+* Deep Learning
+* Natural Language Processing
+
+{% page-ref page="data-science-roadmap.md" %}
+
+
 
 For more details on each of those topics, please consult our roadmap topic breakdown.
 
