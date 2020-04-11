@@ -78,7 +78,7 @@ Write out social media post caption for associated project's publication to diff
   <thead>
     <tr>
       <th style="text-align:left">Platform</th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Instructions</th>
     </tr>
   </thead>
   <tbody>
