@@ -79,7 +79,7 @@ As a Growth Marketing Partner\(GMP\), you focus on outreach, prospecting, and le
 
 The Content Marketing team is responsible for content strategy, development, and operations, including the stewardship of Bit Project's audiences, users, contributors, and partners' content needs. The Content Team creates engaging, inspiring, and relevant content, executing integrated content programs to deliver useful and cohesive content experiences that build trust and brand awareness for Bit Project.
 
-{% page-ref page="content-marketing-team/" %}
+{% page-ref page="content-marketing/content-marketing-team.md" %}
 
 ### **Social Media Marketing** 
 
