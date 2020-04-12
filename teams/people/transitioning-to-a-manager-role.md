@@ -56,3 +56,9 @@ Leaders should ensure that new team members read the getting started guide, and 
 
 Take a moment to reflect on where you are in this transition. On a comment to your "Becoming a Bit Project Manager" Github Issue, write your thoughts about the challenges you face, how you plan to overcome them, and what resources you have found helpful so far. The Learning and Development team will review this feedback to personalize your development pathway as a manager at Bit Project. This may include developing custom training modules, pairing you with a mentor, or providing you with opportunities to practice skills.
 
+## **Performance Development Plan** ##
+
+What are my development objectives?  | What specific actions I want my member to take? | Other Important Notes
+---------|---------|---------
+development objectives 1 | action 1 | ...
+development objectives 2 | action 2 | ...
