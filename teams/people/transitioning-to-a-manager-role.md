@@ -58,7 +58,18 @@ Take a moment to reflect on where you are in this transition. On a comment to yo
 
 ## **Performance Development Plan** ##
 
-What are my development objectives?  | What specific actions I want my member to take? | Other Important Notes
----------|---------|---------
-development objectives 1 | action 1 | ...
-development objectives 2 | action 2 | ...
+**My developments objectives**
+* Objective 1
+
+**Actions my member needs to take**
+* Action 1
+
+**Other Important Notes**
+* Note 1
+
+**Deliverables:**
+
+ProjectName  | Assigned To | Review date | Things to Improve on
+------|-------------|----------|------
+Example 1 | @studentusername2 | review date 1 | detailed notes
+Example 1 | @studentusername2 | review date 2 | detailed notes
