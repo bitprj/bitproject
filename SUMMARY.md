@@ -11,6 +11,7 @@
   * [Inclusion & Diversity](organization/values/inclusion-and-diversity/README.md)
     * [Guide to Inclusive Language](organization/values/inclusion-and-diversity/guide-to-inclusive-language.md)
 * [Organizational Structure](organization/organizational-structure/README.md)
+  * [Team Feedback](organization/organizational-structure/team-feedback.md)
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication/README.md)
   * [How To: Take Meeting Notes](organization/communication/how-to-take-meeting-notes.md)
