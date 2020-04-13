@@ -47,7 +47,7 @@ As a team, we are always trying to find new ways to improve Bit Project. We want
 | Positons | Point of Contact |
 | :--- | :--- |
 | Director of People | @Becca Tran  |
-| Learning & Development Manager  | VACANT |
+| Learning & Development Manager  | @Jasmine Cheng |
 | Learning & Development Associate   | VACANT |
 | People Experience Manager  | VACANT  |
 | People Experience Associate  | @Winnie  |
