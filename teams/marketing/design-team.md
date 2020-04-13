@@ -22,7 +22,7 @@ We style and brand formal Bit documents such as Sponsorship Packets, Pitches, Ca
 
 ### Illustrations \(Graphics\)
 
-We create 
+We create graphics that illustrate conceptual ideas for flyers and presentations.
 
 ## Our Workflow
 
