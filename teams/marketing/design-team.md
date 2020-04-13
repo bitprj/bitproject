@@ -26,7 +26,7 @@ We create graphics that illustrate conceptual ideas for flyers and presentations
 
 ## Our Workflow
 
-Our workflow includes meeting with team managers to discuss ideas. We create mockups for projects and present our idea for feedback and revisions.
+Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
 
 ## Tools
 
