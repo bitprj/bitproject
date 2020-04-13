@@ -28,11 +28,13 @@ We create graphics that illustrate conceptual ideas for flyers and presentations
 
 ## Tools
 
-Adobe Illustrator- Digital Illustrations/Graphics, 
+**Adobe Illustrator**- Digital Illustrations/Graphics, Flyers,  
 
-Adobe Photoshop- Photo editing
+**Adobe Photoshop**- Photo editing
 
-Adobe InDesign- Document 
+**Adobe InDesign**- Document Styling
+
+**Google Slides**- Presentation Styling
 
 
 
