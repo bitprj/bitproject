@@ -28,7 +28,7 @@ We create graphics that illustrate conceptual ideas for flyers and presentations
 
 Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
 
-If you would like discuss designs or possible projects, feel free to message us in the **\#design** channel on slack at least one week prior to the deadline. 
+If you would like discuss designs or possible projects, feel free to message us in the **\#design** channel on slack at least one week prior to the deadline. Please have an idea and descriptions/refrences prepared.
 
 ## Tools
 
