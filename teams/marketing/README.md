@@ -48,11 +48,11 @@ We plan on transforming our marketing plan from a more traditional process to Gr
       <td style="text-align:left">marketing@bitproject.org</td>
     </tr>
     <tr>
-      <td style="text-align:left">Department Slack Channel</td>
+      <td style="text-align:left">Department Slack Channels</td>
       <td style="text-align:left">
         <p><code>#marketing</code>
         </p>
-        <p><code>#marketing-grow</code>
+        <p><code>#marketing-growth</code>
         </p>
         <p><code>#marketing-content</code>
         </p>
@@ -83,7 +83,7 @@ The Content Marketing team is responsible for content strategy, development, and
 
 ### **Social Media Marketing** 
 
-The social marketing team is responsible for the stewardship of the GitLab brand social channels. They are accountable for the organic editorial calendar and work with team members across the **content marketing**, **Developer Relations**, and **Growth Marketing** teams to orchestrate the social media landscape for **Bit Project**.
+The social marketing team is responsible for the stewardship of the Bit Project brand social channels. They are accountable for the organic editorial calendar and work with team members across the **content marketing**, **Developer Relations**, and **Growth Marketing** teams to orchestrate the social media landscape for **Bit Project**.
 
 {% page-ref page="social-media-marketing/" %}
 

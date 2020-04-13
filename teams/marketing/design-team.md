@@ -6,7 +6,23 @@ description: >-
 
 # Design Team
 
-## Projects We Work On 
+## Our Workflow
+
+Bit Project Content Creators work with all departments within the organization to design and produce original, high quality content that can be used in for branding and marketing.
+
+### Departments:
+
+#### Marketing:
+
+#### Developer Relations:
+
+#### Primary Education:
+
+### Workflow:
+
+Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
+
+If you would like discuss designs or possible projects, feel free to message us in the **\#design** channel on slack at least one week prior to the deadline. Please have an idea and descriptions/references prepared.Projects We Work On 
 
 ### Flyers
 
@@ -35,12 +51,6 @@ We style and brand formal Bit documents such as Sponsorship Packets, Pitches, Ca
 We create graphics that illustrate conceptual ideas for flyers and presentations.
 
 ![](../../.gitbook/assets/screen-shot-2020-04-12-at-11.27.57-pm.png)
-
-## Our Workflow
-
-Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
-
-If you would like discuss designs or possible projects, feel free to message us in the **\#design** channel on slack at least one week prior to the deadline. Please have an idea and descriptions/refrences prepared.
 
 ## Tools
 

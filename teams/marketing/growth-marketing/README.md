@@ -29,7 +29,7 @@ As a Growth Marketing Partner \(GMP\), you focus on outreach, prospecting, and l
     </tr>
     <tr>
       <td style="text-align:left">Department Slack Channel</td>
-      <td style="text-align:left"><code>#marketing-grow</code>
+      <td style="text-align:left"><code>#marketing-growth</code>
       </td>
     </tr>
     <tr>
