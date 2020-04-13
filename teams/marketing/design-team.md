@@ -24,7 +24,11 @@ We style and brand presentations used for workshops, formal pitches, and primary
 
 ### Document Templates
 
-We style and brand formal Bit documents such as Sponsorship Packets, Pitches, Case Studies, and Blog Posts. We also style and provide input on other outgoing media such as the email newsletter. 
+We style and brand formal Bit documents such as Sponsorship Packets, Pitches, Case Studies, and Blog Posts. We also style and provide input on other outgoing media such as the email newsletter.   
+
+![2020 Sponsorship Document Cover Page](../../.gitbook/assets/sponsorcover-01.png)
+
+![Newsletter designed for Primary Ed](../../.gitbook/assets/newsletter-2pg2-02.png)
 
 ### Illustrations \(Graphics\)
 
@@ -48,15 +52,17 @@ If you would like discuss designs or possible projects, feel free to message us 
 
 **Google Slides**- Presentation Styling
 
+**Google Docs**- Document Styling
+
 ## Important Links
 
 ### Brand Guidelines \(wip\)
 
-### Presentation Templates
+### Presentation Templates \(wip\)
 
-### Graphics Library
+### Graphics Library \(wip\)
 
-### Past Flyers
+### Past Flyers \(wip\)
 
 
 

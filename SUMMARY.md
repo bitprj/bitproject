@@ -89,6 +89,7 @@
     * [Virtual Events Onboarding](teams/marketing/virtual-events-team/virtual-events-onboarding.md)
     * [How to Set Up a Virtual Event](teams/marketing/virtual-events-team/how-to-set-up-a-virtual-event.md)
   * [Content Marketing](teams/marketing/content-marketing/README.md)
+    * [Content Marketing Playbook](teams/marketing/content-marketing/content-marketing-playbook.md)
     * [Content Calendar](teams/marketing/content-marketing/content-marketing-team.md)
   * [Growth Marketing](teams/marketing/growth-marketing/README.md)
     * [Email Marketing](teams/marketing/growth-marketing/email-marketing.md)

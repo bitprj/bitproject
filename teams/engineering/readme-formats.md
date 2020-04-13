@@ -588,13 +588,9 @@ To include the md\_content for the step, give the md\_content with a markdown h2
 ```text
 ## md_content
 ```
-
-## Hello world in js
-
+Hello world in js
 This is how you do it
-
-```text
-
+```
 ```
 
 #### Optional Fields
@@ -606,11 +602,8 @@ To include the code snippet for the step, give the code snippet with a markdown 
 ```text
 ## code_snippet
 ```
-
-def pls\_work\(\): return True... maybe
-
-```text
-
+def pls_work(): return True... maybe
+```
 ```
 
 #### Image
@@ -758,6 +751,17 @@ This field is used to tell where the test case folder is for the checkpoint.
 Topic1/Module7/Activity_13/Tests/test_1
 ```
 
+### 
+
+#### Solution \(This is required for Short Answer Checkpoints\)
+
+This field is used to give a sample answer for a Short Answer Checkpoint
+
+```text
+# solution
+Some Solution
+```
+
 ### Checkpoint Examples
 
 #### Video/Image
@@ -798,6 +802,9 @@ Short Answer
 
 # instruction
 Submit a photo your Minsweeper code working
+
+# solution
+Some solution
 ```
 
 #### Multiple Choice
