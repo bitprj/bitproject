@@ -33,6 +33,7 @@
     * [Brainstorming a Workshop Idea](teams/developer-relations/future-workshop-plan/brainstorming-a-workshop-idea.md)
     * [Code Review Guide](teams/developer-relations/future-workshop-plan/code-review-guide.md)
     * [Managers' Responsibilities](teams/developer-relations/future-workshop-plan/managers-responsibilities/README.md)
+      * [New Managers' Task](teams/developer-relations/future-workshop-plan/managers-responsibilities/new-managers-task.md)
       * [Responsibilities for Choosing Your Idea](teams/developer-relations/future-workshop-plan/managers-responsibilities/responsibilities-for-choosing-your-idea.md)
       * [Responsibilities for Creating Your Idea](teams/developer-relations/future-workshop-plan/managers-responsibilities/responsibilities-for-creating-your-idea.md)
     * [Slide Reviews for Managers](teams/developer-relations/future-workshop-plan/slide-reviews-for-managers.md)

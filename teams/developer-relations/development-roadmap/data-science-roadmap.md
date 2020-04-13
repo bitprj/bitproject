@@ -4,9 +4,13 @@ description: A roadmap of how our data science topics interact.
 
 # Data Science Roadmap
 
-![](../../../.gitbook/assets/untitled-diagram.png)
+## Our Current Focus
+
+![](../../../.gitbook/assets/untitled-diagram-1.png)
 
 ## Long-Term Topical Breakdown
+
+![](../../../.gitbook/assets/data-science-roadmap.png)
 
 * Probability and Statistics
   * Basic Statistical Concepts: Population, Sample, Variance, etc.
@@ -93,6 +97,4 @@ description: A roadmap of how our data science topics interact.
   * Sequence Processing with Neural Networks
   * Context-Free Syntax
   * Context-Free Parsing Algos
-
-![](../../../.gitbook/assets/data-science-roadmap.png)
 
