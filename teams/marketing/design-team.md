@@ -28,15 +28,27 @@ We create graphics that illustrate conceptual ideas for flyers and presentations
 
 Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
 
+If you would like discuss designs or possible projects, feel free to message us in the **\#design** channel on slack. 
+
 ## Tools
 
-**Adobe Illustrator**- Digital Illustrations/Graphics, Flyers,  
+**Adobe Illustrator**- Digital Illustrations/Graphics, Flyers
 
 **Adobe Photoshop**- Photo editing
 
 **Adobe InDesign**- Document Styling
 
 **Google Slides**- Presentation Styling
+
+## Important Links
+
+### Brand Guidelines \(wip\)
+
+### Presentation Templates
+
+### Graphics Library
+
+### Past Flyers
 
 
 
