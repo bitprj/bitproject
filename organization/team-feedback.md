@@ -208,7 +208,5 @@ Always remember to document this on GitHub!
 
 We are here to help assist you and help you give feedback. So feel free to ask us any questions! ****Also our People Experience Associate will routinely visit each team, find solutions to smoothen any issues that may arise, and take down any of your feedback.
 
-People Team will work with teams to help improve the workflow. We will be involved in your meetings on the side to assess how to help the team as a whole. This allows us to be a third party. 
-
-##   
+People Team will work with teams to help improve the workflow. We will be involved in your meetings on the side to assess how to help the team as a whole. This allows us to be a third party.
 
