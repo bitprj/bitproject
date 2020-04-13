@@ -10,15 +10,21 @@ description: >-
 
 ### Flyers
 
-We design event flyers, advertisements, recruitment flyers, and other outreach endeavors. 
+We design event flyers, advertisements, recruitment flyers, and other outreach endeavors.  
+
+![Flyer used for Marketing Team Recruitment](../../.gitbook/assets/growthmarketingflyer_4.5-02.png)
 
 ### Presentations 
 
-We style and brand presentations used for workshops, formal pitches, and primary education events. 
+We style and brand presentations used for workshops, formal pitches, and primary education events.   
+
+![Formal Presentation Title Slide](../../.gitbook/assets/coverupdated.jpg)
+
+![Primary Education Title Slide](../../.gitbook/assets/after-cover.jpg)
 
 ### Document Templates
 
-We style and brand formal Bit documents such as Sponsorship Packets, Pitches, Case Studies, and Blog Posts. We also style and provide input on other outgoing media such as the email newsletter.
+We style and brand formal Bit documents such as Sponsorship Packets, Pitches, Case Studies, and Blog Posts. We also style and provide input on other outgoing media such as the email newsletter. 
 
 ### Illustrations \(Graphics\)
 
