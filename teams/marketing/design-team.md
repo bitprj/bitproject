@@ -30,6 +30,8 @@ We style and brand formal Bit documents such as Sponsorship Packets, Pitches, Ca
 
 We create graphics that illustrate conceptual ideas for flyers and presentations.
 
+![](../../.gitbook/assets/screen-shot-2020-04-12-at-11.27.57-pm.png)
+
 ## Our Workflow
 
 Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
