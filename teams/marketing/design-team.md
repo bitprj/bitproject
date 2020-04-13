@@ -26,6 +26,8 @@ We create graphics that illustrate conceptual ideas for flyers and presentations
 
 ## Our Workflow
 
+Our workflow includes meeting with team managers to discuss ideas. We create mockups for projects and present our idea for feedback and revisions.
+
 ## Tools
 
 **Adobe Illustrator**- Digital Illustrations/Graphics, Flyers,  
