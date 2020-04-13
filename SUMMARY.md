@@ -13,6 +13,7 @@
 * [Organizational Structure](organization/organizational-structure/README.md)
   * [Team Feedback](organization/organizational-structure/team-feedback.md)
   * [Directory](organization/organizational-structure/untitled.md)
+* [Team Feedback](organization/team-feedback.md)
 * [Communication](organization/communication/README.md)
   * [How To: Take Meeting Notes](organization/communication/how-to-take-meeting-notes.md)
   * [How to Set Up and Use Calendly](organization/communication/how-to-set-up-and-use-calendly.md)
