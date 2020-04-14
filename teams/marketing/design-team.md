@@ -10,7 +10,7 @@ description: >-
 
 Bit Project Content Creators work with all departments within the organization to design and produce original, high quality content that can be used in for branding and marketing.
 
-### Departments:
+## Departments:
 
 #### Marketing
 
