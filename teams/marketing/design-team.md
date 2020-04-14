@@ -19,8 +19,9 @@ The Marketing team is in charge of advertising and outreach for Bit Project. We 
 #### Developer Relations
 
 **Presentation Slides**  
-The Dev Rel team hosts interactive code workshops/bootcamps targeted towards college students with no background in CS. We aim to create concise, clear, and   
-Event/Recruitment Flyers, Workshop Presentation Slides, Conceptual Info-graphics, Logos
+The Dev Rel team hosts interactive code workshops/bootcamps targeted towards college students with no background in CS. We aim to create concise, clear, and engaging presentation slides. We aim to graphically convey complex CS concepts and avoid long, wordy, technical text.  
+  
+
 
 #### Primary Education
 
