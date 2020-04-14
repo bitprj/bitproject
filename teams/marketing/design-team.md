@@ -19,7 +19,7 @@ The Marketing team is in charge of advertising and outreach for Bit Project. We 
 #### Developer Relations
 
 **Presentation Slides**  
-The Dev Rel team hosts interactive code workshops/bootcamps targeted towards college students with no   
+The Dev Rel team hosts interactive code workshops/bootcamps targeted towards college students with no background in CS. We aim to create concise, clear, and   
 Event/Recruitment Flyers, Workshop Presentation Slides, Conceptual Info-graphics, Logos
 
 #### Primary Education
@@ -30,8 +30,8 @@ Primary Ed uses presentation slides to host hands-on learning activities for ele
 **Email Newsletter**   
 A weekly email newsletter containing is sent out to parents of elementary students. The newsletter contains latest updates about Bit Project, as well as a weekly learning activity parents and kids can do. We designed the Newsletter activity to have two parts: 1. a section for parents that describes learning objectives, 2. a section for kids, which includes activity instructions, fill in the blank questions, and small, easy-to-read paragraphs of core concepts.  
   
-Social Media  
-We plan on targeting both parents and kids using Facebook and Twitter.   
+**Social Media**  
+We plan on targeting both parents and kids using Facebook and Twitter. We translate the newsletter activity into step-by-step graphics that are posted on social media.   
   
  
 
