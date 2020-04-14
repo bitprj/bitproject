@@ -19,7 +19,7 @@ Event/Recruitment Flyers, Presentation Slides for meetings, Document Styling for
 #### Developer Relations
 
 **Presentation Slides**  
-The Dev Rel team hosts interactive   
+The Dev Rel team hosts interactive code workshops/bootcamps targeted towards college students with no   
 Event/Recruitment Flyers, Workshop Presentation Slides, Conceptual Info-graphics, Logos
 
 #### Primary Education
