@@ -18,7 +18,7 @@ Bit Project Content Creators work with all departments within the organization t
 
 #### Primary Education:
 
-We create presentations, illustrations, and newsletters.
+We create presentations, newsletters, and illustrations.
 
 ### Workflow:
 
