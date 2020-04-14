@@ -22,7 +22,16 @@ Event/Recruitment Flyers, Workshop Presentation Slides, Conceptual Info-graphics
 
 #### Primary Education
 
-Workshop Presentation Slides, Email/Newsletter template, Social Media Graphics/Content
+**Presentation Slides**  
+Primary Ed uses presentation slides to host hands-on learning activities for elementary students. Since elementary kids are less likely to read the slides, we focus on illustrating a multitude of graphics to communicate key concepts and engage the young audience. The text on the presentation slides are kept to a minimum and questions directed towards the audience such as "What did you observe?" are highlighted to help kids follow along in the activity.   
+  
+**Email Newsletter**   
+A weekly email newsletter containing is sent out to parents of elementary students. The newsletter contains latest updates about Bit Project, as well as a weekly learning activity parents and kids can do. We designed the Newsletter activity to have two parts: 1. a section for parents that describes learning objectives, 2. a section for kids, which includes activity instructions, fill in the blank questions, and small, easy-to-read paragraphs of core concepts.  
+  
+Social Media  
+We plan on targeting both parents and kids using Facebook and Twitter.   
+  
+ 
 
 ### Workflow:
 
