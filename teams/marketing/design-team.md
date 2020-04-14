@@ -14,7 +14,7 @@ Bit Project Content Creators work with all departments within the organization t
 
 #### Marketing
 
-Event/Recruitment Flyers, Presentation Slides for meetings, Document Styling for formal pitches, Merchandise designs, Logos
+The Marketing team is in charge of advertising and outreach for Bit Project. We are involved in the marketing strategy, and create and style the outgoing content which includes event/recruitment flyers, presentation slides for meetings, document styling for formal pitches, merchandise designs, and logos.
 
 #### Developer Relations
 
@@ -25,13 +25,15 @@ Event/Recruitment Flyers, Workshop Presentation Slides, Conceptual Info-graphics
 #### Primary Education
 
 **Presentation Slides**  
-Primary Ed uses presentation slides to host hands-on learning activities for elementary students. Since elementary kids are less likely to read the slides, we focus on illustrating a multitude of graphics to communicate key concepts and engage the young audience. The text on the presentation slides are kept to a minimum and questions directed towards the audience such as "What did you observe?" are highlighted to help kids follow along in the activity.   
+Primary Ed uses presentation slides to host hands-on learning activities for elementary students. Since elementary students are less likely to read the slides, we focus on illustrating a multitude of graphics to communicate key concepts and engage the young audience. The text on the presentation slides are kept to a minimum and questions directed towards the audience such as "What did you observe?" are highlighted to help kids follow along in the activity.   
   
 **Email Newsletter**   
 A weekly email newsletter containing is sent out to parents of elementary students. The newsletter contains latest updates about Bit Project, as well as a weekly learning activity parents and kids can do. We designed the Newsletter activity to have two parts: 1. a section for parents that describes learning objectives, 2. a section for kids, which includes activity instructions, fill in the blank questions, and small, easy-to-read paragraphs of core concepts.  
   
-**Social Media**  
-We plan on targeting both parents and kids using Facebook and Twitter. We translate the newsletter activity into step-by-step graphics that users can users can follow along with. 
+Social Media  
+We plan on targeting both parents and kids using Facebook and Twitter.   
+  
+ 
 
 ### Workflow:
 
