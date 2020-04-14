@@ -12,19 +12,25 @@ Bit Project Content Creators work with all departments within the organization t
 
 ### Departments:
 
-#### Marketing:
+#### Marketing
 
-#### Developer Relations:
+Event/Recruitment Flyers, Presentation Slides for meetings, Document Styling for formal pitches, Merchandise designs, Logos
 
-#### Primary Education:
+#### Developer Relations
 
-We create presentations, newsletters, and illustrations.
+Event/Recruitment Flyers, Workshop Presentation Slides, Conceptual Info-graphics, Logos
+
+#### Primary Education
+
+Workshop Presentation Slides, Email/Newsletter template, Social Media Graphics/Content
 
 ### Workflow:
 
 Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
 
-If you would like discuss designs or possible projects, feel free to message us in the **\#design** channel on slack at least one week prior to the deadline. Please have an idea and descriptions/references prepared.Projects We Work On 
+If you would like discuss designs or possible projects, feel free to message us in the **\#design** channel on slack at least one week prior to the deadline. Please have an idea and descriptions/references prepared.
+
+## Projects We Work On 
 
 ### Flyers
 
