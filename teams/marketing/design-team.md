@@ -18,6 +18,8 @@ Bit Project Content Creators work with all departments within the organization t
 
 #### Primary Education:
 
+We create presentations, illustrations, and newsletters.
+
 ### Workflow:
 
 Our workflow includes receiving project assignments from other teams and meeting with team managers to discuss ideas. We create mockups for projects and present our ideas for feedback and revisions.
