@@ -21,7 +21,9 @@ The Marketing team is in charge of advertising and outreach for Bit Project. We 
 **Presentation Slides**  
 The Dev Rel team hosts interactive code workshops/bootcamps targeted towards college students with no background in CS. We aim to create concise, clear, and engaging presentation slides. We aim to graphically convey complex CS concepts and avoid long, wordy, technical text.  
   
-
+**Event and Recruitment Flyers**  
+Dev Rel events are targeted towards students with little or no background knowledge in CS. We use graphics to describe the concept behind CS topics. For example, APIs are depicted as a conversation. Photos of people interacting with each other from past workshops are also used in flyers.   
+Dev Rel recruitment flyers are targeted towards computer
 
 #### Primary Education
 
