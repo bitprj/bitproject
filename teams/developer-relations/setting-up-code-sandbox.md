@@ -18,6 +18,10 @@ While your sandbox is loading, fork your sandbox on the top-right corner. You ha
 
 **Please keep track of this URL.** You can refer back to this URL to view your presentation files and see how your actual presentation changes in response to your changes, all in one place! **You will use this URL in every pull request**, allowing for your head to make quicker quality assurance reviews.
 
+#### Quality Assurance
+
+When you are reviewing your developers' work to meet the Friday/Sunday deadlines, you should go through the presentation on Code Sandbox, and leave PR review comments via 
+
 ## For Developers
 
 _Note that because Code Sandbox supports collaborative coding a la Google Drive, one or both developers can work on the following steps, depending on whether you and your partner wish to work in the same sandbox or not. Working separately will also mean you will be working in separate GitHub branches._
