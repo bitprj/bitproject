@@ -10,6 +10,8 @@ Roles are distinct job titles. These are the real people you will encounter whil
 
 Personas are tools that we use to represent target audiences in order to define not only our messaging and marketing delivery, but also our product. Keeping personas in mind allows us to use the correct language and make the best decisions to address their specific problems and pain points. Personas are developed through a process of: creation, research, and review.
 
+_Guide to personas:_ [_https://uxplanet.org/how-to-create-personas-step-by-step-guide-303d7b0d81b4_](https://uxplanet.org/how-to-create-personas-step-by-step-guide-303d7b0d81b4)\_\_
+
 ### 1. Create your persona
 
 First, you need to determine the target audience for the product. In our case, open source education can be valuable to an unlimited set of audiences. The personas will represent various demographics of people such as students, professors, advisors, professionals in the technical industry, and more.
@@ -31,7 +33,7 @@ The best resource for conducting research are the people who best meet the crite
 
 #### Interview:
 
-How to do an interview: [https://uxplanet.org/secrets-of-perfect-user-interview-by-talebook-ee61a7e155c7](https://uxplanet.org/secrets-of-perfect-user-interview-by-talebook-ee61a7e155c7)
+_How to do an interview:_ [_https://uxplanet.org/secrets-of-perfect-user-interview-by-talebook-ee61a7e155c7_](https://uxplanet.org/secrets-of-perfect-user-interview-by-talebook-ee61a7e155c7)\_\_
 
 ### 3. Review and refine your persona
 
@@ -39,7 +41,7 @@ How to do an interview: [https://uxplanet.org/secrets-of-perfect-user-interview-
 
 ## Understanding Pain Points
 
-From: [https://blog.hubspot.com/sales/uncover-business-pain](https://blog.hubspot.com/sales/uncover-business-pain)
+_From:_ [_https://blog.hubspot.com/sales/uncover-business-pain_](https://blog.hubspot.com/sales/uncover-business-pain)\_\_
 
 ### 8 Questions That Can Identify a Customer's Pain Points
 
