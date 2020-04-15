@@ -21,19 +21,19 @@ The Marketing team is in charge of advertising and outreach for Bit Project. We 
 _**Presentation Slides**_  
 ****The Dev Rel team hosts interactive code workshops/bootcamps targeted towards college students with no background in CS. We aim to create concise, clear, and engaging presentation slides. We aim to graphically convey complex CS concepts and avoid long, wordy, technical text.  
   
-**Event and Recruitment Flyers**  
+_**Event and Recruitment Flyers**_  
 Dev Rel events are targeted towards students with little or no background knowledge in CS. We use graphics to describe the concept behind CS topics. For example, APIs are depicted as a conversation. Photos of people interacting with each other from past workshops are also used in flyers.   
 Dev Rel recruitment flyers are targeted towards computer
 
 #### Primary Education
 
-**Presentation Slides**  
+_**Presentation Slides**_  
 Primary Ed uses presentation slides to host hands-on learning activities for elementary students. Since elementary students are less likely to read the slides, we focus on illustrating a multitude of graphics to communicate key concepts and engage the young audience. The text on the presentation slides are kept to a minimum and questions directed towards the audience such as "What did you observe?" are highlighted to help kids follow along in the activity.   
   
-**Email Newsletter**   
+_**Email Newsletter**_ ****  
 A weekly email newsletter containing is sent out to parents of elementary students. The newsletter contains latest updates about Bit Project, as well as a weekly learning activity parents and kids can do. We designed the Newsletter activity to have two parts: 1. a section for parents that describes learning objectives, 2. a section for kids, which includes activity instructions, fill in the blank questions, and small, easy-to-read paragraphs of core concepts.  
   
-**Social Media**  
+_**Social Media**_  
 We plan on targeting both parents and kids using Facebook and Twitter. We translate the newsletter activity into step-by-step graphics that are posted on social media.   
   
  
