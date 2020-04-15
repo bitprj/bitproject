@@ -43,6 +43,7 @@
     * [Data Science Roadmap](teams/developer-relations/development-roadmap/data-science-roadmap.md)
     * [Roadmap Topic Breakdown](teams/developer-relations/development-roadmap/roadmap-topic-breakdown.md)
     * [Contributing Towards Our Roadmap](teams/developer-relations/development-roadmap/contributing-towards-our-roadmap.md)
+  * [Setting up Code Sandbox](teams/developer-relations/setting-up-code-sandbox.md)
   * [Workshop Proposal Guide](teams/developer-relations/workshop-proposal-guide.md)
   * [Guide to Development](teams/developer-relations/guide-to-development/README.md)
     * [Writing Style](teams/developer-relations/guide-to-development/writing-style.md)
