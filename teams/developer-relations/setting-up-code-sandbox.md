@@ -58,7 +58,38 @@ While your sandbox is loading, fork your sandbox on the top-right corner. You ha
 
 ## General Tips
 
-### Communication using Code Sandbox
+### Using Other Languages
+
+If you want to use a non-JavaScript language in your presentation, you can use any of these languages: [https://prismjs.com/\#supported-languages](https://prismjs.com/#supported-languages). You **must include the following code statement on the top of your code:**
+
+```text
+import "prismjs/components/prism-<insert_language_here>";
+```
+
+&lt;insert\_language\_here&gt; would reference the language alias found at the prism.js link above. 
+
+For example, if I wanted to import Python, I would paste the following statement on the top of my mdx file:
+
+```text
+import "prismjs/components/prism-python";
+```
+
+Additional details can be found [here](https://github.com/pomber/code-surfer#languages).
+
+Now to integrate a Python code block, I can start a Markdown code block and specify the Python language:
+
+```text
+---
+```python
+def hello():  
+    print("Hello")
+```
+---
+```
+
+The above code would make an entire slide with that Python code block in the middle.
+
+### Communication Using Code Sandbox
 
 As a manager or developer, you would like to be on the same page regarding everything related to your workshop. If there are any questions or concerns about others' work, you should proactively look at their sandbox and see what they have developed. Code Sandbox is a _collaborative platform,_ and questions can be easily ironed out via a Zoom call and working together on a common Sandbox. 
 
