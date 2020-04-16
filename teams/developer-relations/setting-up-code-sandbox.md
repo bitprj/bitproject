@@ -28,6 +28,14 @@ While your sandbox is loading, fork your sandbox on the top-right corner. You ha
 
 **Please also keep track of this live sandbox URL.** You can refer back to this URL to view your presentation files and see how your actual presentation changes in response to your changes, all in one place! **You can always come back to this URL when making edits to your branch.**
 
+### **Editing Files**
+
+You can find our MDX-Deck documentation on our repository. Here are a couple general guidelines you must follow:
+
+* Your presentation will be one .mdx file. **Every .mdx file has to be within the `decks` folder, with a .mdx extension.**
+* If you want to reference a code snippet, that snippet should go in the `decks/src` folder.
+* If you want to use images, they go in the `assets` folder.
+
 #### Quality Assurance
 
 When you are reviewing your developers' work to meet the Friday/Sunday deadlines, you should go through the presentation on Code Sandbox, and leave PR review comments on the appropriate lines of code via GitHub. 
@@ -55,6 +63,14 @@ While your sandbox is loading, fork your sandbox on the top-right corner. You ha
 ![The top indicates we are now in a live sandbox!](../../.gitbook/assets/screenshot-from-2020-04-15-17-04-18%20%281%29.png)
 
 **Please also keep track of this live sandbox URL.** You can refer back to this URL to view your presentation files and see how your actual presentation changes in response to your changes, all in one place! **You can always come back to this URL when making edits to your branch.**
+
+### **Editing Files**
+
+You can find our MDX-Deck documentation on our repository. Here are a couple general guidelines you must follow:
+
+* Your presentation will be one .mdx file. **Every .mdx file has to be within the `decks` folder, with a .mdx extension.**
+* If you want to reference a code snippet, that snippet should go in the `decks/src` folder.
+* If you want to use images, they go in the `assets` folder.
 
 ## General Tips
 
