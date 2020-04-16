@@ -4,15 +4,17 @@
 
 #### Naming Convention
 
-The name of the topic folder must include the word "Topic" in it. This so that the parser knows that this folder is a Topic.
+In the root of the GitHub repo, make a folder with the name of a Topic. 
 
-**ex:** _Data-Structure-and-Algorithm-Topic_
+**ex:** Javascript
 
 Each folder in the root of the Github repo is going to be a Topic folder which has the following sub folders/files:
 
 * [README.md](http://readme.md) - describes the the Topic
+* modules - a folder that contains Module readmes
+* activities - a folder that contains folders of activities
+* projects - a folder that contains folders of projects
 * images - a folder used to keep track of the images used for the [README.md](http://readme.md)
-* module folders - module folders that belong to a Topic
 * concepts - a concepts folder to hold all the concepts used in a topic
 
 **Note: Name the images folder "images" and the concepts folder "concepts"**
@@ -22,51 +24,48 @@ Each folder in the root of the Github repo is going to be a Topic folder which h
 ```text
 - Data-Structure-and-Algorithm-Topic
  - README.md
+ - modules
+ - activities
+ - projects
  - images
  - concepts
- - Module1-Intro-to-Data-Structures
- - Module2-Intermediate-Data-Structures
 ```
 
 ### Modules
 
 #### Naming convention
 
-The name of the module folder must include the word "Module" in it. This so that the parser knows that this folder is a Module.
+Each module would be represented as a markdown file.
 
-**ex:** _Module1-Intro-to-Data-Structures_
+**ex:** OOP.md
 
 Each module folder would be inside of a topic folder. Module folders can be placed in many topic folders. Each module folder will have the following sub folders/files:
 
-* [README.md](http://readme.md) - describes the Module
-* images - a folder used to keep track the images used in the module README.md
-* Activities and Labs folders - Activity and lab folders that belong to a module
+* markdown files - markdown files to create/update modules
+* images - a folder used to keep track the images used in the module markdown files
 
 **Note: Name the images folder "images"**
 
 #### Example of a Module folder structure
 
 ```text
-- Module1-Intro-to-Data-Structures
- - README.md
+- Modules
  - images
- - Activity1-TimeAndSpaceComplexity
- - Activity2-HashTables
- - Activity3-Queues
- - Activity4-Stacks
+ - OOP.md
+ - ES6-Syntax.md
 ```
 
 ### Activities and Labs
 
 #### Naming conventions
 
-The name of each Activity must contain the word "Activity" in it and the name of each Lab must contain the word "Lab" in it.
+The name of each Activity must be placed in an Activities folder and each Project must be placed in a folder called Projects
 
-**ex:** _Activity1-TimeAndSpaceComplexity, Lab5-nColorable_
+**ex:** Minesweeper, Time Complexity
 
-Each Activity/Lab would be inside of a module folder and would have the following sub folders/files:
+Each Activity/Project would have the following folders:
 
-* [README.md](http://readme.md) - describe the Activity/Lab
+* [README.md](http://readme.md) - describe the Activity/Project
 * images - folder to keep track of the images used in the [README.md](http://README.md)
 * cards folder - keep track of the cards associated with the Activity/Lab
 * checkpoints - folder to keep track of the checkpoints in the Activity/Lab
@@ -78,11 +77,11 @@ Each Activity/Lab would be inside of a module folder and would have the followin
 #### Example of Activity/Lab folder structure
 
 ```text
-- Activity1-TimeAndSpaceComplexity
+- TimeAndSpaceComplexity
  - README.md
  - cards
   - 1.md
-    - 2.md
+  - 2.md
  - images
   - image.png
  - checkpoints

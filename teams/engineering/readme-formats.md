@@ -4,15 +4,6 @@
 
 ### Topic README Format
 
-#### Github id \(This is required\)
-
-Each topic needs a github\_id so that the server knows it is unique. The word "github\_id" should be in a markdown h1 tag like below:
-
-```text
-# github_id
-1
-```
-
 #### Name \(This is required\)
 
 Each Topic needs a name field. The word "name" should be in markdown h1 tag like below:
@@ -46,24 +37,21 @@ Each Topic needs to point to an image folder where the image is being used. The 
 
 ```text
 # image_folder
-Topic_Postman/
+Javascript/images
 ```
 
 #### Modules \(This is not required\)
 
-Each Topic has modules. To add modules to a topic, add the module's github\_ids in a list. Add the word "modules" in a markdown h1 tag and then add the github\_ids in a list with \*'s:
+Each Topic has modules. To add modules to a topic, add the module's absolute path in a \*. You can add more modules by adding more \*'s.
 
 ```text
 # modules
-* 5
+* Javascript/Modules/OOP.md
 ```
 
 #### Topic README Example
 
 ```text
-# github_id
-1
-
 # name
 Postman Topic
 
@@ -74,22 +62,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="images/dee.jpg">
 
 # image_folder
-Topic_Postman/
+Javascript/images
 
 # modules
-* 5
+* Javascript/Modules/OOP.md
 ```
 
 ### Module README Format
-
-#### Github id \(This is required\)
-
-Each module needs a github\_id so that the server knows it is unique. The word "github\_id" should be in a markdown h1 tag like below:
-
-```text
-# github_id
-1
-```
 
 #### Name \(This is required\)
 
@@ -135,15 +114,12 @@ Each Module needs to point to an image folder where the image is being used. The
 
 ```text
 # image_folder
-Topic_1/Module2_test/
+Javascript/Modules/images
 ```
 
 #### Final Example
 
 ```text
-# github_id
-1
-
 # name
 Some Module 2
 
@@ -151,25 +127,16 @@ Some Module 2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum  
 
 # gems_needed
-    0
+0
 
 # image
 <img src="images/dee.jpg">
 
 # image_folder
-Topic_1/Module2_test/
+Javascript/Modules/images
 ```
 
 ### Activity/Lab README Format
-
-#### Github id \(This is required\)
-
-Each activity needs a github\_id so that the server knows it is unique. The word "github\_id" should be in a markdown h1 tag like below:
-
-```text
-# github_id
-1
-```
 
 #### Name \(This is required\)
 
@@ -177,7 +144,7 @@ Each Activity/Lab needs a name field. The word "name" should be in markdown h1 t
 
 ```text
 # name
-Some Activity
+Minesweeper
 ```
 
 #### Description \(This is required\)
@@ -228,7 +195,7 @@ Each Activity needs to point to an image folder where the image is being used. T
 
 ```text
 # image_folder
-Topic1/Module2_test/Activity_4/
+Javascript/Activities/Minesweeper/images
 ```
 
 #### Cards
@@ -380,9 +347,6 @@ Bleh Card 131 Github
 #### Final Example
 
 ```text
-# github_id
-19
-
 # name
 Some Activity
 
@@ -399,7 +363,7 @@ Hard
 <img src="images/bandanna.jpg">
 
 # image_folder
-Topic1/Module2_test/Activity_4/
+Javascript/Activities/Minesweeper/images
 
 # cards
 
@@ -434,7 +398,7 @@ Each Hint \(easy or medium card\) needs to point to an image folder where the im
 
 ```text
 # image_folder
-Topic1/Module2_test/Activity_7/cards
+Javascript/Activities/Minesweeper/cards/images
 ```
 
 #### Start of the Steps
@@ -460,11 +424,8 @@ Under the hint name, you have to give the step a name with a markdown h2 tag. **
 ```text
 ### name
 ```
-
 How to install VSCode
-
-```text
-
+```
 ```
 
 #### Md\_content \(This is required\)
@@ -474,13 +435,9 @@ To include the md\_content for the step, give the md\_content with a markdown h2
 ```text
 ### md_content
 ```
-
-### Hello world in js
-
+# Hello world in js
 This is how you do it
-
-```text
-
+```
 ```
 
 #### Optional Fields
@@ -491,12 +448,10 @@ To include the code snippet for the step, give the code snippet with a markdown 
 
 ```text
 ### code_snippet
+```python
+def pls_work(): 
+return True
 ```
-
-def pls\_work\(\): return True... maybe
-
-```text
-
 ```
 
 #### Image
@@ -514,7 +469,7 @@ Note: You can always add more steps as long as you follow the above syntax.
 
 ```text
 # image_folder
-Topic1/Module2_test/Activity_7/cards
+Javascript/Activities/Minesweeper/cards/images
 
 # steps
 
@@ -556,7 +511,7 @@ Each Concept needs to point to an image folder where the image is being used. Th
 
 ```text
 # image_folder
-Topic1/Module2_test/concepts/
+Javascript/concepts/images
 ```
 
 #### Step Key \(This is required\)
@@ -574,11 +529,8 @@ Under the hint name, you have to give the step a name with a markdown h2 tag. **
 ```text
 ## name
 ```
-
 How to install VSCode
-
-```text
-
+```
 ```
 
 #### Md\_content \(You need to include this for each step\)
@@ -601,8 +553,9 @@ To include the code snippet for the step, give the code snippet with a markdown 
 
 ```text
 ## code_snippet
-```
-def pls_work(): return True... maybe
+```python
+def pls_work(): 
+  return True
 ```
 ```
 
@@ -624,28 +577,27 @@ Note: You can always add more steps as long as you follow the above syntax.
 Concept name
 
 # image_folder
-Topic1/Module2_test/concepts/
+Javascript/concepts/images
 
 # 1-2-1 Step 1
 
 ## name
 ```
-
 How to install VSCode
+```
 
-```text
 ## md_content
 ```
-
-Hello world in js This is how you do it
-
-```text
-## code_snippet
+Hello world in js
+# This is how you do it
 ```
 
-def pls\_work\(\): return True... maybe
+## code_snippet
+```python
+def pls_work():
+    return True
+```
 
-```text
 ## image
 <img src="dee.jpg">
 ```
@@ -671,7 +623,7 @@ This is the folder on where the cards are located. Put the word "cards\_folder" 
 
 ```text
 # cards_folder
-Topic1/Module7/Activity_13/cards/
+Javascript/Activities/cards
 ```
 
 #### Checkpoint Type \(This is required\)
@@ -748,10 +700,8 @@ This field is used to tell where the test case folder is for the checkpoint.
 
 ```text
 # test_file_location
-Topic1/Module7/Activity_13/Tests/test_1
+Javascript/Activities/Activity_name/tests/test_1
 ```
-
-### 
 
 #### Solution \(This is required for Short Answer Checkpoints\)
 
@@ -771,7 +721,7 @@ Some Solution
 Code Check in
 
 # cards_folder
-Topic1/Module7/Activity_13/Cards/
+Javascript/Activities/cards
 
 # checkpoint_type
 Video
@@ -795,7 +745,7 @@ Does the student's code print the board out?
 Print Statements Short Answer
 
 # cards_folder
-Topic1/Module7/Activity_13/Cards/
+Javascript/Activities/cards
 
 # checkpoint_type
 Short Answer
@@ -814,7 +764,7 @@ Some solution
 Print Statement Multiple Choice
 
 # cards_folder
-Topic1/Module7/Activity_13/Cards/
+Javascript/Activities/cards
 
 # checkpoint_type
 Multiple Choice
@@ -844,7 +794,7 @@ print()
 Autograder Checkpoint  
 
 # cards_folder
-Topic1/Module7/Activity_13/Cards/
+Javascript/Activities/cards
 
 # checkpoint_type
 Autograder
@@ -856,7 +806,7 @@ Do this
 main.py class1.py class2.py
 
 # test_file_location
-Topic1/Module7/Activity_13/Tests/test_1
+Javascript/Activities/Activity_name/tests
 ```
 
 ### Test Cases Format
