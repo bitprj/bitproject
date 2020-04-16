@@ -10,17 +10,13 @@ Please ensure you **completely confirm your idea** before moving on with this pr
 
 ![](../../../.gitbook/assets/workshop-flowchart-page-3.png)
 
-**For first-timers to MDX-Deck:**
+**Setting up MDX-Deck:**
 
-* [ ] Clone MDX-Deck [Repository](https://github.com/bitprj/mdx-deck) locally
-* [ ] Navigate to local repo folder, run commands `npm install` and `npm start`
-  * [ ] Check that your site is running at `localhost:8000`
-* [ ] Create new .mdx file under `mdx-deck/decks` folder
-  * [ ] Change this file
-  * [ ] See changes in your .mdx file at `localhost:8000`
+Please set up your MDX-Deck workspace on Code Sandbox. Follow the guide [here](https://about.bitproject.org/teams/developer-relations/setting-up-code-sandbox).
 
 **Week 1 Checklist**
 
+* [ ] Have Code Sandbox completely set-up
 * [ ] Go through entire workshop
   * [ ] Make sure it **completely works on your computer**\* _\*\*_
   * [ ] Understand at a high level what is happening

@@ -21,7 +21,7 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
 
 _This checklist should have the label `weekly-manager`with a title format: \[Topic Name\] \[Project Name\] Week 1 of 3: Manager Tasks._
 
-* [ ] Ensure they have `mdx-deck` working on their computers
+* [ ] Ensure they have Code Sandbox set up on their computers
 * [ ] Come up with specific action plan for how devs will convert slides
 * [ ] Discuss with devs to coordinate and confirm the interactive component
 * [ ] Confirm date and time of presentation in Week 3 with head and devs

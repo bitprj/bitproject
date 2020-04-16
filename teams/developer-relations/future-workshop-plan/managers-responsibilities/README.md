@@ -71,26 +71,14 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
 * [ ] Pick Topic
 * [ ] Decide whether to choose existing idea \(3 weeks\) or pursue original idea \(5 weeks\)
 
-**For first-timers to MDX-Deck:**
-
-* [ ] Clone MDX-Deck [Repository](https://github.com/bitprj/mdx-deck) locally
-* [ ] Navigate to local repo folder, run commands `npm install` and `npm start`
-  * [ ] Check that your site is running at `localhost:8000`
-* [ ] Create new .mdx file under `mdx-deck/decks` folder
-  * [ ] Change this file
-  * [ ] See changes in your .mdx file at `localhost:8000`
-
-Please make sure that MDX-Deck is working on the devs' \(and your\) system to ensure that you can see their work and be able to diagnose problems fully.
-
 ### Managers' Checklist
 
 _This checklist should be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week 1 of \[y\]: Manager Set-Up._
 
 #### Set-up
 
-* [ ] If new devs: get them started with MDX-Deck per the MDX-Deck first-timer checklist above
-* [ ] If new manager: create project to track all of your issues
-* [ ] If new manager: clone MDX-Deck onto your machine per the checklist above
+* [ ] Set up MDX-Deck per the Code Sandbox [guide](https://about.bitproject.org/teams/developer-relations/setting-up-code-sandbox)
+* [ ] Ensure developers have Code Sandbox set up
 * [ ] Create epics for each duo's workshop on GitHub
 * [ ] Generate an **Epic issue** on bitprj/mdx-deck for your workshop with the following format: \[Topic Name\] \[Workshop Name\]
   * [ ] Set label as `project`
