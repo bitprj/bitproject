@@ -117,6 +117,24 @@ Each Module needs to point to an image folder where the image is being used. The
 Javascript/Modules/images
 ```
 
+#### Activities \(This is required\)
+
+Each Module would have a list of activities that a student should learn to complete a modules. The word "activities" should be in a markdown h1 tag while the list of activities should be the absolute path to the activity folder.
+
+```text
+# activities
+* Javascript/Activities/TimeAndSpaceComplexity
+```
+
+#### Projects \(This is required\)
+
+Each Module would also have a list of projects that a student should learn to complete a modules. The word "projects" should be in a markdown h1 tag while the list of projects should be the absolute path to the project folder.
+
+```text
+# projects
+* Javascript/Projects/Minesweeper
+```
+
 #### Final Example
 
 ```text
@@ -134,13 +152,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # image_folder
 Javascript/Modules/images
+
+# activities
+* Javascript/Activities/TimeAndSpaceComplexity
+
+# projects
+* Javascript/Projects/Minesweeper
 ```
 
-### Activity/Lab README Format
+### Activity/Project README Format
 
 #### Name \(This is required\)
 
-Each Activity/Lab needs a name field. The word "name" should be in markdown h1 tag like below:
+Each Activity/Project needs a name field. The word "name" should be in markdown h1 tag like below:
 
 ```text
 # name
@@ -149,7 +173,7 @@ Minesweeper
 
 #### Description \(This is required\)
 
-Each Activity/Lab has a description field to describe what the activity will accomplish. The word "description" should be in markdown h1 tag like below:
+Each Activity/Project has a description field to describe what the activity will accomplish. The word "description" should be in markdown h1 tag like below:
 
 ```text
 # description
@@ -158,7 +182,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Summary \(This is required\)
 
-Each Activity/Lab has a summary field to describe what the activity will accomplish in depth. The word "summary" should be in markdown h1 tag like below:
+Each Activity/Project has a summary field to describe what the activity will accomplish in depth. The word "summary" should be in markdown h1 tag like below:
 
 ```text
 # summary
@@ -167,7 +191,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Difficulty \(This is required\)
 
-Each Activity/Lab needs a Difficulty field to indicate how hard the Activity/Lab is for the user. Add the "word" difficulty in a markdown h1 tag, and put the difficulty under it:
+Each Activity/Project needs a Difficulty field to indicate how hard the Activity/Lab is for the user. Add the "word" difficulty in a markdown h1 tag, and put the difficulty under it:
 
 Types of Difficulty:
 
@@ -182,7 +206,7 @@ Hard
 
 #### Image \(This is required\)
 
-Each Activity has an image field. The word "image" should be in markdown h1 tag like below:
+Each Activity/Project has an image field. The word "image" should be in markdown h1 tag like below:
 
 ```text
 # image
@@ -191,12 +215,23 @@ Each Activity has an image field. The word "image" should be in markdown h1 tag 
 
 #### Image Folder \(This is required\)
 
-Each Activity needs to point to an image folder where the image is being used. The word "image\_folder" should be in a markdown h1 tag like below:
+Each Activity/Project needs to point to an image folder where the image is being used. The word "image\_folder" should be in a markdown h1 tag like below:
 
 ```text
 # image_folder
 Javascript/Activities/Minesweeper/images
 ```
+
+#### Activity/Project prerequisites \(This is not required\)
+
+Each Activity/Project can have a list of prerequisites needed to do this activity/project. The word "activity\_prerequisites" should be in a markdown h1 tag with a list of absolute paths to the activity/project folder.
+
+```text
+# activity_prerequisites
+* Python/Projects/Minesweeper
+```
+
+#### 
 
 #### Cards
 
@@ -204,7 +239,7 @@ The cards fields is used to indicate the name of the card, order in which the ca
 
 **Cards \(This is required\)**
 
-To define cards in an Activity, you have to have the word "cards" in a markdown h1 tag. This is used to tell the server where the cards are:
+To define cards in an Activity/Project, you have to have the word "cards" in a markdown h1 tag. This is used to tell the server where the cards are:
 
 ```text
 # cards
@@ -212,7 +247,7 @@ To define cards in an Activity, you have to have the word "cards" in a markdown 
 
 **Card Key \(This is required\)**
 
-Each card you define in the Activity README, must have a corresponding filename as its key. For example if a card/hint was named [1.md](http://1.md) then its key would be 1. The card key must be placed in a markdown h2 tag like below:
+Each card you define in the Activity/Project README, must have a corresponding filename as its key. For example if a card/hint was named [1.md](http://1.md) then its key would be 1. The card key must be placed in a markdown h2 tag like below:
 
 ```text
 ## 1
