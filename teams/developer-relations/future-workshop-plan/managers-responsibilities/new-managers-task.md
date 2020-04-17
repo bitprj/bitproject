@@ -10,7 +10,7 @@ Your .mdx file should go under the **decks folder** in that repository.
 
 ## Code Sandbox
 
-There is no need to install MDX-Deck on your local machine. We have already set up a Code Sandbox link for you to test your .mdx files [here](https://codesandbox.io/s/nifty-wilbur-g236p). 
+There is no need to install MDX-Deck on your local machine. You should set up a GitHub branch and Code Sandbox based on the guide [here](https://about.bitproject.org/teams/developer-relations/setting-up-code-sandbox).
 
 When you click on the Sandbox, your browser should look like this:
 
