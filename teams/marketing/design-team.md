@@ -1,7 +1,7 @@
 ---
 description: >-
   We work with all teams in Bit (Dev Rel, Primary Ed, Marketing, etc) to create
-  marketing media and style outgoing content.
+  marketing media and style outgoing content).
 ---
 
 # Design Team
