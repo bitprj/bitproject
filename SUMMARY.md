@@ -79,6 +79,7 @@
       * [Introduction To The Twitter API](teams/developer-relations/teams/data-science/introduction-to-the-twitter-api.md)
     * [Blockchain](teams/developer-relations/teams/blockchain.md)
 * [Marketing](teams/marketing/README.md)
+  * [Design Team Onboarding](teams/marketing/design-team-onboarding.md)
   * [Design Team](teams/marketing/design-team.md)
   * [Marketing Team Onboarding](teams/marketing/marketing-team-onboarding.md)
   * [Marketing Program Managers](teams/marketing/marketing-program-management.md)
