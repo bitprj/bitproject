@@ -8,7 +8,24 @@ description: >-
 
 ## Our Workflow
 
-Bit Project Content Creators work with all departments within the organization to design and produce original, high quality content that can be used in for branding and marketing.
+Bit Project Content Creators work with all departments within the organization to design and produce original, high quality content that can be used in for branding and marketing. Our design process tends to look like this:
+
+#### 0. Receive Project Brief
+
+Client assigns us Github issues or projects over Slack. Our goal is identify:  
+1. Clients Needs/Wants  
+2. What the Context behind the graphic is  
+3. Where the graphic is being used  
+4. Who is the graphic targeted towards
+
+#### 1. Research
+
+We research the the context of the graphic to a point where we are able to describe the concept with our own words. \(ex. APIs = the middleman between programmer and server. Accesses and Retrieves data.\)  
+We also research what other designers have done to communicate similar ideas/concepts. 
+
+#### 2. Brainstorm/Sketches
+
+
 
 ## Departments:
 
