@@ -15,15 +15,15 @@ This is a general outline. Some parts of the project may take longer than others
 
 We will all be assigned a task and take notes on what the Client Wants. Clients will create a GitHub Issue or request us through Slack, and sometimes project is discussed over Zoom.
 
- ex. Daniel says "I want a group of students working together" , "we need a covid 19 and twitter grpahic" etc.
+ ex. Daniel says "I want a group of students working together" , "we need a covid 19 and twitter graphic" etc.
 
 ### 1. Research 
 
 Research background info on anything relevant to the project \(and take short notes if necessary\) 
 
 **What is the graphic about?**   
-ex. if Daniel says "Covid19 and Twitter API", look into both topics and learn about what they do/the purpose. Be able to describe what we are trying to communicate with the graphic.  _**"Covid19 and Twitter API"**_ -&gt; "using code to process large amounts of data to analyze trends/ correlations between Covid19 and human behavior"   
-_**"Twitter API"**_ -&gt; "APIs act as the middleman between human\(programmer\) and the server\(data\). APIs obtain and deliver information from the sever to the programmer."
+ex. if Daniel says "Covid19 and Twitter API", look into both topics and learn about what they do/the purpose. Be able to describe what we are trying to communicate with the graphic.  _**"Covid19 and Twitter API"**_  = "using code to process large amounts of data to analyze trends/ correlations between Covid19 and human behavior"   
+_**"Twitter API"**_  = "APIs act as the middleman between human\(programmer\) and the server\(data\). APIs obtain and deliver information from the sever to the programmer."
 
 **Who is the graphic for?**   
 ex. if we are making a graphic for college students, research what those kinds of graphics look like 

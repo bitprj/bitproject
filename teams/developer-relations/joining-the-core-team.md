@@ -4,6 +4,8 @@ description: The process of joining the core team.
 
 # Joining Developer Relations
 
+## THIS PROCESS IS NO LONGER ACTIVE
+
 ## Introduction
 
 In our efforts to go remote, we have established a very streamlined recruitment process for students to join our cause. Students from all over will be able to join as the onboarding process no longer requires an in-person meeting. It will utilize the following applications heavily: Zoom and GitHub.
