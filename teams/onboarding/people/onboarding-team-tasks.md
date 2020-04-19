@@ -8,5 +8,5 @@
 
 ### 3. Assigning People Issue
 
-### 4. Checking for Issue Completion
+### 4. Checking for Issue Completion 
 
