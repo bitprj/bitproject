@@ -1,8 +1,10 @@
 # Developer Relations
 
-Manager
+{% page-ref page="manager.md" %}
 
-Content Developer
+{% page-ref page="content-developer.md" %}
+
+
 
 
 
