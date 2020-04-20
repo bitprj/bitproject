@@ -34,24 +34,33 @@
 | Backend Developer | Backend | Jason Livinghouse |
 | Backend Developer \(2\) | Backend | **VACANT** |
 
-**DevRel Department \(29 Vacancies\)**
+**DevRel Department \(62 Vacancies\)**
 
 | Role | Team | Person |
 | :--- | :--- | :--- |
 | Director of DevRel | \*\*\*\* | Kevin Vuong |
-| Content Development Manager | TBA | Atul Jayaram |
-| Content Development Manager | TBA | Soham Mahabaleshwarkar |
-| Content Development Manager | TBA | Christopher Ton |
-| Content Development Manager \(17\) |  | **VACANT** |
+| Content Development Manager: Data Science | TBA | Atul Jayaram |
+| Content Development Manager: Data Science | TBA | Soham Mahabaleshwarkar |
+| Content Development Manager: Data Science | TBA | Christopher Ton |
+| Content Development Manager: Front-End Engineering |  | **VACANT** |
+| Content Development Manager: DevOps |  | **VACANT** |
+| Content Development Manager: Data Science \(17\) |  | **VACANT** |
 | Technical Content Developer | TBA \(Atul\) | Jeff Chhen |
 | Technical Content Developer | TBA \(Atul\) | Louman Cheung |
 | Technical Content Developer | TBA \(Atul\) | Ruby Yang |
 | Technical Content Developer | TBA \(Atul\) | Shayan Riyaz |
-| Technical Content Developer | TBA |  |
-|  |  |  |
-| Content Developer \(5\) | Data Science | **VACANT** |
-| Content Developer \(5\) | Block Chain | **VACANT** |
-| Content Developer \(5\) | Frontend | **VACANT** |
-| Content Developer \(5\) | API Development | **VACANT** |
-| Content Developer \(5\) | DevOps | **VACANT** |
+| Technical Content Developer | TBA | Brinda Puri |
+| Technical Content Developer | TBA | Emily Gui |
+| Technical Content Developer | TBA | Jeffrey Ugochukwu |
+| Technical Content Developer | TBA | Joey Hua |
+| Technical Content Developer | TBA | Kathy Liu |
+| Technical Content Developer | TBA | Ryan Kuang |
+| Technical Content Developer | TBA | Taimur Kashif |
+| Technical Content Developer | TBA | Ethan Tang |
+| Technical Content Developer | TBA | Ryan Sanjaya |
+| Technical Content Developer | TBA | Gisselle Ibarra |
+| Technical Content Developer | TBA | Sameeksha Mahajan |
+| Technical Content Developer | TBA  | Joseph Olivas |
+| Technical Content Developer | TBA | Mukul Jangid |
+| Technical Content Developer \(43\) | TBA | **VACANT** |
 
