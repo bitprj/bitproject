@@ -39,12 +39,16 @@
 | Role | Team | Person |
 | :--- | :--- | :--- |
 | Director of DevRel | \*\*\*\* | Kevin Vuong |
-| Content Development Manager |  | Sarah Gerard |
-| Content Development Manager |  | Owen Gao |
-| Content Development Manager |  | Ismail |
-| Content Development Manager |  | Michelle Hu |
-| Content Development Manager |  | Jeff Chhen |
-| Content Development Intern \(4\) |  | **VACANT** |
+| Content Development Manager | TBA | Atul Jayaram |
+| Content Development Manager | TBA | Soham Mahabaleshwarkar |
+| Content Development Manager | TBA | Christopher Ton |
+| Content Development Manager \(17\) |  | **VACANT** |
+| Technical Content Developer | TBA \(Atul\) | Jeff Chhen |
+| Technical Content Developer | TBA \(Atul\) | Louman Cheung |
+| Technical Content Developer | TBA \(Atul\) | Ruby Yang |
+| Technical Content Developer | TBA \(Atul\) | Shayan Riyaz |
+| Technical Content Developer | TBA |  |
+|  |  |  |
 | Content Developer \(5\) | Data Science | **VACANT** |
 | Content Developer \(5\) | Block Chain | **VACANT** |
 | Content Developer \(5\) | Frontend | **VACANT** |
