@@ -91,7 +91,7 @@ Once you are added into the GitHub, you will be assigned an issue that will cont
 
 ### 2. Follow-up 1-1 Meeting
 
-About one week after completing your assigned issue on GitHub, you will have a follow-up 1-1 meeting with the President and Director. You should be notified via email or Slack about the details of the meeting.
+About one week after completing your assigned issue on GitHub, you will have a follow-up 1-1 meeting with the President and Director. You should be notified via Slack about the details of the meeting. You will present the task that you were assigned in the first 1-1 with Kevin. 
 
 
 
