@@ -8,30 +8,42 @@
 
 ### 3. 1:1 Meeting Criteria
 
-* Introduce yourself along with any other people in the chat
-* Ask if the person has any questions about the organization or about the position
-* Ask them to explain their experience with the specific position that they are going for
-* Ask if they have any familiarity with our stack if they don't mention it
-* Talk about the framework that we use. Python Flask for the backend and React for the frontend.
-* Explain how tasks work in the form of github issues. We don't tell people to do a specific task but we have a list of issues that people can choose to do within a specific deadline
-* Explain the goal of each team:
-* Backend - To support the frontend team by making routes and resolving their issues
-* Frontend- Build  the learning management system by creating reusable components that can be used across the app
-* Tell them how they can join the team. The person has to complete an issue in the Github repo in one week. If they complete it, they can join
-* Ask if they have any further questions
+#### Introduction
 
-After asking the person about their experience, you would ask a set of questions based on the role that the person is going for  
-React questions:
+* Introduce yourself as well as anyone else in the meeting
+* Before starting the meeting, ask the applicant if they have any questions about the team or the organization.
+  * If they ask about what they would be doing for Backend: To support the Frontend team by making routes and resolving their issues. Doing Quality Assurance testing on code before pushing to production
+  * If they ask about what they would be doing for Frontend: Building and designing the reusable components to create our Learning Management System
+  * If they ask about the organization: 
+* Ask the applicant to tell a bit about themselves and their previous experience for the position that they are applying for
+* Ask if they have any previous experience with our stack, Flask and Python
 
-* What is your style methodology? do you use inline styles, style components, external style sheets, js libraries
+#### Role Questions \(Ask after the explain their experience\)
+
+Ask these questions if applicant applied for Frontend Engineering position:
+
+* What is your style methodology? do you use inline styles, style components, external style sheets, Javascript libraries
 * Do you have experience with state management with Redux?
 
-Backend questions:
+Ask these questions if the applicant applied to the Backend Engineering position:
 
-* Do you have any experience with working with an ORM?
-* What methodology do you use when creating API endpoints?
+* Do you have any experience with working with a Python ORM like SQLAlchemy?
+* Can you explain the MVC architecture and how each component interacts with each other?
+
+#### How to get in
+
+* Complete an assigned Github issue from the team that you applied to
+* The applicant needs to complete the issue within a week to join the team
+
+#### How the team operates
+
+* We don't assign people specific tasks. Instead, each week we have a list of Github issues that need to be done by the end of the week. This allows a freedom of choice for people since it allows them to choose the issues that they want to work on
+
+
 
 ### 4. Creating Issue
 
-### 5. Checking for Issue Completion
+### 5. Checking for Issue Completion \(1 week later\)
+
+* Check if the person has completed the issue given in a week. If they complete the issue and it gets successfully merged to master, then they are on the team. 
 
