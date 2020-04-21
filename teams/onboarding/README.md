@@ -1,5 +1,9 @@
 # Onboarding
 
+
+
+![](../../.gitbook/assets/blank-diagram.jpeg)
+
 ## Sourcing Interview
 
 
