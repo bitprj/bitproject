@@ -71,19 +71,23 @@ After looking into the specific requirements for the content of each individual 
 * [ ] Smooth transitions \(includes references to previous slides, if needed\)
 * [ ] Consistent pacing \(includes significant and meaningful content\)
 
+### Creating Your Own Idea
+
+If you _create your own idea_, your duo will follow a **5 week process** to prepare your deliverables.
+
+Note that if you chose a dataset you are going down this path.
+
+{% page-ref page="workshops-creating-your-own-idea.md" %}
+
 ### Choosing an Idea
 
 If you _choose an idea_, your duo will follow a **3 week process** to prepare your deliverables.
 
 {% page-ref page="workshops-choosing-your-idea.md" %}
 
-### Creating Your Own Idea
+### 
 
-If you _create your own idea_, your duo will follow a **5 week process** to prepare your deliverables.
 
-{% page-ref page="workshops-creating-your-own-idea.md" %}
-
-"
 
 ## Miscellaneous Resources
 

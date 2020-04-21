@@ -20,7 +20,6 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
   * [ ] Difficulty/prior experience
   * [ ] Technologies that will be used
 * [ ] Complete "Part 1" [Slides](../workshops-creating-your-own-idea.md#part-one-idea-motivation)
-* [ ] Finalize date and time of presentation \(in Week 5\) with Head
 * [ ] [General Slide Checklist](../#general-slide-checklist) Fulfilled
 
 ### Week 1 Checklist for Managers
@@ -30,7 +29,13 @@ _This checklist should have the label `weekly-manager`with a title format: \[Top
 * [ ] Ensure they have `mdx-deck` working on their computers
 * [ ] Follow-up on proposal, ensure proposal is **detailed** and **specific**
 * [ ] Confirm date and time of presentation in Week 5 with head and devs
-* [ ] "General Manager Responsibility" checklist should be completed 
+* [ ] "General Manager Responsibility" [checklist](./#general-weekly-responsibilities-for-managers) should be completed 
+* [ ] Generate an **Epic** issue on `bitprj/mdx-deck` for _Week 2_ with the following format: \[Topic Name\] \[Workshop Name\] Week \[x\] of \[y\]
+  * [ ] Set label as `weekly`
+  * [ ] Have appropriate checklist within issue
+  * [ ] Include deadline in issue
+  * [ ] Set devs as assignees
+  * [ ] Link these epics with your project epic \(yes, epics can be linked to epics!\)
 
 It's important to get started on the right foot. For this week, it is imperative that all managers coordinate and determine **specific steps** for the developers to complete their tasks. **Communication of these responsibilities is key.**
 
@@ -56,7 +61,13 @@ _This checklist should have the label `weekly-manager`with a title format: \[Top
 * [ ] Follow-up on High-Level Concepts covered
 * [ ] Nail down specifics of interactive component with devs
 * [ ] Run their code, ensure that their code can run on your computer and that their README is updated accordingly
-* [ ] "General Manager Responsibility" checklist should be completed 
+* [ ] "General Manager Responsibility" [checklist](https://app.gitbook.com/@bit-project/s/bit-project/~/drafts/-M5PVZ6mkgGEo9LUB4KK/teams/developer-relations/future-workshop-plan/managers-responsibilities#general-weekly-responsibilities-for-managers) should be completed 
+* [ ] Generate an **Epic** issue on `bitprj/mdx-deck` for _Week 3_ with the following format: \[Topic Name\] \[Workshop Name\] Week \[x\] of \[y\]
+  * [ ] Set label as `weekly`
+  * [ ] Have appropriate checklist within issue
+  * [ ] Include deadline in issue
+  * [ ] Set devs as assignees
+  * [ ] Link these epics with your project epic \(yes, epics can be linked to epics!\)
 
 This week, managers should work to ensure their feedback is aware to the devs. Everyone should be on the same wavelength on high-level concepts and the interactive component.
 
@@ -75,6 +86,12 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
 * [ ] Finish Code Deliverables for Week 3
   * [ ] Continue updating README based on additional code deliverables
 * [ ] ["General Slide Checklist"](../#general-slide-checklist) should be completed for your slides
+* [ ] Generate an **Epic** issue on `bitprj/mdx-deck` for _Week 4_ with the following format: \[Topic Name\] \[Workshop Name\] Week \[x\] of \[y\]
+  * [ ] Set label as `weekly`
+  * [ ] Have appropriate checklist within issue
+  * [ ] Include deadline in issue
+  * [ ] Set devs as assignees
+  * [ ] Link these epics with your project epic \(yes, epics can be linked to epics!\)
 
 ### Week 3 Checklist for Managers
 
@@ -84,7 +101,7 @@ _This checklist should have the label `weekly-manager`with a title format: \[Top
 * [ ] Determine how interactive tutorial will be presented, slide by slide, with devs
 * [ ] Determine specific concepts covered in the tutorial
 * [ ] Run their Week 3 Code, ensure that their code can run on your computer and that their README is updated accordingly
-* [ ] "General Manager Responsibility" checklist should be completed 
+* [ ] "General Manager Responsibility" [checklist](https://app.gitbook.com/@bit-project/s/bit-project/~/drafts/-M5PVZ6mkgGEo9LUB4KK/teams/developer-relations/future-workshop-plan/managers-responsibilities#general-weekly-responsibilities-for-managers) should be completed 
 
 Feedback should be submitted on the slides and lab as comments on your pull request to `master`. Presentation feedback should be put together in a .md file and posted to the repository bitprj/mdx-deck, under the folder `pres-feedback`. By the end of the week, the slides and lab should be **fully complete,** and the duo should move on to their next workshop project after this week.
 
@@ -105,6 +122,12 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
   * [ ] Finalize speaker notes
   * [ ] Confirm date and time with Head
 * [ ] ["General Slide Checklist"](../#general-slide-checklist) should be completed for your slides
+* [ ] Generate an **Epic** issue on `bitprj/mdx-deck` for _Week 5_ with the following format: \[Topic Name\] \[Workshop Name\] Week \[x\] of \[y\]
+  * [ ] Set label as `weekly`
+  * [ ] Have appropriate checklist within issue
+  * [ ] Include deadline in issue
+  * [ ] Set devs as assignees
+  * [ ] Link these epics with your project epic \(yes, epics can be linked to epics!\)
 
 ### Week 4 Checklist for Managers
 
@@ -117,7 +140,7 @@ _This checklist should have the label `weekly-manager`with a title format: \[Top
 * [ ] Provide insight on all speaker notes for every slide
 * [ ] Dry run entire presentation 
 * [ ] Double-check with head on time of the presentation
-* [ ] "General Manager Responsibility" checklist should be completed
+* [ ] "General Manager Responsibility" [checklist](https://app.gitbook.com/@bit-project/s/bit-project/~/drafts/-M5PVZ6mkgGEo9LUB4KK/teams/developer-relations/future-workshop-plan/managers-responsibilities#general-weekly-responsibilities-for-managers) should be completed
 
 In the week before the presentation, managers should work on putting together all of the final deliverables: the slides, lab and presentation. Slides and speaker notes should be fully reviewed and scrutinized by managers. Lab responsibilities should be delegated. The README for replicating the workshop should be completed.
 

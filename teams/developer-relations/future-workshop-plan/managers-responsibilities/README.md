@@ -80,17 +80,18 @@ _This checklist should be in an issue with the label `weekly-manager` and a titl
 * [ ] Set up MDX-Deck per the Code Sandbox [guide](https://about.bitproject.org/teams/developer-relations/setting-up-code-sandbox)
 * [ ] Ensure developers have Code Sandbox set up
 * [ ] Create epics for each duo's workshop on GitHub
-* [ ] Generate an **Epic issue** on bitprj/mdx-deck for your workshop with the following format: \[Topic Name\] \[Workshop Name\]
+* [ ] Generate an **Epic issue** on bitprj/mdx-deck for your workshop with the following format: \[Topic Name\] \[Workshop Name\]\*
   * [ ] Set label as `project`
-  * [ ] Set up weekly **Epics**  as a checklist within this issue
   * [ ] Set devs as assignees
   * [ ] Include deadline in issue
-* [ ] Generate **Epic** issues on `bitprj/mdx-deck` for every week with the following format: \[Topic Name\] \[Workshop Name\] Week \[x\] of \[y\]
+* [ ] Generate an **Epic** issue on `bitprj/mdx-deck` for Week 1 with the following format: \[Topic Name\] \[Workshop Name\] Week \[x\] of \[y\]
   * [ ] Set label as `weekly`
   * [ ] Have appropriate checklist within issue
   * [ ] Include deadline in issue
   * [ ] Set devs as assignees
   * [ ] Link these epics with your project epic \(yes, epics can be linked to epics!\)
+
+\*NOTE that the onboarding team will be in charge of this later, for now managers should do this.
 
 #### Checking Devs
 
