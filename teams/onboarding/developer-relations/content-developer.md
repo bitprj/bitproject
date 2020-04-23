@@ -77,7 +77,9 @@ Your manager will have to be the one to give you access to any relevant Airtable
 
 Kevin, the director of developer relations, will provide an introduction to the team. During this meeting, you will form duos with other new members of the team to create a workshop of your choice. More details are provided in the meeting. Kevin will be hosting the welcome webinar on Zoom. The link will be emailed to you by the director. The meetings will usually be right after the general Welcome Webinar with Daniel unless specified otherwise.
 
-To form a duo, type in the \#form-duos channel on Slack! Introduce yourself and make sure you say which topics you are interested in working on!
+To form a duo, type in the \#form-duos channel on Slack! Introduce yourself and make sure you say which topics you are interested in working on! 
+
+Once you have found a partner, you will submit a form on Airtable to make your duo official! You will then be assigned a manager based on which topic you and your partner chose.
 
 ## Next Steps
 
