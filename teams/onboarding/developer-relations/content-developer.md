@@ -75,7 +75,9 @@ Your manager will have to be the one to give you access to any relevant Airtable
 
 ### 6. DevRel Welcome Webinar
 
-Kevin, the director of developer relations, will provide an introduction to the team. During this meeting, you will form duos with other new members of the team to create a workshop of your choice. More details are provided in the meeting. Kevin will be hosting the welcome webinar on Zoom. The link will be emailed to you by the director. The meetings will usually be on Wednesday 4 p.m. PST unless specified otherwise.
+Kevin, the director of developer relations, will provide an introduction to the team. During this meeting, you will form duos with other new members of the team to create a workshop of your choice. More details are provided in the meeting. Kevin will be hosting the welcome webinar on Zoom. The link will be emailed to you by the director. The meetings will usually be right after the general Welcome Webinar with Daniel unless specified otherwise.
+
+To form a duo, type in the \#form-duos channel on Slack! Introduce yourself and make sure you say which topics you are interested in working on!
 
 ## Next Steps
 
