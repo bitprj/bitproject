@@ -1,7 +1,8 @@
 ---
 description: >-
   Everyone that joins Bit Project is expected to meet their minimum
-  requirements. Anyone who doesn't meet them will undergo a training plan.
+  requirements. Anyone who doesn't meet them will undergo a performance
+  improvement training plan.
 ---
 
 # Underperformance Guidelines
@@ -14,7 +15,7 @@ At Bit Project, we care a lot about meeting objectives and key results \(OKRs\).
  Not meeting OKRs = Underperforming
 {% endhint %}
 
-## Underperformance Plan Timeline
+## Performance Improvement Plan Timeline
 
 * **Meeting \#1:** Performance Evaluation held by your manager/director + People Experience Associate.
   * People Experience associate then meets with Learning & Development Manager to determine the best training plan.
