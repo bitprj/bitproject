@@ -669,6 +669,7 @@ Checkpoints could be **ONE** of the following:
 
 * Video
 * Image
+* File
 * Short Answer
 * Multiple Choice
 * Autograder
@@ -689,9 +690,9 @@ Submit a photo your Minsweeper code working
 
 #### Other Fields
 
-#### Criteria \(This is required for Video and Image Checkpoints\)
+#### Criteria \(This is required for Video, Image and File Checkpoints\)
 
-Criteria is a rubric for TA's to grade a student's Image or Video Checkpoint.
+Criteria is a rubric for TA's to grade a student's Image, Video, and File Checkpoint.
 
 You must declare where the criteria for a checkpoint would begin. You would do this by putting the word "criteria" in a markdown h1 tag like so:
 
@@ -749,7 +750,7 @@ Some Solution
 
 ### Checkpoint Examples
 
-#### Video/Image
+#### Video/Image/File
 
 ```text
 # name
