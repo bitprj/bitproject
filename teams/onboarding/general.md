@@ -1,4 +1,4 @@
-# General
+# First Steps
 
 ## Welcome to the Team!
 
