@@ -19,9 +19,10 @@ At Bit Project, we care a lot about meeting objectives and key results \(OKRs\).
 * **Meeting \#1:** Performance Evaluation held by your manager/director + People Experience Associate.
   * People Experience associate then meets with Learning & Development Manager to determine the best training plan.
 * **Meeting \#2:** Performance Improvement Plan held by Learning & Development Manager.
-  * In this meeting, you will discuss the specifics of your training plan
+  * In this meeting, the specifics of your training plan will be discussed
   * You will check off completed tasks as assigned through a Github issue.
 * **Meeting \#3:** Follow up with Learning & Development Manager.
   * This meeting will occur halfway through your training program
 * **Meeting \#4:** Final Evaluation with your manager/director + L&D Manager.
+  * This meeting will occur after you finish all your assigned tasks.
 
