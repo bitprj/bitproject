@@ -6,8 +6,8 @@
 
 | Role | Team | Person |
 | :--- | :--- | :--- |
-| [Director of People](https://about.bitproject.org/teams/people/roles/director-of-people) |  | Shreya Gupta |
-| [L&D Manager](https://about.bitproject.org/teams/people/roles/learning-and-development-manager) | Learning & Development | Becca Tran |
+| [Director of People](https://about.bitproject.org/teams/people/roles/director-of-people) | People | Becca Tran |
+| [L&D Manager](https://about.bitproject.org/teams/people/roles/learning-and-development-manager) | Learning & Development | Jasmine Cheng |
 | [People Experience Associate](https://about.bitproject.org/teams/people/roles/people-experience-associate) | Learning & Development | Winnie Zhang |
 | [Diversity and Inclusion Associate](https://about.bitproject.org/teams/people/roles/diversity-and-inclusion-specialist) | Learning & Development | Lily Hem |
 | [Onboarding Manager](https://about.bitproject.org/teams/people/roles/onboarding-manager) | Onboarding | Minh Tu Nguyen |
@@ -17,7 +17,7 @@
 
 | Role | Team | Person |
 | :--- | :--- | :--- |
-| Director of Marketing | \*\*\*\* | **VACANT** |
+| Director of Marketing | \*\*\*\* | Shreya Gupta |
 | Manager of Design | Design | Rochelle Dai |
 | Illustrator | Design | Lilly Paglia |
 | Manager of Technical Writing | Writing | Victoria Xu |
