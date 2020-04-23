@@ -14,12 +14,14 @@ At Bit Project, we care a lot about meeting objectives and key results \(OKRs\).
  Not meeting OKRs = Underperforming
 {% endhint %}
 
-## Steps in the underperformance process
+## Underperformance Plan Timeline
 
-1. When your lead notices that the individual is underperforming, they will first have a talk with them.
-2. Your lead reports to the Learning and Development Manager regarding the areas in which the individual needs improvement on.
-3. L&D Manager creates a personalized training plan for the individual and assigns tasks through a github issue. Tasks can range from watching webinars, doing assessments, and completing small projects. The individual must complete tasks by the deadline as shown on their issue.
-4. L&D manager has frequent 1:1s to track progress.
-5. L&D manager assesses the individual's performance through assessments, ability to complete tasks on time, quality of completed tasks, etc.
-6. If the individual has met expectations, they will go back to their original role!
+* **Meeting \#1:** Performance Evaluation held by your manager/director + People Experience Associate.
+  * People Experience associate then meets with Learning & Development Manager to determine the best training plan.
+* **Meeting \#2:** Performance Improvement Plan held by Learning & Development Manager.
+  * In this meeting, you will discuss the specifics of your training plan
+  * You will check off completed tasks as assigned through a Github issue.
+* **Meeting \#3:** Follow up with Learning & Development Manager.
+  * This meeting will occur halfway through your training program
+* **Meeting \#4:** Final Evaluation with your manager/director + L&D Manager.
 

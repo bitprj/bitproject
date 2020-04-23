@@ -126,7 +126,7 @@
   * [Curriculum Folder Structure](teams/engineering/curriculum-folder-structure.md)
 * [How to use the Checklist](teams/how-to-use-the-checklist.md)
 * [Onboarding](teams/onboarding/README.md)
-  * [First Steps](teams/onboarding/general.md)
+  * [First Steps](teams/onboarding/first-steps.md)
   * [Developer Relations](teams/onboarding/developer-relations/README.md)
     * [Manager](teams/onboarding/developer-relations/manager.md)
     * [Content Developer](teams/onboarding/developer-relations/content-developer.md)
