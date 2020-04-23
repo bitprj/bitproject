@@ -13,9 +13,9 @@ Performance reviews are a crucial part of keeping everyone at Bit Project in che
 In Github, under [people](https://github.com/bitprj/people)/[Performance Evaluations](https://github.com/bitprj/people/tree/master/Performance%20Evaluations)/**performanceReview\_template.md**, you will find a template for your performance review meeting. Follow this template to guide your discussion. 
 
 1. Write down the reviewer and reviewee's names and your roles at Bit Project.
-2. Prior to the meeting, the reviewer should list OKRs that were set for the reviewee. Then, go through each of them and discuss. For any OKRs that were not met, have a discussion about why that was the case. If the missed OKR was significant, consider having the reviewee go through underperformance training led by the Learning and Development team.
-
-#### 
+2. Prior to the meeting, the reviewer should list OKRs that were set for the reviewee. Then, go through each of them and discuss. For any OKRs that were not met, have a discussion about why that was the case. If the missed OKR was significant, consider having the reviewee go through [underperformance training ](https://about.bitproject.org/teams/people/underperformance-guidelines)led by the Learning and Development team.
+3. Next step is have both sides give feedback about each other. 
+4. The last part of the performance review is to brainstorm improvements that can be made moving forward. If the reviewee is doing a great job, think of ways they could contribute even more. If the reviewee is underperforming, think of ways to get them back on track.
 
 {% hint style="success" %}
 **Performance Review Template**
