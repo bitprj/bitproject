@@ -79,6 +79,8 @@ Kevin, the director of developer relations, will provide an introduction to the 
 
 To form a duo, type in the \#form-duos channel on Slack! Introduce yourself and make sure you say which topics you are interested in working on! 
 
+To join the \#form-duos channel once you join our Slack, on the left-hand side where it says "Channels" click the "+" sign and click "Browse Channels". Type in "\#form-duos" and click to join the channel. There should be a link to the Airtable Form and you can message the channel to introduce yourself and find a partner!
+
 Once you have found a partner, you will submit a form on Airtable to make your duo official! You will then be assigned a manager based on which topic you and your partner chose.
 
 ## Next Steps
