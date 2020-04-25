@@ -44,6 +44,8 @@ Slack is our form of team communication. Files, code, information, and much more
 
 Before making an account, you must download slack onto both your computer and mobile device. Make a slack account and join our workspace through the link below:
 
+[https://join.slack.com/t/bitdarlene/shared\_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ](https://join.slack.com/t/bitdarlene/shared_invite/zt-9t88xlbb-DHBCQWOUZfu87P376dEEgQ)
+
 Once you are on slack, please complete the following tasks:
 
 * Have your school name and team in the description of your profile
