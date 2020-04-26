@@ -67,9 +67,11 @@ Developers pick an idea, and based on the subject of their idea, they are assign
 
 After completing those introductory tasks above, your duo will continue with a 3 week process to produce a blog post \(Stage 1\). Click the following link to continue:
 
-{% page-ref page="responsibilities-for-creating-your-idea.md" %}
+{% page-ref page="responsibilities-stage-1-blog.md" %}
 
 Your blog will be published by the marketing team, and your duo will immediately proceed to work on another workshop. After three weeks, if your blog performs well and is picked by the marketing team as a workshop to pursue, your duo would proceed to develop a workshop based on that blog \(Stage 2\). Click the following link to continue:
+
+{% page-ref page="responsibilities-stage-2-presentation.md" %}
 
 
 
