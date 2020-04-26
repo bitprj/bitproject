@@ -8,12 +8,6 @@ This page is a guide for week-by-week responsibilities. Responsibilities for eve
 
 **Each manager should persistently update every checklist, and ask their developers to update the checklists in the issues assigned to them.**
 
-## Every Month: Designate Duos
-
-In order to reach a broad audience, our marketing and design teams will reach out to numerous technical communities, clubs and organizations around the nation to market our workshops. Every month, each manager must designate **two duos** that they feel comfortable with presenting their work to a very large audience. Please note that these duos must be chosen as soon as possible. Our marketing team will prepare marketing materials **custom-made for each workshop** that is chosen, therefore it is vital that each manager picks two duos that they feel **fully confident in showcasing their work to a large audience**, including a huge swath of non-Bit members. 
-
-All other duos will present to Bit members. 
-
 ## General Weekly Responsibilities for Managers
 
 _This checklist will be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week \[x\] of \[y\]: General Manager Responsibilities._
@@ -61,15 +55,18 @@ The ["General Slide Checklist"](../#general-slide-checklist) should be completed
 
 ## Starting Out \[Week 1 Set-Up\]
 
-![Flowchart for Starting Out](../../../../.gitbook/assets/workshop-flowchart-page-2%20%281%29.jpeg)
+Developers pick an idea, and based on the subject of their idea, they are assigned to a manager. Therefore the steps illustrated in the flowchart should have already been complete:
+
+
+
+![](../../../../.gitbook/assets/devrel-flowchart-page-2.png)
 
 ### Devs' Checklist
 
 _This checklist should have the label `weekly-dev`with a title format: \[Topic Name\] \[Project Name\] Week 1 of \[y\]: Dev Set-Up._
 
 * [ ] Form duos
-* [ ] Pick Topic
-* [ ] Decide whether to choose existing idea \(3 weeks\) or pursue original idea \(5 weeks\)
+* [ ] Pick Idea from Airtable
 
 ### Managers' Checklist
 
