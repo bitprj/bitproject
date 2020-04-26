@@ -1,6 +1,6 @@
 # Responsibilities for Stage 1: Blog
 
-As a manager, you should always be completing all of your work in GitHub, and be updating the Epics and issues referenced above. Your head will be periodically monitoring your project, Epics and issues.
+As a manager, you should always be completing all of your work in GitHub, and be updating the Epics and issues referenced. Your head will be periodically monitoring your project, Epics and issues.
 
 ## Week 1 of 3: Formalizing Your Idea
 
@@ -52,6 +52,7 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
     * Concepts 
     * Code Walkthrough
     * Interactive Component
+  * Blog should be submitted to the blogs [folder](https://github.com/bitprj/mdx-deck/tree/master/misc/blogs)
 * [ ] Finish Code Deliverables for Week 2
   * [ ] Document how to replicate the running of their code in a README
   * [ ] Code should be commented in GitHub for blog viewers
@@ -94,6 +95,7 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
   * [ ] Code Walkthrough
   * [ ] Interactive Component
 * [ ] Blog should be written professionally and tailored for students of your subject
+  * [ ] In the blogs [folder](https://github.com/bitprj/mdx-deck/tree/master/misc/blogs)
 * [ ] Finish Code Deliverables for Week 3
   * [ ] Update README based on additional code deliverables developed
   * [ ] Comment all GitHub code for readability

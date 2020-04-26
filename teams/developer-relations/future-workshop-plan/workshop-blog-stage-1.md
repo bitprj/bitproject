@@ -42,6 +42,7 @@ Using the guide above, you and your teammate will create a proposal. Here you wi
     * Concepts 
     * Code Walkthrough
     * Interactive Component
+  * Blog should be submitted in .md format to the blogs [folder](https://github.com/bitprj/mdx-deck/tree/master/misc/blogs)
 * [ ] Finish Code Deliverables for Week 2
   * [ ] Document how to replicate the running of their code in a README
   * [ ] Code should be commented in GitHub for blog viewers
@@ -61,6 +62,7 @@ Additionally, each duo should begin preparing their GitHub repository through wh
   * [ ] Code Walkthrough
   * [ ] Interactive Component
 * [ ] Blog should be written professionally and tailored for students of your subject
+  * [ ] In the blogs [folder](https://github.com/bitprj/mdx-deck/tree/master/misc/blogs)
 * [ ] Finish Code Deliverables for Week 3
   * [ ] Update README based on additional code deliverables developed
   * [ ] Comment all GitHub code for readability
