@@ -69,7 +69,7 @@ _This checklist should have the label `weekly-manager`with a title format: \[Top
   * [ ] Code Walkthrough
   * [ ] Interactive Component
 * [ ] Run their code for Week 2, ensure that their code can run on your computer and that their README is updated accordingly
-* [ ] "General Manager Responsibility" [checklist](https://app.gitbook.com/@bit-project/s/bit-project/~/drafts/-M5PVZ6mkgGEo9LUB4KK/teams/developer-relations/future-workshop-plan/managers-responsibilities#general-weekly-responsibilities-for-managers) should be completed 
+* [ ] "General Manager Responsibility" [checklist](./#general-weekly-responsibilities-for-managers) should be completed 
 * [ ] Generate an **Epic** issue on `bitprj/mdx-deck` for _Week 3_ with the following format: \[Topic Name\] \[Workshop Name\] Stage 1 Week \[x\] of \[y\] Dev Tasks
   * [ ] Set label as `weekly-dev`
   * [ ] Have appropriate checklist within issue
@@ -117,7 +117,7 @@ _This checklist should have the label `weekly-manager`with a title format: \[Top
   * [ ] All code should be **commented with explanation** and organized in an orderly fashion
   * [ ] Code comments should relate to the blog to make the blog and code more cohesive
   * [ ] README.md file explaining how to replicate project on own machine should be fully complete
-* [ ] "General Manager Responsibility" [checklist](https://app.gitbook.com/@bit-project/s/bit-project/~/drafts/-M5PVZ6mkgGEo9LUB4KK/teams/developer-relations/future-workshop-plan/managers-responsibilities#general-weekly-responsibilities-for-managers) should be completed 
+* [ ] "General Manager Responsibility" [checklist](./#general-weekly-responsibilities-for-managers) should be completed 
 
 By this week, the blog should be fully done, complete with all the sections and a link to a GitHub repository with all of the code. The GitHub repository should have all of the code, commented with explanations that directly reference the language used in the writing of the blog.
 
