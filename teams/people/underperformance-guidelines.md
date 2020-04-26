@@ -9,7 +9,7 @@ description: >-
 
 ## What does "underperforming" mean?
 
-At Bit Project, we care a lot about meeting objectives and key results \(OKRs\). The president will set OKRs for directors, directors for managers, and managers for their team members. These OKRs will depend on the team and the position that you are in. If you are not consistently meeting these OKRs, then you are underperforming. Managers and directors will hold the responsibility of determining if someone on their team is underperforming.
+At Bit Project, we care a lot about meeting objectives and key results \(OKRs\). The president will set OKRs for directors, directors for managers, and managers for their team members. These OKRs will depend on the team and the position that you are in. If you are not consistently meeting these OKRs, then you are underperforming. Managers and directors will hold the responsibility of determining if someone on their team is underperforming. The duration of the performance improvement period and the details of the plan will be discussed on a case by case basis.
 
 {% hint style="info" %}
  Consistently not meeting OKRs = Underperforming
