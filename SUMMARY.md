@@ -10,6 +10,7 @@
   * [Code of Conduct](organization/values/code-of-conduct.md)
   * [Inclusion & Diversity](organization/values/inclusion-and-diversity/README.md)
     * [Guide to Inclusive Language](organization/values/inclusion-and-diversity/guide-to-inclusive-language.md)
+* [Diversity](organization/diversity.md)
 * [Organizational Structure](organization/organizational-structure/README.md)
   * [Team Feedback](organization/organizational-structure/team-feedback.md)
   * [Directory](organization/organizational-structure/untitled.md)
