@@ -31,6 +31,8 @@
 
 * [Developer Relations](teams/developer-relations/README.md)
   * [Introducing Workshops](teams/developer-relations/future-workshop-plan/README.md)
+    * [Workshop Blog: Stage 1](teams/developer-relations/future-workshop-plan/workshop-blog-stage-1.md)
+    * [Workshop Presentation: Stage 2](teams/developer-relations/future-workshop-plan/workshop-presentation-stage-2.md)
     * [Brainstorming a Workshop Idea](teams/developer-relations/future-workshop-plan/brainstorming-a-workshop-idea.md)
     * [Code Review Guide](teams/developer-relations/future-workshop-plan/code-review-guide.md)
     * [Managers' Responsibilities](teams/developer-relations/future-workshop-plan/managers-responsibilities/README.md)
@@ -39,7 +41,6 @@
       * [Responsibilities for Creating Your Idea](teams/developer-relations/future-workshop-plan/managers-responsibilities/responsibilities-for-creating-your-idea.md)
     * [Slide Reviews for Managers](teams/developer-relations/future-workshop-plan/slide-reviews-for-managers.md)
     * [Workshops: Choosing Your Idea](teams/developer-relations/future-workshop-plan/workshops-choosing-your-idea.md)
-    * [Workshops: Creating Your Own Idea](teams/developer-relations/future-workshop-plan/workshops-creating-your-own-idea.md)
   * [Development Roadmap](teams/developer-relations/development-roadmap/README.md)
     * [Data Science Roadmap](teams/developer-relations/development-roadmap/data-science-roadmap.md)
     * [Roadmap Topic Breakdown](teams/developer-relations/development-roadmap/roadmap-topic-breakdown.md)

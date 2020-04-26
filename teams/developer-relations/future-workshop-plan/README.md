@@ -28,37 +28,59 @@ Each pairing will be composed of two **Workshop Developers.** The two developers
 
 ## What are you delivering?
 
-1. MDX-Deck presentation slides
-2. Lab converted from slides
+A workshop development cycle will typically last five weeks, and be split into Stage 1 \(Blog\) and Stage 2 \(Presentation\).
+
+Every duo will complete Stage 1: Blog. In Stage 1, duos will first work together to come to a consensus on an original workshop idea. With that idea in hand, in the first _three weeks_, each duo will complete:
+
+1. A **blog post** that describes how to code out the idea
+2. **Code** Behind Idea
+
+ Note that the blog post will describe the code in lots of detail.
+
+After three weeks, the marketing team will edit your blog for marketing purposes and your work will be published. If your blog generates a lot of traffic, the marketing team will ask your duo to fully develop and present a workshop out of it. You will then complete the following in the next _two weeks_:
+
+1. MDX-Deck **presentation slides** on concepts
+2. **Written activity** on interactive portions
 3. A live presentation 
 
-Your presentation slides should be in MDX-Deck format. Documentation can be found here: \[TO BE DONE\]
+Your presentation slides should be in MDX-Deck format. Documentation can be found [here](https://github.com/bitprj/mdx-deck). 
 
-During the preparation of your slides, you will also work with your partner to create a lab out of your workshop.
-
-At the end of each cycle, you will hold a presentation for your manager and everyone in Bit. Presentations will be recorded and put on YouTube.
-
-Every month, each manager will **designate** **two duos** that will have their workshops marketed for technical communities around the nation. These workshops will be presented to a broader audience. 
+At the end of two weeks, your presentations will be held. They will be recorded and put on YouTube.
 
 ## Process
 
 The entire process can be found in this flow chart:
 
-![Workshop Development Process](../../../.gitbook/assets/workshop-flowchart-page-1-2.png)
+![Workshop Development Flowchart](../../../.gitbook/assets/devrel-flowchart.png)
 
 This flow chart will be explained in the following sections.
 
 ### Starting Out
 
-![Flowchart for Starting Out](../../../.gitbook/assets/workshop-flowchart-page-2%20%281%29.jpeg)
+![](../../../.gitbook/assets/devrel-flowchart-page-2.png)
 
 * [ ] Form duos
-* [ ] Pick Topic
-* [ ] Decide whether to choose existing idea \(3 weeks\) or pursue original idea \(5 weeks\)
+* [ ] Pick Idea from Airtable
 
-You and your partner must decide on a topic. Please consult our [roadmap](../development-roadmap/#current-topics-in-focus) for the current topics we are covering.
+You and your partner must decide on a topic. Please consult our [Airtable](https://airtable.com/shr12uFGnpHyIM6bU) spreadsheet of ideas. Note that each duo should pick a **dataset** of their interest, and the sample ideas are just there to help inspire ideas you may have.
 
-Also, each duo must decide whether they would like to pursue an workshop idea. By default, you can choose an idea from our pre-compiled list on Airtable. Please ask a manager to share the Airtable with you.
+Note that if you chose a dataset you are going down this path.
+
+After completing those introductory tasks above, your duo will continue with a 3 week process to produce a blog post \(Stage 1\). Click the following link to continue:
+
+{% page-ref page="workshop-blog-stage-1.md" %}
+
+Your blog will be published by the marketing team, and your duo will immediately proceed to work on another workshop. After three weeks, if your blog performs well and is picked by the marketing team as a workshop to pursue, your duo would proceed to develop a workshop based on that blog \(Stage 2\). Click the following link to continue:
+
+{% page-ref page="workshop-presentation-stage-2.md" %}
+
+### Choosing an Idea Workflow \[OUTDATED\]
+
+Note that this is an **outdated** workflow and may be continued in the future.
+
+If you _choose an idea_, your duo will follow a **3 week process** to prepare your deliverables.
+
+{% page-ref page="workshops-choosing-your-idea.md" %}
 
 ### General Slide Checklist
 
@@ -67,25 +89,9 @@ After looking into the specific requirements for the content of each individual 
 * [ ] Precise headers
 * [ ] Appropriate formatting 
 * [ ] Correct spelling, grammar, and punctuation
-* [ ] Consise text \(includes clear descriptions without tangents\)
+* [ ] Concise text \(includes clear descriptions without tangents\)
 * [ ] Smooth transitions \(includes references to previous slides, if needed\)
 * [ ] Consistent pacing \(includes significant and meaningful content\)
-
-### Creating Your Own Idea
-
-If you _create your own idea_, your duo will follow a **5 week process** to prepare your deliverables.
-
-Note that if you chose a dataset you are going down this path.
-
-{% page-ref page="workshops-creating-your-own-idea.md" %}
-
-### Choosing an Idea
-
-If you _choose an idea_, your duo will follow a **3 week process** to prepare your deliverables.
-
-{% page-ref page="workshops-choosing-your-idea.md" %}
-
-### 
 
 
 

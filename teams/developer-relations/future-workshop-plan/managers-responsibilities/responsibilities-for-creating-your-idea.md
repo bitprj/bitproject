@@ -19,7 +19,7 @@ _This checklist should have the label `weekly-dev`with a title format: \[Topic N
   * [ ] Motivation Behind Project
   * [ ] Difficulty/prior experience
   * [ ] Technologies that will be used
-* [ ] Complete "Part 1" [Slides](../workshops-creating-your-own-idea.md#part-one-idea-motivation)
+* [ ] Complete "Part 1" [Slides](../workshop-blog-stage-1.md#part-one-idea-motivation)
 * [ ] [General Slide Checklist](../#general-slide-checklist) Fulfilled
 
 ### Week 1 Checklist for Managers
@@ -80,7 +80,7 @@ This week, managers should work to ensure their feedback is aware to the devs. E
 _This checklist should have the label `weekly-dev`with a title format: \[Topic Name\] \[Project Name\] Week 3 of 5: Dev Tasks._
 
 * [ ] Fully integrate manager’s feedback on Week 2
-* [ ] Complete MDX-Deck ["Part 3"](../workshops-creating-your-own-idea.md#part-two-concepts-interactive-introduction)
+* [ ] Complete MDX-Deck ["Part 3"](../workshop-blog-stage-1.md#part-two-concepts-interactive-introduction)
   * [ ] Interactive Tutorial
   * [ ] Additional Concepts
 * [ ] Finish Code Deliverables for Week 3
@@ -114,7 +114,7 @@ Feedback should be submitted on the slides and lab as comments on your pull requ
 _This checklist should have the label `weekly-dev`with a title format: \[Topic Name\] \[Project Name\] Week 4 of 5: Dev Tasks._
 
 * [ ] Fully integrate manager’s feedback on Week 3
-* [ ] Finalize MDX-Deck Slides for ["Part 3"](../workshops-creating-your-own-idea.md#part-three-interactive-tutorial-additional-concepts)
+* [ ] Finalize MDX-Deck Slides for ["Part 3"](../workshop-blog-stage-1.md#part-three-interactive-tutorial-additional-concepts)
 * [ ] Put finishing touches on all slides for presentation
 * [ ] Convert presentation into lab format
 * [ ] Finish Code Deliverables for Week 4 \(if applicable\)
