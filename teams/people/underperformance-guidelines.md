@@ -9,16 +9,16 @@ description: >-
 
 ## What does "underperforming" mean?
 
-At Bit Project, we care a lot about meeting objectives and key results \(OKRs\). The president will set OKRs for directors, directors for managers, and managers for their team members. These OKRs will depend on the team and the position that you are in. If you are not meeting these OKRs, then you are underperforming. 
+At Bit Project, we care a lot about meeting objectives and key results \(OKRs\). The president will set OKRs for directors, directors for managers, and managers for their team members. These OKRs will depend on the team and the position that you are in. If you are not consistently meeting these OKRs, then you are underperforming. Managers and directors will hold the responsibility of determining if someone on their team is underperforming.
 
 {% hint style="info" %}
- Not meeting OKRs = Underperforming
+ Consistently not meeting OKRs = Underperforming
 {% endhint %}
 
 ## Performance Improvement Plan Timeline
 
-* **Meeting \#1:** Performance Evaluation held by your manager/director + People Experience Associate.
-  * People Experience associate then meets with Learning & Development Manager to determine the best training plan.
+* **Meeting \#1:** Performance Evaluation held by your Manager/Director + People Experience Associate.
+  * Manager/Director and People Experience associate then meets with Learning & Development Manager to determine the best training plan.
 * **Meeting \#2:** Performance Improvement Plan held by Learning & Development Manager.
   * In this meeting, the specifics of your training plan will be discussed
   * You will check off completed tasks as assigned through a Github issue.

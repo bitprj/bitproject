@@ -6,7 +6,7 @@ description: 'To create high quality work, we conduct performance reviews.'
 
 ## Purpose
 
-Performance reviews are a crucial part of keeping everyone at Bit Project in check. The president will conduct performance reviews with directors, directors with managers, and managers with their team members. Performance reviews are not only a chance to determine what you have been doing right or wrong, but it is also a way to give honest feedback to one another. These will be conducted once a month during the last week of every month. 
+Performance reviews are a crucial part of keeping everyone at Bit Project in check. The president will conduct performance reviews with directors, directors with managers, and managers with their team members. Performance reviews are not only a chance to determine what you have been doing right or wrong, but it is also a way to give honest feedback to one another. The ultimate purpose of performance reviews is to find tips on how we can help each other do better so that we can improve Bit Project as a whole. These will be conducted once a month during the last week of every month. 
 
 ## Performance Review Meeting
 
