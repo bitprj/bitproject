@@ -61,54 +61,17 @@ Developers pick an idea, and based on the subject of their idea, they are assign
 
 ![](../../../../.gitbook/assets/devrel-flowchart-page-2.png)
 
-### Devs' Checklist
-
-_This checklist should have the label `weekly-dev`with a title format: \[Topic Name\] \[Project Name\] Week 1 of \[y\]: Dev Set-Up._
-
-* [ ] Form duos
-* [ ] Pick Idea from Airtable
-
-### Managers' Checklist
-
-_This checklist should be in an issue with the label `weekly-manager` and a title format: \[Topic Name\] \[Project Name\] Week 1 of \[y\]: Manager Set-Up._
-
-#### Set-up
-
-* [ ] Set up MDX-Deck per the Code Sandbox [guide](https://about.bitproject.org/teams/developer-relations/setting-up-code-sandbox)
-* [ ] Ensure developers have Code Sandbox set up
-* [ ] Create epics for each duo's workshop on GitHub
-* [ ] Generate an **Epic issue** on bitprj/mdx-deck for your workshop with the following format: \[Topic Name\] \[Workshop Name\]\*
-  * [ ] Set label as `project`
-  * [ ] Set devs as assignees
-  * [ ] Include deadline in issue
-* [ ] Generate an **Epic** issue on `bitprj/mdx-deck` for Week 1 with the following format: \[Topic Name\] \[Workshop Name\] Week \[x\] of \[y\]
-  * [ ] Set label as `weekly`
-  * [ ] Have appropriate checklist within issue
-  * [ ] Include deadline in issue
-  * [ ] Set devs as assignees
-  * [ ] Link these epics with your project epic \(yes, epics can be linked to epics!\)
-
-\*NOTE that the onboarding team will be in charge of this later, for now managers should do this.
-
-#### Checking Devs
-
-* [ ] Ensure that they have completed the installation process
-* [ ] Finalize Topic 
-* [ ] Determine whether they will choose idea or create new idea
-
-By following this checklist, you will have set up your work environment. You should always be completing all of your work in GitHub, and be updating the Epics and issues referenced above.
-
-Your head will be periodically monitoring your project, Epics and issues.
+**Note that the set up process should have already been completed by your duo, since each duo is paired up with a manager based on the subject behind their idea.**
 
 ## Next Steps
 
-If your duo chooses an idea, they will follow a **3 week process.**
-
-{% page-ref page="responsibilities-for-choosing-your-idea.md" %}
-
-If your duo creates their own idea, they will follow a **5 week process.**
+After completing those introductory tasks above, your duo will continue with a 3 week process to produce a blog post \(Stage 1\). Click the following link to continue:
 
 {% page-ref page="responsibilities-for-creating-your-idea.md" %}
+
+Your blog will be published by the marketing team, and your duo will immediately proceed to work on another workshop. After three weeks, if your blog performs well and is picked by the marketing team as a workshop to pursue, your duo would proceed to develop a workshop based on that blog \(Stage 2\). Click the following link to continue:
+
+
 
 ## General Slide Checklist
 

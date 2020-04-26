@@ -33,9 +33,10 @@ A workshop development cycle will typically last five weeks, and be split into S
 Every duo will complete Stage 1: Blog. In Stage 1, duos will first work together to come to a consensus on an original workshop idea. With that idea in hand, in the first _three weeks_, each duo will complete:
 
 1. A **blog post** that describes how to code out the idea
-2. **Code** Behind Idea
+2. **Code** Behind Idea 
+3. A GitHub repository containing all code behind the workshop, commented with explanations
 
- Note that the blog post will describe the code in lots of detail.
+ Note that the blog post will describe the code in lots of detail, and should explain .
 
 After three weeks, the marketing team will edit your blog for marketing purposes and your work will be published. If your blog generates a lot of traffic, the marketing team will ask your duo to fully develop and present a workshop out of it. You will then complete the following in the next _two weeks_:
 
@@ -63,8 +64,6 @@ This flow chart will be explained in the following sections.
 * [ ] Pick Idea from Airtable
 
 You and your partner must decide on a topic. Please consult our [Airtable](https://airtable.com/shr12uFGnpHyIM6bU) spreadsheet of ideas. Note that each duo should pick a **dataset** of their interest, and the sample ideas are just there to help inspire ideas you may have.
-
-Note that if you chose a dataset you are going down this path.
 
 After completing those introductory tasks above, your duo will continue with a 3 week process to produce a blog post \(Stage 1\). Click the following link to continue:
 

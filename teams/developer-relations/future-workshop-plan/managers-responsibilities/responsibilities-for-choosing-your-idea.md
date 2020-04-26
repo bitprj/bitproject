@@ -1,4 +1,4 @@
-# Responsibilities for Choosing Your Idea
+# Responsibilities for Choosing Your Idea \[OUTDATED\]
 
 ## Week 1 of 3: Getting Ideas on \(MDX-Deck\) Paper
 

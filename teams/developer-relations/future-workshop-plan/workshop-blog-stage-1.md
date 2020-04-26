@@ -22,7 +22,6 @@ Please ensure you **have a solid grasp on what your idea will be** before moving
   * [ ] Difficulty/prior experience
   * [ ] Technologies that will be used
 * [ ] Complete Code Deliverables Planned for Week 1
-* [ ] [General Slide Checklist ](./#general-slide-checklist)Fulfilled
 
 **The code deliverables should be planned out week by week and should be the first item thought out for the proposal.** This is because the code is the most time-consuming part, and preparations should be made right away to start this process.  
 
@@ -61,6 +60,7 @@ Additionally, each duo should begin preparing their GitHub repository through wh
   * [ ] Concepts 
   * [ ] Code Walkthrough
   * [ ] Interactive Component
+* [ ] Blog should be written professionally and tailored for students of your subject
 * [ ] Finish Code Deliverables for Week 3
   * [ ] Update README based on additional code deliverables developed
   * [ ] Comment all GitHub code for readability
