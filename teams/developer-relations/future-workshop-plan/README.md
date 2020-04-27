@@ -65,6 +65,8 @@ This flow chart will be explained in the following sections.
 
 You and your partner must decide on a topic. Please consult our [Airtable](https://airtable.com/shr12uFGnpHyIM6bU) spreadsheet of ideas. Note that each duo should pick a **dataset** of their interest, and the sample ideas are just there to help inspire ideas you may have.
 
+{% embed url="https://airtable.com/embed/shr12uFGnpHyIM6bU/tbl0uNxZ0NmaB3OmH?backgroundColor=red&viewControls=on&blocks=hide" %}
+
 After completing those introductory tasks above, your duo will continue with a 3 week process to produce a blog post \(Stage 1\). Click the following link to continue:
 
 {% page-ref page="workshop-blog-stage-1.md" %}
