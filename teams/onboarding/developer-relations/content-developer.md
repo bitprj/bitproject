@@ -10,7 +10,7 @@ To first let us know that you are interested in joining the team, apply here: [h
 
 Daniel, the president of Bit Project, will give an introduction to Bit Project in general. No matter what team you are applying to, attendance to this webinar is required as it is a beginning stepping stone into what exactly Bit Project does.
 
-This webinar takes place every Monday at 11 a.m. PST over Zoom. You are not required to make an account, but you must download zoom which is looked below.
+This webinar takes place every Monday at 11 a.m. Pacfic Standard Time over Zoom. You are not required to make an account, but you must download zoom which is looked below.
 
 **Zoom Website:** [**https://zoom.us/**](https://zoom.us/)\*\*\*\*
 
@@ -73,7 +73,7 @@ Your manager will have to be the one to give you access to any relevant Airtable
 
 ### 6. DevRel Welcome Webinar
 
-Kevin, the director of developer relations, will provide an introduction to the team. During this meeting, you will form duos with other new members of the team to create a workshop of your choice. More details are provided in the meeting. Kevin will be hosting the welcome webinar on Zoom. The link will be emailed to you by the director. The meetings will usually be right after the general Welcome Webinar with Daniel unless specified otherwise.
+Kevin, the director of developer relations, will provide an introduction to the team. During this meeting, you will form duos with other new members of the team to create a workshop of your choice. More details are provided in the meeting. Kevin will be hosting the welcome webinar on Zoom. The link will be emailed to you by the director. The meetings will usually be every Monday right after the general Welcome Webinar with Daniel unless specified otherwise. Please make sure that you have joined our Slack workspace before attending the webinar.
 
 ### 7. Form a Duo and Submit the Airtable Form
 
