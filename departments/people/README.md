@@ -51,7 +51,7 @@ As a team, we are always trying to find new ways to improve Bit Project. We want
 | Learning & Development Associate   | VACANT |
 | People Experience Manager  | VACANT  |
 | People Experience Associate  | @Winnie  |
-| Diversity and Inclusion Associate  | @Lily Hem |
+| Diversity and Inclusion Associate  | VACANT |
 | Onboarding Manager  | @Minh-Tu Nguyen |
 | Onboarding Experience Associate  | VACANT  |
 
