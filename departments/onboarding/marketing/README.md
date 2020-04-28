@@ -173,7 +173,7 @@ There are three webinars that you must watch: Communication, Culture, and GitHub
 
 #### Growth Marketing Team - HubSpot Task
 
-You must create an account and once you do, we will grant you access to the Bit Project HubSpot. Learn how to use this platform through the HubSpot guide which can be found here: [Airtable & HubSpot](../../marketing/growth-marketing/airtable-and-hubspot.md).
+You must create an account and once you do, we will grant you access to the Bit Project HubSpot. Learn how to use this platform through the HubSpot guide which can be found here: [Airtable & HubSpot](../../marketing/how-tos/airtable-and-hubspot.md).
 
 This must be completed within 3 days of granted access.
 

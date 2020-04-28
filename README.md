@@ -27,7 +27,7 @@ We make software engineering and computer science education accessible to studen
 
 ## Developer Relations
 
-[Development Road Map](teams/developer-relations/development-roadmap/)
+[Development Road Map](departments/developer-relations/development-roadmap/)
 
 **Programs Offered**
 
@@ -36,19 +36,19 @@ We make software engineering and computer science education accessible to studen
 
 **Curriculum Departments**
 
-* \*\*\*\*[Cracking the Interview](teams/developer-relations/teams/cracking-the-interview.md)
-* [Data Science](teams/developer-relations/teams/data-science/)
+* \*\*\*\*[Cracking the Interview](departments/developer-relations/teams/cracking-the-interview.md)
+* [Data Science](departments/developer-relations/teams/data-science/)
   * Computational Social Science
   * Machine Learning
-* [Frontend Engineering](teams/developer-relations/teams/frontend-engineering/)
-* [API Development/Microservices ](teams/developer-relations/teams/api-development-microservices.md)
-* [Blockchain](teams/developer-relations/teams/blockchain.md)
+* [Frontend Engineering](departments/developer-relations/teams/frontend-engineering/)
+* [API Development/Microservices ](departments/developer-relations/teams/api-development-microservices.md)
+* [Blockchain](departments/developer-relations/teams/blockchain.md)
 * **Engineering**
 
 Documentation
 
-* [README Formats](teams/engineering/readme-formats.md)
-* [Curriculum Folder Structure](teams/engineering/curriculum-folder-structure.md)
+* [README Formats](departments/engineering/readme-formats.md)
+* [Curriculum Folder Structure](departments/engineering/curriculum-folder-structure.md)
 
 ## Marketing
 
