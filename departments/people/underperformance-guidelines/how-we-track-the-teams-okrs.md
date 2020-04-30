@@ -2,13 +2,13 @@
 
 ## Overview
 
-Every Friday, the Learning and Development team will be checking the status of assigned OKRs. Even though we will be enforcing these rules, managers and directors will be responsible for ensuring that their team members are meeting the OKRs that they have set for them.
+Every Friday, the Learning and Development team will be checking the status of assigned OKRs. Managers and Directors will be responsible for ensuring that their team members are meeting the OKRs that they have set for them. The Learning and Development Manager will specifically be keeping track of Managers and Director's OKRs.
 
 ### Collecting Data and Insights
 
 During our review on Fridays, we will review all OKRs and calculate the percentage of completed OKRs. There will be a total of four reports, one for each team: Engineering, Developer Relations, People, and Marketing. For each team, we will break down percentages into four categories: Director's OKRs, all Manager's OKRs, all team member's OKRs, and the entire's team's OKRs. These reports will be sent out to the President and the respective Director by Saturday at the latest. For each missed OKR, we will write suggestions on how to better achieve it next time. 
 
-### Setting up meetings with L&D
+### How L&D enforces meeting OKRs
 
 If we consistently notice that a certain Director, Manager, or team member is underperforming, we will have them go through underperformance training to bring them back on track.
 
