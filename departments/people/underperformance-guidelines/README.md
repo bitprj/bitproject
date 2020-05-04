@@ -17,15 +17,19 @@ At Bit Project, we care a lot about meeting objectives and key results \(OKRs\).
 
 ## Performance Improvement Plan Timeline
 
-* **Meeting \#1:** Performance Evaluation held by the Manager/Director + Learning and Development Manager
+* **Meeting \#1:** 
+  * Manager/Director + Learning and Development Manager will hold this meeting
   * L&D Manager will then create a structured training plan 
-* **Meeting \#2:** Performance Improvement Plan held by Learning & Development Manager.
+* **Meeting \#2:** 
+  * Performance Improvement Plan held by Learning & Development Manager
   * In this meeting, the specifics of the training plan will be discussed
-  * Individual will check off completed tasks through an assigned Github issue.
-* **Meeting \#3:** Follow up with Learning & Development Manager.
+  * Individual will check off completed tasks through an assigned Github issue
+* **Meeting \#3:** 
+  * Follow up with Learning & Development Manager
   * This meeting will occur halfway through your training program
-* **Meeting \#4:** Final Evaluation with your manager/director + L&D Manager.
-  * This meeting will occur after you finish all your assigned tasks.
+* **Meeting \#4:** 
+  * Final Evaluation with your manager/director + L&D Manager
+  * This meeting will occur after you finish all your assigned tasks
 
 If you have completed all tasks and have demonstrated significant improvement, you will be welcomed back onto the team!
 
