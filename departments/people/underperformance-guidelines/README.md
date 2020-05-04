@@ -19,17 +19,23 @@ At Bit Project, we care a lot about meeting objectives and key results \(OKRs\).
 
 * **Meeting \#1:** 
   * Manager/Director + Learning and Development Manager will hold this meeting
+  * In the meeting, Manager/Director will be responsible for identifying which areas the individual is underperforming
   * L&D Manager will then create a structured training plan 
 * **Meeting \#2:** 
-  * Performance Improvement Plan held by Learning & Development Manager
+  * Performance Improvement Plan meeting held by Learning & Development Manager
   * In this meeting, the specifics of the training plan will be discussed
   * Individual will check off completed tasks through an assigned Github issue
 * **Meeting \#3:** 
   * Follow up with Learning & Development Manager
   * This meeting will occur halfway through your training program
+  * At the end of the performance improvement plan, L&D Manager will communicate their performance over to Manager/Director
 * **Meeting \#4:** 
-  * Final Evaluation with your manager/director + L&D Manager
-  * This meeting will occur after you finish all your assigned tasks
+  * Held by Manager/Director + L&D Manager
+  * Will discuss overall performance improvement plan and get feedback
+  * If individual performed well, we'll welcome back the individual in this meeting
+    * Manager/Director will explain steps to smoothly re-enter their team
+  * If individual performed poorly, we'll off-board the individual in this meeting
+    * L&D Manager will remove them from all Bit Project communication
 
 If you have completed all tasks and have demonstrated significant improvement, you will be welcomed back onto the team!
 
