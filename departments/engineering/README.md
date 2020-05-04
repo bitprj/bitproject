@@ -2,7 +2,7 @@
 
 {% api-method method="get" host="https://darlene-backend.herokuapp.com/" path="activities/{{activity\_id}}" %}
 {% api-method-summary %}
-FetchActivity
+
 {% endapi-method-summary %}
 
 {% api-method-description %}
