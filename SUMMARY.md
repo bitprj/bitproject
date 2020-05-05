@@ -106,6 +106,7 @@
 * [People](departments/people/README.md)
   * [Performance Reviews](departments/people/performance-reviews.md)
   * [Underperformance Guidelines](departments/people/underperformance-guidelines/README.md)
+    * [Objectives and Key Results](departments/people/underperformance-guidelines/objectives-and-key-results.md)
     * [How we track the team's OKRs](departments/people/underperformance-guidelines/how-we-track-the-teams-okrs.md)
   * [Transitioning to a manager role](departments/people/transitioning-to-a-manager-role.md)
   * [Roles](departments/people/roles/README.md)
