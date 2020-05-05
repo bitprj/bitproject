@@ -15,6 +15,7 @@
   * [Team Feedback](organization/organizational-structure/team-feedback.md)
   * [Directory](organization/organizational-structure/untitled.md)
 * [Communication](organization/communication/README.md)
+  * [24 Hour Rule](organization/communication/24-hour-rule.md)
   * [Team Feedback](organization/communication/team-feedback.md)
   * [How to Set Up and Use Calendly](organization/communication/how-to-set-up-and-use-calendly.md)
 * [GitHub Basics](organization/github/README.md)
