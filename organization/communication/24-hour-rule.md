@@ -13,8 +13,14 @@ Due to past miscommunications issues, Bit Project will be enforcing a 24 hour ru
 
 ## Who will enforce this rule?
 
-In terms of the process, the managers will be overseeing this rule. If a member does not reply to other members within 24 hours, they will receive one strike from the manager. With 3 strikes, the member will unfortunately be offboarded from Bit Project by the manager. Offboarding indicates that you are no longer part of Bit Project. The managers will notify you with every strike you receive. After every strike, the manager will reach out to the member for a 1:1 to understand the situation and context for your absent communication. We understand that life can be extremely complicated and there are other responsibilities present. All we ask is for a two-way communication. This initiative is meant to promote collaboration, communication, and understanding.  
+In terms of the process, the managers will be overseeing this rule. If a member does not reply to other members within 24 hours, they will receive one strike from the manager. With 3 strikes, the member will unfortunately be offboarded from Bit Project by the manager. Offboarding indicates that you are no longer part of Bit Project. The managers will notify you with every strike you receive. After every strike, the manager will reach out to the member for a 1:1 to understand the situation and context for your absent communication. We understand that life can be extremely complicated and there are other responsibilities present. All we ask is for a two-way communication. This initiative is meant to promote collaboration, communication, and understanding.
 
+
+
+### **TO REPORT AN INCIDENT PLEASE USE THIS FORM:** 
+
+Please use this form link here to report a violation of the 24 hour rule: [https://airtable.com/shryHn1qIT15XqpbQ](https://airtable.com/shryHn1qIT15XqpbQ)  
+****
 
 ## Overview of 24 Hour Rule
 
