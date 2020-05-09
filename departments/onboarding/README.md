@@ -60,6 +60,31 @@ Feedback Form: [https://airtable.com/shrZQWKGzLhUk1UvK](https://airtable.com/shr
 
 If you have any more questions about onboarding, the links below have more specific information about your particular position.
 
+### Difference between Onboarding 1:1 and Weekly 1:1 Meeting
+
+The Objective of the **Onboarding 1:1 Meeting** is to have the new member learning about the team and have them staying aligned with other team members as soon as possible.   
+During the meeting managers will:
+
+1. Introduce the team to the new member, including the project they are working on currently, and any specific rule the new member needs to know.
+2. Run through the expectations, goals and workflow with the new member.
+3. Introduce the responsibilities for new members after onboarding.
+4. Answer any questions new members might have & receive any feedback.
+
+The Objective of the **Weekly 1:1 Meeting** is to build a trusting relationship and stay informed and aligned with each other.   
+Especially since we are a remote club that has different students across the nation, it is extremely important that:
+
+* We are able to share our ideas and concerns.
+* Ensure that we remain on the same page.
+* Stay engaged and meet our goals.
+* Have the opportunity to work together to find ways to be more successful. 
+
+During the weekly 1:1 Meeting:
+
+1. Discuss any accomplishment after last met.
+2. Talk about feelings about the work, satisfying and frustrations.
+3. Providing mutual feedback to help each other grow.
+4. Discuss any issues and obstacles noticed & solutions
+
 ## Developer Relations
 
 {% page-ref page="developer-relations/manager.md" %}
