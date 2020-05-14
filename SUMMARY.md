@@ -122,6 +122,7 @@
     * [How to Format Curriculum into Slides](departments/people/recruitment/how-to-format-curriculum-into-slides.md)
     * [How to Be a Volunteer Lead](departments/people/recruitment/how-to-be-a-volunteer-lead.md)
     * [General Event Volunteer Training](departments/people/recruitment/general-event-volunteer-training.md)
+  * [Filing Diversity & Inclusion Reports](departments/people/untitled.md)
 * [Engineering](departments/engineering/README.md)
   * [Database Models](departments/engineering/database-models.md)
   * [Backend vs CDN](departments/engineering/backend-vs-cdn.md)
