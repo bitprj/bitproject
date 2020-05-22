@@ -16,5 +16,5 @@ By this week, the developer duo should be done with the first draft of Part Two 
 
 #### Week Four
 
-For the final week, the developer duo should be finished with the first draft of Part Three slides and the final draft of Part Two slides. The manager will finalize Part Two slides, and to perform a quality assurance check on Part Three slides, the manger should ensure checkpoint and concepts, run through the lab to check that the lac is completely functional, and raise any potential questions that students may have while interacting with the lab. By the end of this week, the workshop should be completely finalized and ready to be presented.
+For the final week, the developer duo should be finished with the first draft of Part Three slides and the final draft of Part Two slides. The manager will finalize Part Two slides, and to perform a quality assurance check on Part Three slides, the manger should ensure checkpoint and concepts, run through the lab to check that the lab is completely functional, and raise any potential questions that students may have while interacting with the lab. By the end of this week, the workshop should be completely finalized and ready to be presented.
 
